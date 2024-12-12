@@ -1,6 +1,5 @@
 Localisation,Superficie,Chambres,Type de bien,Prix,Salles de bains
 Nabeul,100,2,Appartement,195000.0,1
-Sousse,,,Maison,,1
 Monastir,460,5,Villa,520000.0,2
 Ben Arous,58,1,Appartement,150000.0,1
 Ben Arous,90,1,Appartement,125000.0,1
@@ -42,11 +41,9 @@ Ariana,265,4,Appartement,655000.0,3
 Ariana,40,1,Appartement,244000.0,1
 Ariana,50,1,Appartement,244000.0,1
 Ariana,1750,1,Appartement,244000.0,1
-Ben Arous,20000,25,Maison,,13
 Ariana,130,3,Appartement,365000.0,1
 Ariana,80,1,Appartement,50000.0,1
 Nabeul,300,5,Appartement,720000.0,5
-Mahdia,,,Appartement,,1
 Sousse,180,4,Villa,440.0,1
 Ariana,350,350,Appartement,380.0,350
 Tunis,180,3,Appartement,445000.0,1
@@ -171,9 +168,7 @@ Ben Arous,122,2,Appartement,230000.0,2
 Nabeul,110,1,Appartement,149997.0,1
 Nabeul,136,2,Appartement,435700.0,1
 Tunis,65,1,Appartement,227000.0,1
-Ben Arous,220,6,Villa,,2
 Ben Arous,70,2,Appartement,115000.0,1
-Nabeul,180,,Appartement,,3
 Sousse,70,1,Appartement,240000.0,1
 Sousse,146,3,Appartement,390000.0,3
 Sousse,76,2,Appartement,279000.0,1
@@ -317,16 +312,9 @@ Tunis,50,1,Appartement,167000.0,1
 Ariana,129,1,Appartement,410000.0,0
 Ariana,230,5,Villa,740000.0,0
 Ben Arous,220,4,Appartement,269000.0,2
-Tunis,,2,Appartement,330000.0,1
-Tunis,,4,Appartement,390000.0,1
 Ariana,1274,1,Appartement,2500000.0,8
 Tunis,131,2,Appartement,590000.0,3
 Ariana,100,3,Appartement,250000.0,1
-Ariana,,3,Appartement,780000.0,1
-Tunis,,2,Appartement,,1
-Ariana,,2,Appartement,360000.0,1
-Tunis,,1,Appartement,171000.0,1
-Ariana,,3,Appartement,650000.0,1
 Ben Arous,65,1,Appartement,165000.0,1
 Nabeul,70,1,Appartement,270000.0,1
 Ben Arous,200,3,Villa,350000.0,1
@@ -340,15 +328,9 @@ Ariana,200,3,Appartement,400000.0,1
 Nabeul,800,4,Villa,1050000.0,4
 Tunis,750,5,Villa,3500000.0,4
 Tunis,134,3,Appartement,310000.0,1
-Ariana,,2,Appartement,250000.0,1
-Tunis,,2,Appartement,390000.0,3
 Nabeul,620,4,Villa,720000.0,4
 Nabeul,600,4,Villa,830000.0,4
-Tunis,,0,Appartement,167000.0,1
 Tunis,110,3,Appartement,1400.0,1
-Tunis,,1,Appartement,171000.0,1
-Tunis,,1,Appartement,185000.0,1
-Tunis,,2,Appartement,225000.0,1
 Tunis,59,1,Appartement,234000.0,0
 Tunis,69,2,Appartement,250000.0,1
 Ariana,129,2,Appartement,364000.0,1
@@ -360,7 +342,6 @@ Tunis,155,3,Appartement,294998.0,0
 Tunis,220,3,Appartement,5500.0,2
 Nabeul,119,4,Appartement,440300.0,2
 Ariana,208,4,Appartement,980000.0,3
-Sousse,10500,8,Appartement,,8
 Sousse,587,9,Villa,1050000.0,4
 Sousse,150,4,Appartement,900000.0,3
 Nabeul,0,1,Appartement,270000.0,1
@@ -377,7 +358,6 @@ Ben Arous,52,1,Appartement,138000.0,1
 Sousse,500,10,Appartement,99.0,4
 Sousse,1000,5,Appartement,160.0,2
 Sousse,63,2,Appartement,107100.0,1
-Ben Arous,420,10,Villa,,2
 Sousse,96,2,Appartement,163200.0,0
 Sousse,133,5,Appartement,226100.0,0
 Nabeul,120,3,Appartement,500000.0,2
@@ -391,7 +371,6 @@ Tunis,50,1,Appartement,169000.0,1
 Sousse,1000,1,Appartement,220000.0,0
 Sfax,150,3,Appartement,360000.0,2
 Nabeul,319,4,Villa,1200000.0,5
-Nabeul,550,9,Villa,,4
 Ben Arous,1,1,Appartement,150.0,1
 Tunis,118,2,Villa,350000.0,2
 Tunis,68,1,Appartement,1000.0,1
@@ -451,7 +430,6 @@ Tunis,139,3,Appartement,285000.0,2
 Sousse,80,3,Appartement,210000.0,1
 Ariana,134,3,Appartement,580000.0,2
 Médenine,220,4,Villa,380000.0,1
-Ariana,420,9,Villa,,3
 Tunis,139,3,Appartement,285000.0,2
 Tunis,649,9,Villa,1180000.0,4
 Sousse,165,3,Appartement,420000.0,3
@@ -493,7 +471,6 @@ Tunis,120,2,Maison,130000.0,1
 Ben Arous,540,7,Villa,690000.0,4
 Nabeul,385,6,Villa,1250000.0,3
 Sfax,600,1,Appartement,950000.0,1
-Nabeul,,1,Appartement,300500.0,1
 Tunis,80,2,Appartement,325000.0,1
 Sfax,800,4,Appartement,229998.0,2
 Tunis,400,6,Appartement,650000000.0,2
@@ -529,8 +506,6 @@ Tunis,68,1,Appartement,157000.0,1
 Ariana,459,4,Villa,1500000.0,2
 Ariana,426,4,Villa,790000.0,1
 Tunis,100.5,2,Appartement,558000.0,1
-Ariana,,2,Appartement,364000.0,1
-Ariana,,3,Appartement,580000.0,1
 Sousse,62.14,1,Appartement,260000.0,1
 Sousse,83,1,Appartement,465000.0,1
 Sousse,64.5,1,Appartement,265000.0,1
@@ -556,20 +531,12 @@ Nabeul,99.79,2,Appartement,405000.0,2
 Nabeul,82.45,2,Appartement,390000.0,1
 Nabeul,102.97,2,Appartement,470000.0,2
 Nabeul,103.51,3,Appartement,455000.0,2
-Ariana,,3,Villa,580000.0,1
 Ariana,354.07,4,Villa,980000.0,1
-Sousse,118.45,2,Appartement,,1
-Sousse,138.92,3,Appartement,,1
-Sousse,118.45,2,Appartement,,1
 Sousse,118.45,2,Appartement,287500.0,1
 Ben Arous,116.73,2,Appartement,291.0,1
 Sousse,139.86,3,Appartement,389999.5,1
 Ben Arous,125.9,2,Appartement,313.0,1
 Ben Arous,125.86,2,Appartement,318.0,1
-Tunis,,,Villa,,1
-Tunis,,1,Appartement,171000.0,1
-Tunis,,3,Appartement,337500.0,1
-Tunis,,2,Appartement,330000.0,1
 Tunis,70,1,Appartement,334000.0,1
 Tunis,111.2,2,Appartement,495000.0,1
 Tunis,99.33,2,Appartement,437000.0,1
@@ -670,7 +637,6 @@ Nabeul,169.76,3,Appartement,400000.0,1
 Nabeul,169.76,3,Appartement,400000.0,1
 Sfax,107.46,1,Appartement,198801.0,1
 Sfax,149.85,2,Appartement,277223.0,1
-Sfax,,2,Appartement,286269.0,1
 Sfax,125.8,2,Appartement,232730.0,1
 Sfax,183.21,3,Appartement,338939.0,3
 Sfax,202.79,3,Appartement,375162.0,3
