@@ -68,11 +68,11 @@ Ariana,S+3,300,3,,a vendre une villa S+3 avec piscine a la soukra,À Vendre,9600
 Tunis,,61,1,,a vendre s+1 s+2 nouvelle soukra haut standing,À Vendre,,1
 Monastir,,47,1,,Studio de Haut Standing avec Vue sur Mer,À Vendre,200000,1
 Tunis,,False,False,,ادواش عمومية للبيع,False,,False
-Ariana,,85,02,,Location courte durée S1 luxueux appartement meublé à Ariana:Enasr Tél & WhatsApp 55128585,À Louer,100,01
+Ariana,,85,2,,Location courte durée S1 luxueux appartement meublé à Ariana:Enasr Tél & WhatsApp 55128585,À Louer,100,1
 Ariana,S+2,151,2,,Alouer un appartement en S+2 à Jardins Menzah 2,À Louer,1350,2
-Ariana,S+1,80,2,,A Louer Par Jour /Nuitée S+1 Studio Meublé à Cité Ennasr  20011113,À Louer,70,01
+Ariana,S+1,80,2,,A Louer Par Jour /Nuitée S+1 Studio Meublé à Cité Ennasr  20011113,À Louer,70,1
 Ariana,S+3,188,3,,A VENDRE DUPLEX S+3  NEUF À CHOTRANA 1,À Vendre,830000,2
-Ariana,,1800,00,,À VENDRE VILLA  CÔTÉ Chotrana 3,À Vendre,2000,00
+Ariana,,1800,0,,À VENDRE VILLA  CÔTÉ Chotrana 3,À Vendre,2000,0
 Tunis,,55,1,,Joli appart S1 bien meublé Jardins l'aouina,À Louer,950,1
 Ariana,,227,4,,A VENDRE VILLA JUMELÉE À SOUKRA,À Vendre,970000,2
 Tunis,,111,1,,à louer appartement studio meublé location par jour nuitée,À Louer,70,1
@@ -257,7 +257,7 @@ Ariana,,120,2,,a louer s+2 très haut standing a Riadh l'andalous,À Louer,1200,
 Ben Arous,,204,0,,دار للبيع,À Vendre,135000,0
 Nabeul,,False,False,,Terrain agricole 14280 m²  à Kelibia,False,1000000,False
 Nabeul,,False,False,,Terrain à vendre,False,500,False
-Ariana,,110,03,,REZ DE CHAUSSE D'UNE VILLA A BORJ LOUZIR,À Louer,600,01
+Ariana,,110,3,,REZ DE CHAUSSE D'UNE VILLA A BORJ LOUZIR,À Louer,600,1
 Ben Arous,,120,5,,A Vendre Maison Mourouj 4 deux étages indépendant,À Vendre,,2
 Sousse,,61.5,1,,Des appartements neufs à vendre - Kantaoui Sousse,À Vendre,255000,1
 Ben Arous,S+2,77,2,,A Vendre Appartement Rdc  S+2 Mourouj 5,À Vendre,,1
@@ -312,22 +312,22 @@ Monastir,,60,1,,S plus Un standing pour bureau,À Louer,450,1
 Bizerte,,False,False,,Terrain à vendre à Manzel Jemil Bizerte,False,90300,False
 Monastir,,75,2,,A vendre s plus deux,À Vendre,150000,1
 Bizerte,,120,2,,appartement à vendre à oued l marj Bizerte,À Vendre,97000,1
-Monastir,,60,1,,Location S plus 1 haut standing courte et moyenne période,À Louer,888888888888888,1
+Monastir,,60,1,,Location S plus 1 haut standing courte et moyenne période,À Louer,8.88889E+14,1
 Ariana,S+3,228,3,,A VENDRE S+3 D'UN SUPERFICIE 228 M² À CHOTRANA,À Vendre,630000,2
 Monastir,,100,2,,Location S plus 2 haut standing courte et moyenne période,À Louer,8888888886,1
 Monastir,,False,False,,"un terrain agricole El Basatine ""Sakkoui""",False,300000,False
 Monastir,,102,2,,Appartement à  Vendre à l'R6,À Vendre,170000,1
 Monastir,,64,1,,S plus un à frina,À Vendre,125000,1
-Tunis,,100.0,2.0,,A louer appartements meublés par nuitée ou mensuel,À Louer,80,1.0
+Tunis,,100,2,,A louer appartements meublés par nuitée ou mensuel,À Louer,80,1
 Tunis,S+2,123,2,,A LOUER S+2 – JARDINS DE CARTHAGE – TEL 56306032 – FB.2109,À Louer,2198,1
 Monastir,,350,4,,Une semaine dans une belle villa meublée,À Louer,1400,3
 Monastir,,120,2,,Un Appart meublé à la zone touristique,À Louer,1300,1
 Monastir,,100,2,,Bureau à Louer – 100 m² – Monastir Centre-Ville,False,1200,2
 Tunis,S+2,102,2,,A VENDRE S+2 – BHAR LAZREK – TEL 56306032 – FB.7149,À Vendre,349999,1
-Monastir,,203,02,,Maison indépendante à vendre à Téboulba,À Vendre,125000,01
+Monastir,,203,2,,Maison indépendante à vendre à Téboulba,À Vendre,125000,1
 Monastir,,False,False,,"Immeuble semi-inachevé à Chraf, à 2 pas de la mer",False,400000,False
 Tunis,S+3,138,3,,A VENDRE S+3 – CITE WAHAT – TEL 53672333– FB.6214,À Vendre,290000,2
-Monastir,,219,01,,Maison indépendante proche de la mer en vente,À Vendre,174999,01
+Monastir,,219,1,,Maison indépendante proche de la mer en vente,À Vendre,174999,1
 Monastir,,208,5,,Villa proche de la mer à vendre,À Vendre,315000,3
 Monastir,,1970,6,,Local commercial sur la route principal,À Louer,4000,1
 Tunis,,100,3,,maison avendre,À Vendre,,2
@@ -342,7 +342,7 @@ Ariana,,127,2,,Bureau H+2 à La Soukra,À Louer,1350,1
 Tunis,,1202,2,,Location immeuble bureautique au Lac 1,À Louer,40000,6
 Ariana,S+1,67,1,,Vente appartement S+1 à Riadh Landalous,À Vendre,195000,1
 Ariana,S+4,1500,4,,A louer villa S+4 avec spacieux jardin.,À Louer,3800,2
-Tunis,,100.0,2.0,,s2 meublée l'aouina,À Louer,1300,2.0
+Tunis,,100,2,,s2 meublée l'aouina,À Louer,1300,2
 Ariana,,80,1,,cabinet médical à riadh El andalouse,À Louer,1000,1
 Tunis,,300,5,,restaurant lac 1,À Louer,15000,4
 Tunis,,200,3,,appartement S3 Marsa plage,À Louer,3000,2
@@ -606,7 +606,7 @@ Ben Arous,,2600,1,,Site industriel à vendre dans la Z. I de Mghira,À Vendre,3,
 Tunis,S+3,145,3,,A vendre  S+3 haut standing à cité Wahat,À Vendre,360000,2
 Tunis,,70,False,,Vente de Locaux Commerciaux à Ain Zaghoune Nord,À Vendre,416500,0
 Ariana,,212,False,,Vente de Locaux Commerciaux avec Mezzanine à Soukra !,False,1272000,0
-Tunis,,76.10,False,,A Louer - Locaux Commerciaux de Standing à Jardin de Carthage,À Louer,38050,2
+Tunis,,76.1,False,,A Louer - Locaux Commerciaux de Standing à Jardin de Carthage,À Louer,38050,2
 Tunis,,100,False,,Vente de Fond de Commerce - Fast Food à Aouina,À Vendre,320000,1
 Sousse,,81.2,False,,Vente de Locaux Commerciaux à Sousse,À Vendre,193256,0
 Tunis,,65,False,,Location d’un Local Commercial à L’Aouina,À Louer,4000,0
@@ -650,16 +650,16 @@ Ben Arous,,40,2,,**Annonce : Recherche colocataire**,À Louer,203,1
 Ben Arous,,40,1,,LOCAL 40M2 A EZZAHRA,À Louer,1700,1
 Ben Arous,,110,3,,appartement s+3 à vendre à boumhel,À Vendre,200000,2
 Ben Arous,S+2,85,3,,APPART S+2 A EZZAHRA LOULIJA,À Louer,850,1
-Tunis,,00,1,,À vendre Une pharmacie,À Vendre,,00
-Tunis,,3000,00,,Immeuble à louer lac 3,À Louer,,00
+Tunis,,0,1,,À vendre Une pharmacie,À Vendre,,0
+Tunis,,3000,0,,Immeuble à louer lac 3,À Louer,,0
 Ariana,S+3,188,3,,À vendre Duplex S+3 Neuf à CHOTRANA 1,À Vendre,830000,2
-Tunis,,700,00,,À vendre une villa/cité les pins Marsa,À Vendre,1900000,00
+Tunis,,700,0,,À vendre une villa/cité les pins Marsa,À Vendre,1900000,0
 Tunis,S+2,117,2,,A vendre appartement S+2 haut standing à cité Wahat,À Vendre,285000,1
 Ariana,,False,False,,Terrain  à  Vendre Chotrana 2,False,1000,False
 Ariana,,False,False,,Terrain pour promotion,False,,False
 Ariana,S+2,140,2,,Un appartement en S+2 POUR LOCATION /LA SOUKRA,À Louer,1600,2
 Ben Arous,,600,5,,À vendre Villa mourouj 4,À Vendre,,4
-Ariana,,00,00,,À louer centre de contact,À Louer,27000,00
+Ariana,,0,0,,À louer centre de contact,À Louer,27000,0
 Ben Arous,,120,2,,OPEN SPACE 120M2 A EZZAHRA,À Louer,1800,1
 Ben Arous,,55,2,,STUDIO S1 MEUBLE A EZZAHRA,À Louer,90,1
 Sfax,,False,False,,ارض للبيع في صفاقس طريق الافران,False,,False
@@ -1001,7 +1001,7 @@ Sousse,S+2,90,2,,Standing S+2  Meublé à Chatt El Kantaoui,À Louer,1500,2
 Sousse,,870,6,,Villa Haut Standing El Kantaoui,False,3100000,8
 Sousse,,160,3,,Duplex à Monte Carlo H -Sousse,À Louer,1700,3
 Sousse,S+4,150,4,,S+4 à Port El Kantaoui,À Vendre,900000,3
-Nabeul,,00,1,,haut standing hammamet a vendre,À Vendre,270000,1
+Nabeul,,0,1,,haut standing hammamet a vendre,À Vendre,270000,1
 Sousse,,100,2,,un joli appartement s+2 haut gamme haut standing,À Louer,1100,2
 Ben Arous,S+3,1200,4,,Appartement S+3 Mourouj 3,À Louer,700,1
 Tunis,,60,1,,studio au kram,À Louer,50,1
@@ -1080,8 +1080,8 @@ Ben Arous,,75,2,,appartement lieu strategique,À Vendre,140,1
 Ben Arous,S+1,60,2,,"Studio S+1 60m2 , SB , cuisine",À Louer,,1
 Tunis,S+2,104,2,,S+2 meublé Proche lac2 pr étranger à l'année jardins l'aouina,À Louer,1250,1
 Nabeul,S+4,450,4,,Villa S+4 meublée d'environ 650m² à Yasmine Hammamet,À Louer,4500,4
-Nabeul,S+2,00,2,,S+2 meublé pour location annuelle à la plage de Beni-khiar disponible,À Louer,700,1
-Ben Arous,S+2,80.0,2.0,,Apparemment S+2 à El Mourouj 5,À Vendre,120000,1.0
+Nabeul,S+2,0,2,,S+2 meublé pour location annuelle à la plage de Beni-khiar disponible,À Louer,700,1
+Ben Arous,S+2,80,2,,Apparemment S+2 à El Mourouj 5,À Vendre,120000,1
 Tunis,,209,4,,S4 meublé Neuf proche lac2 pr étranger à l'année,À Louer,2200,2
 Sousse,,100,2,,Appartement à louer,À Louer,400,1
 La Manouba,S+2,100,2,,Appartement S+2 DIRECT PROMOTEUR,À Vendre,260000,1
@@ -1148,7 +1148,7 @@ Sousse,,140,2,,Maison  à  Cité Riadh  Ouvre sur deux  Façades,À Vendre,15500
 Monastir,,False,False,,avendre scooteur pista vcx 110 cc,False,3000,False
 Sousse,S+2,116,2,,(S+2) Jamais Habité à Sahloul 4  avec Place de Parking au Sous Sol,À Louer,1250,1
 Sousse,,334,14,,"Résidence dispose de 11 Appartements  à Chatt Mariem, Prés de la Mer",À Vendre,1050000,11
-Tunis,S+2,90,03,,Appartement S+2 à vendre,À Vendre,110000,01
+Tunis,S+2,90,3,,Appartement S+2 à vendre,À Vendre,110000,1
 Ben Arous,S+3,81,3,,S+3 en vente,À Vendre,175000,1
 Ben Arous,S+3,133,2,,S+3 en location,À Louer,1300,2
 Tunis,S+4,220,3,,A vendre Appartement S+4 aux jardins de carthage,À Vendre,,2
@@ -1409,7 +1409,7 @@ Tunis,,329,7,,à louer un étage bureautique à Cité Jardins,À Louer,5000,1
 Nabeul,,110,2,,Appartement Bousten RDC 2,À Louer,1600,1
 Nabeul,,30,1,,Studio Nice 0,À Louer,110,1
 Ariana,S+2,70,3,,a vendre appartement S+2 papier en règle,À Louer,600,1
-Sfax,,220.0,4.0,,Maison à vendre Sfax,sale,,1.0
+Sfax,,220,4,,Maison à vendre Sfax,sale,,1
 Ariana,S+2,70,3,,a vendre appartement S+2 papier en règle,À Louer,600,1
 Ben Arous,,False,False,,Posset,False,250,False
 Nabeul,,245,False,,Vente Fond de Commerce,À Vendre,185000,False
@@ -1434,7 +1434,7 @@ Ben Arous,S+2,80,3,,Un appartement à vendre S+2 entre mourouj 5 et 6 tel 998116
 Ariana,,530,6,,Grande villa à vendre prés de technopole Ariana route jaafir tel 99811625/54811627,À Vendre,450000,3
 Sousse,,2,3,,appartement s+3 à louer à sahloul -sousse .,À Louer,1500,2
 Ben Arous,S+3,115,4,,un vaste appartement S+3 à vendre en face Monoprix tel 99811625/54811627,À Vendre,140000,1
-Ariana,,68.0,3.0,,appartement a louer NOOR JAAFER,À Louer,600,1.0
+Ariana,,68,3,,appartement a louer NOOR JAAFER,À Louer,600,1
 Nabeul,,95,1,,Appartements à cité Ezzouhour Kelibia,À Vendre,140000,1
 Tunis,,140,2,,A #vendre un appartement s+2 à Ain Zaghouan nord,À Vendre,450000,1
 Tunis,,1,2,,A louer un  s+2 meublé à  Ain Zaghouan,À Louer,1650,1
@@ -1495,11 +1495,11 @@ Nabeul,S+2,101.62,2,Appartement,"A vendre un appartement S+2  de 101,62 m²  au 
 Nabeul,S+3,108.21,3,Appartement,"A vendre un appartement S+3  de 108,21 m²  au 4éme étage",À Vendre,500000,2
 Nabeul,S+2,112.75,2,Appartement,"A vendre un appartement S+2  de 112,75 m²  au 4éme étage",À Vendre,575000,2
 Nabeul,S+3,103.37,3,Appartement,"A vendre un appartement S+3 de 103,37 m²  au 4éme étage",À Vendre,465000,2
-Ariana,,355.20,4,Villa,Une Villa de 355.20m²,À Vendre,,False
+Ariana,,355.2,4,Villa,Une Villa de 355.20m²,À Vendre,,False
 Ariana,,367.64,4,Villa,Une Villa de 367.64m²,À Vendre,,False
 Sousse,S+2,94.16,2,Appartement,"Appartement en S+2 de 94,16m² (B56) à Chatt Mariem",À Vendre,599000,2
-Ariana,,346.70,4,Villa,Une Villa de 346.70m²,À Vendre,,False
-Ariana,,515.50,5,Villa,Une Villa de 515.50m²,À Vendre,,False
+Ariana,,346.7,4,Villa,Une Villa de 346.70m²,À Vendre,,False
+Ariana,,515.5,5,Villa,Une Villa de 515.50m²,À Vendre,,False
 Ariana,,367.64,4,Villa,Une Villa de 367.64m²,À Vendre,,False
 Ariana,,514.32,5,Villa,Une Villa de 514.32m²,À Vendre,,False
 Nabeul,,190.25,False,Local Commercial,A vendre un Local Commercial de 190.25 m²,À Vendre,,1
@@ -1520,7 +1520,7 @@ Sousse,S+2,118.45,2,Appartement,Un S+2 de 118.45m² au 1er étage,À Vendre,,Fal
 Ben Arous,S+2,116.73,2,Appartement,"Un S+2 de 116,73 m² au RDC",À Vendre,291,1
 Sousse,S+2,108.86,2,Duplexe,DUPLEX :  S+2 de 108.86m² au 9éme étage,À Vendre,,False
 Sousse,S+3,139.86,3,Appartement,Un S+3 de 139.86m² au 1er étage,À Vendre,,False
-Ben Arous,S+2,125.90,False,Appartement,"Un S+2 de 125,90 m² au RDC",À Vendre,313,1
+Ben Arous,S+2,125.9,False,Appartement,"Un S+2 de 125,90 m² au RDC",À Vendre,313,1
 Sousse,,83.85,False,Local Commercial,A vendre un Local Commercial de 83.85m²,À Vendre,,False
 Ben Arous,S+2,125.86,2,Appartement,"Un S+2 de 125,86 m² au 1er étage",À Vendre,318,1
 Sousse,,118.21,2,Bureau,"A vendre un bureau  de 118,21m² au RDC",À Vendre,,False
@@ -1532,19 +1532,19 @@ Tunis,,False,False,Duplexe,DUPLEX :  de 226 à 245m²,À Vendre,,False
 Tunis,S+3,False,3,Appartement,S+3 : entre 143 et 158m²,À Vendre,,False
 Tunis,S+2,False,2,Appartement,S+2 : entre 101 et 119 m²,À Vendre,,False
 Tunis,S+1,70,1,Appartement,Un S+1 de 70m²,À Vendre,334000,1
-Tunis,S+2,111.20,2,Appartement,"Un S+2 de 111,20m²",À Vendre,495000,1
+Tunis,S+2,111.2,2,Appartement,"Un S+2 de 111,20m²",À Vendre,495000,1
 Tunis,S+2,99.33,2,Appartement,"Un S+2 de 99,33m²",À Vendre,437000,1
 Tunis,S+3,160.9,3,Appartement,"Un S+3 de 160,9m²",À Vendre,685000,3
 Tunis,S+2,118.75,2,Appartement,"Un S+2 de 118,75m²",À Vendre,547000,2
 Tunis,S+3,136,3,Appartement,Un  S+3  de 136m²,À Vendre,590000,2
 Tunis,S+4,172,4,Appartement,Un S+4 de 172m²,À Vendre,780000,3
-Ariana,S+2,128.80,2,Appartement,"Appartement en S+2 de 128,80 m² (A21) au 2éme étage",À Vendre,362500,2
-Ariana,S+2,133.10,2,Appartement,"Appartement en S+2 de 133,10 m² (A12) au1er étage",À Vendre,385300,2
-Ariana,S+2,131.70,2,Appartement,"Appartement en S+2 de  131,70m² (A22) au 2éme étage",À Vendre,379400,2
-Ariana,S+2,132.80,2,Appartement,"Appartement en S+2 de 132,80m² (A35) au 3ème étage",À Vendre,350300,2
-Ariana,S+2,128.80,2,Appartement,"Appartement en S+2 de 128,80 m² (A41) au 4éme étage",À Vendre,354000,2
-Ariana,S+2,134.70,2,Appartement,"Appartement en S+2 de 134,70m² (A44) au 4éme étage",À Vendre,349300,2
-Ariana,S+2,124.70,2,Appartement,"Appartement en S+2 de 124,70 m² (B01) au RDC",À Vendre,431200,2
+Ariana,S+2,128.8,2,Appartement,"Appartement en S+2 de 128,80 m² (A21) au 2éme étage",À Vendre,362500,2
+Ariana,S+2,133.1,2,Appartement,"Appartement en S+2 de 133,10 m² (A12) au1er étage",À Vendre,385300,2
+Ariana,S+2,131.7,2,Appartement,"Appartement en S+2 de  131,70m² (A22) au 2éme étage",À Vendre,379400,2
+Ariana,S+2,132.8,2,Appartement,"Appartement en S+2 de 132,80m² (A35) au 3ème étage",À Vendre,350300,2
+Ariana,S+2,128.8,2,Appartement,"Appartement en S+2 de 128,80 m² (A41) au 4éme étage",À Vendre,354000,2
+Ariana,S+2,134.7,2,Appartement,"Appartement en S+2 de 134,70m² (A44) au 4éme étage",À Vendre,349300,2
+Ariana,S+2,124.7,2,Appartement,"Appartement en S+2 de 124,70 m² (B01) au RDC",À Vendre,431200,2
 Ariana,S+2,117.5,2,Appartement,"Appartement en S+2 de 117,5m² (A51) au 5ème étage",À Vendre,324000,2
 Ariana,,146,1,Local Commercial,A vendre un Local Commercial (C-1)de 146m²,À Vendre,434350,1
 Ariana,,131,False,Local Commercial,A vendre un Local Commercial (C-2)de 131m²,À Vendre,389725,1
@@ -1576,7 +1576,7 @@ Ben Arous,S+2,110.85,2,Appartement,"Appartement en S+2 de 110,85m² ( B14) au pr
 Ben Arous,S+3,138.35,3,Appartement,"Appartement en S+3 de 138,35m² ( A15) au premier étage à Boumhal Bel Air",À Vendre,515665,2
 Ben Arous,S+1,63.25,1,Appartement,"Appartement en S+1 de 63,25m² ( A14) à Boumhal Bel Air",À Vendre,241566,1
 Ben Arous,S+2,113.73,2,Appartement,"Appartement en S+2 de 113,73m² ( C16) au premier étage à Boumhal Bel Air",À Vendre,457043,2
-Ben Arous,S+2,111.80,2,Appartement,"Appartement en S+2 de 111,80m² ( B16) au premier étage à Boumhal Bel Air",À Vendre,448594,2
+Ben Arous,S+2,111.8,2,Appartement,"Appartement en S+2 de 111,80m² ( B16) au premier étage à Boumhal Bel Air",À Vendre,448594,2
 Sousse,S+3,124.32,3,Appartement,"A vendre un appartement S+3  de 124,32  m²  au 6éme étage",À Vendre,415000,2
 Sousse,S+2,110.81,2,Appartement,"A vendre un appartement S+2  de 110,81  m² au 2éme  étage",À Vendre,380000,1
 Sousse,S+3,142.96,3,Appartement,"A vendre un appartement S+3  de 142,96  m²  au 1ére  étage",À Vendre,445000,3
@@ -1584,10 +1584,10 @@ Sousse,S+1,73.23,1,Appartement,"A vendre un appartement S+1  de 73,23  m² au 2�
 Nabeul,S+1,58.43,1,Appartement,"A vendre un appartement S+1  de 58,43 m² au 2éme étage",À Vendre,260000,1
 Nabeul,S+2,85.38,2,Appartement,"A vendre un appartement S+2  de 85,38 m²  au 4éme étage",À Vendre,385000,1
 Nabeul,S+3,103.51,3,Appartement,"A vendre un appartement S+3  de 103,51 m²  au 2éme étage",À Vendre,455000,2
-Ariana,S+1,100.80,1,Appartement,"Appartement (A02) en S+1 de 100,80 m² au RDC",À Vendre,317200,1
-Ariana,S+2,136.60,2,Appartement,"Appartement en S+2 de 136,60 m² (A13) au1er  étage",À Vendre,384000,2
+Ariana,S+1,100.8,1,Appartement,"Appartement (A02) en S+1 de 100,80 m² au RDC",À Vendre,317200,1
+Ariana,S+2,136.6,2,Appartement,"Appartement en S+2 de 136,60 m² (A13) au1er  étage",À Vendre,384000,2
 Ariana,S+3,171.7,3,Duplexe,"Duplex (A06) en S+3 de : 171,7 m² au RDC",À Vendre,495700,2
-Ariana,S+2,129.30,2,Appartement,"Appartement en S+2 de 129,30 m² (A11) au1er étage",À Vendre,364600,2
+Ariana,S+2,129.3,2,Appartement,"Appartement en S+2 de 129,30 m² (A11) au1er étage",À Vendre,364600,2
 Ariana,S+3,167.96,3,Appartement,"Appartement (H22) en S+3 de 167,96 m² au deuxième étage",À Vendre,641679,2
 Sousse,S+2,122.11,2,Appartement,"A vendre un appartement S+2  de 122,11  m²  au 5éme étage",À Vendre,440000,2
 Sousse,S+3,152.96,3,Appartement,"A vendre un appartement S+3  de 152,96 m²  au 1ére  étage",À Vendre,495000,2
@@ -1605,17 +1605,17 @@ Ariana,S+2,108.07,2,Appartement,"Appartement (G03) en S+2 de 108,07m² au RDC",�
 Nabeul,S+1,72.28,2,Appartement,"A vendre un appartement S+1  de 72,28 m²  au RDC",À Vendre,350000,1
 Nabeul,S+1,59.85,1,Appartement,"A vendre un appartement S+1  de 59,85 m²  au 2éme étage",À Vendre,280000,1
 Tunis,S+4,361.86,4,Duplexe,"Duplex B9-2 en S+4 de 361,86 m² au 9éme étage",À Vendre,2000000,5
-Tunis,S+2,110.30,2,Appartement,"Appartement (B1-2) en S+2 de 110,30m² au premier étage",À Vendre,589111,2
+Tunis,S+2,110.3,2,Appartement,"Appartement (B1-2) en S+2 de 110,30m² au premier étage",À Vendre,589111,2
 Tunis,S+3,170.29,3,Appartement,"Appartement (C1-3) en S+3 de 170,29m² au premier étage",À Vendre,874950,3
 Tunis,S+4,361.86,5,Duplexe,"Duplex C9-2 en S+4 de 361,86 m² au 9éme étage",À Vendre,2000000,5
 Tunis,S+5,412.14,5,Penthouse,"un Penthouse en S+5( A10-1) de 412,14m² à Jardins de Carthage",À Vendre,2300000,6
-Ariana,S+3,152.40,3,Appartement,"Appartement (G15) en S+3 de 152,40m² au premier étage",À Vendre,584540,2
+Ariana,S+3,152.4,3,Appartement,"Appartement (G15) en S+3 de 152,40m² au premier étage",À Vendre,584540,2
 Ariana,S+3,144.18,3,Appartement,"Appartement (I03) en S+3 de 144,18m² au RDC",À Vendre,809831,2
 Ariana,S+2,98.92,2,Appartement,"Appartement (H25) en S+2 de 98,92m² au deuxième étage",À Vendre,399322,1
 Tunis,S+1,55.48,1,Appartement,"Appartement (A1-1) en S+1 de 55,48m² au premier étage",À Vendre,316613,1
 Ariana,,415.74,4,Villa,Une Villa de 415.74m²,À Vendre,,False
 Ariana,,365.05,4,Villa,Une Villa de 365.05m²,À Vendre,,False
-Ariana,,355.20,4,Villa,Une Villa de 355.20m²,À Vendre,,False
+Ariana,,355.2,4,Villa,Une Villa de 355.20m²,À Vendre,,False
 Ariana,S+3,175.3,3,Duplexe,"Duplex (A04) en S+3 de 175,3 m² au RDC",À Vendre,599700,3
 Sfax,,130.12,3,Bureau,A vendre un bureau (B5-13) au 5éme étage,À Vendre,312288,1
 Nabeul,S+2,124.61,2,Appartement,Appartement (A1-4) en S+2 de 124.61 m² au premier étage,À Vendre,315000,1
@@ -1636,7 +1636,7 @@ Sfax,,176,1,Local Commercial,A vendre un Local Commercial de 176 m²,À Vendre,,
 Sfax,,107.84,3,Bureau,A vendre un bureau (B4-11) au 4 éme étage,À Vendre,258816,1
 Sfax,,119.39,3,Bureau,A vendre un bureau (B4-9) au 4 éme étage,À Vendre,286536,1
 Nabeul,S+2,124.61,2,Appartement,Appartement (A2-4) en S+2 de 124.61 m² au deuxième étage,À Vendre,315000,1
-Ben Arous,S+1,71.70,1,Appartement,Appartement (D1-4) en S+1 de 71.70m² au première étage,À Vendre,,1
+Ben Arous,S+1,71.7,1,Appartement,Appartement (D1-4) en S+1 de 71.70m² au première étage,À Vendre,,1
 Ben Arous,,80.64,False,Bureau,"A vendre un bureau (B2-5) de 80,64m² au 2éme étage",À Vendre,,1
 Sousse,,87.14,2,Bureau,"un bureau B26 de 87,14m² au 2éme étage à Sahloul 4",À Vendre,1600,2
 Tunis,S+1,51.49,1,Appartement,"Appartement (D5-2) en S+1 de 51,49 m² au cinquième étage",À Vendre,295896,1
@@ -1657,8 +1657,8 @@ Sousse,S+1,70.03,1,Appartement,"A vendre un appartement S+1  de 70,03  m²  au 6
 Tunis,S+1,74.95,1,Appartement,"Appartement (B4-7) en S+1 de 74,95m² au quatrième étage",À Vendre,,1
 Tunis,S+2,112.63,2,Appartement,"Appartement (A1-4) en S+2 de 112,63m² au premier étage",À Vendre,,1
 Ariana,S+3,154.8,3,Duplexe,"Duplex B02 en S+3 de 154,8 m² au RDC",À Vendre,473000,2
-Ariana,S+2,129.30,2,Appartement,"Appartement en S+2 de 129,30m² (A31) au 3ème étage",À Vendre,364000,2
-Ariana,S+1,104.70,1,Appartement,"Appartement (B06) en S+1 de 104,70 m² au RDC",À Vendre,316000,1
+Ariana,S+2,129.3,2,Appartement,"Appartement en S+2 de 129,30m² (A31) au 3ème étage",À Vendre,364000,2
+Ariana,S+1,104.7,1,Appartement,"Appartement (B06) en S+1 de 104,70 m² au RDC",À Vendre,316000,1
 Ben Arous,,60.29,False,Bureau,"A vendre un bureau (B1-6) de 60,29m² au 1er étage",À Vendre,,1
 Ben Arous,,115.38,False,Local Commercial,A vendre un Local Commercial de 115.38m²,À Vendre,,1
 Tunis,S+2,92.81,2,Appartement,"Appartement (A1-3) en S+2 de 92,81m² au premier étage",À Vendre,500181,2
