@@ -45,7 +45,6 @@ Ariana,130,3,Appartement,365000.0,1
 Ariana,80,1,Appartement,50000.0,1
 Nabeul,300,5,Appartement,720000.0,5
 Sousse,180,4,Villa,440.0,1
-Ariana,350,350,Appartement,380.0,350
 Tunis,180,3,Appartement,445000.0,1
 Tunis,118,2,Appartement,290000.0,1
 Tunis,195,3,Appartement,570000.0,2
@@ -222,7 +221,6 @@ Sousse,410,5,Appartement,650000.0,2
 Nabeul,74,1,Appartement,270000.0,1
 Ben Arous,2600,1,Appartement,3.0,2
 Tunis,145,3,Appartement,360000.0,2
-Sfax,123,123123,Appartement,123.0,123
 Ariana,54,1,Appartement,50516006.0,2
 Ben Arous,153,2,Appartement,255000.0,2
 Tunis,195,2,Appartement,570000.0,2
@@ -253,7 +251,6 @@ Ariana,420,4,Villa,980000.0,2
 Ariana,420,4,Villa,980000.0,2
 Ariana,420,4,Villa,980000.0,2
 Ariana,420,4,Villa,980000.0,2
-Ben Arous,50,-1,Appartement,290000.0,1
 Ben Arous,25,1,Appartement,70000.0,1
 Ben Arous,50,2,Appartement,170000.0,1
 Ben Arous,80,1,Appartement,125000.0,1
@@ -407,7 +404,6 @@ Nabeul,430,4,Villa,790000.0,3
 La Manouba,409,8,Villa,550000.0,3
 Tunis,327,4,Villa,1150000.0,3
 Tunis,300,5,Villa,650000.0,2
-Tunis,78,-1,Appartement,230000.0,1
 Nabeul,269,3,Maison,400000.0,1
 Nabeul,500,2,Villa,830000.0,4
 Tunis,120,3,Appartement,255000.0,1
