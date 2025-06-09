@@ -20,12 +20,16 @@ This project focuses on building a machine learning pipeline to predict real est
 
 ## 🧼 Data Cleaning
 
-- Removed unrealistic price entries (below 50,000 TND or above 1,300,000 TND).
+- Removed unrealistic price entries.
 - Imputed missing values using a combination of:
   - **KNN Imputer** (for categorical and numerical fields)
   - **Median imputation** (for area and bedrooms)
   - **Mode imputation** (for bathrooms based on type and location)
 - Dropped outliers and irrelevant columns.
+
+📝 You can find **data visualizations before and after cleaning** in the following reports generated with `ydata_profiling`:
+- [`data/immobiliers_report_before_cleaning.html`](data/immobiliers_report_before_cleaning.html)
+- [`data/immobiliers_report_after_cleaning.html`](data/immobiliers_report_after_cleaning.html)
 
 ---
 
@@ -60,6 +64,7 @@ The machine learning pipeline was built using **PyCaret**, which automates:
 ## 💻 Tech Stack
 
 - Python 3.9+
+- ydata_profiling (ProfileReport)
 - BeautifulSoup 4
 - Pandas & NumPy
 - Scikit-learn
