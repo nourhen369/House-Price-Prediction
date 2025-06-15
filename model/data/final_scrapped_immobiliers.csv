@@ -1,0 +1,4043 @@
+Region,Localisation,Type,Nature,Area,#Bathrooms,#Bedrooms,Price
+Ariana,Ariana,villa,À Vendre,320.0,3.0,5,530000.0
+Nabeul,Nabeul,Maison,À Vendre,197.0,1.0,2,240000.0
+La Manouba,La_Manouba,Maison,À Vendre,300.0,1.0,3,85.0
+Ariana,Ariana,villa,À Vendre,517.0,3.0,5,1150000.0
+Nabeul,Nabeul,villa,À Vendre,485.0,4.0,4,890000.0
+Ben Arous,Ben_Arous,villa,À Vendre,350.0,0.0,4,680000.0
+Bizerte,Bizerte,villa,À Vendre,200.0,3.0,3,450.0
+Bizerte,Bizerte,Maison,À Vendre,160.0,2.0,4,385.0
+Bizerte,Bizerte,villa,À Vendre,180.0,2.0,3,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,420.0,2.0,10,0.0
+Nabeul,Nabeul,villa,À Vendre,265.0,2.0,3,480000.0
+Nabeul,Nabeul,villa,À Vendre,470.0,4.0,4,950000.0
+Nabeul,Nabeul,villa,À Vendre,700.0,2.0,3,0.0
+Sfax,Sfax,villa,À Vendre,1918.0,2.0,3,540000.0
+Nabeul,Nabeul,,À Vendre,60.0,1.0,1,125000.0
+Nabeul,Nabeul,villa,À Vendre,845000.0,3.0,4,1.0
+Nabeul,Nabeul,Maison,À Vendre,200.0,1.0,2,0.0
+Ariana,Ariana,villa,À Vendre,530.0,4.0,5,1600000.0
+Nabeul,Nabeul,villa,À Vendre,460.0,3.0,4,920000.0
+Nabeul,Nabeul,villa,À Vendre,700.0,5.0,7,0.0
+Tunis,Tunis,Maison,À Vendre,384.0,,,700000.0
+Ariana,Ariana,villa,À Vendre,300.0,3.0,3,960000.0
+Ben Arous,Ben_Arous,,À Vendre,1279.0,1.0,4,1900000.0
+Ben Arous,Ben_Arous,villa,À Vendre,580.0,2.0,7,1500000.0
+Ben Arous,Ben_Arous,villa,À Vendre,1014.0,2.0,6,2400000.0
+Ariana,Ariana,,À Vendre,374.0,5.0,4,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,1053.0,2.0,5,1500000.0
+Ben Arous,Ben_Arous,villa,À Vendre,445.0,2.0,5,1300000.0
+Ben Arous,Ben_Arous,villa,À Vendre,735.0,4.0,7,1150000.0
+Ben Arous,Ben_Arous,villa,À Vendre,444.0,1.0,3,550000.0
+Tunis,Tunis,villa,À Vendre,459.0,2.0,4,650000.0
+Ariana,Ariana,,À Vendre,374.0,5.0,4,0.0
+Ben Arous,Ben_Arous,Maison,À Vendre,148.0,2.0,4,370000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,170.0,1.0,3,370000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,450.0,3.0,3,580000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,302.0,2.0,3,370000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,309.0,2.0,3,650000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,174.0,3.0,7,400000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,183.0,2.0,5,680000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,285.0,1.0,4,550000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,289.0,2.0,5,620000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,208.0,3.0,7,450000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,341.0,3.0,6,650000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,650.0,5.0,8,1000000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,201.0,2.0,3,540000.0
+Ariana,Ariana,,À Vendre,374.0,5.0,4,0.0
+Ben Arous,Ben_Arous,,À Vendre,550.0,5.0,12,800000.0
+Ben Arous,Ben_Arous,,À Vendre,206.0,4.0,8,650000.0
+Ben Arous,Ben_Arous,,À Vendre,383.0,3.0,6,550000.0
+Nabeul,Nabeul,villa,À Vendre,500.0,3.0,3,790000.0
+Nabeul,Nabeul,villa,À Vendre,400.0,4.0,4,1030000.0
+Ben Arous,Ben_Arous,villa,À Vendre,417.0,1.0,4,480000.0
+Nabeul,Nabeul,Maison,À Vendre,90.0,1.0,2,0.0
+Ariana,Ariana,,À Vendre,300.0,3.0,5,1000000.0
+Tunis,Tunis,,À Vendre,657.0,3.0,8,2600000.0
+Nabeul,Nabeul,,À Vendre,750.0,3.0,4,830000.0
+Sfax,Sfax,Maison,À Vendre,303.0,2.0,5,350000.0
+Tunis,Tunis,villa,À Vendre,587.0,3.0,5,1800000.0
+Ariana,Ariana,villa,À Vendre,500.0,2.0,7,360.0
+Tunis,Tunis,villa,À Vendre,800.0,1.0,10,0.0
+Ariana,Ariana,villa,À Vendre,,6.0,7,950000.0
+Ariana,Ariana,villa,À Vendre,2000.0,5.0,6,1.0
+Tunis,Tunis,villa,À Vendre,662.0,4.0,8,1800.0
+Ariana,Ariana,villa,À Vendre,420.0,3.0,4,1200000.0
+Monastir,Monastir,villa,À Vendre,208.0,3.0,5,315000.0
+Nabeul,Nabeul,villa,À Vendre,320.0,4.0,3,0.0
+Nabeul,Nabeul,villa,À Vendre,500.0,4.0,2,830000.0
+Nabeul,Nabeul,villa,À Vendre,490.0,4.0,4,1250000.0
+Sousse,Sousse,villa,À Vendre,180.0,1.0,4,440.0
+Bizerte,Bizerte,,À Vendre,154.0,2.0,5,350000.0
+Ben Arous,Ben_Arous,villa,À Vendre,200.0,1.0,3,350000.0
+Tunis,Tunis,villa,À Vendre,185.0,1.0,4,0.0
+Ariana,Ariana,villa,À Vendre,850.0,6.0,8,2200000.0
+Bizerte,Bizerte,villa,À Vendre,600.0,2.0,4,1.0
+Nabeul,Nabeul,villa,À Vendre,,,5,1250000.0
+Nabeul,Nabeul,villa,À Vendre,800.0,4.0,4,1050000.0
+Nabeul,Nabeul,villa,À Vendre,397.0,4.0,4,1050000.0
+Bizerte,Bizerte,villa,À Vendre,300.0,2.0,3,349999.0
+Ariana,Ariana,villa,À Vendre,400.0,2.0,4,900000.0
+Nabeul,Nabeul,villa,À Vendre,600.0,4.0,4,830000.0
+Nabeul,Nabeul,villa,À Vendre,420.0,3.0,4,760000.0
+Nabeul,Nabeul,villa,À Vendre,347.0,4.0,4,1100000.0
+Tunis,Tunis,Maison,À Vendre,572.0,1.0,3,580000.0
+Monastir,Monastir,villa,À Vendre,916.0,2.0,3,680000.0
+Nabeul,Nabeul,villa,À Vendre,234.0,3.0,4,575000.0
+Nabeul,Nabeul,Maison,À Vendre,269.0,1.0,3,400000.0
+Nabeul,Nabeul,villa,À Vendre,426.0,3.0,3,1000000.0
+Nabeul,Nabeul,villa,À Vendre,347.0,3.0,4,1100000.0
+Tunis,Tunis,villa,À Vendre,282.0,2.0,4,0.0
+Ariana,Ariana,Maison,À Vendre,500.0,2.0,5,360000.0
+Nabeul,Nabeul,villa,À Vendre,660.0,3.0,3,1470000.0
+Sousse,Sousse,Maison,À Vendre,360.0,4.0,7,549999.0
+Ben Arous,Ben_Arous,villa,À Vendre,566.0,3.0,3,0.0
+Ariana,Ariana,villa,À Vendre,224.0,2.0,4,500.0
+Ben Arous,Ben_Arous,Maison,À Vendre,216.0,2.0,3,375000.0
+Ben Arous,Ben_Arous,villa,À Vendre,418.0,4.0,7,790000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,420.0,3.0,4,590000.0
+Ben Arous,Ben_Arous,,À Vendre,180.0,3.0,3,319000.0
+Ben Arous,Ben_Arous,villa,À Vendre,94.0,1.0,,140000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,200.0,1.0,3,325000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,206.0,1.0,3,360000.0
+Sousse,Sousse,villa,À Vendre,792.0,1.0,3,1800000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,622.0,1.0,3,430000.0
+Ben Arous,Ben_Arous,villa,À Vendre,395.0,3.0,3,495000.0
+Sousse,Sousse,villa,À Vendre,387.0,2.0,5,650000.0
+Tunis,Tunis,Maison,À Vendre,367.0,4.0,4,700000.0
+Ben Arous,Ben_Arous,,À Vendre,622.0,1.0,3,800000.0
+Tunis,Tunis,Maison,À Vendre,101.0,1.0,2,212000.0
+Zaghouan,Zaghouan,,À Vendre,160.0,3.0,7,600000.0
+Sousse,Sousse,villa,À Vendre,760.0,3.0,6,1.0
+Sousse,Sousse,Maison,À Vendre,365.0,4.0,6,0.0
+Tunis,Tunis,Maison,À Vendre,378.0,3.0,3,1.0
+Tunis,Tunis,villa,À Vendre,410.0,3.0,4,1200000.0
+Nabeul,Nabeul,Maison,À Vendre,180.0,1.0,2,140000.0
+Ben Arous,Ben_Arous,,À Vendre,210.0,3.0,4,350000.0
+Ben Arous,Ben_Arous,villa,À Vendre,250.0,3.0,5,6.0
+Ariana,Ariana,villa,À Vendre,,2.0,,950000.0
+Nabeul,Nabeul,villa,À Vendre,550.0,4.0,3,870000.0
+Nabeul,Nabeul,villa,À Vendre,430.0,3.0,4,790000.0
+Monastir,Monastir,,À Vendre,970.0,6.0,6,1.0
+Nabeul,Nabeul,villa,À Vendre,1295.0,3.0,6,12345660.0
+Nabeul,Nabeul,Appartement,À Vendre,585.0,4.0,8,1799999.0
+Ariana,Ariana,villa,À Vendre,450.0,5.0,11,750000.0
+Tunis,Tunis,Maison,À Vendre,95.0,2.0,5,1.0
+Ariana,Ariana,villa,À Vendre,150.0,6.0,8,0.0
+Ben Arous,Ben_Arous,,À Vendre,320.0,2.0,5,380000.0
+Nabeul,Nabeul,Maison,À Vendre,600.0,4.0,6,240000.0
+Ben Arous,Ben_Arous,,À Vendre,381.0,2.0,5,580000.0
+Ariana,Ariana,villa,À Vendre,391.0,2.0,4,849000.0
+Ariana,Ariana,,À Vendre,200.0,3.0,3,560000.0
+Ariana,Ariana,villa,À Vendre,402.0,5.0,8,890000.0
+Ariana,Ariana,Appartement,À Vendre,140.0,2.0,3,1.0
+Ariana,Ariana,villa,À Vendre,220.0,1.0,4,660000.0
+Nabeul,Nabeul,villa,À Vendre,320.0,4.0,4,990000.0
+Nabeul,Nabeul,villa,À Vendre,620.0,4.0,4,720000.0
+Nabeul,Nabeul,Maison,À Vendre,150.0,1.0,2,130000.0
+Sousse,Sousse,villa,À Vendre,0.0,2.0,4,1.0
+Ben Arous,Ben_Arous,villa,À Vendre,1014.0,4.0,6,2400000.0
+Tunis,Tunis,,À Vendre,260.0,4.0,6,880000.0
+Ariana,Ariana,villa,À Vendre,300.0,0.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,1500.0,0.0,0,1400000.0
+Ben Arous,Ben_Arous,villa,À Vendre,524.0,0.0,3,650000.0
+Ben Arous,Ben_Arous,Maison,,,,2,98000.0
+La Manouba,La_Manouba,,À Vendre,115.0,1.0,3,229000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,120.0,2.0,5,-3.0
+Ariana,Ariana,villa,À Vendre,2200.0,4.0,5,2600000.0
+Ariana,Ariana,,À Vendre,216.0,0.0,3,1.0
+Tunis,Tunis,Maison,À Vendre,250.0,4.0,,720000.0
+Tunis,Tunis,Maison,À Vendre,60.0,4.0,5,270000.0
+Tunis,Tunis,Maison,À Vendre,260.0,3.0,5,320000.0
+Sousse,Sousse,villa,À Vendre,9000.0,3.0,5,1450000.0
+Sfax,Sfax,villa,À Vendre,700.0,3.0,4,600000.0
+Nabeul,Nabeul,villa,À Vendre,440.0,2.0,4,845000.0
+Tunis,Tunis,villa,À Vendre,464.0,3.0,3,1400000.0
+Ariana,Ariana,villa,À Vendre,300.0,2.0,5,970000.0
+La Manouba,La_Manouba,,À Vendre,118.0,2.0,2,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,477.0,2.0,4,680000.0
+Ben Arous,Ben_Arous,villa,À Vendre,169.0,3.0,6,480000.0
+Ben Arous,Ben_Arous,villa,À Vendre,444.0,3.0,4,480000.0
+Ariana,Ariana,villa,À Vendre,539.0,2.0,6,900000.0
+Ariana,Ariana,villa,À Vendre,380.0,5.0,4,0.0
+Ben Arous,Ben_Arous,,À Vendre,100.0,1.0,2,115000.0
+Ben Arous,Ben_Arous,villa,À Vendre,460.0,3.0,6,450000.0
+La Manouba,La_Manouba,villa,À Vendre,565.0,4.0,9,0.0
+Médenine,Mdenine,villa,À Vendre,450.0,4.0,5,1.0
+Monastir,Monastir,Maison,À Vendre,490.0,2.0,2,218000.0
+Ariana,Ariana,Maison,À Vendre,90.0,2.0,6,360000.0
+Nabeul,Nabeul,villa,À Vendre,300.0,5.0,4,0.0
+Sfax,Sfax,villa,À Vendre,829.0,2.0,3,850000.0
+Sfax,Sfax,,À Vendre,1796.0,1.0,3,735000.0
+Ariana,Ariana,villa,À Vendre,318.0,1.0,2,200000000.0
+Ariana,Ariana,Maison,À Vendre,420.0,1.0,5,1111.0
+Tunis,Tunis,Maison,À Vendre,70.0,1.0,4,80000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,120.0,3.0,5,0.0
+Nabeul,Nabeul,villa,À Vendre,506.0,2.0,4,740000.0
+Nabeul,Nabeul,Appartement,À Vendre,75.0,1.0,1,300000.0
+Ariana,Ariana,villa,À Vendre,400.0,1.0,5,450000.0
+Nabeul,Nabeul,Maison,À Vendre,350.0,3.0,6,200000.0
+Ariana,Ariana,villa,À Vendre,306.0,2.0,7,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,600.0,4.0,5,0.0
+Tunis,Tunis,villa,À Vendre,611.0,0.0,000,0.0
+Ariana,Ariana,villa,À Vendre,227.0,2.0,4,970000.0
+Nabeul,Nabeul,Maison,À Vendre,550.0,4.0,9,0.0
+Nabeul,Nabeul,villa,À Vendre,380.0,2.0,4,980000.0
+Sousse,Sousse,,À Vendre,1100.0,16.0,16,0.0
+Nabeul,Nabeul,Maison,À Vendre,275.0,0.0,0,0.0
+Nabeul,Nabeul,villa,À Vendre,316.0,2.0,3,950000.0
+Gafsa,Gafsa,villa,À Vendre,,,5,0.0
+Tunis,Tunis,,À Vendre,96.0,1.0,3,350000.0
+Sfax,Sfax,Maison,À Vendre,,,,300.0
+Nabeul,Nabeul,villa,À Vendre,245.0,3.0,3,670000.0
+Nabeul,Nabeul,villa,À Vendre,300.0,3.0,4,890000.0
+Ariana,Ariana,Maison,À Vendre,480.0,2.0,4,0.0
+Tunis,Tunis,villa,À Vendre,300.0,4.0,4,500000.0
+Ben Arous,Ben_Arous,,À Vendre,160.0,1.0,2,198000.0
+Nabeul,Nabeul,Maison,À Vendre,280.0,1.0,5,380.0
+Nabeul,Nabeul,,À Vendre,100.0,1.0,2,195000.0
+Béja,Bja,villa,À Vendre,270.0,2.0,6,320.0
+Tunis,Tunis,Maison,À Vendre,260.0,3.0,5,320000.0
+Tunis,Tunis,,À Vendre,150.0,7.0,5,449998.0
+Ben Arous,Ben_Arous,Maison,À Vendre,100.0,1.0,4,130000.0
+Nabeul,Nabeul,villa,À Vendre,535.0,2.0,4,910.0
+Ben Arous,Ben_Arous,villa,À Vendre,436.0,3.0,7,1.0
+Nabeul,Nabeul,Maison,À Vendre,280.0,3.0,6,1350000.0
+Tunis,Tunis,villa,À Vendre,241.0,3.0,6,550000.0
+Nabeul,Nabeul,villa,À Vendre,280.0,0.0,4,724999.0
+Nabeul,Nabeul,villa,À Vendre,269.0,2.0,3,620000.0
+Nabeul,Nabeul,villa,À Vendre,364.0,0.0,4,1380000.0
+Ariana,Ariana,villa,À Vendre,280.0,2.0,4,590000.0
+Monastir,Monastir,villa,À Vendre,1200.0,3.0,8,4200000000.0
+Sousse,Sousse,villa,À Vendre,600.0,1.0,6,850000.0
+Nabeul,Nabeul,villa,À Vendre,220.0,2.0,4,650000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,500.0,2.0,6,990000.0
+Ariana,Ariana,Maison,À Vendre,350.0,2.0,6,0.0
+Ben Arous,Ben_Arous,Maison,À Vendre,135.0,1.0,4,120000.0
+Sousse,Sousse,villa,À Vendre,1200.0,3.0,6,2500000.0
+Tunis,Tunis,Maison,À Vendre,,,,189999.0
+Ariana,Ariana,villa,À Vendre,,,6,269997.0
+Nabeul,Nabeul,villa,À Vendre,500.0,1.0,2,300000.0
+Tunis,Tunis,villa,À Vendre,253.0,,,1230000.0
+Ben Arous,Ben_Arous,,À Vendre,140.0,2.0,4,175000.0
+Nabeul,Nabeul,Maison,À Vendre,90.0,3.0,4,250.0
+Sfax,Sfax,villa,À Vendre,800.0,2.0,9,450000.0
+Nabeul,Nabeul,,À Vendre,230.0,1.0,4,185000.0
+Monastir,Monastir,,À Vendre,145.0,1.0,3,198000.0
+Ariana,Ariana,villa,À Vendre,545.0,2.0,4,780000.0
+Nabeul,Nabeul,Maison,À Vendre,269.0,1.0,3,400000.0
+Tunis,Tunis,Maison,À Vendre,140.0,1.0,4,0.0
+Ben Arous,Ben_Arous,Maison,À Vendre,256.0,2.0,4,1.0
+Ben Arous,Ben_Arous,villa,À Vendre,363.0,2.0,4,1.0
+Ben Arous,Ben_Arous,villa,À Vendre,373.0,1.0,4,540000.0
+Tunis,Tunis,,À Vendre,200.0,3.0,5,680000.0
+Jendouba,Jendouba,villa,À Vendre,802.0,1.0,3,550000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Nabeul,Nabeul,Maison,À Vendre,500.0,2.0,3,180000.0
+Nabeul,Nabeul,,À Vendre,105.0,2.0,3,370000.0
+Nabeul,Nabeul,villa,À Vendre,400.0,3.0,4,0.0
+Nabeul,Nabeul,villa,À Vendre,329.0,4.0,3,1100000.0
+Ben Arous,Ben_Arous,villa,À Vendre,562.0,4.0,8,830000.0
+Ariana,Ariana,villa,À Vendre,457.0,0.0,3,1.0
+Ariana,Ariana,villa,À Vendre,400.0,3.0,4,1.0
+Sfax,Sfax,villa,À Vendre,1680.0,3.0,3,800000.0
+Tunis,Tunis,,À Vendre,400.0,1.0,1,3500000.0
+Ben Arous,Ben_Arous,villa,À Vendre,500.0,1.0,1,990000.0
+Ben Arous,Ben_Arous,villa,À Vendre,420.0,1.0,3,1100000.0
+Tunis,Tunis,,À Vendre,236.0,1.0,4,1.0
+Ariana,Ariana,,À Vendre,170.0,1.0,3,320000.0
+Tunis,Tunis,Maison,À Vendre,120.0,1.0,2,130000.0
+Bizerte,Bizerte,Maison,À Vendre,110.0,1.0,4,165000.0
+Tunis,Tunis,,À Vendre,330.0,1.0,1,280000.0
+Tunis,Tunis,,À Vendre,312.0,1.0,1,1.0
+Ariana,Ariana,villa,À Vendre,426.0,1.0,4,790000.0
+Tunis,Tunis,villa,À Vendre,244.0,2.0,5,1200000.0
+Ariana,Ariana,Maison,À Vendre,466.0,1.0,3,480000.0
+Tunis,Tunis,villa,À Vendre,374.0,3.0,3,1200000.0
+Tunis,Tunis,,À Vendre,140.0,1.0,1,640000.0
+Tunis,Tunis,,À Vendre,140.0,1.0,2,640000.0
+Ariana,Ariana,,À Vendre,300.0,1.0,3,850000.0
+Bizerte,Bizerte,villa,À Vendre,,1.0,2,1200000.0
+Nabeul,Nabeul,villa,À Vendre,1200.0,1.0,3,1350000.0
+Ariana,Ariana,villa,À Vendre,200.0,1.0,3,420000.0
+Tunis,Tunis,,À Vendre,400.0,1.0,3,3500000.0
+Ariana,Ariana,Maison,À Vendre,466.0,1.0,4,480000.0
+Ariana,Ariana,villa,À Vendre,400.0,1.0,5,780000.0
+Tunis,Tunis,villa,À Vendre,649.0,4.0,9,1180000.0
+Tunis,Tunis,villa,,,,4,0.0
+Ben Arous,Ben_Arous,,À Vendre,173.0,2.0,0,190000.0
+Tunis,Tunis,Maison,À Vendre,143.0,1.0,3,290000.0
+Ben Arous,Ben_Arous,,À Vendre,297.0,2.0,3,320000.0
+Ben Arous,Ben_Arous,,À Vendre,320.0,2.0,3,680000.0
+Monastir,Monastir,,À Vendre,120.0,1.0,0,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,125.0,2.0,6,250000.0
+Tunis,Tunis,Maison,À Vendre,100.0,3.0,6,450000.0
+Tunis,Tunis,,À Vendre,80.0,2.0,3,420000.0
+Sfax,Sfax,Appartement,À Vendre,22.5,1.0,4,230000.0
+Sfax,Sfax,Maison,À Vendre,512.0,1.0,3,450000.0
+Tunis,Tunis,villa,À Vendre,500.0,4.0,3,1920000.0
+Tunis,Tunis,villa,À Vendre,590.0,4.0,5,0.0
+La Manouba,La_Manouba,villa,À Vendre,518.0,3.0,4,1290.0
+Tunis,Tunis,villa,À Vendre,350.0,3.0,4,850000.0
+Ariana,Ariana,villa,À Vendre,575.0,4.0,4,0.0
+Tunis,Tunis,,,,,3,220.0
+Tunis,Tunis,villa,À Louer,,,,4300.0
+La Manouba,La_Manouba,Maison,À Vendre,,,6,265000.0
+Tunis,Tunis,,À Vendre,400.0,2.0,4,860000.0
+Tunis,Tunis,,À Vendre,330.0,3.0,3,720000.0
+Nabeul,Nabeul,villa,À Vendre,420.0,1.0,3,680000.0
+Ben Arous,Ben_Arous,villa,À Vendre,256.0,2.0,4,1.0
+Nabeul,Nabeul,villa,À Vendre,385.0,3.0,6,1250000.0
+Tunis,Tunis,,À Vendre,470.0,4.0,7,1500000.0
+Médenine,Mdenine,villa,À Vendre,220.0,2.0,4,1.0
+Sousse,Sousse,villa,À Vendre,405.0,2.0,5,750000.0
+Sousse,Sousse,Maison,À Vendre,180.0,2.0,2,150000.0
+Ariana,Ariana,villa,À Vendre,764.0,0.0,2,950000.0
+Ben Arous,Ben_Arous,villa,À Vendre,440.0,4.0,8,550.0
+Ben Arous,Ben_Arous,Maison,À Vendre,85.0,3.0,8,160000.0
+Nabeul,Nabeul,villa,À Vendre,1085.0,,,600000.0
+Ben Arous,Ben_Arous,villa,À Vendre,350.0,5.0,6,550000.0
+Ariana,Ariana,,À Vendre,150.0,1.0,3,400000.0
+Tunis,Tunis,villa,À Vendre,400.0,2.0,4,750000.0
+Nabeul,Nabeul,villa,À Vendre,530.0,2.0,0,650000.0
+Tunis,Tunis,Maison,À Vendre,120.0,1.0,3,50000.0
+Ben Arous,Ben_Arous,villa,À Vendre,504.0,2.0,3,380000.0
+Sfax,Sfax,Maison,À Louer,400.0,1.0,1,0.0
+Nabeul,Nabeul,Maison,À Vendre,1500.0,3.0,3,480000.0
+Tunis,Tunis,villa,À Vendre,400.0,4.0,8,750000.0
+Tunis,Tunis,villa,À Vendre,411.0,5.0,8,1050000.0
+Ben Arous,Ben_Arous,villa,À Vendre,440.0,2.0,4,550000.0
+Tunis,Tunis,villa,À Vendre,550.0,2.0,8,970000.0
+Ariana,Ariana,villa,À Vendre,,,4,820000.0
+Ben Arous,Ben_Arous,villa,À Vendre,0.0,0.0,0,0.0
+Nabeul,Nabeul,villa,À Vendre,1495.0,3.0,4,1.0
+Ben Arous,Ben_Arous,,À Vendre,133.0,3.0,3,550000.0
+Bizerte,Bizerte,Maison,À Vendre,103.0,2.0,4,0.0
+Bizerte,Bizerte,villa,À Vendre,206.0,2.0,3,470000.0
+Tunis,Tunis,villa,À Vendre,654.0,4.0,4,1800000.0
+Tunis,Tunis,villa,À Vendre,400.0,3.0,5,1350000.0
+Tunis,Tunis,,À Vendre,136.0,1.0,3,500000.0
+Tunis,Tunis,,À Louer,240.0,2.0,8,440000.0
+Nabeul,Nabeul,Maison,À Vendre,245.0,1.0,3,270000.0
+Nabeul,Nabeul,,À Vendre,391.0,4.0,10,1300000.0
+Nabeul,Nabeul,Maison,À Vendre,743.0,2.0,4,660000.0
+Tunis,Tunis,villa,À Vendre,500.0,6.0,10,0.0
+Ariana,Ariana,Maison,À Vendre,324.0,0.0,3,350000.0
+Ariana,Ariana,Appartement,À Vendre,156.0,0.0,3,295000.0
+Tunis,Tunis,villa,À Vendre,463.0,4.0,5,1550000.0
+Ben Arous,Ben_Arous,,À Vendre,200.0,1.0,3,490000.0
+Ben Arous,Ben_Arous,,À Vendre,147.0,1.0,4,379000.0
+Nabeul,Nabeul,villa,À Vendre,318.0,4.0,4,1000000.0
+Tunis,Tunis,villa,À Vendre,520.0,4.0,6,980000.0
+Tunis,Tunis,Maison,À Vendre,172.0,1.0,3,190.0
+Ben Arous,Ben_Arous,Maison,À Vendre,90.0,1.0,3,98000.0
+Ariana,Ariana,villa,À Vendre,620.0,1.0,4,360000.0
+Nabeul,Nabeul,villa,À Vendre,520.0,4.0,5,0.0
+Nabeul,Nabeul,villa,À Vendre,1250.0,4.0,5,12.0
+La Manouba,La_Manouba,,À Vendre,500.0,0.0,0,650000.0
+Bizerte,Bizerte,villa,À Vendre,270.0,0.0,3,350000.0
+Ariana,Ariana,villa,À Vendre,380.0,6.0,5,1200000.0
+Bizerte,Bizerte,villa,À Vendre,252.0,2.0,1,449996.0
+Ariana,Ariana,Maison,À Vendre,85.0,2.0,4,175000.0
+Ben Arous,Ben_Arous,villa,À Vendre,135.0,2.0,9,240000.0
+Ben Arous,Ben_Arous,villa,À Vendre,245.0,2.0,8,400000.0
+Ben Arous,Ben_Arous,villa,À Vendre,300.0,3.0,7,540000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,90.0,2.0,7,155000.0
+Ben Arous,Ben_Arous,villa,À Vendre,187.0,1.0,3,230000.0
+Ben Arous,Ben_Arous,villa,À Vendre,300.0,1.0,5,280000.0
+Ben Arous,Ben_Arous,,À Vendre,150.0,2.0,4,350000.0
+Ben Arous,Ben_Arous,villa,À Vendre,400.0,3.0,7,650000.0
+Ariana,Ariana,villa,À Vendre,530.0,3.0,6,450000.0
+Tunis,Tunis,Maison,À Vendre,100.0,2.0,8,210000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,135.0,2.0,8,240000.0
+Ben Arous,Ben_Arous,villa,À Vendre,187.0,1.0,5,235000.0
+Tunis,Tunis,,À Vendre,120.0,2.0,5,270000.0
+Ariana,Ariana,villa,À Vendre,260.0,5.0,4,0.0
+Ariana,Ariana,villa,À Vendre,1000.0,3.0,6,0.0
+Tunis,Tunis,villa,sale,,4.0,,1350000.0
+Tunis,Tunis,villa,sale,,2.0,,1600000.0
+Tunis,Tunis,Maison,À Vendre,280.0,2.0,8,1.0
+Ariana,Ariana,villa,À Vendre,350.0,1.0,4,420000.0
+Ariana,Ariana,,À Vendre,332.0,3.0,3,790000.0
+Nabeul,Nabeul,Maison,À Vendre,200.0,,,0.0
+Sfax,Sfax,Maison,À Vendre,371.0,1.0,3,350000.0
+Ben Arous,Ben_Arous,,À Vendre,255.0,2.0,8,170000.0
+Nabeul,Nabeul,villa,À Vendre,260.0,2.0,3,1150000.0
+Tunis,Tunis,Maison,À Vendre,100.0,2.0,4,220.0
+Ariana,Ariana,Maison,À Vendre,330.0,1.0,,480.0
+Ben Arous,Ben_Arous,villa,À Vendre,900.0,3.0,6,1.0
+Nabeul,Nabeul,,À Vendre,100.0,2.0,2,220000.0
+Ariana,Ariana,villa,À Vendre,200.0,0.0,,135000.0
+La Manouba,La_Manouba,Appartement,À Vendre,200.0,1.0,2,175000.0
+Sousse,Sousse,villa,À Vendre,792.0,1.0,3,1800000000.0
+Le Kef,Le_Kef,villa,À Vendre,314.0,1.0,5,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,400.0,0.0,6,300000.0
+Tunis,Tunis,villa,À Vendre,325.0,2.0,4,670000.0
+Ariana,Ariana,,À Vendre,150.0,2.0,3,550000.0
+Nabeul,Nabeul,villa,À Vendre,315.0,3.0,6,370000.0
+Tunis,Tunis,villa,À Vendre,520.0,2.0,6,950000.0
+Sousse,Sousse,villa,À Vendre,218.0,1.0,4,950000.0
+Tunis,Tunis,villa,À Vendre,520.0,2.0,7,975000.0
+Sousse,Sousse,villa,À Vendre,218.0,2.0,4,1100000000.0
+Tunis,Tunis,villa,À Vendre,493.0,3.0,6,8500000.0
+Ariana,Ariana,villa,À Vendre,480.0,1.0,3,220000.0
+Nabeul,Nabeul,villa,À Vendre,400.0,2.0,4,850000.0
+Ben Arous,Ben_Arous,villa,À Vendre,518.0,3.0,6,800000.0
+Sousse,Sousse,villa,À Vendre,349.0,2.0,3,590000.0
+La Manouba,La_Manouba,Maison,À Vendre,84.0,1.0,1,45000.0
+Tunis,Tunis,villa,À Vendre,220.0,2.0,5,500000.0
+Ariana,Ariana,villa,À Vendre,600.0,3.0,5,1200000.0
+Ben Arous,Ben_Arous,villa,À Vendre,582.0,3.0,6,950000.0
+Tunis,Tunis,villa,À Vendre,500.0,3.0,8,680000.0
+Tunis,Tunis,villa,À Vendre,327.0,3.0,4,1150000.0
+Tunis,Tunis,villa,À Vendre,668.0,3.0,4,
+Sousse,Sousse,villa,À Vendre,570.0,3.0,6,1400000.0
+Tunis,Tunis,villa,,,,,0.0
+Sfax,Sfax,Maison,À Louer,130.0,1.0,4,150000.0
+Tunis,Tunis,Maison,À Vendre,110.0,1.0,3,180000.0
+Sousse,Sousse,villa,À Vendre,228.0,1.0,4,288000.0
+Tunis,Tunis,,À Vendre,112.0,1.0,2,220000.0
+Ariana,Ariana,villa,À Vendre,326.0,1.0,2,370000.0
+Tunis,Tunis,,À Vendre,236.0,2.0,5,1100000.0
+Ben Arous,Ben_Arous,,À Vendre,117.0,1.0,3,270000.0
+Tunis,Tunis,villa,À Vendre,500.0,2.0,1,1600000.0
+Bizerte,Bizerte,villa,À Vendre,115.0,0.0,3,300000.0
+Monastir,Monastir,Maison,À Vendre,203.0,1.0,02,125000.0
+Ben Arous,Ben_Arous,,À Vendre,120.0,1.0,2,240000.0
+Tunis,Tunis,villa,À Vendre,268.0,3.0,5,570000.0
+Ben Arous,Ben_Arous,,À Vendre,,,,260000.0
+Tunis,Tunis,villa,À Vendre,300.0,3.0,3,260000.0
+Tunis,Tunis,villa,À Vendre,450.0,4.0,5,1200000.0
+Ariana,Ariana,villa,À Vendre,800.0,6.0,9,1050000.0
+Ariana,Ariana,villa,À Vendre,800.0,6.0,9,1050000.0
+Nabeul,Nabeul,Maison,À Vendre,300.0,1.0,3,250000.0
+Ariana,Ariana,villa,À Vendre,425.0,2.0,7,1.0
+Nabeul,Nabeul,villa,À Vendre,280.0,3.0,4,725000.0
+Tunis,Tunis,villa,À Vendre,420.0,3.0,4,1.0
+Tunis,Tunis,,À Vendre,124.0,3.0,3,450000.0
+Sfax,Sfax,villa,À Vendre,630.0,2.0,3,305000.0
+Sfax,Sfax,villa,À Vendre,1276.0,2.0,4,850000.0
+Ariana,Ariana,villa,À Vendre,400.0,1.0,5,780000.0
+Sfax,Sfax,villa,À Vendre,870.0,1.0,3,215.0
+Sfax,Sfax,villa,À Vendre,621.6,2.0,3,780000.0
+Sfax,Sfax,villa,À Vendre,800.0,2.0,4,725000.0
+Tunis,Tunis,Maison,À Vendre,1.0,2.0,3,0.0
+Sfax,Sfax,Maison,À Vendre,60.6,1.0,2,100.0
+Bizerte,Bizerte,villa,À Vendre,215.0,2.0,5,
+Ariana,Ariana,villa,À Vendre,150.0,2.0,8,178000.0
+Tunis,Tunis,Maison,À Vendre,200.0,,,370000.0
+Sfax,Sfax,Maison,À Louer,465.0,2.0,4,430.0
+Monastir,Monastir,,À Vendre,320.0,3.0,6,217000.0
+Sousse,Sousse,villa,À Vendre,450.0,0.0,4,1.0
+Nabeul,Nabeul,villa,À Vendre,400.0,3.0,7,750000.0
+Ariana,Ariana,villa,À Vendre,435.0,1.0,3,240000.0
+Sfax,Sfax,,À Vendre,1.0,1.0,1,1.0
+Ariana,Ariana,villa,À Vendre,700.0,3.0,4,0.0
+Ariana,Ariana,villa,À Vendre,300.0,3.0,5,1400000.0
+Tunis,Tunis,Maison,À Vendre,60.0,1.0,1,999.0
+Ben Arous,Ben_Arous,Maison,À Vendre,180.0,,,280000.0
+Sfax,Sfax,villa,À Vendre,400.0,3.0,6,1.0
+Bizerte,Bizerte,Maison,À Vendre,60.0,1.0,4,200000.0
+Sfax,Sfax,villa,À Vendre,650.0,2.0,5,470000.0
+Ben Arous,Ben_Arous,,À Vendre,350.0,3.0,6,0.0
+Ariana,Ariana,villa,À Vendre,0.0,0.0,0,0.0
+Tunis,Tunis,,À Vendre,100.0,2.0,3,320000.0
+Tunis,Tunis,villa,À Vendre,456.0,4.0,7,2300000.0
+Ariana,Ariana,villa,À Vendre,672.0,3.0,5,940000.0
+Tunis,Tunis,,À Vendre,228.0,4.0,5,450000.0
+Le Kef,Le_Kef,,À Vendre,576.0,2.0,8,680000.0
+Sousse,Sousse,,À Vendre,400.0,1.0,3,280000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,700.0,4.0,4,0.0
+Tunis,Tunis,villa,À Vendre,,,2,585000.0
+Tunis,Tunis,villa,À Vendre,414.0,3.0,7,720000.0
+Ben Arous,Ben_Arous,villa,À Vendre,500.0,1.0,3,0.0
+Ben Arous,Ben_Arous,,À Vendre,420.0,7.0,9,470000.0
+La Manouba,La_Manouba,Maison,À Vendre,100.0,2.0,5,0.0
+Tunis,Tunis,villa,À Vendre,365.0,3.0,8,1650000.0
+Sousse,Sousse,villa,À Vendre,600.0,2.0,8,850000.0
+Ariana,Ariana,villa,À Vendre,178.0,1.0,3,350000.0
+Sfax,Sfax,,À Vendre,500.0,1.0,3,450000.0
+Tunis,Tunis,villa,À Vendre,360.0,1.0,3,750000.0
+Tunis,Tunis,villa,À Vendre,450.0,3.0,7,650.0
+Ariana,Ariana,Appartement,À Vendre,510.0,3.0,15.0,800000.0
+La Manouba,La_Manouba,Maison,À Vendre,250.0,2.0,8,360.0
+Nabeul,Nabeul,Maison,À Vendre,133.0,1.0,2,155000.0
+Ariana,Ariana,villa,À Vendre,,,3,950000.0
+Kairouan,Kairouan,villa,À Vendre,380.0,2.0,5,680000.0
+Nabeul,Nabeul,villa,À Vendre,300.0,150.0,4,450000.0
+Sfax,Sfax,villa,À Vendre,420.0,3.0,5,0.0
+Ben Arous,Ben_Arous,,À Vendre,,,,750.0
+Ben Arous,Ben_Arous,villa,À Vendre,463.0,1.0,3,530000.0
+Sousse,Sousse,,À Vendre,200.0,2.0,4,469.0
+Le Kef,Le_Kef,,À Vendre,230.0,3.0,7,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,220.0,2.0,6,1.0
+Nabeul,Nabeul,villa,À Vendre,87.0,2.0,2,95000.0
+Ben Arous,Ben_Arous,villa,À Vendre,400.0,3.0,5,780000.0
+Ariana,Ariana,,À Vendre,190.0,2.0,3,780000.0
+Ben Arous,Ben_Arous,villa,À Vendre,172.0,2.0,4,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,235.0,2.0,3,0.0
+Ariana,Ariana,villa,À Vendre,420.0,2.0,4,0.0
+Sousse,Sousse,villa,À Vendre,420.0,0.0,4,650000.0
+Tunis,Tunis,villa,À Vendre,253.0,2.0,4,600000.0
+Nabeul,Nabeul,,À Vendre,100.0,1.0,2,120000.0
+Tunis,Tunis,villa,À Vendre,400.0,3.0,6,850000.0
+Tunis,Tunis,villa,À Vendre,201.0,1.0,2,680000.0
+Zaghouan,Zaghouan,villa,À Vendre,1560.0,2.0,6,950000.0
+Tunis,Tunis,villa,À Vendre,700.0,3.0,5,1800000.0
+Tunis,Tunis,villa,À Vendre,757.0,1.0,3,520000.0
+Nabeul,Nabeul,Maison,À Vendre,420.0,2.0,4,1700000.0
+Nabeul,Nabeul,Maison,À Vendre,150.0,2.0,4,300000.0
+Ben Arous,Ben_Arous,villa,À Vendre,800.0,3.0,4,1900000.0
+Tunis,Tunis,villa,À Vendre,1050.0,2.0,6,3500000.0
+Nabeul,Nabeul,villa,À Vendre,320.0,3.0,4,780000.0
+Sousse,Sousse,villa,À Vendre,300.0,2.0,5,1250000.0
+Ariana,Ariana,villa,À Vendre,235.0,1.0,3,230.0
+Ben Arous,Ben_Arous,villa,À Vendre,232.0,2.0,5,435000.0
+Ariana,Ariana,villa,À Vendre,469.0,1.0,7,1400000.0
+Ariana,Ariana,villa,À Vendre,1800.0,0.0,00,2000.0
+Ariana,Ariana,,À Vendre,188.0,2.0,3,830000.0
+Ariana,Ariana,,À Vendre,190.0,3.0,3,780.0
+Tunis,Tunis,Maison,À Vendre,200.0,2.0,5,180.0
+Ben Arous,Ben_Arous,Maison,À Vendre,,,2,360.0
+Mahdia,Mahdia,Maison,À Vendre,1421.0,1.0,1,190000.0
+Nabeul,Nabeul,Maison,À Vendre,189.0,1.0,3,250000.0
+Tunis,Tunis,villa,À Vendre,661.0,,,650000.0
+Tunis,Tunis,,À Vendre,,,3,1100000.0
+Bizerte,Bizerte,Maison,À Vendre,148.0,1.0,1,280000.0
+Tunis,Tunis,,À Vendre,414.0,1.0,3,900000.0
+Ariana,Ariana,villa,À Vendre,430.0,2.0,3,850000.0
+Nabeul,Nabeul,villa,À Vendre,350.0,2.0,4,800000.0
+Nabeul,Nabeul,,À Vendre,100.0,2.0,2,220000.0
+Nabeul,Nabeul,villa,À Vendre,840.0,5.0,5,2300000.0
+Nabeul,Nabeul,villa,À Vendre,360.0,3.0,5,850000.0
+Monastir,Monastir,villa,À Vendre,1255.0,0.0,6,2600000.0
+Bizerte,Bizerte,,À Vendre,400.0,4.0,7,530000.0
+Ben Arous,Ben_Arous,,À Vendre,120.0,2.0,2,1.0
+Tunis,Tunis,villa,À Vendre,225.0,2.0,3,450000.0
+Nabeul,Nabeul,Maison,À Vendre,150.0,2.0,6,480000.0
+Sousse,Sousse,Maison,À Vendre,314.0,2.0,3,830000.0
+Tunis,Tunis,villa,À Vendre,344.0,2.0,3,670000.0
+Ben Arous,Ben_Arous,,À Vendre,200.0,2.0,4,480000.0
+Bizerte,Bizerte,villa,À Vendre,609.0,1.0,3,520000.0
+Tunis,Tunis,villa,À Vendre,520.0,2.0,7,980.0
+Nabeul,Nabeul,villa,À Vendre,200.0,3.0,1,250002.0
+Tunis,Tunis,Maison,À Vendre,105.0,1.0,3,170000.0
+Ben Arous,Ben_Arous,villa,À Vendre,210.0,2.0,6,380000.0
+Ben Arous,Ben_Arous,villa,À Vendre,400.0,2.0,8,320000.0
+Tunis,Tunis,Maison,À Vendre,300.0,2.0,11,280000.0
+Ben Arous,Ben_Arous,villa,À Vendre,168.0,1.0,4,230000.0
+Sousse,Sousse,,À Vendre,70.0,1.0,2,299.0
+Sfax,Sfax,Appartement,À Vendre,220.0,1.0,4,230000.0
+Ben Arous,Ben_Arous,Appartement,À Vendre,117.0,1.0,3,150000.0
+Ariana,Ariana,villa,À Vendre,640.0,4.0,+,1700000.0
+Ariana,Ariana,,À Vendre,350.0,,,450000.0
+Tunis,Tunis,villa,À Vendre,0.0,1.0,-1,0.0
+Ariana,Ariana,,À Vendre,300.0,5.0,5,225.0
+Tunis,Tunis,villa,À Vendre,334.0,5.0,7,1800000.0
+Nabeul,Nabeul,Maison,À Vendre,120.0,1.0,2,170.0
+Ariana,Ariana,villa,À Vendre,636.0,2.0,4,320000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,150.0,1.0,3,140.0
+Ben Arous,Ben_Arous,villa,À Vendre,,3.0,,1200000000.0
+Nabeul,Nabeul,villa,À Vendre,240.0,2.0,4,450000.0
+Sousse,Sousse,Maison,À Vendre,520.0,1.0,4,420000.0
+Bizerte,Bizerte,villa,À Vendre,538.0,3.0,8,750000.0
+Nabeul,Nabeul,villa,À Vendre,345.0,2.0,4,0.0
+Tunis,Tunis,villa,À Vendre,270.0,3.0,7,550000.0
+Nabeul,Nabeul,villa,À Vendre,217.0,2.0,5,650000.0
+Sfax,Sfax,villa,À Vendre,140.0,1.0,4,1.0
+Tunis,Tunis,villa,À Vendre,370.0,3.0,3,1250000.0
+Nabeul,Nabeul,villa,À Vendre,536.0,3.0,3,850000.0
+Nabeul,Nabeul,Maison,À Vendre,1.0,1.0,3,220000.0
+Sfax,Sfax,villa,À Vendre,870.0,1.0,2,420000.0
+Monastir,Monastir,villa,À Vendre,200.0,2.0,5,600000.0
+Ariana,Ariana,villa,À Vendre,238.0,3.0,4,370000.0
+Nabeul,Nabeul,villa,À Vendre,211.0,6.0,8,470000.0
+Sfax,Sfax,Maison,À Vendre,1.0,1.0,3,70000.0
+Sousse,Sousse,Maison,À Vendre,125.0,2.0,2,160000.0
+Sousse,Sousse,villa,À Vendre,500.0,1.0,3,460000.0
+Le Kef,Le_Kef,villa,À Vendre,230.0,1.0,2,200000.0
+Tunis,Tunis,,À Vendre,95.0,2.0,4,680000.0
+Ben Arous,Ben_Arous,villa,À Vendre,582.0,1.0,6,950000.0
+Nabeul,Nabeul,villa,À Vendre,900.0,4.0,5,2099999.0
+Tunis,Tunis,villa,À Vendre,,,4,2300000.0
+Ben Arous,Ben_Arous,,À Vendre,520.0,4.0,8,600000.0
+Tunis,Tunis,villa,À Louer,1040.0,4.0,12,2399999.0
+Tunis,Tunis,villa,sale,,2.0,,1600000.0
+Tunis,Tunis,Maison,À Vendre,100.0,1.0,3,119.0
+Gabès,Gabs,villa,À Vendre,,,5,0.0
+Sfax,Sfax,villa,À Vendre,684.0,2.0,5,0.0
+Sousse,Sousse,villa,À Vendre,,,4,950.0
+Ariana,Ariana,villa,À Vendre,230.0,0.0,5,1.0
+Nabeul,Nabeul,Maison,À Vendre,230.0,1.0,5,0.0
+Bizerte,Bizerte,Maison,À Vendre,121.0,2.0,4,280000.0
+Sfax,Sfax,villa,À Vendre,920.0,3.0,9,735000.0
+Tunis,Tunis,,À Vendre,205.0,2.0,3,580000.0
+Nabeul,Nabeul,,À Vendre,433.0,1.0,2,850000.0
+Nabeul,Nabeul,villa,À Vendre,834.0,0.0,4,1460000.0
+Zaghouan,Zaghouan,villa,À Vendre,400.0,1.0,4,230000.0
+Ariana,Ariana,,À Vendre,,3.0,4,655000.0
+Tunis,Tunis,,À Vendre,155.0,2.0,3,570000.0
+Sousse,Sousse,villa,À Vendre,260.0,2.0,3,0.0
+Médenine,Mdenine,villa,À Vendre,500.0,2.0,3,0.0
+Ariana,Ariana,villa,À Vendre,380.0,1.0,3,410000.0
+Nabeul,Nabeul,villa,À Vendre,90.0,2.0,2,300000.0
+Nabeul,Nabeul,villa,À Vendre,269.0,1.0,3,400000.0
+Ariana,Ariana,,À Vendre,207.0,2.0,3,265000.0
+Sousse,Sousse,Maison,À Vendre,,,,0.0
+Bizerte,Bizerte,villa,À Vendre,430.0,1.0,3,600000.0
+Sfax,Sfax,villa,À Vendre,1133.0,1.0,4,520000.0
+Nabeul,Nabeul,villa,À Vendre,260.0,2.0,3,1150000.0
+Tunis,Tunis,villa,À Vendre,479.0,3.0,6,900000.0
+Sousse,Sousse,Maison,À Vendre,500.0,3.0,6,1200000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,0.0,0.0,0,180.0
+Ariana,Ariana,Maison,À Vendre,400.0,4.0,11,480000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,260.0,1.0,5,125.0
+Sfax,Sfax,Maison,À Vendre,1522.0,1.0,3,450000.0
+Tunis,Tunis,Maison,À Vendre,90.0,1.0,2,0.0
+Ben Arous,Ben_Arous,,À Vendre,125.0,2.0,3,0.0
+Ben Arous,Ben_Arous,,À Vendre,200.0,1.0,4,350000.0
+Le Kef,Le_Kef,Maison,À Vendre,,,11,300000.0
+La Manouba,La_Manouba,villa,À Vendre,400.0,2.0,7,630000.0
+La Manouba,La_Manouba,villa,À Vendre,276.0,280.0,4,690000.0
+La Manouba,La_Manouba,villa,À Vendre,500.0,3.0,6,850.0
+Tunis,Tunis,villa,À Vendre,450.0,,,1400000.0
+Bizerte,Bizerte,Maison,À Vendre,504.0,1.0,3,109999.0
+Médenine,Mdenine,,À Vendre,735.0,4.0,4,460.0
+Sfax,Sfax,villa,À Vendre,350.0,1.0,3,120.0
+Kairouan,Kairouan,Maison,À Vendre,340.0,1.0,3,410000.0
+Sousse,Sousse,villa,À Vendre,465.0,0.0,4,1300000.0
+Sousse,Sousse,Maison,À Vendre,1.0,2.0,2,1000.0
+Nabeul,Nabeul,villa,À Vendre,450.0,3.0,4,400000.0
+Zaghouan,Zaghouan,villa,À Vendre,610.0,4.0,5,790000.0
+Médenine,Mdenine,,À Vendre,1100.0,1.0,6,180000.0
+Tunis,Tunis,villa,À Vendre,749.0,3.0,6,1700000.0
+Nabeul,Nabeul,villa,À Vendre,500.0,2.0,3,700000.0
+Ariana,Ariana,Maison,À Vendre,110.0,1.0,2,145000.0
+Ariana,Ariana,,À Vendre,333.0,3.0,4,200000.0
+Ariana,Ariana,,À Vendre,2300.0,4.0,4,2600000.0
+Tunis,Tunis,,À Vendre,230.0,6.0,8,55051000.0
+Ben Arous,Ben_Arous,,À Vendre,220.0,2.0,4,0.0
+Ariana,Ariana,villa,À Vendre,400.0,5.0,12,250.0
+Tunis,Tunis,villa,À Vendre,140.0,1.0,4,195000000.0
+Nabeul,Nabeul,Maison,À Vendre,,,6,550.0
+Nabeul,Nabeul,villa,À Vendre,700.0,4.0,4,1050000.0
+Ben Arous,Ben_Arous,,À Vendre,135.0,,,380000.0
+Monastir,Monastir,villa,À Vendre,209.0,1.0,4,235000.0
+Ariana,Ariana,Maison,À Vendre,230.0,2.0,4,250.0
+Bizerte,Bizerte,villa,À Vendre,150.0,1.0,4,380000.0
+Bizerte,Bizerte,Maison,À Vendre,160.0,1.0,2,240.0
+Ariana,Ariana,Maison,À Vendre,116.0,2.0,5,120.0
+Ben Arous,Ben_Arous,Maison,À Vendre,190.0,2.0,4,269000.0
+Sousse,Sousse,Maison,À Vendre,60.0,1.0,1,70000.0
+Gabès,Gabs,villa,À Vendre,400.0,2.0,7,270000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,100.0,1.0,3,155.0
+Gabès,Gabs,Maison,À Vendre,500.0,2.0,6,300.0
+Médenine,Mdenine,villa,À Vendre,490.0,2.0,5,790.0
+Ben Arous,Ben_Arous,Maison,À Vendre,20000.0,13.0,25,0.0
+Nabeul,Nabeul,Maison,À Vendre,200.0,1.0,2,330000.0
+Nabeul,Nabeul,villa,À Vendre,834.0,3.0,4,1600000.0
+Tunis,Tunis,villa,À Vendre,700.0,0.0,00,1900000.0
+Mahdia,Mahdia,,À Vendre,300.0,1.0,4,350000.0
+Tunis,Tunis,villa,À Vendre,740.0,5.0,6,1900000.0
+Sousse,Sousse,villa,À Vendre,587.0,4.0,9,1050000.0
+Ariana,Ariana,villa,À Vendre,150.0,1.0,3,320.0
+Sousse,Sousse,,À Vendre,500.0,4.0,10,99.0
+Tunis,Tunis,villa,À Vendre,118.0,2.0,2,350000.0
+Nabeul,Nabeul,villa,À Vendre,485.0,2.0,4,0.0
+Ariana,Ariana,,À Vendre,300.0,3.0,8,630000.0
+La Manouba,La_Manouba,villa,À Vendre,409.0,3.0,8,550000.0
+Tunis,Tunis,villa,À Vendre,300.0,2.0,5,650000.0
+Nabeul,Nabeul,villa,À Vendre,480.0,2.0,2,680000.0
+Sfax,Sfax,Maison,sale,,1.0,,0.0
+Ariana,Ariana,villa,À Vendre,459.0,2.0,4,1500000.0
+Ariana,Ariana,villa,À Vendre,528.0,2.0,6,2000000.0
+Tunis,Tunis,villa,À Vendre,486.0,2.0,2,1800000.0
+Bizerte,Bizerte,villa,À Vendre,315.0,3.0,5,360000.0
+Ariana,Ariana,villa,À Vendre,121.0,2.0,2,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,562.0,3.0,5,830.0
+Ariana,Ariana,,À Vendre,300.0,2.0,4,0.0
+Sousse,Sousse,villa,À Vendre,280.0,2.0,6,570000.0
+Siliana,Siliana,Maison,À Vendre,110.0,1.0,3,180.0
+Ariana,Ariana,villa,À Vendre,110.0,1.0,1,135000.0
+Médenine,Mdenine,Maison,À Vendre,300.0,1.0,2,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,400.0,1.0,3,500000.0
+Ariana,Ariana,,À Vendre,111.0,1.0,2,260000.0
+Sfax,Sfax,villa,À Vendre,,,,0.0
+Médenine,Mdenine,villa,À Vendre,359.0,3.0,3,500000.0
+Nabeul,Nabeul,villa,À Vendre,600.0,5.0,4,1.0
+Ariana,Ariana,Maison,À Vendre,140.0,1.0,4,120000.0
+Tunis,Tunis,Maison,À Vendre,,,4,800.0
+Tunis,Tunis,Maison,À Vendre,120.0,2.0,5,380000000.0
+Ariana,Ariana,,À Vendre,330.0,3.0,8,350000.0
+Sousse,Sousse,villa,À Vendre,120.0,3.0,3,470000.0
+Tunis,Tunis,Maison,À Vendre,150.0,5.0,6,450000.0
+Ben Arous,Ben_Arous,villa,À Vendre,500.0,1.0,3,200.0
+Tunis,Tunis,villa,À Vendre,720.0,7.0,9,4300000.0
+Ariana,Ariana,villa,À Vendre,500.0,2.0,7,360.0
+Nabeul,Nabeul,Appartement,À Vendre,200.0,1.0,1,170000.0
+Nabeul,Nabeul,villa,À Vendre,890.0,2.0,3,870000.0
+Ariana,Ariana,villa,À Vendre,400.0,1.0,3,200000.0
+Nabeul,Nabeul,Maison,À Vendre,150.0,2.0,3,650.0
+Nabeul,Nabeul,Appartement,À Vendre,106.0,1.0,2,190000.0
+Tunis,Tunis,villa,À Vendre,102.0,2.0,3,310000.0
+Tunis,Tunis,villa,À Vendre,500.0,2.0,6,750000.0
+Ariana,Ariana,villa,À Vendre,240.0,4.0,4,950000.0
+Ben Arous,Ben_Arous,villa,À Vendre,100.0,1.0,3,160.0
+Nabeul,Nabeul,villa,À Vendre,600.0,2.0,3,690000.0
+Sousse,Sousse,villa,À Vendre,120.0,3.0,3,470000.0
+Sousse,Sousse,villa,À Vendre,120.0,3.0,3,470000.0
+Sfax,Sfax,Maison,À Vendre,240.0,2.0,6,280000.0
+Tunis,Tunis,,À Vendre,110.0,1.0,2,380000.0
+Jendouba,Jendouba,villa,À Vendre,600.0,1.0,5,100.0
+Ariana,Ariana,villa,À Vendre,1100.0,3.0,6,2100000.0
+Ben Arous,Ben_Arous,,À Vendre,160.0,1.0,3,0.0
+Ben Arous,Ben_Arous,Maison,À Vendre,1.0,1.0,1,1.0
+Sousse,Sousse,,À Vendre,150.0,1.0,4,1.0
+Tunis,Tunis,villa,À Vendre,350.0,3.0,4,1280000.0
+Nabeul,Nabeul,villa,À Vendre,320.0,0.0,4,990000.0
+Nabeul,Nabeul,villa,À Vendre,200.0,3.0,4,750000.0
+Sfax,Sfax,Maison,À Vendre,,,,0.0
+Ariana,Ariana,,À Vendre,220.0,0.0,4,1000000.0
+Nabeul,Nabeul,Maison,À Vendre,450.0,1.0,3,230000.0
+Monastir,Monastir,villa,À Vendre,,,,0.0
+Nabeul,Nabeul,villa,À Vendre,210.0,4.0,3,370.0
+Sousse,Sousse,,À Vendre,240.0,0.0,4,900000.0
+Ben Arous,Ben_Arous,villa,À Vendre,529.0,4.0,7,1200000.0
+Zaghouan,Zaghouan,villa,À Vendre,,,,580000.0
+Nabeul,Nabeul,villa,À Vendre,1053.0,4.0,5,1100000.0
+Nabeul,Nabeul,villa,À Vendre,450.0,4.0,4,1250000.0
+Nabeul,Nabeul,,À Vendre,1587.0,11.0,11,4200000.0
+Sousse,Sousse,Maison,À Vendre,277.0,1.0,3,249000.0
+Ben Arous,Ben_Arous,villa,À Vendre,4500.0,2.0,3,1450000.0
+Sousse,Sousse,,À Vendre,314.0,1.0,3,1.0
+Ben Arous,Ben_Arous,Maison,À Vendre,630.0,2.0,6,950000.0
+Bizerte,Bizerte,Maison,À Vendre,162.0,2.0,6,1.0
+Ariana,Ariana,villa,À Vendre,500.0,4.0,6,700000.0
+Médenine,Mdenine,Maison,À Vendre,,,,1700000.0
+Ariana,Ariana,,À Vendre,440.0,4.0,9,280000.0
+Nabeul,Nabeul,villa,À Vendre,481.0,1.0,3,1450000.0
+Nabeul,Nabeul,villa,À Vendre,571.0,4.0,6,1500000.0
+Nabeul,Nabeul,villa,À Vendre,224.0,0.0,0,0.0
+La Manouba,La_Manouba,Maison,À Vendre,240.0,2.0,6,240.0
+Médenine,Mdenine,villa,À Vendre,519.0,2.0,3,450000.0
+Médenine,Mdenine,villa,À Vendre,158.0,2.0,3,0.0
+Médenine,Mdenine,,À Vendre,519.0,130.0,2,360000.0
+Ariana,Ariana,villa,À Vendre,220.0,2.0,3,200000.0
+Médenine,Mdenine,villa,À Vendre,550.0,4.0,6,520000.0
+Sousse,Sousse,Maison,À Vendre,215.0,1.0,3,225000.0
+Ariana,Ariana,villa,À Vendre,120.0,2.0,2,210000.0
+Tunis,Tunis,villa,À Vendre,888.0,2.0,8,1200000.0
+Médenine,Mdenine,Maison,À Vendre,,,,550.0
+Nabeul,Nabeul,villa,À Vendre,385.0,,,0.0
+Sousse,Sousse,villa,À Vendre,1000.0,0.0,5,980000.0
+Ben Arous,Ben_Arous,villa,À Vendre,,,3,365000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,500.0,2.0,6,600.0
+Ariana,Ariana,villa,À Vendre,300.0,2.0,3,240000.0
+Nabeul,Nabeul,,À Vendre,400.0,3.0,5,580000.0
+Monastir,Monastir,Maison,,,,2,70000.0
+Ariana,Ariana,villa,À Vendre,630.0,,,400000.0
+Ariana,Ariana,villa,À Vendre,,,3,650000.0
+Sfax,Sfax,Maison,À Vendre,110.0,1.0,3,150.0
+Sousse,Sousse,Maison,À Vendre,150.0,1.0,3,220000.0
+Nabeul,Nabeul,villa,À Vendre,700.0,4.0,5,1050000.0
+Tunis,Tunis,villa,À Vendre,230.0,4.0,5,1810000.0
+Sousse,Sousse,Appartement,À Vendre,120.0,1.0,3,0.0
+Bizerte,Bizerte,Maison,À Vendre,200.0,2.0,4,385.0
+Monastir,Monastir,,À Vendre,471.0,2.0,4,0.111
+Sfax,Sfax,villa,,,,4,260.0
+Ben Arous,Ben_Arous,,À Vendre,175.0,2.0,3,348.0
+Ben Arous,Ben_Arous,villa,À Vendre,430.0,2.0,6,750000.0
+Sousse,Sousse,villa,À Vendre,100.0,2.0,4,330.0
+Tunis,Tunis,,À Vendre,192.0,2.0,3,270000.0
+Tunis,Tunis,villa,À Vendre,266.0,4.0,4,730000.0
+Ariana,Ariana,,À Vendre,470.0,2.0,5,980000.0
+Ben Arous,Ben_Arous,villa,À Vendre,1440.0,4.0,8,1200000.0
+Nabeul,Nabeul,Maison,À Vendre,107.0,2.0,5,260.0
+Nabeul,Nabeul,villa,À Vendre,,,,799999.0
+Ariana,Ariana,villa,À Vendre,,1.0,5,480000.0
+Tunis,Tunis,villa,À Vendre,670.0,2.0,9,12345.0
+Nabeul,Nabeul,villa,À Vendre,700.0,5.0,4,1050000.0
+Ben Arous,Ben_Arous,villa,À Vendre,437.0,3.0,5,780000.0
+Ariana,Ariana,villa,À Vendre,480.0,4.0,4,1150000.0
+Ben Arous,Ben_Arous,villa,À Vendre,340.0,1.0,2,750000.0
+Ben Arous,Ben_Arous,,À Vendre,,,,460000.0
+La Manouba,La_Manouba,,À Vendre,210.0,2.0,4,650.0
+Ariana,Ariana,villa,À Vendre,378.0,1.0,6,0.0
+Ben Arous,Ben_Arous,,À Vendre,320.0,3.0,4,385000.0
+Nabeul,Nabeul,villa,À Vendre,779.0,0.0,3,1600000.0
+Nabeul,Nabeul,villa,À Vendre,400.0,0.0,3,1.0
+Nabeul,Nabeul,villa,À Vendre,205.0,0.0,4,645000.0
+Béja,Bja,villa,À Vendre,278.0,1.0,5,0.0
+Sfax,Sfax,villa,À Vendre,878.0,1.0,3,1275000.0
+Ariana,Ariana,,À Vendre,365.0,10.0,19,1500000.0
+Ben Arous,Ben_Arous,villa,À Vendre,,,,220000.0
+Tunis,Tunis,villa,À Vendre,250.0,1.0,3,190000.0
+Médenine,Mdenine,,À Vendre,800.0,1.0,8,3.0
+Tunis,Tunis,Maison,,,3.0,,620.0
+Tunis,Tunis,,À Vendre,,1.0,,230.0
+Ben Arous,Ben_Arous,,À Vendre,140.0,0.0,4,380000.0
+Bizerte,Bizerte,villa,À Vendre,,,,430.0
+Sousse,Sousse,villa,À Vendre,506.0,2.0,4,1500000.0
+Ben Arous,Ben_Arous,villa,À Vendre,529.0,4.0,7,1200000.0
+Tunis,Tunis,Maison,À Vendre,100.0,2.0,3,315000.0
+La Manouba,La_Manouba,villa,À Vendre,500.0,,,750.0
+Médenine,Mdenine,,À Vendre,65.0,1.0,2,150000.0
+Ariana,Ariana,Maison,À Vendre,200.0,1.0,2,330000.0
+Nabeul,Nabeul,Maison,À Vendre,460.0,1.0,3,0.0
+Monastir,Monastir,Maison,À Vendre,185.0,2.0,4,295000.0
+Nabeul,Nabeul,villa,À Vendre,1200.0,4.0,8,11111.0
+Nabeul,Nabeul,,À Vendre,220.0,0.0,0,111111.0
+Tunis,Tunis,villa,À Vendre,750.0,6.0,6,850000.0
+Ariana,Ariana,villa,À Vendre,1250.0,4.0,5,1100000.0
+Tunis,Tunis,villa,À Vendre,1.0,1.0,1,1.0
+Ariana,Ariana,villa,À Vendre,170.0,2.0,5,300.0
+Sousse,Sousse,villa,À Vendre,638.0,0.0,7,1.0
+Jendouba,Jendouba,Maison,À Vendre,,,6,250000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,126.5,1.0,2,175000.0
+Ben Arous,Ben_Arous,,À Vendre,220.0,1.0,3,230000.0
+Ariana,Ariana,villa,À Vendre,275.0,1.0,3,300000.0
+Ariana,Ariana,,À Vendre,555.0,8.0,10,880000.0
+Ariana,Ariana,villa,À Vendre,380.0,3.0,3,990000.0
+Ben Arous,Ben_Arous,villa,À Vendre,190.0,1.0,4,170000.0
+Sousse,Sousse,villa,À Vendre,160.0,1.0,3,260000.0
+Ben Arous,Ben_Arous,villa,À Vendre,324.0,3.0,7,1.0
+Sousse,Sousse,Maison,À Vendre,204.0,1.0,-1,210000.0
+Nabeul,Nabeul,Maison,À Vendre,140.0,1.0,3,170.0
+Sousse,Sousse,villa,À Vendre,1132.0,4.0,6,2750000.0
+Sousse,Sousse,villa,À Vendre,740.0,5.0,7,3250000.0
+Ben Arous,Ben_Arous,,À Vendre,485.0,4.0,10,1100000.0
+Ariana,Ariana,villa,,,,,700.0
+Ariana,Ariana,villa,À Vendre,220.0,1.0,2,190000.0
+Ben Arous,Ben_Arous,villa,À Vendre,436.0,3.0,4,1700000.0
+Ben Arous,Ben_Arous,villa,À Vendre,1220.0,2.0,8,1600000.0
+Tunis,Tunis,Maison,À Vendre,,,3,230000.0
+Sfax,Sfax,Maison,À Vendre,400.0,1.0,3,130.0
+Ben Arous,Ben_Arous,Maison,À Vendre,70.0,,,0.0
+Ariana,Ariana,Maison,À Vendre,250.0,2.0,4,245.0
+Sfax,Sfax,villa,À Vendre,870.0,1.0,2,430000.0
+Ariana,Ariana,Maison,À Vendre,151.0,1.0,2,115000.0
+Ariana,Ariana,villa,À Vendre,538.0,2.0,4,360000.0
+Ben Arous,Ben_Arous,villa,À Vendre,150.0,4.0,12,650.0
+Ariana,Ariana,villa,À Vendre,460.0,3.0,4,825000.0
+Tunis,Tunis,,À Vendre,800.0,4.0,5,2250000.0
+Ariana,Ariana,villa,À Louer,350.0,2.0,3,450000.0
+Tunis,Tunis,,À Vendre,800.0,6.0,6,1900000.0
+Ariana,Ariana,villa,À Vendre,536.0,6.0,15,1100000.0
+Ariana,Ariana,,À Vendre,230.0,1.0,2,130000.0
+Sousse,Sousse,villa,À Vendre,200.0,2.0,3,470.0
+Ariana,Ariana,villa,À Vendre,420.0,5.0,9,1250000.0
+Ben Arous,Ben_Arous,,À Vendre,400.0,3.0,6,350000.0
+Ariana,Ariana,villa,À Vendre,538.0,2.0,4,370000.0
+Ariana,Ariana,,À Vendre,200.0,2.0,3,600000.0
+Nabeul,Nabeul,villa,À Vendre,487.0,4.0,4,1250000.0
+Tunis,Tunis,villa,À Vendre,500.0,3.0,1,1.0
+Ariana,Ariana,villa,À Vendre,460.0,3.0,5,2300000.0
+Nabeul,Nabeul,villa,À Vendre,200.0,1.0,2,410000.0
+Ariana,Ariana,villa,À Vendre,880.0,3.0,4,1.0
+Tunis,Tunis,,À Vendre,1.0,1.0,1,180.0
+Ariana,Ariana,Maison,À Vendre,,,,280000.0
+Ariana,Ariana,Maison,À Vendre,187.0,1.0,3,120.0
+Ariana,Ariana,Maison,À Vendre,187.0,1.0,3,120.0
+Tunis,Tunis,villa,À Vendre,526.0,2.0,4,1700000.0
+Ben Arous,Ben_Arous,,À Vendre,220.0,3.0,4,0.0
+Tunis,Tunis,villa,À Vendre,415.0,4.0,9,650000.0
+Tunis,Tunis,villa,À Vendre,200.0,2.0,3,400.0
+Ben Arous,Ben_Arous,,À Vendre,600.0,3.0,8,800000.0
+Ben Arous,Ben_Arous,villa,À Vendre,386.0,4.0,6,620000.0
+Tunis,Tunis,villa,À Vendre,574.0,3.0,4,1800000.0
+Tunis,Tunis,villa,À Vendre,150.0,1.0,4,120.0
+Sousse,Sousse,,À Vendre,417.0,2.0,4,450000.0
+Tunis,Tunis,villa,À Vendre,580.0,4.0,3,1200000.0
+Ben Arous,Ben_Arous,,À Vendre,,,,485000.0
+La Manouba,La_Manouba,villa,À Vendre,0.0,0.0,0,680.0
+Ariana,Ariana,villa,À Vendre,702.0,3.0,9,2800000.0
+Sousse,Sousse,villa,À Vendre,800.0,4.0,2,2500000000.0
+Bizerte,Bizerte,Maison,À Vendre,220.0,3.0,5,260.0
+La Manouba,La_Manouba,villa,À Vendre,328.0,0.0,4,650000.0
+Ariana,Ariana,villa,À Vendre,550.0,1.0,3,12345.0
+Sfax,Sfax,,À Vendre,73.0,1.0,2,76000.0
+Sousse,Sousse,villa,À Vendre,280.0,2.0,4,950000.0
+Nabeul,Nabeul,villa,À Vendre,700.0,4.0,4,1050000.0
+Nabeul,Nabeul,villa,À Vendre,245.0,0.0,3,589999.0
+Ben Arous,Ben_Arous,villa,À Vendre,80.0,1.0,2,300000.0
+Ben Arous,Ben_Arous,,À Louer,314.0,2.0,3,650000.0
+Tunis,Tunis,villa,À Vendre,400.0,2.0,5,820000.0
+Sousse,Sousse,,À Vendre,376.0,0.0,1,113000.0
+Nabeul,Nabeul,villa,À Vendre,600.0,4.0,5,800000.0
+Tunis,Tunis,villa,À Vendre,330.0,2.0,6,1800000.0
+Ben Arous,Ben_Arous,villa,À Vendre,270.0,2.0,,590000.0
+Ben Arous,Ben_Arous,,À Vendre,,,3,550000.0
+Ben Arous,Ben_Arous,,À Vendre,140.0,2.0,3,395000.0
+Tunis,Tunis,villa,À Vendre,150.0,3.0,8,180.0
+Sousse,Sousse,villa,À Vendre,414.0,0.0,7,1650000.0
+Nabeul,Nabeul,villa,À Vendre,443.0,3.0,4,1180000.0
+Sfax,Sfax,villa,sale,,2.0,,470000.0
+Tunis,Tunis,villa,À Vendre,285.0,4.0,4,1800000.0
+Ben Arous,Ben_Arous,villa,À Vendre,400.0,1.0,4,620000.0
+Tunis,Tunis,villa,À Vendre,280.0,3.0,4,950000.0
+Nabeul,Nabeul,Maison,À Vendre,300.0,3.0,5,0.0
+Tunis,Tunis,villa,À Vendre,530.0,4.0,4,2700000.0
+Nabeul,Nabeul,villa,À Vendre,300.0,3.0,1,0.0
+Nabeul,Nabeul,villa,À Vendre,285.0,3.0,4,0.0
+Tunis,Tunis,villa,À Vendre,587.0,2.0,4,1800000.0
+Ariana,Ariana,,À Vendre,220.0,2.0,4,750000.0
+Sousse,Sousse,villa,À Vendre,435.0,2.0,3,2.0
+Ben Arous,Ben_Arous,Maison,À Vendre,269.0,2.0,6,1000.0
+Tunis,Tunis,villa,À Vendre,430.0,3.0,5,870000.0
+Ben Arous,Ben_Arous,villa,À Vendre,316.0,4.0,4,800000.0
+Nabeul,Nabeul,villa,À Vendre,300.0,3.0,5,1350000.0
+Sfax,Sfax,villa,À Vendre,160.0,2.0,4,220000.0
+Béja,Bja,villa,À Vendre,477.0,4.0,9,1234.0
+Tunis,Tunis,,À Vendre,772.0,6.0,10,1500000.0
+Nabeul,Nabeul,villa,À Vendre,600.0,2.0,3,690000.0
+Sousse,Sousse,,À Vendre,600.0,3.0,10,1700000.0
+Tunis,Tunis,villa,À Vendre,220.0,2.0,5,550.0
+Tunis,Tunis,,À Vendre,128.0,2.0,4,420000.0
+Ben Arous,Ben_Arous,villa,À Vendre,470.0,2.0,5,680000.0
+Ben Arous,Ben_Arous,,À Vendre,520.0,2.0,6,500000.0
+Ben Arous,Ben_Arous,,À Vendre,340.0,3.0,7,500000.0
+Tunis,Tunis,villa,À Vendre,500.0,3.0,4,1600000.0
+Tunis,Tunis,villa,À Vendre,368.0,4.0,6,1350000.0
+Ben Arous,Ben_Arous,villa,À Vendre,582.0,3.0,6,950000.0
+Ben Arous,Ben_Arous,,À Vendre,450.0,2.0,7,600000.0
+Nabeul,Nabeul,villa,À Vendre,225.0,0.0,3,670000.0
+Nabeul,Nabeul,villa,À Vendre,1012.0,0.0,3,1050000.0
+Tunis,Tunis,,À Vendre,200.0,2.0,3,499999.0
+Sfax,Sfax,Maison,À Vendre,120.0,1.0,3,120000.0
+Ariana,Ariana,villa,À Vendre,468.0,2.0,5,830000.0
+Tunis,Tunis,Maison,À Vendre,75.0,1.0,3,60.0
+Sfax,Sfax,Maison,À Vendre,600.0,2.0,,400000.0
+Nabeul,Nabeul,,À Vendre,,,4,0.0
+Kairouan,Kairouan,villa,À Vendre,520.0,3.0,5,550000.0
+Kairouan,Kairouan,Maison,À Vendre,138.0,2.0,5,230000.0
+Ariana,Ariana,villa,À Vendre,429.0,4.0,3,881000.0
+Nabeul,Nabeul,villa,À Vendre,968.0,3.0,4,1500000.0
+Tunis,Tunis,,À Vendre,450.0,2.0,3,560000.0
+Tunis,Tunis,villa,À Vendre,498.0,4.0,8,2000000.0
+Tunis,Tunis,villa,À Vendre,350.0,1.0,2,450.0
+Jendouba,Jendouba,Maison,À Vendre,,,,0.0
+Ariana,Ariana,villa,À Vendre,200.0,3.0,9,230000.0
+Tunis,Tunis,Maison,À Vendre,100.0,2.0,3,100.0
+Kairouan,Kairouan,Maison,À Vendre,106.0,1.0,0,50000.0
+Sousse,Sousse,villa,À Vendre,450.0,1.0,3,950000.0
+Bizerte,Bizerte,,À Vendre,450.0,3.0,5,680000.0
+Tunis,Tunis,Maison,À Vendre,200.0,1.0,5,320000.0
+Ben Arous,Ben_Arous,villa,À Vendre,288.0,3.0,6,0.0
+Tunis,Tunis,villa,À Vendre,480.0,2.0,4,255000.0
+Ben Arous,Ben_Arous,villa,À Vendre,180.0,1.0,3,380000.0
+Ben Arous,Ben_Arous,villa,À Vendre,,1.0,2,550000.0
+Tunis,Tunis,,À Vendre,325.0,2.0,6,750000.0
+Bizerte,Bizerte,,À Vendre,140.0,2.0,5,300000.0
+Ariana,Ariana,villa,À Vendre,596.0,2.0,3,430000.0
+Ben Arous,Ben_Arous,villa,À Vendre,256.0,0.0,4,260000.0
+Ben Arous,Ben_Arous,villa,À Vendre,447.0,2.0,3,650000.0
+Sousse,Sousse,villa,À Vendre,200.0,2.0,4,198.0
+Nabeul,Nabeul,villa,À Vendre,240.0,3.0,7.0,800.0
+Sfax,Sfax,villa,À Vendre,1000.0,1.0,4,1.0
+Ben Arous,Ben_Arous,villa,À Vendre,233.0,1.0,3,0.0
+Tunis,Tunis,,À Vendre,450.0,2.0,4,650000.0
+Sousse,Sousse,Maison,À Vendre,460.0,1.0,4,0.0
+La Manouba,La_Manouba,Maison,À Vendre,65.0,1.0,2,75000.0
+Zaghouan,Zaghouan,Maison,À Vendre,212.0,1.0,4,90.0
+Tunis,Tunis,villa,À Vendre,600.0,3.0,6,2648998.0
+Sousse,Sousse,villa,À Vendre,1111.0,4.0,4,2800000.0
+Nabeul,Nabeul,,À Vendre,42.0,1.0,1,38.0
+Nabeul,Nabeul,villa,À Vendre,800.0,2.0,4,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,485.0,3.0,6,650000.0
+Kasserine,Kasserine,Maison,À Vendre,530.0,,5,350.0
+Sousse,Sousse,villa,À Vendre,402.0,3.0,5,450000.0
+Tunis,Tunis,,À Vendre,98.0,2.0,4,300000.0
+Sousse,Sousse,villa,À Vendre,418.0,2.0,06,0.0
+Sfax,Sfax,Maison,À Vendre,147.0,1.0,3,1.0
+Ariana,Ariana,Maison,À Vendre,115.0,1.0,2,130000.0
+Ariana,Ariana,villa,À Vendre,150.0,1.0,5,0.0
+Tunis,Tunis,Maison,À Vendre,300.0,1.0,3,0.0
+Ariana,Ariana,Maison,À Vendre,250027.0,2.0,7,450000.0
+Nabeul,Nabeul,villa,À Vendre,1500.0,2.0,2,690000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,180.0,2.0,3,200000.0
+Ben Arous,Ben_Arous,villa,À Vendre,300.0,2.0,4,470000.0
+Sfax,Sfax,Maison,À Vendre,259.0,2.0,3,70.0
+Sfax,Sfax,Maison,À Vendre,288.0,1.0,6,150000.0
+Ben Arous,Ben_Arous,,À Vendre,400.0,1.0,0,500000.0
+Sousse,Sousse,villa,À Vendre,218.0,2.0,4,950000.0
+Nabeul,Nabeul,,À Vendre,,,3,300000.0
+Nabeul,Nabeul,villa,À Vendre,800.0,3.0,6,1300000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,156.0,2.0,3,260000.0
+Bizerte,Bizerte,villa,À Vendre,249.0,2.0,4,1.0
+Sousse,Sousse,Maison,À Vendre,200.0,2.0,3,680000.0
+Le Kef,Le_Kef,Maison,À Vendre,120.0,2.0,4,110.0
+Ariana,Ariana,Maison,À Vendre,218.0,1.0,3,250000.0
+Gabès,Gabs,Maison,À Vendre,,,,200.0
+Monastir,Monastir,,À Vendre,,,4,380.0
+Ben Arous,Ben_Arous,,À Vendre,250.0,2.0,3,570000.0
+Tunis,Tunis,villa,À Vendre,530.0,5.0,6,980000.0
+Ben Arous,Ben_Arous,villa,À Vendre,200.0,2.0,3,0.0
+La Manouba,La_Manouba,,À Vendre,120.0,1.0,2,200003.0
+Ariana,Ariana,villa,À Vendre,280.0,3.0,5,850000.0
+Ben Arous,Ben_Arous,,À Vendre,390.0,2.0,5,700000.0
+Ben Arous,Ben_Arous,,À Vendre,,,3,420000.0
+Ben Arous,Ben_Arous,,À Vendre,290.0,1.0,5,650000.0
+Ben Arous,Ben_Arous,villa,À Vendre,,,,305000.0
+Tunis,Tunis,Maison,À Vendre,200.0,2.0,4,160000.0
+Ariana,Ariana,,À Vendre,220.0,2.0,6,340000.0
+Kairouan,Kairouan,villa,À Vendre,360.0,2.0,3,450000.0
+Ariana,Ariana,villa,À Vendre,150.0,2.0,8,178000.0
+Le Kef,Le_Kef,Maison,À Vendre,200.0,1.0,5,275000.0
+Bizerte,Bizerte,villa,À Vendre,600.0,0.0,6,577000.0
+Bizerte,Bizerte,villa,À Vendre,1105.0,0.0,5,1250000.0
+Ariana,Ariana,Maison,À Vendre,150.0,3.0,3,400000.0
+Tunis,Tunis,villa,À Vendre,1300.0,0.0,0,1.0
+Sfax,Sfax,villa,À Vendre,350.0,2.0,4,420.0
+Tunis,Tunis,,À Vendre,,,,0.0
+Ariana,Ariana,,À Vendre,200.0,3.0,3,980000.0
+Ben Arous,Ben_Arous,villa,À Vendre,440.0,220.0,220,650.0
+Tunis,Tunis,villa,À Vendre,600.0,1.0,5,1490000.0
+Tunis,Tunis,villa,À Vendre,368.0,2.0,3,1500000.0
+Ariana,Ariana,,À Vendre,190.0,3.0,3,750000.0
+Nabeul,Nabeul,villa,À Vendre,953.0,4.0,6,0.0
+Ben Arous,Ben_Arous,Maison,À Vendre,110.0,2.0,4,1.0
+Tunis,Tunis,,À Vendre,326.0,2.0,3,680000.0
+Gabès,Gabs,Maison,À Vendre,,,,105.0
+Ben Arous,Ben_Arous,Maison,À Vendre,191.0,1.0,4,150000.0
+Nabeul,Nabeul,villa,À Vendre,1000.0,0.0,5,1500000.0
+Tunis,Tunis,,À Vendre,500.0,5.0,8,590000.0
+Nabeul,Nabeul,Maison,À Vendre,170.0,2.0,4,230000.0
+Nabeul,Nabeul,villa,À Vendre,430.0,6.0,6,1300000.0
+Tunis,Tunis,villa,À Vendre,280.0,3.0,1,240000.0
+Le Kef,Le_Kef,villa,À Vendre,1420.0,2.0,3,240000.0
+Tunis,Tunis,villa,À Vendre,463.0,4.0,5,2300000.0
+Tunis,Tunis,,À Louer,866.0,5.0,8,1700000.0
+Nabeul,Nabeul,villa,À Vendre,2.0,4.0,7,1100000.0
+Bizerte,Bizerte,,À Vendre,49.0,1.0,2,156999.0
+Tunis,Tunis,,À Vendre,125.0,1.0,3,250000.0
+Ariana,Ariana,villa,À Vendre,217.0,2.0,3,270000.0
+Médenine,Mdenine,villa,À Vendre,295.0,2.0,5,1450000.0
+Médenine,Mdenine,villa,À Vendre,,,3,900000.0
+Ariana,Ariana,,À Vendre,170.0,2.0,4,360.0
+Ariana,Ariana,villa,À Vendre,634.0,3.0,3,800000.0
+Bizerte,Bizerte,villa,,,,4,
+Ariana,Ariana,Maison,À Vendre,108.0,1.0,2,110.0
+Mahdia,Mahdia,Maison,À Vendre,528.0,1.0,1,480000.0
+Tunis,Tunis,Maison,À Vendre,80.0,,,150.0
+Ariana,Ariana,villa,À Vendre,437.0,2.0,6,1234.0
+Ben Arous,Ben_Arous,,À Vendre,270.0,2.0,4,320000.0
+Sousse,Sousse,villa,À Vendre,900.0,3.0,10,950000.0
+Tunis,Tunis,villa,À Vendre,285.0,1.0,4,440000.0
+Tunis,Tunis,Maison,sale,,1.0,,0.0
+Ariana,Ariana,villa,À Vendre,200.0,1.0,2,330000.0
+Ben Arous,Ben_Arous,villa,À Vendre,460.0,2.0,4,0.0
+Tunis,Tunis,villa,À Vendre,268.0,1.0,4,350000.0
+Nabeul,Nabeul,villa,À Vendre,229.0,2.0,4,330000.0
+Ben Arous,Ben_Arous,villa,À Vendre,61.0,2.0,3,165000.0
+Tunis,Tunis,,À Vendre,190.0,2.0,3,320000.0
+Tunis,Tunis,Maison,À Vendre,,1.0,,130000.0
+Tunis,Tunis,Appartement,À Vendre,90.0,1.0,2,120000.0
+Ariana,Ariana,villa,À Vendre,1.0,2.0,5,220000.0
+Bizerte,Bizerte,villa,À Vendre,150.0,2.0,2,340000.0
+Médenine,Mdenine,villa,À Vendre,360.0,2.0,2,430000.0
+Tunis,Tunis,villa,À Vendre,316.0,2.0,10,1700000.0
+Ariana,Ariana,villa,À Louer,400.0,3.0,4,970000.0
+Tunis,Tunis,,À Vendre,355.0,3.0,7,680000.0
+Ben Arous,Ben_Arous,,À Vendre,435.0,3.0,10,550000.0
+Tunis,Tunis,,À Vendre,124.0,3.0,5,780000.0
+Tunis,Tunis,,À Vendre,153.0,1.0,3,90000.0
+Tunis,Tunis,Maison,À Vendre,,,3,180.0
+Ariana,Ariana,,À Vendre,373.0,1.0,2,280000.0
+Mahdia,Mahdia,Maison,À Vendre,,,6,1000.0
+Sfax,Sfax,Maison,À Vendre,120.0,1.0,3,80000.0
+Ben Arous,Ben_Arous,villa,À Vendre,186.0,2.0,3,0.0
+Nabeul,Nabeul,villa,À Vendre,129.0,2.0,7,280.0
+Sousse,Sousse,Maison,À Vendre,110.0,1.0,2,130000.0
+Nabeul,Nabeul,Maison,À Vendre,300.0,1.0,,120.0
+Tunis,Tunis,Maison,À Vendre,260.0,1.0,04,0.0
+Tunis,Tunis,villa,À Vendre,350.0,4.0,5,2100000.0
+Nabeul,Nabeul,Maison,À Vendre,100.0,1.0,2,150000.0
+Ben Arous,Ben_Arous,villa,À Vendre,400.0,3.0,9,650000.0
+Ben Arous,Ben_Arous,,À Vendre,516.0,2.0,6,580000.0
+Ariana,Ariana,villa,À Vendre,200.0,1.0,4,280000.0
+Nabeul,Nabeul,villa,À Vendre,537.0,0.1,0.1,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,260.0,2.0,3,450000.0
+Sousse,Sousse,villa,À Vendre,1000.0,3.0,6,1500000.0
+Ben Arous,Ben_Arous,,À Vendre,130.0,1.0,3,850000.0
+Sfax,Sfax,Maison,À Vendre,209.0,2.0,3,180000.0
+Sousse,Sousse,,À Vendre,500.0,2.0,3,0.0
+Tunis,Tunis,,À Vendre,150.0,3.0,5,290.0
+Sousse,Sousse,villa,À Vendre,3600.0,2.0,4,3500000.0
+Sousse,Sousse,villa,À Vendre,400.0,2.0,3,900000.0
+Bizerte,Bizerte,villa,À Vendre,225.0,1.0,2,0.0
+Ben Arous,Ben_Arous,Maison,À Vendre,,,,0.0
+Ben Arous,Ben_Arous,,À Vendre,510.0,2.0,8,1500000.0
+Ben Arous,Ben_Arous,,À Vendre,,2.0,,230000.0
+Ben Arous,Ben_Arous,,À Vendre,187.0,3.0,,1290000.0
+Ariana,Ariana,villa,À Vendre,380.0,1.0,3,410000.0
+Nabeul,Nabeul,villa,À Vendre,370.0,2.0,4,900000.0
+Ariana,Ariana,Maison,À Vendre,256.0,0.0,0,0.0
+Ariana,Ariana,villa,À Vendre,475.0,2.0,4,0.0
+Tunis,Tunis,,À Vendre,117.0,3.0,7,460000.0
+Ben Arous,Ben_Arous,villa,À Vendre,315.0,2.0,6,700000.0
+Ben Arous,Ben_Arous,,À Vendre,250.0,1.0,4,350000.0
+Ben Arous,Ben_Arous,villa,À Vendre,407.0,2.0,4,650000.0
+Tunis,Tunis,,À Vendre,336.0,1.0,3,450000.0
+Ariana,Ariana,,À Vendre,450.0,2.0,4,750000.0
+Tunis,Tunis,,À Vendre,600.0,4.0,4,1500000.0
+Ariana,Ariana,,À Vendre,300.0,3.0,4,850000.0
+Nabeul,Nabeul,Appartement,À Vendre,1300.0,3.0,7,780000.0
+Ben Arous,Ben_Arous,,À Vendre,220.0,2.0,5,370000.0
+Tunis,Tunis,Maison,À Vendre,112.0,2.0,6,96287632.0
+Ariana,Ariana,villa,À Vendre,300.0,0.0,4,850000.0
+Ariana,Ariana,villa,À Vendre,300.0,0.0,4,850000.0
+Sousse,Sousse,villa,À Vendre,218.0,2.0,4,1100000000.0
+Bizerte,Bizerte,villa,À Vendre,270.0,2.0,4,340000.0
+Bizerte,Bizerte,villa,À Vendre,313.0,3.0,5,360000.0
+Ben Arous,Ben_Arous,villa,À Vendre,566.0,2.0,03,890000.0
+Ariana,Ariana,,À Vendre,230.0,3.0,4,700000.0
+Ben Arous,Ben_Arous,villa,À Vendre,260.0,2.0,3,485000.0
+Sfax,Sfax,villa,À Vendre,1680.0,3.0,4,800000.0
+La Manouba,La_Manouba,Maison,À Vendre,319.0,2.0,3,319.0
+Nabeul,Nabeul,,À Vendre,130.0,2.0,2,0.0
+Ariana,Ariana,Maison,À Vendre,100.0,1.0,3,50000000.0
+Sfax,Sfax,villa,À Vendre,650.0,2.0,5,470000.0
+Ariana,Ariana,villa,À Vendre,430.0,1.0,4,300000.0
+Ariana,Ariana,Maison,À Vendre,257.0,1.0,3,290000.0
+Ariana,Ariana,villa,À Vendre,120.0,3.0,6,123.0
+Tunis,Tunis,Maison,À Vendre,120.0,1.0,3,85000.0
+Ben Arous,Ben_Arous,villa,À Vendre,245.0,2.0,8,400000.0
+Nabeul,Nabeul,villa,À Vendre,500.0,9.0,21,3000000000.0
+Tunis,Tunis,villa,À Vendre,162.0,2.0,5,0.0
+Ariana,Ariana,villa,À Vendre,756.0,1.0,3,155000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,206.0,1.0,3,0.0
+Nabeul,Nabeul,villa,À Vendre,200.0,2.0,3,280000.0
+Tunis,Tunis,Maison,À Vendre,100.0,0.0,0,169.0
+Tunis,Tunis,villa,À Vendre,260.0,1.0,4,420000.0
+Tunis,Tunis,villa,À Vendre,470.0,3.0,4,0.0
+Tunis,Tunis,villa,À Vendre,232.0,2.0,4,400000.0
+Ben Arous,Ben_Arous,,À Vendre,900.0,5.0,13,900000.0
+Ariana,Ariana,villa,À Vendre,300.0,3.0,5,1000000.0
+Ben Arous,Ben_Arous,,À Vendre,100.0,1.0,2,115000.0
+Ben Arous,Ben_Arous,,À Vendre,240.0,1.0,5,600000.0
+Ben Arous,Ben_Arous,,À Vendre,508.0,4.0,7,1200000.0
+Sfax,Sfax,villa,À Vendre,468.0,1.0,4,155.0
+Ben Arous,Ben_Arous,villa,À Vendre,546.0,1.0,1,399997.0
+Sousse,Sousse,villa,À Vendre,218.0,,,750000.0
+Nabeul,Nabeul,villa,À Vendre,300.0,4.0,7,990000.0
+Ben Arous,Ben_Arous,villa,À Vendre,720.0,4.0,8,750000.0
+Gabès,Gabs,Maison,À Vendre,360.0,3.0,5,459999.0
+Ben Arous,Ben_Arous,,À Vendre,105.0,3.0,6,350000.0
+Bizerte,Bizerte,,À Vendre,270.0,3.0,7,490000.0
+La Manouba,La_Manouba,,À Louer,153.0,1.0,3,1150.0
+Sfax,Sfax,villa,À Vendre,816.0,2.0,6,1250000.0
+Ariana,Ariana,villa,À Vendre,370.0,2.0,8,999999.0
+Gafsa,Gafsa,villa,À Vendre,0.0,,,0.0
+Nabeul,Nabeul,villa,À Vendre,1050.0,5.0,7,1550000.0
+Ben Arous,Ben_Arous,villa,À Vendre,400.0,1.0,3,280000.0
+Tunis,Tunis,villa,À Vendre,300.0,2.0,5,750000.0
+Ben Arous,Ben_Arous,villa,À Vendre,270.0,4.0,6,550000.0
+Tunis,Tunis,villa,À Vendre,520.0,4.0,7,0.0
+Monastir,Monastir,villa,À Vendre,589.0,1.0,2,299000.0
+Tunis,Tunis,Maison,À Vendre,,2.0,,750100.0
+Nabeul,Nabeul,villa,À Vendre,300.0,2.0,4,5500000.0
+Tunis,Tunis,villa,À Vendre,876.0,4.0,7,2.8
+Ben Arous,Ben_Arous,villa,À Vendre,480.0,2.0,5,750000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,119.0,1.0,4,270000.0
+Bizerte,Bizerte,Maison,À Vendre,300.0,2.0,4,1.0
+Ariana,Ariana,Maison,À Vendre,140.0,1.0,4,1.0
+Tunis,Tunis,villa,À Vendre,,,8,1600000.0
+Ben Arous,Ben_Arous,,À Vendre,237.0,2.0,4,325000.0
+Tunis,Tunis,villa,À Vendre,74.0,1.0,3,150000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,450.0,1.0,3,290000.0
+Tunis,Tunis,,À Vendre,115.0,2.0,6,270000.0
+Nabeul,Nabeul,villa,À Vendre,1000.0,6.0,5,1200000.0
+Tunis,Tunis,,À Vendre,300.0,3.0,4,1700000.0
+Nabeul,Nabeul,villa,À Vendre,,,5,1100000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,120000.0,2.0,7,340000.0
+Ben Arous,Ben_Arous,,À Vendre,630.0,2.0,6,800000.0
+Le Kef,Le_Kef,Maison,À Vendre,100.0,1.0,4,93000.0
+La Manouba,La_Manouba,Maison,À Vendre,450.0,2.0,4,250000.0
+Sousse,Sousse,villa,À Vendre,307.0,1.0,3,600000.0
+Sousse,Sousse,villa,À Vendre,400.0,3.0,7,1200000000.0
+Tunis,Tunis,Maison,À Vendre,205.0,0.0,9,1350000.0
+Tunis,Tunis,Maison,À Vendre,440.0,3.0,6,1350000.0
+Ben Arous,Ben_Arous,,À Vendre,198.0,2.0,3,520000.0
+Ben Arous,Ben_Arous,villa,À Vendre,420.0,2.0,3,650000.0
+Tunis,Tunis,villa,À Vendre,300.0,2.0,3,0.0
+Sfax,Sfax,Maison,À Vendre,132.0,1.0,3,100.0
+Tunis,Tunis,Maison,À Vendre,80.0,1.0,6,90000.0
+Ben Arous,Ben_Arous,villa,À Vendre,200.0,2.0,2,1.0
+Nabeul,Nabeul,,À Vendre,,,,0.0
+Sousse,Sousse,,À Vendre,83.0,1.0,1,0.0
+Sousse,Sousse,villa,À Vendre,390.0,3.0,5,540000.0
+Sousse,Sousse,villa,À Vendre,140.0,2.0,4,390000.0
+Ariana,Ariana,villa,À Vendre,,,6,0.0
+Ariana,Ariana,villa,À Vendre,375.0,2.0,3,800.0
+Sousse,Sousse,villa,À Vendre,180.0,0.0,4,450000.0
+Sousse,Sousse,villa,À Vendre,400.0,2.0,3,0.0
+Bizerte,Bizerte,Maison,À Vendre,556.0,0.0,7,580000.0
+Ben Arous,Ben_Arous,,À Vendre,175.0,2.0,6,550000.0
+Tunis,Tunis,villa,À Vendre,1033.0,3.0,5,3300000.0
+Bizerte,Bizerte,Maison,À Vendre,381.0,3.0,4,830000.0
+Ariana,Ariana,villa,À Vendre,400.0,0.0,4,850000.0
+Tunis,Tunis,,À Vendre,301.0,6.0,15,1300000.0
+Nabeul,Nabeul,Maison,À Vendre,154.0,2.0,3,290.0
+Monastir,Monastir,,À Vendre,120.0,1.0,0,0.0
+Ariana,Ariana,villa,À Vendre,300.0,3.0,5,450.0
+Tunis,Tunis,Maison,À Vendre,204.0,2.0,5,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,450.0,2.0,5,320000.0
+Ariana,Ariana,villa,À Vendre,450.0,2.0,4,8900000.0
+Sfax,Sfax,,À Vendre,130.0,1.0,2,150000.0
+Nabeul,Nabeul,villa,À Vendre,,,3,790000.0
+Nabeul,Nabeul,Appartement,À Vendre,100.0,1.0,2,165000.0
+Ben Arous,Ben_Arous,villa,À Louer,511.0,2.0,4,
+Nabeul,Nabeul,villa,À Vendre,560.0,3.0,5,0.0
+Nabeul,Nabeul,villa,À Vendre,300.0,3.0,3,620000.0
+Tunis,Tunis,,À Vendre,120.0,1.0,2,220000.0
+Ben Arous,Ben_Arous,villa,À Vendre,530.0,2.0,5,750.0
+La Manouba,La_Manouba,,À Vendre,210.0,0.0,3,670000.0
+Ben Arous,Ben_Arous,villa,À Vendre,396.0,2.0,5,640.0
+Ariana,Ariana,,À Vendre,370.0,1.0,6,950000.0
+Ariana,Ariana,,À Vendre,277.0,2.0,5,800000.0
+Tunis,Tunis,villa,À Vendre,101.0,2.0,7,470000.0
+Médenine,Mdenine,villa,À Vendre,610.0,3.0,4,0.0
+Bizerte,Bizerte,villa,À Vendre,350.0,4.0,4,920000.0
+Tunis,Tunis,villa,À Vendre,225.0,1.0,3,430000.0
+Ariana,Ariana,villa,À Vendre,550.0,2.0,6,2600000.0
+Nabeul,Nabeul,villa,À Vendre,1020.0,6.0,5,1.0
+Tunis,Tunis,,À Vendre,226.0,2.0,5,450000.0
+Nabeul,Nabeul,villa,À Vendre,300.0,0.0,4,1180000.0
+Nabeul,Nabeul,villa,À Vendre,289.0,0.0,2,415000.0
+Sousse,Sousse,Maison,À Vendre,165.0,1.0,0,165000.0
+Tunis,Tunis,villa,À Vendre,452.0,2.0,4,540000.0
+Tunis,Tunis,Appartement,À Vendre,772.0,6.0,2,1.0
+Ben Arous,Ben_Arous,,À Vendre,624.0,2.0,4,550000.0
+Ben Arous,Ben_Arous,,À Vendre,,,4,0.0
+Nabeul,Nabeul,,À Vendre,130.0,1.0,3,385000.0
+Ariana,Ariana,villa,À Vendre,3000.0,6.0,7,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,140.0,1.0,03,1.0
+Ben Arous,Ben_Arous,villa,À Vendre,420.0,2.0,3,700000.0
+Ariana,Ariana,Maison,À Vendre,150.0,1.0,1,90000.0
+Tunis,Tunis,Maison,À Vendre,100.0,1.0,2,110000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,100.0,1.0,03,349.0
+Sousse,Sousse,villa,À Vendre,1000.0,0.0,0,1100000.0
+Sousse,Sousse,Maison,À Vendre,267.0,1.0,2,400000.0
+Sousse,Sousse,villa,À Vendre,,3.0,4,1000000.0
+Sousse,Sousse,villa,À Vendre,615.0,2.0,,900000.0
+Sousse,Sousse,villa,À Vendre,1000.0,2.0,5,3200000.0
+Sousse,Sousse,villa,À Vendre,,5.0,,2800000.0
+Sousse,Sousse,villa,À Vendre,307.0,1.0,3,600000.0
+Sousse,Sousse,villa,À Vendre,600.0,1.0,3,600000.0
+Sousse,Sousse,villa,À Vendre,207.0,1.0,3,360000.0
+Sousse,Sousse,villa,À Vendre,831.0,7.0,7,0.0
+Sfax,Sfax,villa,,,,,0.0
+Ariana,Ariana,,À Vendre,101.0,1.0,3,100.0
+Ben Arous,Ben_Arous,,À Vendre,350.0,2.0,6,600000.0
+Nabeul,Nabeul,villa,À Vendre,600.0,1.0,3,0.0
+Tunis,Tunis,villa,À Vendre,443.0,4.0,8,930000.0
+Nabeul,Nabeul,villa,À Vendre,968.0,3.0,4,1500000.0
+Sousse,Sousse,Maison,À Vendre,320.0,1.0,5,300.0
+Ariana,Ariana,,À Vendre,270.0,3.0,7,510000.0
+Ariana,Ariana,villa,À Vendre,620.0,2.0,3,0.0
+Monastir,Monastir,Maison,À Vendre,220.0,1.0,7,120000.0
+Sousse,Sousse,villa,À Vendre,350.0,,,1350000.0
+Tunis,Tunis,Maison,À Vendre,290.0,5.0,10,395.0
+Ariana,Ariana,villa,À Vendre,,,,620000.0
+Monastir,Monastir,Maison,À Vendre,4.0,4.0,8,0.0
+La Manouba,La_Manouba,villa,À Vendre,400.0,2.0,4,600000.0
+Ben Arous,Ben_Arous,villa,À Vendre,620.0,3.0,4,850000.0
+Sousse,Sousse,Maison,À Vendre,140.0,1.0,3,155000.0
+Ben Arous,Ben_Arous,,À Vendre,,,,480.0
+Mahdia,Mahdia,Maison,À Vendre,0.0,1.0,2,0.0
+Médenine,Mdenine,villa,À Vendre,108.0,1.0,3,0.0
+La Manouba,La_Manouba,Maison,À Vendre,80.0,1.0,3,170000.0
+Sfax,Sfax,villa,À Vendre,220.0,4.0,3,480.0
+Sousse,Sousse,Maison,À Vendre,140.0,1.0,2,0.0
+Nabeul,Nabeul,villa,À Vendre,420.0,3.0,3,750000.0
+Tunis,Tunis,villa,À Vendre,200.0,2.0,3,340.0
+Médenine,Mdenine,Maison,À Vendre,250.0,2.0,6,285000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,97.0,1.0,2,180.0
+Ben Arous,Ben_Arous,,À Vendre,85.0,2.0,4,215000.0
+La Manouba,La_Manouba,Maison,À Vendre,230.0,2.0,6,440000.0
+Bizerte,Bizerte,Maison,À Vendre,111.0,1.0,4,390000.0
+La Manouba,La_Manouba,Maison,À Vendre,104.0,1.0,2,100000.0
+Sousse,Sousse,Maison,À Vendre,69.0,2.0,3,150000.0
+Kairouan,Kairouan,Maison,À Vendre,200.0,1.0,2,75000.0
+Sousse,Sousse,,À Vendre,720.0,4.0,5,1200000.0
+Sousse,Sousse,,À Vendre,720.0,4.0,5,1200000.0
+Nabeul,Nabeul,villa,À Vendre,1000.0,5.0,6,1500000.0
+Mahdia,Mahdia,Maison,À Vendre,1.0,1.0,3,150000.0
+Tunis,Tunis,villa,À Vendre,627.0,3.0,7,950000.0
+Kairouan,Kairouan,Maison,À Vendre,200.0,1.0,2,75000.0
+La Manouba,La_Manouba,,À Vendre,300.0,1.0,4,670000.0
+Tunis,Tunis,,À Vendre,100.0,1.0,1,140000.0
+Sousse,Sousse,,À Vendre,720.0,4.0,5,1200000.0
+Ariana,Ariana,Maison,À Vendre,507.0,3.0,5,599997.0
+Ben Arous,Ben_Arous,Maison,À Vendre,269.0,2.0,5,1.0
+Bizerte,Bizerte,villa,À Vendre,315.0,3.0,5,360000.0
+Nabeul,Nabeul,Maison,À Vendre,100.0,1.0,2,105000000.0
+Nabeul,Nabeul,villa,À Vendre,400.0,2.0,4,1500000.0
+La Manouba,La_Manouba,Maison,À Vendre,110.0,1.0,3,180000.0
+Nabeul,Nabeul,villa,À Vendre,,,5,550000.0
+Mahdia,Mahdia,villa,À Vendre,,,3,0.0
+La Manouba,La_Manouba,Maison,À Vendre,,,,570.0
+Tunis,Tunis,,À Vendre,600.0,5.0,10,120000.0
+Tunis,Tunis,Maison,À Vendre,130.0,3.0,11,290000.0
+Nabeul,Nabeul,villa,À Vendre,319.0,3.0,3,0.0
+Ariana,Ariana,villa,À Vendre,238.0,3.0,4,0.0
+Ben Arous,Ben_Arous,,À Vendre,110.0,2.0,5,240000.0
+Tunis,Tunis,villa,À Vendre,600.0,2.0,3,850000.0
+Nabeul,Nabeul,villa,À Vendre,300.0,3.0,4,950000.0
+Ariana,Ariana,villa,À Vendre,235.0,1.0,4,270000.0
+Sousse,Sousse,Appartement,À Vendre,114.0,1.0,3,160000.0
+Sousse,Sousse,Maison,À Vendre,359.0,2.0,4,330000.0
+Ariana,Ariana,Maison,À Vendre,,,3,140000.0
+Tunis,Tunis,villa,À Vendre,615.0,5.0,6,2.5
+Tunis,Tunis,,À Vendre,110.0,2.0,4,1.5
+Sfax,Sfax,Maison,À Vendre,170.0,1.0,3,400.0
+Ben Arous,Ben_Arous,,À Vendre,160.0,1.0,5,0.0
+Nabeul,Nabeul,villa,À Vendre,164.0,3.0,4,700000.0
+Ben Arous,Ben_Arous,villa,À Vendre,325.0,2.0,4,450000.0
+Mahdia,Mahdia,villa,À Vendre,400.0,2.0,3,0.0
+Sousse,Sousse,villa,,,2.0,5,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,409.0,3.0,3,900000.0
+Tunis,Tunis,villa,À Vendre,412.0,2.0,4,700000.0
+La Manouba,La_Manouba,villa,À Vendre,300.0,2.0,4,499000.0
+Ben Arous,Ben_Arous,villa,À Vendre,240.0,1.0,3,330000.0
+Ben Arous,Ben_Arous,,À Vendre,590.0,4.0,5,790000.0
+Ben Arous,Ben_Arous,villa,À Vendre,429.0,3.0,6,650000.0
+Tunis,Tunis,,À Vendre,117.0,1.0,2,210000.0
+Ben Arous,Ben_Arous,villa,À Vendre,354.0,2.0,3,700000.0
+Ben Arous,Ben_Arous,villa,À Vendre,200.0,1.0,3,350.0
+Tunis,Tunis,villa,À Vendre,90.0,1.0,3,400000.0
+Ariana,Ariana,villa,À Vendre,4000.0,4.0,7,2950000.0
+Bizerte,Bizerte,villa,À Vendre,519.0,1.0,4,380.0
+Sfax,Sfax,villa,À Vendre,1000.0,2.0,3,650000.0
+Tunis,Tunis,Maison,À Vendre,85.0,2.0,4,320.0
+Nabeul,Nabeul,villa,À Vendre,269.0,1.0,3,400000.0
+Ben Arous,Ben_Arous,villa,À Vendre,354.0,1.0,4,700000.0
+Tunis,Tunis,villa,À Louer,314.0,3.0,4,1365000.0
+Ariana,Ariana,villa,À Vendre,450.0,2.0,5,850000.0
+Tunis,Tunis,Maison,À Vendre,117.0,1.0,3,460000.0
+Bizerte,Bizerte,Maison,À Vendre,1.0,1.0,4,0.0
+Médenine,Mdenine,villa,À Vendre,450.0,4.0,3,0.0
+Ariana,Ariana,,À Vendre,257.0,1.0,3,300.0
+Nabeul,Nabeul,villa,À Vendre,1000.0,3.0,6,2100000.0
+Médenine,Mdenine,,À Vendre,598.0,,,280.0
+Nabeul,Nabeul,Maison,sale,,5.0,,600000.0
+Ben Arous,Ben_Arous,villa,À Vendre,300.0,2.0,3,350000.0
+Bizerte,Bizerte,Maison,À Vendre,95.0,1.0,3,125000.0
+Ariana,Ariana,Maison,À Vendre,100.0,3.0,7,170.0
+Tunis,Tunis,villa,À Vendre,100.0,2.0,4,229.0
+Ben Arous,Ben_Arous,villa,À Vendre,372.0,1.0,4,550.0
+Ben Arous,Ben_Arous,Maison,À Vendre,102.0,0.0,6,199000.0
+Tunis,Tunis,,À Vendre,140.0,2.0,6,420000.0
+Tunis,Tunis,villa,À Vendre,204.0,2.0,3,300000.0
+Ben Arous,Ben_Arous,villa,À Vendre,200.0,3.0,8,255000.0
+Sousse,Sousse,villa,À Vendre,300.0,3.0,8,149.0
+Sfax,Sfax,villa,À Vendre,770.0,1.0,5,0.0
+Nabeul,Nabeul,Maison,À Vendre,186.0,1.0,3,1.0
+Sousse,Sousse,villa,À Vendre,400.0,2.0,4,900000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,128.0,,,279.0
+Ariana,Ariana,villa,À Vendre,200.0,1.0,3,350000.0
+Tunis,Tunis,,À Vendre,700.0,2.0,4,900000.0
+Ben Arous,Ben_Arous,,À Vendre,300.0,3.0,6,650000.0
+La Manouba,La_Manouba,villa,À Vendre,400.0,3.0,4,680000.0
+Tunis,Tunis,villa,À Vendre,500.0,2.0,5,4000000.0
+Tunis,Tunis,,À Vendre,180.0,3.0,3,580000.0
+Ben Arous,Ben_Arous,villa,À Vendre,278.0,1.0,3,500000.0
+Gafsa,Gafsa,Maison,À Vendre,150.0,2.0,5,0.0
+Ariana,Ariana,Maison,À Vendre,150.0,0.0,0,340000.0
+Médenine,Mdenine,villa,À Vendre,456.0,2.0,4,1.0
+Nabeul,Nabeul,,À Vendre,500.0,1.0,2,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,,,,350.0
+Ben Arous,Ben_Arous,villa,À Vendre,412.0,1.0,4,460000.0
+Tunis,Tunis,Maison,À Vendre,405.0,1.0,4,
+La Manouba,La_Manouba,villa,À Vendre,220.0,1.0,3,
+Ariana,Ariana,villa,À Vendre,500.0,4.0,6,450000.0
+Bizerte,Bizerte,Maison,À Vendre,215.0,1.0,4,219999.0
+Ben Arous,Ben_Arous,,À Vendre,1405.0,0.0,-2,1264500.0
+Sousse,Sousse,Maison,À Vendre,300.0,3.0,9,150.0
+Ariana,Ariana,,À Vendre,90.0,1.0,2,3.0
+Tunis,Tunis,villa,À Vendre,255.0,2.0,4,210000.0
+Tunis,Tunis,villa,À Vendre,603.0,2.0,5,1.0
+Sousse,Sousse,Maison,À Vendre,330.0,1.0,03,215000.0
+Ben Arous,Ben_Arous,,À Vendre,378.0,1.0,3,270000.0
+La Manouba,La_Manouba,villa,À Vendre,,,2,140.0
+Médenine,Mdenine,villa,À Vendre,5000.0,1.0,4,375000.0
+Tunis,Tunis,Maison,À Vendre,304.0,1.0,4,1.0
+Tunis,Tunis,Maison,À Vendre,133.0,1.0,4,200000.0
+Sousse,Sousse,villa,À Vendre,140.0,2.0,3,229.0
+Nabeul,Nabeul,Maison,À Vendre,130.0,1.0,3,-2.0
+La Manouba,La_Manouba,Maison,À Vendre,300.0,2.0,3,0.0
+Nabeul,Nabeul,villa,À Vendre,385.0,4.0,5,0.0
+Sfax,Sfax,villa,À Vendre,758.0,3.0,5,570000.0
+Ben Arous,Ben_Arous,villa,À Vendre,530.0,2.0,6,650.0
+Ariana,Ariana,villa,À Vendre,320.0,5.0,6,1100000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,260.0,1.0,3,485000.0
+Tunis,Tunis,Maison,À Vendre,90.0,1.0,3,120.0
+Nabeul,Nabeul,Maison,À Vendre,290.0,4.0,5,0.0
+Kairouan,Kairouan,Maison,À Vendre,250.0,2.0,4,360000.0
+Siliana,Siliana,Maison,,,,3,0.0
+Médenine,Mdenine,,À Vendre,170.0,1.0,3,1.0
+Tunis,Tunis,villa,À Vendre,536.0,5.0,9,680000.0
+Ariana,Ariana,,À Vendre,4080.0,4.0,8,2800000.0
+Sfax,Sfax,Maison,À Vendre,425.0,2.0,6,310000.0
+Ariana,Ariana,villa,À Vendre,220.0,2.0,5,280000.0
+Ben Arous,Ben_Arous,,À Vendre,166.0,1.0,3,168998.0
+Sfax,Sfax,Maison,À Vendre,600.0,1.0,5,0.0
+Sousse,Sousse,,À Vendre,400.0,,,0.0
+Ben Arous,Ben_Arous,Maison,À Vendre,203.0,3.0,0,350.0
+Ben Arous,Ben_Arous,Maison,À Vendre,640.0,2.0,6,1.0
+Ben Arous,Ben_Arous,Maison,À Vendre,97.0,1.0,2,125000.0
+Tunis,Tunis,,À Vendre,680.0,4.0,4,800000.0
+Sousse,Sousse,Maison,À Vendre,200.0,1.0,3,200000.0
+Bizerte,Bizerte,Appartement,À Vendre,147.0,1.0,3,1.0
+Nabeul,Nabeul,villa,À Vendre,202.0,2.0,5,400000.0
+Gabès,Gabs,villa,À Vendre,390.0,2.0,3,300000.0
+Gabès,Gabs,villa,À Vendre,520.0,3.0,6,0.0
+Ariana,Ariana,villa,À Vendre,300.0,4.0,6,2.0
+Nabeul,Nabeul,,À Vendre,288.0,3.0,6,650000.0
+Tunis,Tunis,villa,À Louer,880.0,11.0,6,10000.0
+Nabeul,Nabeul,villa,À Vendre,285.0,3.0,4,1.0
+Ariana,Ariana,villa,À Vendre,470.0,2.0,5,870000.0
+Nabeul,Nabeul,villa,À Vendre,816.0,2.0,4,480000.0
+Ben Arous,Ben_Arous,villa,À Vendre,300.0,3.0,13,650000.0
+Ariana,Ariana,Appartement,À Vendre,90.0,2.0,4,190000.0
+Ben Arous,Ben_Arous,villa,À Vendre,600.0,3.0,4,850000.0
+Ben Arous,Ben_Arous,,À Vendre,200.0,2.0,2,300000.0
+Nabeul,Nabeul,Maison,À Vendre,140.0,1.0,3,200000.0
+La Manouba,La_Manouba,villa,À Vendre,260.0,,,950000.0
+Tunis,Tunis,villa,À Vendre,470.0,3.0,5,1300000.0
+Sousse,Sousse,villa,À Vendre,450.0,0.0,0,750000.0
+Tunis,Tunis,villa,À Vendre,1059.0,1.0,4,2500000.0
+Tunis,Tunis,Maison,À Vendre,115.0,2.0,4,275000.0
+Bizerte,Bizerte,Maison,À Vendre,,,,220.0
+Gafsa,Gafsa,villa,À Vendre,350.0,2.0,6,1.0
+Ariana,Ariana,villa,À Vendre,480.0,2.0,7,460000.0
+Jendouba,Jendouba,villa,À Vendre,,,,0.0
+Gafsa,Gafsa,villa,À Vendre,220.0,2.0,4,280000.0
+Bizerte,Bizerte,villa,À Vendre,202.0,4.0,6,520000.0
+Nabeul,Nabeul,villa,À Vendre,650.0,,,0.0
+La Manouba,La_Manouba,villa,À Vendre,690.0,3.0,7,520000.0
+La Manouba,La_Manouba,villa,À Vendre,1250.0,3.0,3,950000.0
+Nabeul,Nabeul,villa,À Vendre,345.0,3.0,4,780000.0
+Nabeul,Nabeul,villa,À Vendre,505.0,2.0,5,1049998.0
+Nabeul,Nabeul,,À Vendre,400.0,1.0,2,300000.0
+Nabeul,Nabeul,,À Vendre,750.0,2.0,4,0.0
+Tunis,Tunis,villa,À Vendre,461.0,3.0,10,500.0
+Nabeul,Nabeul,,À Vendre,,,,85000.0
+Ben Arous,Ben_Arous,,À Vendre,385.0,5.0,6,400000.0
+La Manouba,La_Manouba,,À Vendre,119.0,2.0,3,370000.0
+Ben Arous,Ben_Arous,villa,À Vendre,195.0,1.0,5,380000.0
+Sidi Bouzid,Sidi_Bouzid,Maison,À Vendre,400.0,2.0,3,0.0
+Tunis,Tunis,Maison,À Vendre,170.0,,4,0.0
+Ariana,Ariana,villa,À Vendre,481.0,2.0,4,1190000.0
+Le Kef,Le_Kef,,À Vendre,230.0,3.0,7,0.0
+Sfax,Sfax,Maison,À Vendre,,,3,220.0
+Tunis,Tunis,Maison,À Vendre,207.0,1.0,3,250.0
+Béja,Bja,Maison,À Vendre,200.0,1.0,4,0.0
+Nabeul,Nabeul,villa,À Vendre,750.0,2.0,4,
+Tunis,Tunis,,À Vendre,680.0,4.0,4,800000.0
+Sfax,Sfax,,À Vendre,1472.0,2.0,3,700000.0
+Nabeul,Nabeul,villa,À Vendre,300.0,3.0,4,600000.0
+Tunis,Tunis,Maison,À Vendre,108.0,1.0,2,50000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,100.0,2.0,5,180.0
+Ariana,Ariana,villa,À Vendre,550.0,3.0,7,450000.0
+La Manouba,La_Manouba,Maison,À Vendre,280.0,3.0,7,300.0
+Tunis,Tunis,villa,À Vendre,300.0,2.0,5,750000.0
+Ariana,Ariana,Maison,À Vendre,,,,100.0
+Tunis,Tunis,villa,À Vendre,600.0,3.0,6,3300000.0
+Médenine,Mdenine,villa,À Vendre,220.0,4.0,5,820000.0
+Tunis,Tunis,villa,À Vendre,498.0,2.0,12,1180000.0
+Tunis,Tunis,villa,À Vendre,1000.0,3.0,7,2200000.0
+Tunis,Tunis,,À Vendre,145.0,3.0,7,550000.0
+Tunis,Tunis,,À Vendre,150.0,3.0,4,520000.0
+Bizerte,Bizerte,,À Vendre,95.0,1.0,2,350000.0
+Sfax,Sfax,villa,À Vendre,,,4,700000.0
+Tunis,Tunis,villa,À Vendre,294.0,3.0,5,640000.0
+Nabeul,Nabeul,Maison,À Vendre,,,8,1.85
+Sfax,Sfax,villa,À Vendre,650.0,1.0,3,250000.0
+Tunis,Tunis,villa,À Vendre,90.0,1.0,2,235000.0
+Ben Arous,Ben_Arous,villa,À Vendre,270.0,0.0,6,550000.0
+La Manouba,La_Manouba,,À Vendre,1654.0,6.0,10,900000.0
+Sfax,Sfax,,À Vendre,3000.0,1.0,4,0.0
+Tunis,Tunis,Maison,À Vendre,128.0,3.0,7,399999.0
+La Manouba,La_Manouba,villa,sale,,,,1200.0
+Ben Arous,Ben_Arous,,À Vendre,500.0,3.0,3,749999.0
+Ben Arous,Ben_Arous,villa,À Vendre,103.0,1.0,2,239000.0
+Ben Arous,Ben_Arous,,À Vendre,500.0,2.0,6,630000.0
+Ben Arous,Ben_Arous,,À Vendre,300.0,2.0,3,328000.0
+Ben Arous,Ben_Arous,,À Vendre,200.0,1.0,1,248000.0
+Ben Arous,Ben_Arous,,À Vendre,750.0,2.0,4,950000.0
+Ben Arous,Ben_Arous,villa,À Vendre,400.0,2.0,4,890000.0
+Sousse,Sousse,villa,À Vendre,200.0,2.0,3,380000.0
+Sousse,Sousse,Maison,À Vendre,,1.0,4,424000.0
+Tunis,Tunis,villa,À Vendre,505.0,2.0,5,720000.0
+Sousse,Sousse,Maison,À Vendre,70.0,2.0,3,180000.0
+Tunis,Tunis,villa,À Vendre,450.0,2.0,4,700000.0
+Gabès,Gabs,,À Vendre,150.0,1.0,4,120000.0
+La Manouba,La_Manouba,Maison,À Vendre,432.0,2.0,3,1.0
+Ben Arous,Ben_Arous,Maison,À Vendre,,,2,0.0
+Tunis,Tunis,Maison,À Vendre,,,3,0.0
+Ariana,Ariana,villa,À Vendre,206.0,3.0,4,310.0
+Ben Arous,Ben_Arous,Maison,À Vendre,122.0,0.0,3,170000.0
+Tunis,Tunis,Maison,À Vendre,143.0,1.0,3,265.0
+Ben Arous,Ben_Arous,villa,À Vendre,705.0,3.0,5,975000.0
+La Manouba,La_Manouba,Maison,À Vendre,110.0,,,220.0
+Ariana,Ariana,Appartement,À Vendre,169.0,0.0,7,380000.0
+Nabeul,Nabeul,villa,À Vendre,514.0,6.0,5,0.0
+Sfax,Sfax,villa,À Vendre,700.0,1.0,6,3.0
+Ariana,Ariana,Maison,À Vendre,500.0,1.0,4,500000.0
+Ariana,Ariana,villa,À Vendre,400.0,5.0,5,0.0
+Tunis,Tunis,Maison,À Vendre,150.0,1.0,2,140000000.0
+Tunis,Tunis,Maison,À Vendre,145.0,1.0,3,250000.0
+La Manouba,La_Manouba,Maison,À Vendre,,,6,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,410.0,1.0,3,100000000000.0
+Nabeul,Nabeul,villa,À Louer,1000.0,3.0,4,650000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,415.0,1.0,3,460000.0
+Tunis,Tunis,villa,À Vendre,387.0,2.0,6,250000.0
+Ben Arous,Ben_Arous,,À Vendre,135.0,0.0,4,400000.0
+Ben Arous,Ben_Arous,villa,À Vendre,387.0,2.0,5,480000.0
+Ben Arous,Ben_Arous,villa,À Vendre,618.0,2.0,5,580000.0
+Ariana,Ariana,Maison,À Vendre,250.0,3.0,4,295000.0
+Ben Arous,Ben_Arous,villa,À Vendre,315.0,1.0,4,550000.0
+Ben Arous,Ben_Arous,,,,,10,850.0
+Tunis,Tunis,villa,À Vendre,402.0,2.0,6,950000.0
+Sousse,Sousse,,À Vendre,131.0,2.0,6,400000.0
+Ariana,Ariana,,À Vendre,100.0,3.0,5,380000.0
+Sousse,Sousse,Maison,À Vendre,110.0,1.0,3,245000.0
+Sousse,Sousse,villa,À Vendre,350.0,2.0,3,179998.0
+Ben Arous,Ben_Arous,Appartement,À Vendre,76.0,0.0,2,89000.0
+Tunis,Tunis,villa,À Vendre,300.0,3.0,6,950000.0
+Ben Arous,Ben_Arous,,À Vendre,,,,263.0
+Tunis,Tunis,villa,À Vendre,,,,650000.0
+Ariana,Ariana,villa,À Vendre,958.0,3.0,4,2000000.0
+Ariana,Ariana,villa,À Vendre,530.0,4.0,6,1500000.0
+Ariana,Ariana,Maison,À Vendre,1000.0,1.0,4,590.0
+Jendouba,Jendouba,,À Vendre,35.0,1.0,1,98000.0
+Ben Arous,Ben_Arous,Appartement,À Vendre,200.0,2.0,6,150.0
+Tunis,Tunis,villa,À Vendre,316.0,4.0,6,1500000.0
+La Manouba,La_Manouba,villa,À Vendre,2000.0,,,900000.0
+Bizerte,Bizerte,Maison,À Vendre,,,2,120.0
+Ben Arous,Ben_Arous,,À Vendre,260.0,2.0,2,359999.0
+Le Kef,Le_Kef,villa,À Vendre,580.0,2.0,3,370000.0
+Sousse,Sousse,villa,À Louer,210.0,2.0,5,550.0
+Mahdia,Mahdia,Maison,À Vendre,80.0,1.0,2,0.0
+Ariana,Ariana,,À Vendre,415.0,5.0,5,1480000.0
+Nabeul,Nabeul,villa,À Vendre,380.0,5.0,5,1150000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,150.0,1.0,3,120000.0
+Tunis,Tunis,,À Vendre,120.0,1.0,4,120000.0
+Tunis,Tunis,villa,À Vendre,510.0,2.0,7,950000.0
+Ben Arous,Ben_Arous,villa,À Vendre,510.0,4.0,6,850000.0
+Tunis,Tunis,villa,À Vendre,90.0,1.0,4,0.0
+Tunis,Tunis,Appartement,À Vendre,140.0,1.0,2,0.0
+Nabeul,Nabeul,villa,À Vendre,500.0,3.0,4,550000.0
+Le Kef,Le_Kef,villa,À Vendre,550.0,2.0,4,365000.0
+Nabeul,Nabeul,,À Vendre,785.0,4.0,4,1100000.0
+Tunis,Tunis,Maison,À Vendre,115.0,2.0,6,210.0
+Le Kef,Le_Kef,villa,À Vendre,200.0,1.0,3,150000.0
+Béja,Bja,,À Vendre,477.0,5.0,8,550000.0
+Ariana,Ariana,villa,À Vendre,750.0,1.0,7,
+Sfax,Sfax,Maison,À Vendre,,,2,85.0
+Bizerte,Bizerte,Maison,À Vendre,130.0,1.0,6,
+Ariana,Ariana,Maison,À Vendre,,,,270.0
+Sousse,Sousse,villa,À Vendre,380.0,2.0,3,0.0
+Ben Arous,Ben_Arous,,À Vendre,200.0,2.0,3,370000.0
+Le Kef,Le_Kef,,À Vendre,500.0,1.0,3,350000.0
+Nabeul,Nabeul,villa,À Vendre,226.0,6.0,13,920000.0
+Kairouan,Kairouan,,À Vendre,200.0,1.0,3,230000.0
+Le Kef,Le_Kef,villa,À Vendre,750.0,2.0,4,700000.0
+Tunis,Tunis,villa,À Vendre,388.0,1.0,3,1400000.0
+Sfax,Sfax,villa,À Vendre,400.0,3.0,3,360000.0
+Tunis,Tunis,villa,À Vendre,410.0,-3.0,,530.0
+Sfax,Sfax,Maison,À Vendre,406.0,1.0,3,180000.0
+Tunis,Tunis,Maison,À Vendre,105.0,0.0,4,160000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,1.0,2.0,6,0.0
+Ariana,Ariana,villa,À Vendre,440.0,2.0,4,1300000.0
+Tunis,Tunis,,À Vendre,970.0,6.0,9,0.0
+Sfax,Sfax,,À Vendre,,,,850.0
+Tunis,Tunis,,À Vendre,140.0,1.0,2,120.0
+Tunis,Tunis,villa,À Vendre,160.0,2.0,3,480000.0
+Nabeul,Nabeul,villa,À Vendre,640.0,2.0,7,0.0
+Ariana,Ariana,villa,À Vendre,220.0,5.0,8,900000.0
+Ben Arous,Ben_Arous,Maison,sale,,2.0,,210000.0
+Ariana,Ariana,villa,À Vendre,480.0,2.0,4,680000.0
+Nabeul,Nabeul,,À Vendre,174.0,1.0,4,250000.0
+Ben Arous,Ben_Arous,villa,À Vendre,350.0,1.0,3,480000.0
+Tunis,Tunis,villa,À Vendre,300.0,2.0,4,500000.0
+Mahdia,Mahdia,villa,À Vendre,,,,0.0
+Nabeul,Nabeul,villa,À Vendre,269.0,1.0,2,0.0
+Jendouba,Jendouba,villa,À Vendre,120.0,1.0,3,98000.0
+Sousse,Sousse,,À Vendre,360.0,2.0,3,0.0
+Ariana,Ariana,villa,À Vendre,230.0,4.0,4,355000.0
+Tunis,Tunis,villa,À Vendre,422.0,,07,1450000.0
+Ariana,Ariana,villa,À Vendre,150.0,6.0,8,0.0
+Tunis,Tunis,,À Vendre,200.0,3.0,6,220000.0
+Nabeul,Nabeul,Maison,À Vendre,250.0,0.0,0,0.0
+Sousse,Sousse,villa,À Vendre,150.0,0.0,5,1.0
+Ariana,Ariana,villa,À Vendre,542.0,4.0,4,2400.0
+Médenine,Mdenine,villa,À Vendre,375.0,2.0,5,270.0
+Ben Arous,Ben_Arous,Maison,À Vendre,146.0,2.0,5,330000.0
+Ben Arous,Ben_Arous,,À Vendre,100.0,2.0,6,300000.0
+Tunis,Tunis,,À Vendre,480.0,3.0,5,1100000.0
+La Manouba,La_Manouba,villa,À Vendre,,,4,0.0
+Sfax,Sfax,Maison,À Vendre,670.0,4.0,4,0.0
+Tunis,Tunis,,À Louer,200.0,3.0,3,455000.0
+La Manouba,La_Manouba,,À Vendre,152.0,1.0,6,9.0
+Sousse,Sousse,Maison,À Vendre,300.0,1.0,3,365.0
+Nabeul,Nabeul,,À Vendre,133.0,2.0,3,90000.0
+Nabeul,Nabeul,Maison,À Vendre,170.0,1.0,3,200.0
+Bizerte,Bizerte,villa,À Vendre,550.0,3.0,5,1.0
+Tunis,Tunis,,À Vendre,640.0,4.0,10,900000.0
+Tunis,Tunis,villa,À Vendre,580.0,4.0,8,880000.0
+Monastir,Monastir,Maison,À Vendre,155.0,3.0,9,280.0
+Ben Arous,Ben_Arous,Maison,À Vendre,341.0,0.0,2,1.0
+Tozeur,Tozeur,Maison,À Vendre,800.0,2.0,4,800000.0
+Ariana,Ariana,villa,À Vendre,190.0,2.0,3,590000.0
+Nabeul,Nabeul,Maison,À Vendre,72.0,0.0,1,100000.0
+Tunis,Tunis,villa,À Vendre,278.0,1.0,3,1100000.0
+Ariana,Ariana,villa,À Vendre,500.0,3.0,4,1350000.0
+Ariana,Ariana,Maison,À Vendre,,,,500000000.0
+Ben Arous,Ben_Arous,Appartement,À Louer,,,2,215.0
+Ben Arous,Ben_Arous,Maison,À Vendre,269.0,2.0,5,1.0
+Ben Arous,Ben_Arous,villa,À Vendre,420.0,2.0,10,0.0
+Nabeul,Nabeul,,À Vendre,133.0,2.0,3,90000.0
+La Manouba,La_Manouba,,À Vendre,105.0,1.0,2,97000.0
+Ben Arous,Ben_Arous,villa,À Vendre,381.0,1.0,1,0.0
+Ben Arous,Ben_Arous,villa,,,,,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,213.0,1.0,3,275.0
+Tunis,Tunis,Maison,À Vendre,130.0,3.0,12,290000.0
+Ariana,Ariana,villa,À Vendre,646.0,2.0,5,1500000.0
+Nabeul,Nabeul,villa,À Vendre,500.0,2.0,4,1.0
+Bizerte,Bizerte,Maison,À Vendre,333.0,1.0,4,1.0
+Tunis,Tunis,villa,À Vendre,423.0,6.0,12,0.0
+Sousse,Sousse,Maison,À Vendre,,,4,140.0
+Ariana,Ariana,Maison,À Vendre,214.0,1.0,1,165000.0
+Ben Arous,Ben_Arous,villa,À Vendre,270.0,4.0,6,1234.0
+Ben Arous,Ben_Arous,villa,À Vendre,204.0,3.0,6,350000.0
+Nabeul,Nabeul,,À Vendre,165.0,4.0,4,590000.0
+Ariana,Ariana,villa,À Vendre,300.0,3.0,5,1000000.0
+Sfax,Sfax,,À Vendre,100.0,1.0,2,149000.0
+Ben Arous,Ben_Arous,villa,À Vendre,326.0,2.0,5,1111.0
+Gafsa,Gafsa,Maison,À Vendre,2100.0,1.0,4,110.0
+Le Kef,Le_Kef,,À Vendre,1.0,1.0,1,0.0
+Kairouan,Kairouan,villa,À Vendre,392.0,3.0,3,620000.0
+Nabeul,Nabeul,villa,À Vendre,300.0,3.0,4,0.0
+Tunis,Tunis,Maison,À Vendre,246.0,2.0,6,185.0
+Nabeul,Nabeul,,À Vendre,193.0,1.0,4,250000.0
+Kairouan,Kairouan,Maison,À Vendre,222.0,1.0,4,1.0
+Nabeul,Nabeul,Maison,À Vendre,500.0,4.0,4,0.0
+Sousse,Sousse,villa,À Vendre,265.0,5.0,6,920000.0
+Tunis,Tunis,,À Vendre,,,,1600.0
+Nabeul,Nabeul,Maison,À Vendre,300.0,4.0,3,1.0
+Ben Arous,Ben_Arous,Maison,À Vendre,400.0,2.0,3,600000.0
+Tunis,Tunis,,À Vendre,210.0,2.0,3,600000.0
+Sfax,Sfax,,À Vendre,339.0,1.0,3,320000.0
+Tunis,Tunis,villa,À Vendre,110.0,1.0,2,130000.0
+Tunis,Tunis,Maison,À Vendre,126.0,1.0,1,250000.0
+Nabeul,Nabeul,villa,À Vendre,275.0,4.0,2,820000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,,,3,120.0
+Nabeul,Nabeul,Maison,À Vendre,300.0,2.0,3,0.0
+Nabeul,Nabeul,villa,À Vendre,500.0,2.0,4,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,248.0,2.0,5,660.0
+Nabeul,Nabeul,villa,À Vendre,250.0,0.0,3,750000.0
+Ariana,Ariana,villa,À Vendre,436.0,1.0,3,350000.0
+Tunis,Tunis,villa,À Vendre,412.0,3.0,4,3300000.0
+La Manouba,La_Manouba,villa,À Vendre,200.0,1.0,3,175000.0
+Tunis,Tunis,,À Vendre,395.0,1.0,13,579.0
+Tunis,Tunis,,À Vendre,1074.0,5.0,6,1600000.0
+Tunis,Tunis,villa,À Vendre,2100.0,5.0,6,7000000.0
+Tunis,Tunis,,À Vendre,380.0,2.0,4,450000.0
+Nabeul,Nabeul,villa,À Vendre,200.0,150.0,3,330000.0
+Tunis,Tunis,,À Vendre,,,4,420000000.0
+Nabeul,Nabeul,Maison,À Vendre,177.0,2.0,5,1.0
+Nabeul,Nabeul,villa,À Vendre,300.0,1.0,4,0.0
+Tunis,Tunis,,À Vendre,782.0,4.0,10,1000000.0
+Tunis,Tunis,villa,À Vendre,340.0,1.0,1,0.0
+Sousse,Sousse,villa,À Vendre,380.0,0.0,6,850000.0
+Tunis,Tunis,villa,À Vendre,475.0,2.0,4,700000.0
+Nabeul,Nabeul,,À Vendre,555.0,1.0,3,649999998.0
+Nabeul,Nabeul,villa,À Vendre,306.0,4.0,3,0.0
+Nabeul,Nabeul,Maison,À Vendre,100.0,2.0,2,264.0
+Nabeul,Nabeul,villa,À Vendre,900.0,4.0,6,2100000.0
+Nabeul,Nabeul,,À Vendre,200.0,2.0,2,350000.0
+Tunis,Tunis,villa,À Vendre,1100.0,6.0,5,8000000.0
+Gabès,Gabs,Maison,À Louer,120.0,1.0,3,0.0
+Sousse,Sousse,Maison,,,,,
+Ariana,Ariana,villa,À Vendre,3000.0,0.0,5,1.0
+Jendouba,Jendouba,villa,À Vendre,,,,960000.0
+Ariana,Ariana,villa,À Vendre,400.0,2.0,4,860000.0
+Nabeul,Nabeul,Maison,À Vendre,350.0,2.0,4,100.0
+Monastir,Monastir,Appartement,À Vendre,160.0,2.0,03,280000.0
+Tunis,Tunis,villa,À Vendre,228.0,3.0,4,600000.0
+Ariana,Ariana,,À Vendre,300.0,3.0,3,800000.0
+Tunis,Tunis,,À Vendre,312.0,4.0,3,1650000.0
+Tunis,Tunis,Appartement,À Vendre,430.0,3.0,5,880000.0
+Tunis,Tunis,,À Vendre,105.0,2.0,2,650000.0
+Ariana,Ariana,villa,À Vendre,480.0,2.0,0,419.0
+Sousse,Sousse,,À Vendre,,,2,0.0
+Tunis,Tunis,villa,À Vendre,650.0,2.0,5,850000.0
+Sfax,Sfax,villa,À Vendre,,,,360000.0
+La Manouba,La_Manouba,villa,À Vendre,499.0,1.0,4,370.0
+Ariana,Ariana,Maison,À Vendre,150.0,1.0,4,0.0
+Nabeul,Nabeul,,À Vendre,,,3,1.0
+Ben Arous,Ben_Arous,villa,À Vendre,600.0,2.0,4,950000.0
+Gabès,Gabs,Maison,À Vendre,116.0,1.0,2,335.0
+Tunis,Tunis,villa,À Vendre,2314.0,7.0,8,9000000.0
+Ariana,Ariana,Maison,À Vendre,103.0,1.0,3,195000.0
+Nabeul,Nabeul,villa,À Vendre,500.0,3.0,4,550000.0
+Sousse,Sousse,villa,À Vendre,237.0,1.0,2,340.0
+Ariana,Ariana,villa,À Vendre,,,3,
+Nabeul,Nabeul,,À Vendre,133.0,2.0,3,110000.0
+Sfax,Sfax,villa,À Vendre,400.0,2.0,4,530000.0
+Ariana,Ariana,Maison,À Vendre,230.0,2.0,4,250.0
+Ariana,Ariana,Maison,,,,4,1.0
+Tunis,Tunis,villa,À Vendre,235.0,3.0,4,900000.0
+Sousse,Sousse,Maison,À Vendre,492.0,3.0,3,900000.0
+Ariana,Ariana,villa,À Vendre,750.0,4.0,5,1100000.0
+Ben Arous,Ben_Arous,villa,À Vendre,550.0,3.0,6,1200000.0
+Médenine,Mdenine,Maison,À Vendre,600.0,5.0,10,0.0
+Médenine,Mdenine,villa,À Vendre,395.0,2.0,3,0.0
+Médenine,Mdenine,villa,À Vendre,422.0,1.0,3,0.0
+Médenine,Mdenine,villa,À Vendre,1500.0,2.0,2,0.0
+La Manouba,La_Manouba,villa,À Vendre,400.0,3.0,5,1.0
+Sousse,Sousse,villa,À Vendre,387.0,0.0,4,650000.0
+Le Kef,Le_Kef,Maison,À Vendre,235.0,2.0,3,0.0
+Ben Arous,Ben_Arous,Appartement,À Vendre,90.0,1.0,2,80.0
+Nabeul,Nabeul,Maison,À Vendre,148.0,,,0.0
+Ariana,Ariana,villa,À Vendre,150.0,6.0,8,0.0
+Le Kef,Le_Kef,Maison,À Vendre,264.0,1.0,4,155000.0
+Ariana,Ariana,villa,À Vendre,240.0,1.0,3,350.0
+Ben Arous,Ben_Arous,Maison,À Vendre,345.0,5.0,13,480000.0
+Monastir,Monastir,villa,À Vendre,1020.0,5.0,8,123456.0
+Ben Arous,Ben_Arous,Maison,À Vendre,375.0,5.0,13,480.0
+Sousse,Sousse,villa,À Vendre,1975.0,2.0,5,1700000.0
+Tunis,Tunis,Maison,À Vendre,165.0,,,0.0
+Ben Arous,Ben_Arous,,À Vendre,230.0,2.0,4,1.0
+Nabeul,Nabeul,villa,À Vendre,,,,
+Tunis,Tunis,villa,À Vendre,760.0,4.0,4,2.0
+Sfax,Sfax,villa,À Vendre,820.0,1.0,4,549999.0
+Tunis,Tunis,Maison,À Vendre,100.0,3.0,10,250.0
+Bizerte,Bizerte,villa,À Vendre,243.0,2.0,2,350000.0
+Tunis,Tunis,,À Vendre,888.0,3.0,7,1350.0
+Ariana,Ariana,villa,À Vendre,405.0,5.0,12,750000.0
+Sousse,Sousse,villa,À Vendre,252.0,0.0,3,1.0
+Sousse,Sousse,,À Vendre,1276.0,7.0,21,1900000.0
+Sousse,Sousse,villa,À Vendre,580.0,1.0,2,850000.0
+Monastir,Monastir,villa,À Vendre,750.0,2.0,5,2000000000.0
+Sousse,Sousse,villa,À Vendre,525.0,2.0,4,1350000.0
+Sousse,Sousse,villa,À Vendre,483.0,4.0,3,1700000.0
+Sousse,Sousse,villa,À Vendre,777.0,2.0,4,1800000000.0
+La Manouba,La_Manouba,villa,À Vendre,542.0,2.0,4,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,350.0,2.0,4,580.0
+Ben Arous,Ben_Arous,Maison,À Vendre,110.0,1.0,2,110.0
+Ben Arous,Ben_Arous,villa,À Vendre,350.0,2.0,4,580.0
+Ariana,Ariana,Maison,À Vendre,542.0,1.0,3,1.0
+Nabeul,Nabeul,villa,À Vendre,170.0,1.0,3,180000.0
+Gabès,Gabs,Maison,À Vendre,506.0,1.0,3,250000.0
+La Manouba,La_Manouba,villa,À Vendre,500.0,3.0,4,0.0
+Sousse,Sousse,,À Louer,1.0,1.0,2,400000.0
+Tunis,Tunis,villa,À Vendre,454.0,2.0,4,1080000.0
+Nabeul,Nabeul,villa,À Louer,600.0,3.0,2,750000.0
+Ariana,Ariana,villa,À Vendre,740.0,1.0,3,1.0
+Ariana,Ariana,villa,À Vendre,500.0,3.0,5,1300000.0
+Tunis,Tunis,villa,À Vendre,114.0,1.0,2,325000.0
+Ariana,Ariana,Maison,À Vendre,,,3,299999.0
+Ben Arous,Ben_Arous,villa,À Vendre,340.0,2.0,3,520.0
+Ben Arous,Ben_Arous,Maison,À Vendre,171.0,-1.0,,220000.0
+La Manouba,La_Manouba,Maison,,,,4,0.0
+Nabeul,Nabeul,villa,À Vendre,134.0,,,150000.0
+Sousse,Sousse,villa,À Vendre,385.0,3.0,6,900000.0
+Kairouan,Kairouan,Maison,À Vendre,214.0,1.0,3,350000.0
+Sousse,Sousse,,À Vendre,297.0,1.0,4,424000.0
+Nabeul,Nabeul,villa,À Vendre,900.0,4.0,6,2000000.0
+Sousse,Sousse,Maison,À Vendre,,2.0,4,650000.0
+Sfax,Sfax,Maison,À Louer,90.0,2.0,4,0.0
+Ben Arous,Ben_Arous,Maison,À Vendre,100.0,1.0,2,165000.0
+Tunis,Tunis,villa,À Vendre,299.0,2.0,5,520000.0
+Ariana,Ariana,Maison,À Vendre,103.0,1.0,3,195000.0
+Zaghouan,Zaghouan,,À Vendre,170.0,2.0,5,390000.0
+Zaghouan,Zaghouan,villa,À Vendre,150.0,1.0,3,220000.0
+Ariana,Ariana,villa,À Vendre,500.0,5.0,04,1150000.0
+Tunis,Tunis,villa,À Vendre,142.0,2.0,3,330.0
+Sousse,Sousse,villa,À Vendre,378.0,2.0,5,47.0
+Sfax,Sfax,Maison,À Vendre,1347.0,,,0.0
+La Manouba,La_Manouba,villa,À Vendre,134.0,1.0,5,160000.0
+Ben Arous,Ben_Arous,villa,À Vendre,700.0,3.0,5,1600000.0
+Tunis,Tunis,,À Vendre,100.0,2.0,1,250000.0
+La Manouba,La_Manouba,villa,À Vendre,500.0,2.0,3,520000.0
+Sousse,Sousse,villa,À Vendre,500.0,3.0,4,1600000.0
+Ben Arous,Ben_Arous,villa,sale,,2.0,,680000.0
+Ben Arous,Ben_Arous,,À Vendre,100.0,2.0,4,155000.0
+Nabeul,Nabeul,Maison,À Vendre,189.0,2.0,3,260000.0
+Médenine,Mdenine,villa,À Vendre,253.0,2.0,4,240000.0
+Ariana,Ariana,Maison,À Vendre,100.0,2.0,3,220.0
+Ben Arous,Ben_Arous,,À Vendre,508.0,4.0,9,1200000.0
+La Manouba,La_Manouba,villa,À Vendre,1000.0,2.0,4,580000.0
+Médenine,Mdenine,,À Vendre,600.0,,,145000.0
+Tunis,Tunis,Maison,À Vendre,110.0,1.0,2,1.0
+Sousse,Sousse,Maison,À Vendre,155.0,1.0,3,350000.0
+Médenine,Mdenine,,À Vendre,550.0,5.0,12,0.0
+Sousse,Sousse,Maison,À Vendre,184.0,0.0,0,1.0
+Ariana,Ariana,villa,À Vendre,10000.0,3.0,4,0.0
+Tunis,Tunis,villa,À Vendre,563.0,2.0,4,1300000.0
+Tunis,Tunis,villa,À Vendre,622.0,4.0,8,1450000.0
+Sousse,Sousse,Maison,À Vendre,106.0,0.0,0,298000.0
+Ariana,Ariana,villa,À Vendre,133.0,2.0,3,210.0
+Tunis,Tunis,,À Vendre,300.0,4.0,4,2.3
+Ariana,Ariana,villa,À Vendre,750.0,1.0,0,1300000.0
+Ben Arous,Ben_Arous,,À Vendre,,,,280.0
+Ben Arous,Ben_Arous,villa,À Vendre,210.0,2.0,3,400000.0
+Ariana,Ariana,Maison,À Vendre,250.0,1.0,2,285000.0
+Sfax,Sfax,villa,,,,4,0.0
+Tunis,Tunis,villa,À Vendre,425.0,3.0,6,1400000.0
+Tunis,Tunis,villa,À Vendre,205.0,2.0,3,600000.0
+La Manouba,La_Manouba,villa,À Vendre,150.0,1.0,4,300000.0
+Mahdia,Mahdia,villa,À Vendre,246.0,2.0,6,550000.0
+Tunis,Tunis,,À Vendre,205.0,2.0,5,230.0
+Médenine,Mdenine,Maison,À Vendre,300.0,1.0,2,0.0
+Tunis,Tunis,,À Vendre,125.0,1.0,2,375000.0
+Sfax,Sfax,villa,À Vendre,1020.0,3.0,12,1250.0
+Nabeul,Nabeul,villa,À Vendre,,,3,750000.0
+Sousse,Sousse,villa,À Vendre,500.0,1.0,3,1500.0
+Ariana,Ariana,villa,À Vendre,370.0,2.0,3,1.0
+Nabeul,Nabeul,villa,À Vendre,280.0,2.0,5,600.0
+Nabeul,Nabeul,villa,À Vendre,850.0,1.0,3,900000.0
+Ben Arous,Ben_Arous,villa,À Vendre,566.0,2.0,3,0.0
+Nabeul,Nabeul,,À Vendre,420.0,1.0,2,330000.0
+Ariana,Ariana,Maison,À Vendre,520.0,1.0,4,1111111.0
+Sfax,Sfax,Appartement,À Louer,160.0,1.0,2,800000.0
+Ariana,Ariana,Appartement,À Vendre,450.0,6.0,12,750000.0
+Sfax,Sfax,,À Vendre,1000.0,1.0,4,400.0
+Jendouba,Jendouba,Maison,À Vendre,92.0,1.0,3,88000.0
+Sousse,Sousse,Maison,À Vendre,200.0,2.0,7,430000.0
+La Manouba,La_Manouba,Maison,À Vendre,103.0,2.0,6,200000.0
+Bizerte,Bizerte,,À Vendre,0.0,0.0,0,2000.0
+Tunis,Tunis,Maison,À Vendre,,3.0,,200000.0
+Sousse,Sousse,,À Vendre,200.0,2.0,4,195.0
+Nabeul,Nabeul,villa,À Vendre,200.0,5.0,4,590000.0
+Sousse,Sousse,Maison,À Vendre,150.0,1.0,2,130000.0
+Sidi Bouzid,Sidi_Bouzid,Maison,À Vendre,300.0,1.0,3,120000.0
+La Manouba,La_Manouba,villa,À Vendre,252.0,2.0,3,285000.0
+Nabeul,Nabeul,villa,À Vendre,405.0,0.0,5,850000.0
+Nabeul,Nabeul,villa,À Vendre,500.0,3.0,4,1200000.0
+Ariana,Ariana,,À Vendre,270.0,4.0,7,450000.0
+Sousse,Sousse,Maison,À Vendre,246.0,1.0,3,172000.0
+Sousse,Sousse,,À Vendre,130.0,0.0,0,0.0
+Ben Arous,Ben_Arous,Maison,À Vendre,140.0,1.0,2,280000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,580.0,1.0,3,450.0
+Tunis,Tunis,,À Vendre,444.0,2.0,3,380000.0
+Sousse,Sousse,villa,À Vendre,492.0,2.0,4,850000.0
+Sousse,Sousse,villa,À Vendre,250.0,2.0,4,980000.0
+Ariana,Ariana,villa,À Vendre,834.0,4.0,6,2600000.0
+Tunis,Tunis,villa,À Vendre,,,,1800000.0
+Nabeul,Nabeul,Maison,À Vendre,500.0,1.0,4,1.0
+Ben Arous,Ben_Arous,,À Vendre,,2.0,,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,,,,580000.0
+La Manouba,La_Manouba,,À Vendre,400.0,4.0,6,650.0
+Ben Arous,Ben_Arous,villa,À Vendre,200.0,,,750000.0
+Nabeul,Nabeul,villa,À Vendre,240.0,3.0,4,630000.0
+Nabeul,Nabeul,villa,À Vendre,218.0,0.0,4,460000.0
+Nabeul,Nabeul,Maison,À Vendre,143.0,2.0,3,160000.0
+Tunis,Tunis,villa,À Vendre,470.0,2.0,8,520000.0
+Gafsa,Gafsa,villa,À Vendre,444.0,1.0,4,500000.0
+Ariana,Ariana,villa,À Vendre,400.0,1.0,5,900.0
+Ariana,Ariana,villa,À Vendre,850.0,6.0,6,2000000.0
+Tunis,Tunis,,À Vendre,200.0,2.0,3,900000.0
+Tunis,Tunis,,À Vendre,270.0,2.0,6,1160000.0
+Tunis,Tunis,Maison,À Vendre,400.0,1.0,2,800000.0
+Ariana,Ariana,Maison,À Vendre,400.0,1.0,5,650.0
+La Manouba,La_Manouba,Maison,À Vendre,140.0,2.0,3,210000.0
+Ariana,Ariana,villa,À Vendre,370.0,2.0,3,1.0
+Sousse,Sousse,Maison,À Vendre,180.0,1.0,3,230000.0
+Sousse,Sousse,Maison,À Vendre,150.0,2.0,4,150000.0
+Sousse,Sousse,Appartement,À Vendre,120.0,2.0,3,500000.0
+Tunis,Tunis,villa,À Vendre,450.0,2.0,6,750000.0
+Sousse,Sousse,Maison,À Vendre,155.0,2.0,2,225000.0
+Sousse,Sousse,villa,À Vendre,446.0,2.0,2,560000.0
+Sousse,Sousse,villa,À Vendre,210.0,1.0,1,0.0
+Sousse,Sousse,,À Vendre,320.0,2.0,3,370.0
+Ben Arous,Ben_Arous,,À Vendre,305.0,2.0,6,450000.0
+Tunis,Tunis,villa,À Vendre,540.0,4.0,8,1500.0
+Sfax,Sfax,,À Vendre,0.0,0.0,0,3000.0
+Sousse,Sousse,Appartement,À Vendre,400.0,1.0,3,300000.0
+Tunis,Tunis,Maison,À Vendre,100.0,1.0,3,90.0
+Ben Arous,Ben_Arous,Maison,À Vendre,269.0,2.0,5,1.0
+Ben Arous,Ben_Arous,villa,À Vendre,500.0,3.0,5,750000.0
+Ariana,Ariana,Maison,À Vendre,,,4,600000.0
+Nabeul,Nabeul,Maison,À Vendre,300.0,2.0,4,1.0
+Sfax,Sfax,villa,À Vendre,220.0,2.0,5,0.0
+Nabeul,Nabeul,Maison,À Vendre,,,,330000.0
+Bizerte,Bizerte,Maison,À Vendre,120.0,2.0,4,250000.0
+Nabeul,Nabeul,villa,À Vendre,,,3,850000.0
+Nabeul,Nabeul,villa,À Vendre,460.0,3.0,4,1.0
+Ben Arous,Ben_Arous,Maison,À Vendre,90.0,1.0,2,90000.0
+Sousse,Sousse,Appartement,À Vendre,360.0,3.0,5,520000.0
+Sousse,Sousse,Maison,À Vendre,120.0,1.0,3,87000.0
+Tunis,Tunis,villa,À Vendre,255.0,4.0,6,250000.0
+Bizerte,Bizerte,villa,À Vendre,162.0,2.0,4,330000.0
+Nabeul,Nabeul,villa,À Vendre,324.0,2.0,3,1050000.0
+Tunis,Tunis,villa,À Vendre,415.0,2.0,3,590000.0
+Ben Arous,Ben_Arous,villa,À Vendre,494.0,2.0,4,1.0
+Nabeul,Nabeul,Maison,À Vendre,143.0,2.0,3,0.0
+Ben Arous,Ben_Arous,villa,À Vendre,500.0,2.0,6,800000.0
+Ben Arous,Ben_Arous,,À Vendre,320000.0,5.0,4,3200000.0
+Tunis,Tunis,villa,À Vendre,900.0,2.0,4,2800000.0
+Bizerte,Bizerte,,À Vendre,234.0,2.0,4,150000.0
+Ariana,Ariana,villa,À Vendre,9.268,2.0,9,4000000000.0
+Mahdia,Mahdia,Maison,À Vendre,80.0,1.0,2,0.0
+Ben Arous,Ben_Arous,Maison,À Vendre,100.0,1.0,1,160.0
+Nabeul,Nabeul,villa,À Vendre,2380.0,5.0,8,4500000.0
+La Manouba,La_Manouba,Maison,À Vendre,,1.0,,330000.0
+La Manouba,La_Manouba,villa,À Vendre,340.0,5.0,8,0.0
+Sfax,Sfax,villa,À Vendre,800.0,2.0,7,0.0
+Médenine,Mdenine,villa,À Vendre,200.0,4.0,3,11111.0
+Médenine,Mdenine,villa,À Vendre,270.0,2.0,4,0.0
+Sfax,Sfax,Maison,À Vendre,,,,100000.0
+Médenine,Mdenine,villa,À Vendre,200.0,4.0,3,11111.0
+Ariana,Ariana,Maison,À Vendre,,,3,65.0
+Médenine,Mdenine,Maison,À Vendre,,2.0,,0.0
+Sousse,Sousse,villa,À Vendre,425.0,2.0,3,800000.0
+Tunis,Tunis,,À Vendre,152.0,1.0,3,220000.0
+Ben Arous,Ben_Arous,villa,À Vendre,273.0,,,580000.0
+Sousse,Sousse,Maison,À Vendre,360.0,1.0,2,330000.0
+Zaghouan,Zaghouan,villa,,,,,1.0
+Nabeul,Nabeul,villa,À Vendre,269.0,2.0,3,27240491.0
+Nabeul,Nabeul,Appartement,À Vendre,95.0,1.0,2,245000.0
+Nabeul,Nabeul,Maison,À Vendre,220.0,1.0,1,280000.0
+Nabeul,Nabeul,Maison,À Vendre,189.0,1.0,3,260000.0
+Sidi Bouzid,Sidi_Bouzid,villa,À Vendre,427.0,1.0,3,600000.0
+Nabeul,Nabeul,villa,À Vendre,204.0,2.0,3,670000.0
+Tunis,Tunis,Maison,À Vendre,,,,0.0
+Kairouan,Kairouan,Maison,À Vendre,280.0,1.0,3,0.0
+La Manouba,La_Manouba,Maison,À Vendre,264.0,1.0,4,350000.0
+Médenine,Mdenine,villa,À Vendre,350.0,2.0,3,0.0
+Sousse,Sousse,Maison,À Vendre,,,,0.0
+Tunis,Tunis,villa,À Vendre,580.0,3.0,6,1800000.0
+Sousse,Sousse,villa,À Vendre,250.0,2.0,3,320000.0
+Sousse,Sousse,villa,À Vendre,350.0,5.0,8,950000.0
+Sousse,Sousse,villa,À Louer,500.0,1.0,1,1100000.0
+Nabeul,Nabeul,villa,À Vendre,350.0,3.0,6,600000.0
+Ben Arous,Ben_Arous,,À Vendre,516.0,4.0,12,490000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,420.0,2.0,4,680.0
+Nabeul,Nabeul,villa,À Vendre,496.0,4.0,6,1.0
+Nabeul,Nabeul,villa,À Vendre,345.0,3.0,2,0.0
+Nabeul,Nabeul,Maison,À Vendre,150.0,2.0,2,0.0
+Ariana,Ariana,Appartement,À Vendre,90.0,1.0,2,120000.0
+Nabeul,Nabeul,Appartement,À Vendre,100.0,1.0,2,240000.0
+Nabeul,Nabeul,villa,À Vendre,345.0,3.0,4,845000.0
+Tunis,Tunis,villa,À Vendre,440.0,3.0,8,900000.0
+Ariana,Ariana,villa,À Vendre,370.0,4.0,5,1400000.0
+Tunis,Tunis,villa,À Vendre,750.0,5.0,5,0.0
+Ariana,Ariana,villa,À Vendre,370.0,3.0,7,900000.0
+Bizerte,Bizerte,villa,À Vendre,300.0,3.0,4,395.0
+Monastir,Monastir,Maison,À Vendre,,,,180.0
+Ariana,Ariana,Appartement,À Vendre,120.0,1.0,4,285.0
+Tunis,Tunis,Maison,À Vendre,,,,280000.0
+Sousse,Sousse,Maison,À Vendre,175.0,1.0,3,0.0
+Ben Arous,Ben_Arous,,À Vendre,100.0,2.0,6,370000.0
+Nabeul,Nabeul,villa,À Vendre,200.0,1.0,2,320000.0
+Nabeul,Nabeul,villa,À Vendre,278.0,3.0,5,0.0
+La Manouba,La_Manouba,,À Vendre,153.0,1.0,3,435000.0
+Tunis,Tunis,Maison,À Vendre,,,3,126.0
+Ariana,Ariana,,À Vendre,185.0,1.0,4,460000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,126.0,0.0,3,125000.0
+Ariana,Ariana,,À Vendre,100.0,1.0,2,150000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,100.0,1.0,4,185.0
+Ariana,Ariana,Maison,À Vendre,350.0,2.0,3,0.0
+Nabeul,Nabeul,villa,À Vendre,605.0,5.0,5,690000.0
+Ben Arous,Ben_Arous,villa,À Vendre,460.0,2.0,4,720000.0
+Sfax,Sfax,villa,À Vendre,543.0,,,0.0
+Tunis,Tunis,,À Vendre,200.0,2.0,3,480000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,485.0,2.0,3,280000.0
+Ariana,Ariana,villa,À Vendre,270.0,4.0,6,570000.0
+Ben Arous,Ben_Arous,Maison,À Vendre,370.0,2.0,4,379999.0
+Ariana,Ariana,villa,À Vendre,640.0,5.0,4,2.0
+Nabeul,Nabeul,villa,À Louer,267.0,2.0,2,630000.0
+Sfax,Sfax,villa,À Vendre,850.0,2.0,4,350000.0
+Ariana,,Appartement,À Vendre,150.0,2.0,3,360000.0
+Ariana,,,À Vendre,120.0,,5,260000.0
+Ariana,,Appartement,À Vendre,177.0,2.0,4,400000.0
+Ariana,,Appartement,À Vendre,150.0,3.0,3,400000.0
+Nabeul,,,À Vendre,190.0,5.0,5,220000.0
+Ariana,,,À Vendre,100.0,1.0,3,220000.0
+Ariana,,Appartement,À Vendre,200.0,1.0,2,100000.0
+Tunis,,Appartement,À Vendre,,,,176000.0
+Ariana,,Appartement,À Vendre,,,,315000.0
+Tunis,,Appartement,À Vendre,,,,0.0
+Tunis,,,À Vendre,80.0,1.0,2,325000.0
+Tunis,,Appartement,À Vendre,100.0,2.0,2,255000.0
+Tunis,,,À Vendre,113.0,2.0,2,330000.0
+Ariana,,,À Vendre,100.0,1.0,4,160000.0
+Tunis,,Appartement,À Vendre,1.0,1.0,1,1.0
+Tunis,,,À Vendre,,,,1.0
+Tunis,,,À Vendre,1.0,1.0,1,167000.0
+Tunis,,,À Vendre,57.0,1.0,1,165000.0
+Tunis,,,À Vendre,50.0,1.0,1,230.0
+Ben Arous,,Appartement,À Vendre,100.0,1.0,2,180000.0
+Tunis,,Appartement,À Vendre,110.0,1.0,3,250000.0
+Tunis,,,À Vendre,590.0,0.0,0,1.0
+Tunis,,Appartement,À Vendre,,,2,330.0
+Tunis,,,À Vendre,114.0,2.0,2,330000.0
+Tunis,,,À Vendre,140.0,2.0,3,315000.0
+Tunis,,Appartement,À Vendre,140.0,2.0,3,360000.0
+Tunis,,,À Vendre,61.0,1.0,1,1.0
+Ariana,,,À Vendre,110.0,2.0,3,240.0
+Ben Arous,,Appartement,À Vendre,100.0,1.0,2,230000.0
+Tunis,,,À Vendre,40.0,1.0,1,169000.0
+Ariana,,,À Vendre,65.0,1.0,1,199000.0
+Tunis,,,À Vendre,118.0,1.0,2,327000.0
+Tunis,,,À Vendre,59.0,1.0,1,176000.0
+Tunis,,,À Vendre,80.0,1.0,2,305000.0
+Nabeul,,Appartement,À Vendre,230.0,4.0,4,930000.0
+Ben Arous,,Appartement,À Vendre,77.0,1.0,2,190000.0
+Ben Arous,,Appartement,À Vendre,75.0,1.0,2,120000.0
+Ben Arous,,Appartement,À Vendre,108.0,2.0,3,290000.0
+Ben Arous,,Appartement,À Vendre,75.0,1.0,2,85000.0
+Ben Arous,,Appartement,À Vendre,80.0,1.0,2,200000.0
+Ben Arous,,Appartement,À Vendre,70.0,1.0,2,190000.0
+Ben Arous,,Appartement,À Vendre,76.0,1.0,2,100000.0
+Tunis,,,À Louer,100.0,1.0,1,240000.0
+Tunis,,,À Vendre,,1.0,2,200000.0
+Tunis,,Appartement,À Vendre,56.0,1.0,1,190000.0
+Tunis,,Appartement,À Vendre,48.0,1.0,1,167000.0
+Tunis,,Appartement,À Vendre,120.0,1.0,3,255000.0
+Tunis,,Appartement,À Vendre,54.0,1.0,1,185000.0
+Tunis,,,À Vendre,1.0,2.0,2,1.0
+Tunis,,Appartement,À Vendre,172.0,2.0,4,340000.0
+Tunis,,,À Vendre,108.0,1.0,2,250000.0
+Tunis,,,À Vendre,162.0,2.0,4,358000.0
+Nabeul,,Appartement,À Vendre,300.0,2.0,2,750000.0
+Sousse,,Appartement,À Vendre,,,1,330.0
+Ariana,,,À Vendre,87.0,1.0,1,290000.0
+Sousse,,Appartement,À Vendre,107.0,1.0,3,210000.0
+Nabeul,,,À Vendre,53.0,1.0,1,0.0
+Ariana,,,À Vendre,162.0,2.0,3,495000.0
+Ariana,,,À Vendre,,,,780.0
+Ariana,,Appartement,À Vendre,150.0,3.0,4,450000.0
+Ariana,,,À Vendre,175.0,2.0,3,575000.0
+Tunis,,Appartement,À Vendre,95.0,1.0,2,240000.0
+Nabeul,,,À Louer,114.0,2.0,2,400000.0
+Sousse,,Appartement,À Vendre,100.0,1.0,2,360000.0
+Nabeul,,,À Vendre,110.0,0.0,2,400000.0
+Nabeul,,,À Vendre,145.0,0.0,3,520000.0
+Tunis,,,À Vendre,145.0,1.0,3,265000.0
+Ariana,,,À Louer,117.0,1.0,3,280000.0
+Ariana,,villa,À Vendre,240.0,1.0,4,1.0
+Ariana,,Appartement,À Vendre,139.0,2.0,3,0.0
+Nabeul,,Appartement,À Vendre,150.0,2.0,1,650000.0
+Ben Arous,,Appartement,À Vendre,110.0,1.0,3,220000.0
+Ben Arous,,,À Vendre,80.0,1.0,1,125000.0
+Ben Arous,,,À Vendre,130.0,2.0,1,360000.0
+Ben Arous,,Appartement,À Vendre,77.0,1.0,2,0.0
+Monastir,,,À Vendre,75.0,1.0,2,150000.0
+Mahdia,,Appartement,À Vendre,,,,0.0
+Monastir,,Appartement,À Vendre,,,2,170000.0
+Monastir,,,À Vendre,64.0,1.0,1,125000.0
+Sousse,,Appartement,À Vendre,61.5,1.0,1,255000.0
+Sousse,,Appartement,À Vendre,,,2,280000.0
+Ariana,,Appartement,À Louer,45.0,1.0,1,165000.0
+Ben Arous,,Appartement,À Vendre,115.0,1.0,2,170000.0
+Tunis,,,À Vendre,76.0,1.0,1,185000.0
+Ben Arous,,Appartement,À Vendre,121.0,2.0,3,270000.0
+Tunis,,,À Vendre,56.0,1.0,1,190000.0
+Ariana,,,À Vendre,120.0,2.0,3,180000.0
+Ariana,,,À Vendre,120.0,2.0,2,334998.0
+Tunis,,,À Vendre,90.0,1.0,3,234000.0
+Tunis,,,À Vendre,110.0,2.0,2,11111.0
+Bizerte,,Appartement,À Vendre,89.0,1.0,2,200000.0
+Ariana,,,À Vendre,117.0,1.0,2,285000.0
+Tunis,,,À Vendre,100.0,1.0,2,240000.0
+Bizerte,,Appartement,À Vendre,150.0,2.0,3,0.0
+Nabeul,,,À Vendre,77.0,1.0,1,320000.0
+Ben Arous,,Appartement,À Vendre,58.0,1.0,2,108000.0
+Ben Arous,,Appartement,À Vendre,0.0,0.0,0,129000.0
+Ariana,,,À Vendre,138.0,2.0,3,330000.0
+Ariana,,,À Vendre,115.0,2.0,3,290000.0
+Ariana,,,À Vendre,50.0,1.0,1,118000.0
+Ariana,,,À Vendre,40.0,1.0,1,165000.0
+Ariana,,Appartement,À Vendre,157.0,2.0,4,400000.0
+Nabeul,,,À Vendre,155.0,2.0,3,530000.0
+Nabeul,,Appartement,À Vendre,59.0,1.0,1,0.0
+Ben Arous,,Appartement,À Vendre,140.0,2.0,3,0.0
+Sfax,,,À Vendre,88.0,1.0,3,75000.0
+Tunis,,,À Vendre,112.0,2.0,2,1.0
+Tunis,,,À Vendre,60.0,1.0,1,205000.0
+Tunis,,Appartement,À Vendre,85.0,1.0,1,0.0
+Tunis,,,À Vendre,165.0,2.0,3,368000.0
+Tunis,,,À Vendre,200.0,2.0,4,460000.0
+Tunis,,,À Louer,106.0,1.0,2,1600.0
+Tunis,,Appartement,À Vendre,68.0,1.0,1,157000.0
+Tunis,,Appartement,À Vendre,142.0,2.0,2,0.0
+Ben Arous,,Appartement,À Vendre,,,,159000.0
+Tunis,,,À Vendre,118.0,1.0,2,290000.0
+Tunis,,,À Vendre,195.0,2.0,3,570000.0
+Tunis,,,À Vendre,185.0,2.0,4,365000.0
+Tunis,,,À Vendre,,,1,290000.0
+Tunis,,,À Vendre,72.0,1.0,1,320000.0
+Tunis,,,À Vendre,154.0,2.0,2,680000.0
+Tunis,,,À Vendre,64.9,1.0,1,227000.0
+Monastir,,villa,À Vendre,179.0,3.0,3,218000.0
+Tunis,,,À Vendre,190.0,3.0,3,650000.0
+Nabeul,,Appartement,À Vendre,135.0,2.0,3,370000.0
+Nabeul,,,À Vendre,65.0,1.0,1,250000.0
+Nabeul,,,À Vendre,150.0,1.0,3,530000.0
+Tunis,,,À Vendre,130.0,1.0,3,285000.0
+Sousse,,Appartement,À Vendre,78.0,1.0,2,168.0
+Tunis,,Appartement,À Vendre,129.0,2.0,2,0.0
+Tunis,,Appartement,À Vendre,114.0,2.0,2,380000.0
+Ariana,,Appartement,À Vendre,175.0,2.0,3,0.0
+Ben Arous,,Appartement,À Vendre,50.0,1.0,-1,0.0
+Tunis,,Appartement,À Vendre,100.0,1.0,2,240000.0
+Ariana,,Appartement,À Vendre,130.0,1.0,3,365000.0
+Ariana,,Appartement,À Vendre,71.0,1.0,1,0.0
+Ariana,,Appartement,À Vendre,140.0,2.0,3,0.0
+Ariana,,Appartement,À Vendre,146.0,1.0,3,0.0
+Sousse,,Appartement,À Vendre,85.0,1.0,2,145000.0
+Tunis,,,À Louer,71.0,1.0,1,0.0
+Sousse,,Appartement,À Vendre,75.0,1.0,1,270000.0
+Sousse,,Appartement,À Vendre,82.0,1.0,2,385000.0
+Nabeul,,Appartement,À Vendre,100.0,1.0,2,170000.0
+Tunis,,Appartement,À Vendre,120.0,2.0,3,320000.0
+Ariana,,Appartement,À Vendre,50.0,1.0,1,180000.0
+Nabeul,,,À Vendre,65.0,1.0,1,265000.0
+Sousse,,Appartement,À Vendre,,,2,280000.0
+Tunis,,Appartement,À Vendre,,,3,550000.0
+Tunis,,Appartement,À Vendre,154.0,2.0,2,680000.0
+Tunis,,,À Vendre,288.0,3.0,5,980000.0
+Tunis,,,À Vendre,70.0,1.0,1,410000.0
+Ben Arous,,Appartement,À Vendre,160.0,1.0,3,360.0
+Ariana,,,À Vendre,157.0,2.0,3,365000.0
+Tunis,,,À Louer,72.0,1.0,1,320.0
+Ben Arous,,Appartement,À Vendre,110.0,1.0,2,180000.0
+Ben Arous,,Appartement,À Vendre,110.0,1.0,2,180000.0
+Ariana,,,À Vendre,91.0,1.0,02,295.0
+Tunis,,,À Vendre,31.0,1.0,1,100000.0
+Ben Arous,,Appartement,À Vendre,100.0,1.0,3,1.0
+Ariana,,,À Vendre,,,2,105000.0
+Tunis,,,À Vendre,98.0,,3,270000.0
+Ariana,,,À Vendre,55.0,1.0,1,180000.0
+Tunis,,,À Vendre,101.0,1.0,2,270000.0
+Ariana,,,À Vendre,,1.0,,202000.0
+Sousse,,,À Vendre,100.0,0.0,2,250000.0
+Sousse,,,À Vendre,100.0,0.0,2,250000.0
+Nabeul,,,À Vendre,,,3,375000.0
+Nabeul,,Appartement,À Vendre,100.0,1.0,1,140000.0
+Ariana,,,À Vendre,114.0,1.0,2,295000.0
+Ariana,,,À Vendre,1.0,112.0,2,255000.0
+Ariana,,,À Vendre,75.0,1.0,2,195.0
+Sousse,,Appartement,À Vendre,100.0,2.0,2,255.0
+Ben Arous,,Appartement,À Vendre,176.0,3.0,3,350000.0
+Tunis,,,À Vendre,80.0,1.0,2,325000.0
+Ariana,,,À Vendre,84.0,1.0,1,320000.0
+Sousse,,Appartement,À Louer,75.0,1.0,2,270000.0
+Tunis,,,À Vendre,125.0,1.0,3,270000.0
+Ben Arous,,,À Vendre,85.0,1.0,3,165000.0
+Ariana,,Appartement,À Vendre,,,,290000.0
+Sfax,,,À Vendre,69.0,,,0.0
+Ariana,,Appartement,À Vendre,53.0,1.0,1,140000.0
+Bizerte,,Appartement,À Vendre,126.0,0.0,2,370000.0
+Tunis,,,À Vendre,,,,180000.0
+Tunis,,,À Vendre,55.0,1.0,1,180000.0
+Ariana,,Appartement,À Vendre,222.0,3.0,5,770000.0
+Nabeul,,,À Vendre,122.0,1.0,2,384200.0
+Tunis,,Appartement,À Vendre,60.0,1.0,1,165000.0
+Ariana,,Appartement,À Louer,100.0,1.0,2,220000.0
+Tunis,,Appartement,À Vendre,172.0,2.0,4,340000.0
+Sousse,,Appartement,À Vendre,0.0,1.0,1,171000.0
+Ben Arous,,,À Vendre,65.0,1.0,1,1.0
+Tunis,,Appartement,À Vendre,172.0,2.0,4,340000.0
+Sousse,,Appartement,À Vendre,0.0,0.0,0,200000.0
+Sousse,,Appartement,À Vendre,60.0,0.0,1,102000.0
+Tunis,,Appartement,À Vendre,53.0,1.0,1,165000.0
+Ben Arous,,,À Vendre,79.0,1.0,2,135000.0
+Tunis,,Appartement,À Vendre,90.4,1.0,2,0.0
+Tunis,,Appartement,À Vendre,140.0,2.0,3,320000.0
+Tunis,,,À Vendre,,,2,210000.0
+Tunis,,,À Vendre,53.0,1.0,2,145000.0
+Nabeul,,,À Vendre,55.09,0.0,1,250000.0
+Tunis,,Appartement,À Vendre,140.0,2.0,3,360000.0
+Tunis,,Appartement,À Vendre,185.0,2.0,3,440000.0
+Tunis,,Appartement,À Vendre,145.0,2.0,3,280000.0
+Tunis,,Appartement,À Vendre,145.0,2.0,3,280000.0
+La Manouba,,Appartement,À Vendre,162.0,2.0,3,375000.0
+La Manouba,,Appartement,À Vendre,103.0,1.0,2,225000.0
+Tunis,,Appartement,À Vendre,90.0,1.0,2,245000.0
+Ariana,,,À Vendre,,,1,345000.0
+Ariana,,,À Vendre,120.0,2.0,02,340.0
+Ariana,,,À Vendre,205.0,3.0,4,600000.0
+Tunis,,Appartement,À Vendre,109.0,1.0,2,215000.0
+Tunis,,Appartement,À Vendre,109.0,1.0,2,210000.0
+Ariana,,,À Vendre,120.0,2.0,2,175000.0
+Tunis,,Appartement,À Vendre,97.0,1.0,2,215000.0
+Tunis,,Appartement,À Vendre,150.0,2.0,,408000.0
+Tunis,,Appartement,À Vendre,109.0,1.0,2,215000.0
+Tunis,,Appartement,À Vendre,147.6,2.0,3,370000.0
+Tunis,,,À Vendre,64.0,1.0,1,205000.0
+Tunis,,,À Vendre,55.0,5.0,1,180000.0
+Tunis,,,À Vendre,150.0,1.0,3,350000.0
+Tunis,,,À Vendre,182.0,1.0,3,445000.0
+Tunis,,,À Vendre,98.0,1.0,3,270000.0
+Tunis,,,À Vendre,132.0,2.0,3,320000.0
+Tunis,,,À Vendre,140.0,1.0,3,0.0
+Nabeul,,,À Vendre,230.0,2.0,4,660000.0
+Tunis,,Appartement,À Vendre,60.0,1.0,1,164999.0
+Sousse,,Appartement,À Vendre,73.0,1.0,1,250000.0
+Sousse,,Appartement,À Vendre,118.0,2.0,2,326000.0
+Sousse,,Appartement,À Vendre,97.0,1.0,1,250000.0
+Tunis,,,À Vendre,195.5,3.0,4,365000.0
+Tunis,,,À Vendre,120.0,1.0,2,290000.0
+Tunis,,Appartement,À Vendre,127.0,1.0,2,465000.0
+Tunis,,Appartement,À Vendre,107.0,1.0,1,319000.0
+Sfax,,Appartement,À Vendre,85.0,1.0,0,0.0
+Tunis,,Appartement,À Vendre,71.0,1.0,1,260000.0
+Tunis,,Appartement,À Vendre,125.0,1.0,1,363000.0
+Ariana,,Appartement,À Vendre,129.0,0.0,1,410000.0
+Tunis,,Appartement,À Vendre,50.0,0.0,1,195000.0
+Tunis,,Appartement,À Vendre,70.0,0.0,1,220000.0
+Tunis,,,À Vendre,178.0,2.0,3,470000.0
+Tunis,,,À Vendre,94.0,1.0,2,240000.0
+Ariana,,,À Vendre,300.0,1.0,3,870000.0
+Tunis,,,À Vendre,67.0,1.0,1,227000.0
+Tunis,,Appartement,À Vendre,154.0,1.0,2,420000.0
+Tunis,,Appartement,À Vendre,155.0,0.0,3,294998.0
+Ben Arous,,Appartement,À Vendre,60.0,1.0,1,80000.0
+Tunis,,,À Vendre,119.0,2.0,2,0.0
+Ben Arous,,Appartement,À Vendre,104.0,1.0,2,0.0
+Ariana,,Appartement,À Vendre,140.0,0.0,3,640000.0
+Ben Arous,,,À Vendre,16.0,1.0,1,40000.0
+Ben Arous,,Appartement,À Vendre,92.0,1.0,2,220000.0
+Ben Arous,,Appartement,À Vendre,153.0,2.0,2,255000.0
+Ben Arous,,Appartement,À Vendre,117.0,2.0,2,0.0
+Ben Arous,,,À Vendre,104.0,1.0,2,0.0
+Ben Arous,,,À Louer,84.0,1.0,2,0.0
+Tunis,,Appartement,À Vendre,111.0,2.0,3,0.0
+Tunis,,,À Vendre,80.0,1.0,,179.0
+Ben Arous,,Appartement,À Vendre,156.0,2.0,3,1.0
+Monastir,,Appartement,À Vendre,66.0,1.0,2,185000.0
+Monastir,,Appartement,À Vendre,48.0,1.0,1,152000.0
+Monastir,,Appartement,À Vendre,132.0,2.0,3,338000.0
+Tunis,,,À Vendre,165.0,2.0,4,330000.0
+Tunis,,Appartement,À Vendre,100.0,1.0,2,125000.0
+Tunis,,Appartement,À Vendre,105.0,1.0,3,95000.0
+La Manouba,,,À Vendre,125.0,2.0,3,230000.0
+Tunis,,Appartement,À Vendre,110.0,1.0,3,250000.0
+Tunis,,,À Vendre,130.0,2.0,3,380.0
+Nabeul,,Appartement,À Vendre,120.0,1.0,2,235000.0
+Tunis,,,À Vendre,101.0,1.0,4,200000.0
+Ariana,,Appartement,À Vendre,162.0,3.0,3,640000.0
+Ariana,,,À Vendre,165.0,3.0,3,495000.0
+Ariana,,Appartement,À Vendre,210.0,2.0,4,650000.0
+Ariana,,,À Vendre,190.0,2.0,3,810000.0
+Ariana,,,À Vendre,214.0,2.0,3,635000.0
+Ariana,,,À Vendre,228.0,2.0,3,650000.0
+Sousse,,Appartement,À Vendre,1.0,0.0,2,189000.0
+Ariana,,,À Vendre,188.0,2.0,3,830000.0
+Ariana,,,À Vendre,228.0,2.0,3,650000.0
+Ben Arous,,Appartement,À Vendre,120.0,2.0,3,270000.0
+Ben Arous,,Appartement,À Vendre,135.0,1.0,3,235000.0
+Ben Arous,,Appartement,À Vendre,100.0,1.0,1,198000.0
+Tunis,,Appartement,À Vendre,95.0,1.0,2,150000.0
+Ariana,,Appartement,À Vendre,125.0,1.0,1,389000.0
+Ariana,,Appartement,À Vendre,100.0,1.0,2,1.0
+Tunis,,Appartement,À Vendre,120.0,1.0,5,220000.0
+Tunis,,,À Vendre,150.0,1.0,3,340000.0
+Tunis,,Appartement,À Vendre,70.0,1.0,2,65000.0
+Tunis,,Appartement,À Vendre,98.0,2.0,2,250000.0
+Tunis,,Appartement,À Vendre,154.0,2.0,3,370000.0
+Tunis,,Appartement,À Vendre,100.0,1.0,4,280000.0
+Ben Arous,,,À Vendre,85.0,1.0,1,210000.0
+Nabeul,,Appartement,À Vendre,75.0,1.0,1,72000.0
+Tunis,,Appartement,À Vendre,138.0,2.0,3,280000.0
+Sousse,,Appartement,À Vendre,163.0,1.0,2,310000.0
+Sousse,,Appartement,À Vendre,163.0,1.0,2,310000.0
+Tunis,,Appartement,À Vendre,72.0,1.0,1,320000.0
+Ariana,,,À Vendre,,,2,290000.0
+Nabeul,,Appartement,À Vendre,93.0,1.0,2,0.0
+Tunis,,Appartement,À Vendre,160.0,2.0,3,480000.0
+Tunis,,,À Vendre,120.0,2.0,2,335000.0
+Tunis,,Appartement,À Vendre,147.6,2.0,3,370000.0
+Ariana,,Appartement,À Vendre,146.0,2.0,3,340000.0
+Ariana,,,À Vendre,97.0,1.0,2,285000.0
+Nabeul,,Appartement,À Vendre,100.0,1.0,1,140000.0
+Tunis,,Appartement,À Vendre,145.0,2.0,3,280000.0
+Tunis,,Appartement,À Vendre,107.0,1.0,2,255000.0
+Tunis,,Appartement,À Vendre,140.0,2.0,3,320000.0
+Tunis,,Appartement,À Vendre,145.0,2.0,3,280000.0
+Tunis,,Appartement,À Vendre,109.0,1.0,2,215000.0
+Ariana,,,À Vendre,1.0,1.0,1,4200.0
+Nabeul,,,À Vendre,200.0,3.0,2,
+Tunis,,villa,À Vendre,800.0,5.0,6,0.0
+Tunis,,,À Vendre,127.0,1.0,2,400000.0
+Ariana,,villa,À Vendre,380.0,3.0,4,989999.0
+Tunis,,,À Vendre,65.0,1.0,-1,230000.0
+Ariana,,Appartement,À Vendre,113.0,2.0,2,335000.0
+Tunis,,,À Louer,138.0,2.0,3,290000.0
+Tunis,,,À Vendre,55.0,1.0,1,184997.0
+Nabeul,,Appartement,À Vendre,100.0,1.0,2,220000.0
+Nabeul,,Appartement,À Vendre,300.0,1.0,2,1.0
+Nabeul,,,À Vendre,68.0,1.0,1,277000.0
+Tunis,,,À Vendre,80.0,1.0,2,250000.0
+Mahdia,,Appartement,À Vendre,96.0,1.0,02,276000.0
+Nabeul,,,À Vendre,74.0,1.0,1,270000.0
+Nabeul,,,À Vendre,70.0,1.0,1,270000.0
+Ben Arous,,Appartement,À Vendre,81.0,2.0,2,255000.0
+Ariana,,,À Vendre,,1.0,,120000.0
+Ben Arous,,,À Vendre,80.0,1.0,2,0.0
+Nabeul,,,À Vendre,153.0,0.0,3,384997.0
+Nabeul,,,À Vendre,190.0,0.0,3,510000.0
+Nabeul,,,À Vendre,97.0,1.0,2,400000.0
+Sfax,,,À Vendre,116.0,2.0,3,250000.0
+Sousse,,Appartement,À Vendre,63.0,1.0,1,210.0
+Tunis,,Appartement,À Vendre,80.0,1.0,2,105000.0
+Tunis,,Appartement,À Vendre,,,,215000.0
+Sousse,,Appartement,À Vendre,97.0,1.0,3,420000.0
+Nabeul,,Appartement,À Vendre,101.0,1.0,3,330000.0
+Tunis,,Appartement,À Vendre,93.0,1.0,4,110000.0
+Ben Arous,,Appartement,À Vendre,82.0,1.0,3,120000.0
+Tunis,,Appartement,À Vendre,128.0,1.0,2,240000.0
+Ariana,,Appartement,À Vendre,134.0,1.0,2,320000.0
+Nabeul,,,À Vendre,98.0,2.0,1,400000.0
+Tunis,,,À Vendre,80.0,1.0,2,250000.0
+Ben Arous,,Appartement,À Vendre,90.0,1.0,2,130000.0
+Tunis,,,À Louer,,1.0,,250000.0
+Tunis,,,À Vendre,109.0,2.0,2,724000.0
+Ariana,,Appartement,À Vendre,60.0,1.0,1,190000.0
+Tunis,,,À Vendre,,,1,227000.0
+Mahdia,,Maison,À Vendre,83.0,1.0,2,170.0
+Ariana,,,À Vendre,40.0,1.0,1,185000.0
+Ariana,,Appartement,À Louer,80.0,1.0,1,409000.0
+Mahdia,,,À Vendre,120.0,1.0,3,240000.0
+Tunis,,Appartement,À Vendre,100.0,1.0,3,0.0
+Tunis,,,À Vendre,,1.0,,320000.0
+Tunis,,,À Louer,,,2,280000.0
+Sousse,,Appartement,À Vendre,71.0,0.0,1,350000.0
+Tunis,,,À Louer,139.0,2.0,3,350000.0
+Ben Arous,,Appartement,À Vendre,116.0,2.0,2,260000.0
+Ben Arous,,Appartement,À Vendre,156.0,1.0,3,1.0
+Ben Arous,,Appartement,À Vendre,79.0,1.0,2,135000.0
+Tunis,,,À Vendre,85.0,1.0,1,400000.0
+Tunis,,,À Louer,43.0,1.0,1,250000.0
+Tunis,,,À Vendre,,,,255000.0
+Ben Arous,,Appartement,À Vendre,168.0,2.0,4,440000.0
+Ben Arous,,Appartement,À Vendre,85.0,1.0,2,150000.0
+Ben Arous,,Appartement,À Vendre,75.0,1.0,2,160000.0
+Ben Arous,,Appartement,À Vendre,72.0,1.0,2,110000.0
+Sousse,,Appartement,À Vendre,110.0,0.0,2,265000.0
+Sousse,,Appartement,À Vendre,80.0,0.0,2,282000.0
+Ben Arous,,,À Vendre,70.0,1.0,2,120000.0
+Sousse,,Appartement,À Vendre,108.0,1.0,-1,350.0
+Nabeul,,Appartement,À Vendre,114.0,1.0,2,400000.0
+Tunis,,,À Vendre,55.0,1.0,1,179998.0
+Ariana,,,À Vendre,73.0,1.0,1,200000.0
+Sousse,,villa,À Vendre,260.0,0.0,3,470000.0
+Tunis,,,À Vendre,112.0,1.0,2,530000.0
+Ben Arous,,,À Vendre,102.0,2.0,2,250000.0
+Sfax,,Appartement,À Vendre,171.0,3.0,4,360.0
+La Manouba,,Appartement,À Vendre,112.0,1.0,3,225000.0
+Ben Arous,,,À Vendre,59.0,1.0,1,80000.0
+Ben Arous,,,À Vendre,121.0,2.0,3,270000.0
+Tunis,,,À Vendre,,,2,260000.0
+Ben Arous,,Appartement,À Vendre,115.0,2.0,3,170000.0
+Tunis,,Appartement,À Vendre,103.0,2.0,2,400000.0
+Tunis,,Appartement,À Vendre,116.0,1.0,2,280000.0
+Tunis,,Appartement,À Vendre,132.5,1.0,2,550000.0
+Tunis,,Appartement,À Vendre,209.0,1.0,1,430000.0
+Tunis,,Appartement,À Vendre,120.0,1.0,2,370000.0
+Ariana,,Appartement,À Vendre,169.0,1.0,1,480000.0
+Tunis,,Appartement,À Vendre,1.0,1.0,2,180000.0
+Ariana,,,À Vendre,183.0,1.0,3,1.0
+Tunis,,Appartement,À Vendre,103.0,1.0,2,572000.0
+Tunis,,Appartement,À Vendre,1.0,1.0,4,395000.0
+Ariana,,,À Vendre,129.0,1.0,4,495000.0
+Tunis,,,À Vendre,172.0,1.0,3,750000.0
+Tunis,,,À Vendre,100.5,1.0,2,558000.0
+Tunis,,,À Vendre,289.0,1.0,3,1.0
+Tunis,,,À Vendre,87.0,1.0,1,330000.0
+Tunis,,,À Vendre,90.0,2.0,3,280000.0
+Tunis,,Appartement,À Vendre,73.0,1.0,0,210000.0
+Tunis,,Appartement,À Vendre,172.0,1.0,2,750000.0
+Tunis,,Appartement,À Vendre,160.0,3.0,335,350000.0
+Nabeul,,Appartement,À Vendre,85.0,1.0,2,130000.0
+Tunis,,Appartement,À Vendre,,,2,390000.0
+Tunis,,,À Vendre,180.0,1.0,3,550000.0
+Tunis,,,À Vendre,72.0,1.0,4,320000.0
+Ariana,,Appartement,À Vendre,143.0,1.0,3,0.0
+Ariana,,Appartement,À Vendre,105.0,1.0,2,210000.0
+Ariana,,Appartement,À Vendre,39.0,1.0,1,0.0
+Tunis,,Appartement,À Vendre,128.0,2.0,2,395000.0
+Ariana,,,À Vendre,55.0,1.0,1,165000.0
+Ariana,,Appartement,À Vendre,38.0,1.0,1,165000.0
+Ariana,,,À Vendre,100.0,1.0,3,220000.0
+Nabeul,,villa,À Vendre,169.0,1.0,3,210000.0
+Ben Arous,,,À Vendre,117.0,1.0,3,200000.0
+Ben Arous,,Appartement,À Vendre,104.0,2.0,3,250000.0
+Ben Arous,,Appartement,À Vendre,,,2,230000.0
+Bizerte,,,À Vendre,200.0,2.0,200,150.0
+Sfax,,,À Vendre,80.0,1.0,3,75000.0
+Sfax,,,sale,,2.0,,260000.0
+Tunis,,Appartement,À Vendre,81.0,1.0,3,200000.0
+Tunis,,Appartement,À Vendre,,,,180000.0
+Ariana,,,À Vendre,50.0,1.0,2,155000.0
+Ariana,,Appartement,À Vendre,88.0,1.0,2,240000.0
+Ariana,,Appartement,À Vendre,165.0,2.0,3,390000.0
+Ariana,,Appartement,À Vendre,200.0,2.0,4,510000.0
+Sousse,,Appartement,À Vendre,151.0,2.0,3,480000.0
+Nabeul,,Appartement,À Vendre,90.0,1.0,2,165000.0
+Nabeul,,Appartement,À Vendre,100.0,1.0,1,179998.0
+Nabeul,,Appartement,À Vendre,95.0,1.0,1,140000.0
+La Manouba,,,À Vendre,0.0,2.0,5,0.0
+Ariana,,,À Vendre,130.0,1.0,3,240000.0
+Tunis,,Appartement,À Vendre,207.0,2.0,3,330000.0
+Tunis,,Appartement,À Vendre,113.0,2.0,2,330000.0
+Tunis,,Appartement,À Vendre,,,,240000.0
+Nabeul,,Appartement,À Vendre,100.0,1.0,2,230000.0
+Sousse,,,À Vendre,300.0,2.0,4,0.0
+Ben Arous,,,À Vendre,107.0,1.0,2,160000.0
+Tunis,,Appartement,À Vendre,0.0,0.0,2,275000.0
+Tunis,,Appartement,À Vendre,140.0,0.0,2,385000.0
+Sousse,,,À Vendre,60.0,1.0,1,150000.0
+Sousse,,Appartement,À Vendre,120.0,1.0,3,310000.0
+Ariana,,,À Vendre,65.0,1.0,1,165000.0
+La Manouba,,Appartement,À Vendre,101.0,1.0,3,220000.0
+Nabeul,,,À Vendre,140.0,2.0,2,470000.0
+Tunis,,Appartement,À Vendre,65.0,1.0,3,95000.0
+Ariana,,Appartement,À Vendre,71.0,1.0,1,220000.0
+Tunis,,Appartement,À Vendre,88.0,1.0,3,240000.0
+Sousse,,Appartement,À Vendre,88.0,1.0,1,285000.0
+Sousse,,Appartement,À Vendre,300.0,0.0,3,1.0
+Ariana,,,À Vendre,99.0,0.0,2,420000.0
+Ariana,,,À Louer,40.0,1.0,01,155000.0
+Ben Arous,,Appartement,À Vendre,110.0,1.0,2,220000.0
+Ariana,,,À Vendre,125.0,1.0,3,420000.0
+Tunis,,Appartement,À Vendre,120.0,2.0,2,335000.0
+Nabeul,,,À Vendre,70.0,1.0,1,260000.0
+Ben Arous,,,À Vendre,135.0,1.0,3,240000.0
+Nabeul,,,À Vendre,366.0,2.0,3,0.0
+Ariana,,Appartement,À Vendre,183.0,1.0,3,1.0
+Sfax,,,À Vendre,181.0,2.0,3,0.0
+Ben Arous,,Appartement,À Vendre,102.0,2.0,2,250000.0
+Nabeul,,,À Vendre,137.0,1.0,1,350000.0
+Ben Arous,,Appartement,À Vendre,125.0,2.0,3,260000.0
+Ben Arous,,Appartement,À Vendre,98.0,2.0,2,205000.0
+Ben Arous,,Appartement,À Vendre,78.0,1.0,2,135000.0
+Ariana,,,À Vendre,,,3,340000.0
+Ariana,,Appartement,À Vendre,136.0,2.0,3,0.0
+Tunis,,,À Vendre,,1.0,,570000.0
+Tunis,,,À Vendre,,,2,340000.0
+Ben Arous,,,À Vendre,122.0,2.0,2,230000.0
+Ben Arous,,Appartement,À Vendre,100.0,2.0,2,150001.0
+Nabeul,,,À Louer,230.0,4.0,4,660000.0
+Ariana,,Appartement,À Vendre,147.0,2.0,3,540000.0
+Tunis,,Appartement,À Vendre,110.0,1.0,1,255000.0
+Tunis,,Appartement,À Vendre,131.0,2.0,3,486000.0
+Tunis,,Appartement,À Vendre,63.0,1.0,1,340000.0
+Tunis,,,À Vendre,236.0,3.0,2,1100000.0
+Tunis,,Appartement,À Vendre,198.0,2.0,2,710000.0
+Tunis,,Appartement,À Vendre,260.0,2.0,4,1500000.0
+Tunis,,,À Vendre,208.0,3.0,4,800000.0
+Sfax,,Appartement,À Vendre,100.0,1.0,3,150.0
+Mahdia,,,À Vendre,116.84,2.0,2,450000.0
+Ariana,,villa,À Vendre,240.0,2.0,3,950000.0
+Nabeul,,,À Vendre,65.0,0.0,1,235000.0
+Nabeul,,Appartement,À Vendre,104.0,1.0,2,362999.0
+Nabeul,,Appartement,À Vendre,115.0,0.0,2,411000.0
+Nabeul,,,À Vendre,107.0,0.0,2,410000.0
+Nabeul,,,À Vendre,163.0,2.0,3,490000.0
+Sousse,,Appartement,À Vendre,410.0,2.0,5,650000.0
+Ariana,,villa,À Louer,253.0,5.0,5,1230000.0
+Ariana,,,À Vendre,,,,350000.0
+Ariana,,Appartement,À Vendre,190.0,1.0,2,450000.0
+Nabeul,,,À Vendre,60.0,1.0,1,260000.0
+Ariana,,Appartement,À Vendre,68.0,0.0,1,1.0
+Ariana,,,À Louer,,1.0,,201998.0
+Tunis,,Appartement,À Vendre,65.0,0.0,1,107250.0
+Ben Arous,,Appartement,À Vendre,100.0,1.0,3,1.0
+Ariana,,Appartement,À Vendre,,,5,360000.0
+Tunis,,,À Vendre,82.0,1.0,1,220000.0
+Tunis,,,À Vendre,75.0,1.0,2,160000.0
+Nabeul,,,À Vendre,70.0,1.0,4,259000.0
+Tunis,,Appartement,À Vendre,43.0,1.0,1,250000.0
+Tunis,,,À Vendre,127.0,2.0,3,525000.0
+Nabeul,,,À Vendre,138.0,2.0,2,360000.0
+Ariana,,Appartement,À Vendre,,,4,550000.0
+Tunis,,,À Vendre,160.0,2.0,3,440000.0
+Ariana,,Appartement,À Vendre,67.0,1.0,1,195000.0
+Ariana,,,À Vendre,160.0,2.0,4,730000.0
+Tunis,,Appartement,À Vendre,118.0,1.0,2,297000.0
+Tunis,,,À Vendre,67.0,1.0,0,236000.0
+Bizerte,,,À Vendre,104.0,2.0,4,174999.0
+Ben Arous,,Appartement,À Vendre,85.0,1.0,2,135000.0
+Ariana,,,À Vendre,110.0,2.0,3,450000.0
+Tunis,,Appartement,À Vendre,130.0,2.0,2,390000.0
+Tunis,,Appartement,À Vendre,90.0,0.0,2,480000.0
+Tunis,,Appartement,À Vendre,150.0,2.0,3,390000.0
+Ariana,,,À Vendre,154.0,3.0,3,480000.0
+Ariana,,Appartement,À Vendre,114.0,1.0,2,440000.0
+Bizerte,,Appartement,À Vendre,123.0,1.0,2,190000.0
+Bizerte,,Appartement,À Vendre,100.0,1.0,2,170000.0
+Tunis,,Appartement,À Vendre,,,,0.0
+Ariana,,,À Vendre,104.0,1.0,3,155000.0
+Tunis,,Appartement,À Vendre,,,,0.0
+Tunis,,Appartement,À Vendre,,,,0.0
+Nabeul,,,À Vendre,345.0,3.0,4,960000.0
+Tunis,,,À Vendre,118.0,1.0,2,290000.0
+Tunis,,Appartement,À Vendre,174.43,1.0,3,0.0
+Tunis,,,À Vendre,120.0,1.0,0,289998.0
+Ben Arous,,Appartement,À Vendre,80.0,1.0,3,110000.0
+Ben Arous,,Appartement,À Vendre,115.0,1.0,4,135000.0
+Ariana,,,À Vendre,143.0,2.0,2,395000.0
+Tunis,,,,,,1,0.0
+Ariana,,Appartement,À Vendre,115.0,2.0,03,290000.0
+Ariana,,,À Vendre,210.0,2.0,4,0.0
+Tunis,,,À Vendre,127.0,2.0,3,400.0
+Sousse,,,À Vendre,120.0,2.0,3,390000.0
+Tunis,,,À Vendre,132.0,1.0,3,320000.0
+Tunis,,,À Vendre,,2.0,,320000.0
+Nabeul,,Appartement,À Vendre,,1.0,,75000.0
+Nabeul,,Appartement,À Vendre,110.0,1.0,1,0.0
+Tunis,,,À Vendre,64.0,1.0,1,205000.0
+Tunis,,,À Vendre,80.0,0.0,2,244999.0
+Tunis,,,À Vendre,138.0,1.0,1,290000.0
+Tunis,,,À Vendre,,1.0,,263610.0
+Ben Arous,,Appartement,À Vendre,70.0,1.0,2,200000.0
+Nabeul,,Appartement,À Vendre,90.0,1.0,2,165000.0
+Tunis,,Appartement,À Louer,100.0,1.0,2,240000.0
+Tunis,,,À Vendre,99.0,1.0,2,338000.0
+Ben Arous,,Appartement,À Vendre,180.0,2.0,3,0.0
+Ben Arous,,Appartement,À Vendre,110.0,1.0,1,0.0
+Ben Arous,,Appartement,À Vendre,113.0,1.0,2,1.0
+Nabeul,,,À Vendre,160.0,1.0,2,400000.0
+Tunis,,,À Vendre,200.0,2.0,3,0.0
+Nabeul,,,À Vendre,97.0,1.0,2,400000.0
+Tunis,,,À Vendre,25.0,1.0,1,115000.0
+Ariana,,Appartement,À Vendre,130.0,1.0,3,260000.0
+Ariana,,Appartement,À Vendre,130.0,1.0,3,260000.0
+Ariana,,Appartement,À Vendre,140.0,2.0,3,300000.0
+Ariana,,Appartement,À Vendre,145.0,2.0,3,300000.0
+La Manouba,,,À Vendre,78.0,1.0,2,0.0
+Ariana,,,À Vendre,57.0,0.0,1,320000.0
+Tunis,,,À Louer,120.0,1.0,2,344999.0
+Sousse,,Appartement,À Vendre,138.0,2.0,3,0.0
+Tunis,,Appartement,À Vendre,175.0,2.0,3,650000.0
+Nabeul,,,À Vendre,73.0,1.0,1,270100.0
+Tunis,,Appartement,À Vendre,165.0,2.0,3,650000.0
+Tunis,,Appartement,À Vendre,122.0,1.0,2,550000.0
+Tunis,,,À Vendre,172.0,3.0,3,825000.0
+Nabeul,,Appartement,À Vendre,148.0,1.0,2,199998.0
+La Manouba,,Appartement,À Vendre,79.0,1.0,2,167000.0
+Ben Arous,,Appartement,À Louer,80.0,2.0,0,280000.0
+Tunis,,Appartement,À Vendre,130.0,1.0,2,280000.0
+Tunis,,,À Vendre,163.0,2.0,3,825000.0
+Ariana,,,À Vendre,40.0,1.0,1,175000.0
+Tunis,,,À Vendre,127.0,2.0,2,400000.0
+Tunis,,,À Vendre,175.0,2.0,3,650000.0
+Sousse,,Appartement,À Vendre,66.0,0.0,1,240000.0
+Sousse,,Appartement,À Vendre,100.0,1.0,2,360000.0
+Tunis,,,À Louer,,1.0,,270000.0
+Tunis,,,À Vendre,,1.0,,167000.0
+Nabeul,,,À Vendre,112.0,1.0,2,380000.0
+Ariana,,,À Vendre,50.0,1.0,1,225000.0
+Tunis,,,À Vendre,126.0,1.0,3,340000.0
+Tunis,,Appartement,À Vendre,103.0,1.0,2,360000.0
+Tunis,,Appartement,À Vendre,,,2,340000.0
+Nabeul,,,À Vendre,120.0,1.0,2,0.0
+Tunis,,,À Vendre,55.0,1.0,1,167000.0
+Tunis,,,À Vendre,150.0,2.0,3,350000.0
+Ariana,,,À Louer,65.0,1.0,1,165000.0
+Ariana,,,À Vendre,154.0,2.0,2,490000.0
+Nabeul,,,À Vendre,69.0,1.0,1,260000.0
+Tunis,,,À Vendre,132.0,2.0,3,320000.0
+Sfax,,Appartement,À Vendre,122.0,2.0,3,170000.0
+Ariana,,,À Vendre,1.0,1.0,,210000.0
+Ariana,,,À Vendre,110.0,1.0,3,360000.0
+Tunis,,Appartement,À Vendre,64.0,1.0,1,240000.0
+Sousse,,,À Vendre,67.0,1.0,1,250000.0
+Tunis,,,À Vendre,,1.0,,275.0
+Sousse,,,À Vendre,100.0,1.0,2,280000.0
+Sousse,,Appartement,À Vendre,100.0,1.0,2,300000.0
+Ariana,,Appartement,À Vendre,80.0,1.0,3,130000.0
+Nabeul,,Appartement,À Vendre,120.0,2.0,2,175000.0
+Bizerte,,,À Vendre,45.0,1.0,2,138000.0
+Tunis,,,À Louer,,1.0,,268708.0
+Ariana,,,À Vendre,,1.0,,180000.0
+Tunis,,,À Vendre,,2.0,,220000.0
+Sousse,,Appartement,À Vendre,130.0,1.0,2,270000.0
+Tunis,,Appartement,À Vendre,170.0,2.0,4,295000.0
+La Manouba,,Appartement,À Vendre,121.0,1.0,2,315000.0
+Tunis,,Appartement,À Vendre,135.0,2.0,1,375.0
+La Manouba,,Appartement,À Vendre,87.0,1.0,2,180000.0
+Ariana,,Appartement,À Vendre,120.0,0.0,3,325000.0
+Tunis,,,À Vendre,31.0,1.0,1,65000.0
+Tunis,,,À Vendre,290.0,4.0,3,1550000.0
+Tunis,,Appartement,À Vendre,55.0,1.0,0,165000.0
+Tunis,,,À Vendre,109.56,2.0,2,425000.0
+Nabeul,,,À Vendre,65.0,1.0,1,265000.0
+Tunis,,,À Vendre,62.0,1.0,1,216999.0
+Tunis,,,À Vendre,118.0,2.0,3,290000.0
+Ariana,,Appartement,À Vendre,153.0,2.0,1,1.0
+Nabeul,,Appartement,À Vendre,150.0,1.0,2,125000.0
+Tunis,,Appartement,À Vendre,202.0,2.0,4,620000.0
+Tunis,,Appartement,À Vendre,85.0,1.0,0,150000.0
+Tunis,,Appartement,À Vendre,100.0,1.0,2,160000.0
+Nabeul,,Appartement,À Vendre,110.0,2.0,2,315000.0
+Nabeul,,Appartement,À Vendre,75.0,1.0,2,290000.0
+Nabeul,,Appartement,À Vendre,120.0,2.0,2,465000.0
+Nabeul,,Appartement,À Vendre,53.0,1.0,1,255000.0
+Nabeul,,Appartement,À Vendre,116.0,1.0,1,375000.0
+Nabeul,,Appartement,À Vendre,110.0,1.0,1,255000.0
+Nabeul,,Appartement,À Vendre,64.0,1.0,3,272000.0
+Sousse,,Appartement,À Vendre,142.0,0.0,2,460000.0
+Nabeul,,Appartement,À Vendre,200.0,2.0,3,512000.0
+Nabeul,,,À Vendre,60.0,1.0,1,260000.0
+Ben Arous,,Appartement,À Vendre,95.0,1.0,2,0.0
+Ben Arous,,Appartement,À Vendre,140.0,2.0,3,10.0
+Tunis,,,À Vendre,158.0,1.0,3,240000.0
+Ben Arous,,,À Vendre,100.0,2.0,3,200000.0
+Tunis,,,À Vendre,50.0,1.0,1,185000.0
+Ben Arous,,,À Vendre,130.0,,,541000.0
+Ben Arous,,,À Vendre,79.0,1.0,2,135000.0
+Ben Arous,,,À Vendre,109.0,1.0,3,135000.0
+La Manouba,,Appartement,À Vendre,57.2,1.0,1,175000.0
+Tunis,,,À Vendre,100.0,2.0,2,150000.0
+Tunis,,,À Vendre,90.0,1.0,3,235000.0
+Tunis,,villa,À Vendre,100.0,1.0,04,230000.0
+Nabeul,,,sale,,1.0,,0.0
+Nabeul,,,À Vendre,135.0,2.0,2,360000.0
+La Manouba,,Appartement,À Vendre,,,,200000.0
+Ariana,,,À Louer,90.0,1.0,1,0.0
+Monastir,,,À Vendre,47.0,1.0,1,0.0
+Monastir,,,À Vendre,50.0,1.0,1,200000.0
+Nabeul,,Appartement,À Vendre,85.0,1.0,1,0.0
+Tunis,,Appartement,À Vendre,145.5,2.0,4,235000.0
+Sousse,,Appartement,À Vendre,100.0,1.0,2,335000.0
+Ariana,,Appartement,À Vendre,232.0,2.0,4,660000.0
+Tunis,,Appartement,À Vendre,,,2,150000.0
+Sousse,,,À Vendre,209.0,0.0,4,810000.0
+Ariana,,,À Vendre,50.0,1.0,2,155000.0
+Sousse,,Appartement,À Vendre,,,2,200000.0
+Monastir,,Appartement,À Vendre,,,2,120000.0
+Monastir,,Appartement,À Vendre,94.0,1.0,2,218000.0
+Monastir,,Appartement,À Vendre,90.0,1.0,2,88500.0
+Ariana,,Appartement,À Vendre,143.0,1.0,3,260000.0
+Sousse,,Appartement,À Vendre,1.0,1.0,2,0.0
+Tunis,,Appartement,À Vendre,80.0,2.0,1,245000.0
+Tunis,,,À Louer,98.0,1.0,2,1050.0
+Sousse,,Appartement,À Vendre,95.0,2.0,2,500000.0
+Ariana,,Appartement,À Vendre,120.0,2.0,2,165000.0
+Nabeul,,,À Vendre,69.0,1.0,1,210000.0
+Nabeul,,Appartement,À Vendre,,,,260000.0
+Ariana,,Appartement,À Vendre,90.0,1.0,2,380000.0
+Tunis,,villa,À Vendre,150.0,1.0,3,220000.0
+Ariana,,,À Vendre,45.0,1.0,1,155000.0
+La Manouba,,,À Vendre,100.0,1.0,2,200000.0
+Tunis,,,À Vendre,85.0,1.0,2,170000.0
+Ariana,,,À Vendre,164.5,3.0,3,570000.0
+Tunis,,,À Vendre,157.0,2.0,3,680000.0
+Ben Arous,,,À Vendre,90.0,1.0,2,1.0
+Ben Arous,,Appartement,À Vendre,114.0,2.0,2,0.0
+Tunis,,Appartement,À Vendre,182.0,2.0,3,1.0
+Ben Arous,,Appartement,À Vendre,115.0,1.0,3,175000.0
+Tunis,,Appartement,À Vendre,45.0,1.0,2,75000.0
+Tunis,,,À Vendre,100.0,2.0,3,0.0
+Nabeul,,,À Vendre,103.0,1.0,2,0.0
+Nabeul,,,À Vendre,157.0,3.0,3,0.0
+Sousse,,Appartement,À Vendre,90.0,1.0,2,300000.0
+Sfax,,,À Vendre,230.0,1.0,2,450000.0
+Ariana,,,À Vendre,260.0,3.0,4,550000.0
+Sousse,,Appartement,À Vendre,150.0,1.0,2,375000.0
+Sousse,,Appartement,À Vendre,78.0,0.0,1,264003.0
+Tunis,,Appartement,À Vendre,183.0,3.0,3,970000.0
+Sousse,,Appartement,À Vendre,138.0,2.0,3,460000.0
+La Manouba,,Appartement,À Vendre,84.0,1.0,2,157000.0
+Ariana,,Appartement,À Vendre,106.0,1.0,3,132000.0
+Nabeul,,,À Vendre,100.0,2.0,2,320000.0
+Nabeul,,,À Vendre,,,3,600000.0
+Tunis,,,À Vendre,150.0,2.0,3,490000.0
+Ariana,,Appartement,À Vendre,100.0,1.0,2,250000.0
+Ariana,,Appartement,À Vendre,156.0,2.0,3,650000.0
+Tunis,,Appartement,À Vendre,125.0,2.0,2,590000.0
+Tunis,,Appartement,À Vendre,194.0,1.0,3,550000.0
+Tunis,,,À Vendre,178.0,3.0,3,680000.0
+Sousse,,Appartement,À Vendre,128.0,0.0,2,505600.0
+Sousse,,Appartement,À Vendre,115.0,0.0,2,488750.0
+Ariana,,Appartement,À Vendre,140.0,2.0,2,370000.0
+Ben Arous,,Appartement,À Vendre,144.0,1.0,3,160.0
+Nabeul,,Appartement,À Vendre,86.0,1.0,-1,302000.0
+Tunis,,Appartement,À Vendre,95.0,1.0,2,240000.0
+Ben Arous,,,À Vendre,75.0,1.0,2,105000.0
+Tunis,,,À Vendre,50.0,1.0,2,128000.0
+Ben Arous,,,À Vendre,121.0,2.0,3,242000.0
+Nabeul,,Appartement,À Vendre,74.0,1.0,1,212000.0
+Sousse,,,À Vendre,,,2,259999.0
+Tunis,,Appartement,À Vendre,110.0,1.0,3,200000.0
+Tunis,,,À Vendre,65.0,1.0,1,227000.0
+Ben Arous,,,À Vendre,6510.0,10.0,10,3950000.0
+Ariana,,,À Vendre,111.0,2.0,3,345000.0
+Nabeul,,Appartement,À Vendre,100.0,1.0,2,160000.0
+Tunis,,,À Vendre,213.0,2.0,3,1000000.0
+Tunis,,,À Vendre,121.0,1.0,1,275000.0
+Ariana,,,À Vendre,72.0,1.0,1,200000.0
+Ariana,,,À Vendre,100.0,2.0,3,85000.0
+Tunis,,,À Vendre,400.0,2.0,4,800000.0
+Ben Arous,,,À Vendre,135.0,,,270000.0
+Nabeul,,,À Vendre,86.0,1.0,2,305000.0
+Nabeul,,Appartement,À Vendre,65.0,1.0,1,130000.0
+Ben Arous,,Appartement,À Vendre,135.0,1.0,3,235000.0
+Mahdia,,,À Vendre,55.0,1.0,1,200000.0
+Mahdia,,,À Vendre,101.0,1.0,2,202000.0
+Sousse,,,À Vendre,90.0,1.0,2,130000.0
+Tunis,,,À Vendre,60.0,1.0,2,163000.0
+Tunis,,Appartement,À Vendre,60.0,1.0,1,165000.0
+La Manouba,,Appartement,À Vendre,100.0,1.0,3,219000.0
+Tunis,,Appartement,À Vendre,123.0,2.0,3,395000.0
+Ariana,,Appartement,À Louer,157.0,3.0,3,0.0
+Sfax,,Appartement,À Vendre,56.0,1.0,2,0.0
+Ariana,,,À Louer,,1.0,,249998.0
+Ben Arous,,,À Vendre,,,3,170000.0
+Tunis,,Appartement,À Vendre,124.0,1.0,3,320000.0
+Ben Arous,,,À Louer,120.0,1.0,2,150000.0
+Ariana,,,À Vendre,86.0,1.0,1,245000.0
+Ariana,,Appartement,À Vendre,112.0,2.0,2,385000.0
+Monastir,,,À Vendre,120.0,1.5,3,169000.0
+Tunis,,,À Vendre,144.0,2.0,3,380000.0
+Nabeul,,Appartement,À Vendre,70.0,1.0,1,235000.0
+Tunis,,,À Vendre,154.0,1.0,2,680000.0
+Nabeul,,Appartement,À Vendre,95.0,1.0,2,240000.0
+Ariana,,,À Vendre,117.0,2.0,2,410000.0
+La Manouba,,Appartement,À Vendre,,,2,165000.0
+Nabeul,,Appartement,À Vendre,160.0,1.0,2,280000.0
+Tunis,,Appartement,À Vendre,134.0,1.0,4,340000.0
+Sousse,,,À Vendre,130.0,0.0,2,430000.0
+Ben Arous,,Appartement,À Vendre,115.0,1.0,4,140000.0
+Tunis,,,À Vendre,60.0,1.0,2,165000.0
+Tunis,,Appartement,À Vendre,71.0,1.0,4,285.0
+Nabeul,,Appartement,À Vendre,115.0,1.0,2,0.0
+Sousse,,Appartement,À Vendre,124.0,2.0,2,340000.0
+Sousse,,Appartement,À Vendre,150.0,0.0,3,290000.0
+Nabeul,,Appartement,À Vendre,112.0,1.0,2,380000.0
+Ariana,,,À Vendre,208.0,3.0,4,0.0
+Tunis,,Appartement,À Vendre,120.0,1.0,5,220000.0
+Tunis,,Appartement,À Vendre,120.0,1.0,3,250.0
+Tunis,,Appartement,À Vendre,36.0,1.0,2,110000.0
+Ben Arous,,Appartement,À Vendre,11111111.0,1.0,3,160000.0
+Tunis,,,À Vendre,41.0,1.0,1,169000.0
+Bizerte,,Appartement,À Vendre,70.0,1.0,2,120.0
+Sousse,,Appartement,À Vendre,169.0,1.0,3,310.0
+Ben Arous,,Appartement,À Vendre,80.0,2.0,3,380000.0
+Ariana,,Appartement,À Vendre,175.0,2.0,3,420000.0
+Nabeul,,Appartement,À Vendre,75.0,1.0,1,0.0
+Nabeul,,Appartement,À Vendre,74.0,1.0,1,165000.0
+Nabeul,,Appartement,À Vendre,112.0,1.0,2,0.0
+Nabeul,,Appartement,À Vendre,42.0,1.0,1,0.0
+Tunis,,Appartement,À Vendre,116.0,1.0,02,420000.0
+Tunis,,,À Vendre,98.0,1.0,2,195000.0
+Tunis,,Appartement,À Vendre,990.0,1.0,3,155.0
+Tunis,,Appartement,À Vendre,111.0,2.0,3,350000.0
+Tunis,,Appartement,À Vendre,100.0,1.0,2,400000.0
+Sousse,,,À Vendre,107.0,1.0,3,280000.0
+Sousse,,Appartement,À Vendre,144.0,2.0,2,950000.0
+Sousse,,Appartement,À Vendre,180.0,2.0,3,480000.0
+Ariana,,Appartement,À Vendre,80.0,1.0,1,244000.0
+Ben Arous,,,À Vendre,79.0,1.0,2,135000.0
+Ben Arous,,Appartement,À Vendre,115.0,1.0,3,200000.0
+Tunis,,,À Vendre,117.0,1.0,2,270000.0
+Tunis,,,À Vendre,53.0,1.0,2,138000.0
+Tunis,,,À Vendre,110.0,1.0,3,250000.0
+Tunis,,villa,À Vendre,142.0,2.0,3,330000.0
+Tunis,,,À Vendre,95.0,1.0,2,210000.0
+Tunis,,,À Vendre,115.0,2.0,2,620000.0
+Sousse,,Appartement,À Vendre,124.0,0.0,2,534000.0
+Sfax,,Appartement,À Vendre,155.0,2.0,3,177.0
+Tunis,,,À Vendre,200.0,5.0,15,350000.0
+Ben Arous,,,À Vendre,88.0,1.0,1,0.0
+Bizerte,,,À Vendre,55.0,1.0,1,42000.0
+Tunis,,,À Vendre,109.0,1.0,2,210000.0
+Ariana,,,À Vendre,45.0,1.0,1,205000.0
+Tunis,,,À Louer,150.0,2.0,3,408000.0
+Tunis,,,À Vendre,117.0,1.0,2,380000.0
+Nabeul,,Appartement,À Vendre,148.0,1.0,3,200000.0
+Ariana,,Appartement,À Vendre,120.0,1.0,3,120000.0
+Ariana,,,À Vendre,300.0,3.0,3,870000.0
+Ariana,,,À Vendre,114.0,2.0,2,270000.0
+Tunis,,,À Louer,,,3,350000.0
+Sousse,,,À Vendre,85.0,1.0,2,350000.0
+Tunis,,Appartement,À Vendre,120.0,1.0,2,400000.0
+Tunis,,Appartement,À Louer,100.0,1.0,3,185000.0
+Ariana,,,À Vendre,59.0,1.0,1,273000.0
+Ariana,,,À Vendre,,1.0,,165000.0
+Tunis,,,À Vendre,137.0,1.0,3,345000.0
+Ariana,,Appartement,À Vendre,65.0,1.0,1,241000.0
+Ben Arous,,Appartement,À Vendre,104.0,1.0,3,250000.0
+Sousse,,,À Vendre,,,2,320000.0
+Ben Arous,,Appartement,À Vendre,104.0,1.0,3,235000.0
+Ariana,,,À Vendre,120.0,1.0,2,450000.0
+Ariana,,,À Vendre,120.0,1.0,2,450000.0
+Nabeul,,,À Vendre,70.0,1.0,1,270000.0
+Ariana,,Appartement,À Vendre,107.0,0.0,3,160000.0
+Nabeul,,,À Vendre,180.0,1.0,1,199999.0
+Tunis,,Appartement,À Vendre,165.0,2.0,4,385000.0
+Tunis,,Appartement,À Vendre,50.0,1.0,1,240000.0
+Nabeul,,,À Vendre,116.0,1.0,2,388000.0
+Nabeul,,,À Vendre,140.0,2.0,2,470000.0
+Tunis,,,À Vendre,66.0,1.0,4,235000.0
+Tunis,,,À Vendre,154.0,2.0,3,360000.0
+Tunis,,Appartement,À Vendre,165.0,2.0,4,385000.0
+Sousse,,,À Vendre,85.0,1.0,2,330000.0
+Nabeul,,,À Vendre,60.0,1.0,1,80000000.0
+Tunis,,Appartement,À Vendre,48.0,1.0,1,171000.0
+Tunis,,Appartement,À Vendre,138.0,2.0,3,240000.0
+Ben Arous,,,À Vendre,58.0,1.0,1,80000.0
+Ben Arous,,Appartement,À Vendre,,,3,265000.0
+Ben Arous,,,À Vendre,59.0,1.0,1,80000.0
+Ben Arous,,,À Vendre,102.0,2.0,2,250000.0
+Ben Arous,,,À Vendre,,,3,350000.0
+Ben Arous,,,À Vendre,59.0,1.0,1,160000.0
+Ben Arous,,,À Vendre,68.0,1.0,2,108000.0
+Nabeul,,Appartement,À Vendre,180.0,3.0,,690000.0
+Ariana,,,À Vendre,183.0,2.0,3,850000.0
+Nabeul,,Appartement,À Vendre,77.0,1.0,2,190000.0
+Nabeul,,Appartement,À Vendre,79.0,2.0,2,190000.0
+Sousse,,Appartement,À Vendre,67.0,0.0,1,1.0
+Nabeul,,Appartement,À Vendre,147.0,2.0,3,300000.0
+Nabeul,,,À Vendre,260.0,3.0,3,370000.0
+Ariana,,Appartement,À Vendre,140.0,0.0,2,420000.0
+Sfax,,Appartement,À Louer,240.0,2.0,4,250000.0
+Tunis,,,À Vendre,77.0,1.0,3,1.0
+Tunis,,Appartement,À Vendre,118.0,1.0,2,0.0
+Sousse,,Appartement,À Vendre,168.0,1.0,2,420000.0
+Ben Arous,,Appartement,À Vendre,63.0,1.0,1,190.0
+Tunis,,,À Vendre,160.0,1.0,5,395000.0
+Nabeul,,Appartement,À Vendre,,1.0,,75000.0
+Nabeul,,Appartement,À Vendre,,1.0,1,240000.0
+Ariana,,,À Vendre,96.0,2.0,2,330000.0
+Ariana,,,À Vendre,210.0,3.0,5,630000.0
+Ben Arous,,,À Vendre,110.0,2.0,3,200000.0
+Nabeul,,,À Vendre,240.0,2.0,03,135.0
+Tunis,,Appartement,À Vendre,90.0,1.0,2,165000.0
+Sousse,,Appartement,À Vendre,80.0,1.0,2,300000.0
+Tunis,,,À Vendre,50.0,1.0,1,167000.0
+Sousse,,,À Vendre,140.0,1.0,3,419999.0
+Tunis,,Appartement,À Vendre,110.0,0.0,2,380000.0
+Sousse,,,À Vendre,65.0,1.0,2,224.0
+Ben Arous,,Appartement,À Vendre,80.0,1.0,2,135000.0
+Tunis,,Appartement,À Vendre,70.0,1.0,2,140.0
+Ben Arous,,Appartement,À Vendre,58.0,1.0,1,150000.0
+Ben Arous,,Appartement,À Vendre,90.0,1.0,1,0.0
+Nabeul,,,À Vendre,86.0,1.0,2,1.0
+Tunis,,,À Vendre,80.0,1.0,2,250000.0
+Ben Arous,,Appartement,À Louer,147.0,2.0,3,280000.0
+Tunis,,Appartement,À Vendre,130.0,2.0,3,220.0
+Sousse,,Appartement,À Vendre,164.0,1.0,5,260000.0
+Sousse,,,À Vendre,,,,60000.0
+Sousse,,,À Vendre,102.0,2.0,2,750000.0
+Tunis,,Appartement,À Vendre,127.0,1.0,2,450.0
+Ariana,,Appartement,À Vendre,80.0,1.0,2,230000.0
+Sfax,,,À Vendre,,,,195.0
+Tunis,,Appartement,À Vendre,1.0,1.0,2,198.0
+Monastir,,Appartement,À Vendre,200.0,2.0,5,200000.0
+Tunis,,,À Vendre,,,3,445000.0
+Sousse,,,À Vendre,620.0,4.0,13,310000.0
+Tunis,,Appartement,À Vendre,120.0,1.0,2,290.0
+Mahdia,,,À Vendre,89.5,1.0,2,179000.0
+Bizerte,,Appartement,À Vendre,120.0,1.0,2,97000.0
+Tunis,,,À Vendre,,,2,349999.0
+Tunis,,,À Vendre,138.0,2.0,3,290000.0
+Nabeul,,Appartement,À Vendre,70.0,1.0,1,240000.0
+Nabeul,,Appartement,À Vendre,68.0,1.0,1,247000.0
+Nabeul,,Appartement,À Vendre,110.0,2.0,3,320000.0
+Nabeul,,Appartement,À Vendre,64.0,1.0,1,231000.0
+Nabeul,,Appartement,À Vendre,60.0,1.0,1,260000.0
+Tunis,,,À Vendre,138.0,2.0,3,290000.0
+Ariana,,,À Vendre,59.0,1.0,1,190000.0
+Tunis,,,À Vendre,,,1,210000.0
+Ariana,,,À Vendre,124.0,,,195000.0
+Sousse,,Appartement,À Vendre,58.0,1.0,1,170000.0
+Tunis,,Appartement,À Vendre,60.0,1.0,1,210000.0
+Nabeul,,,À Vendre,155.0,3.0,3,0.0
+Tunis,,,À Vendre,195.0,2.0,2,570000.0
+Ben Arous,,Appartement,À Vendre,110.0,2.0,3,200000.0
+Nabeul,,Appartement,À Vendre,69.0,1.0,1,0.0
+Monastir,,Appartement,À Vendre,75.0,1.0,2,93496.0
+Nabeul,,Appartement,À Vendre,69.0,1.0,1,0.0
+Tunis,,Appartement,À Vendre,140.0,2.0,3,300000.0
+Tunis,,,À Vendre,0.0,1.0,1,176000.0
+Ariana,,Appartement,À Vendre,117.0,2.0,2,0.0
+Tunis,,Appartement,À Vendre,140.0,2.0,3,300000.0
+Nabeul,,,À Vendre,0.0,1.0,1,270000.0
+Tunis,,,À Vendre,50.0,1.0,1,169000.0
+Tunis,,Appartement,À Vendre,90.0,1.0,03,110000.0
+Tunis,,Appartement,À Vendre,220.0,2.0,3,780000.0
+Ariana,,,À Vendre,100.0,1.0,2,249999.0
+Ben Arous,,,À Vendre,157.0,2.0,3,1.0
+Nabeul,,,À Vendre,122.0,1.0,1,355000.0
+Nabeul,,Appartement,À Vendre,120.0,1.0,2,350000.0
+Monastir,,Appartement,À Vendre,113.0,2.0,2,1.0
+Tunis,,Appartement,À Vendre,129.0,2.0,2,330000.0
+Sfax,,Appartement,À Louer,90.0,1.0,2,700.0
+Ariana,,Appartement,À Vendre,143.0,1.0,2,2700.0
+Tunis,,,À Vendre,55.0,1.0,2,125000.0
+Tunis,,Appartement,À Vendre,138.0,2.0,2,0.1
+Ariana,,,À Vendre,90.0,1.0,2,0.0
+Ben Arous,,,À Vendre,350.0,3.0,8,525000.0
+Nabeul,,,À Vendre,119.0,2.0,3,440300.0
+Tunis,,Appartement,À Vendre,,,3,1232.0
+Sousse,,Appartement,À Vendre,80.0,0.0,2,230000.0
+Tunis,,,À Vendre,165.0,2.0,3,550000.0
+Nabeul,,villa,À Vendre,358.0,2.0,3,750000.0
+Ariana,,,À Vendre,56.0,1.0,1,240000.0
+Ariana,,,À Vendre,69.0,1.0,1,239000.0
+Ariana,,Appartement,À Vendre,120.0,2.0,2,396000.0
+Tunis,,Appartement,À Vendre,160.0,1.0,2,158000.0
+Tunis,,,À Vendre,130.0,1.0,2,309999.0
+Tunis,,Appartement,À Vendre,140.0,2.0,2,409.0
+Ben Arous,,,À Vendre,50.0,1.0,-2,130000.0
+Ben Arous,,Appartement,À Vendre,,,3,304000.0
+Ariana,,,À Vendre,58.0,1.0,2,110000.0
+Tunis,,Appartement,À Vendre,117.0,1.0,1,284998.0
+Ariana,,,À Vendre,65.0,1.0,1,199000.0
+Sousse,,,À Vendre,126.0,0.0,2,315000.0
+Ariana,,,À Vendre,45.0,1.0,1,0.0
+Sousse,,,À Vendre,110.0,2.0,2,350000.0
+Sousse,,Appartement,À Vendre,130.0,2.0,2,390000.0
+Sousse,,Appartement,À Vendre,,,2,430000.0
+Sousse,,Appartement,À Vendre,121.0,1.0,2,390000.0
+Ariana,,,À Vendre,,,3,550000.0
+Ariana,,,À Vendre,147.0,2.0,3,480000.0
+Ariana,,,À Vendre,118.0,2.0,2,410000.0
+Sousse,,,À Vendre,300.0,2.0,4,900000.0
+Sousse,,Appartement,À Vendre,180.0,1.0,3,400000.0
+Bizerte,,Appartement,À Vendre,100.0,1.0,2,135000.0
+Nabeul,,Appartement,À Vendre,95.0,1.0,2,280000.0
+Tunis,,,À Vendre,126.0,2.0,3,325000.0
+Sousse,,Appartement,À Vendre,,,1,255000.0
+Nabeul,,Appartement,À Vendre,116.0,1.0,2,0.0
+Monastir,,Appartement,À Vendre,95.0,1.0,2,0.0
+Ariana,,,À Vendre,70.0,1.0,2,130000.0
+Ben Arous,,Appartement,À Vendre,90.0,1.0,2,135.0
+Ariana,,,À Vendre,89.0,1.0,2,200000.0
+Sousse,,Appartement,À Vendre,159.75,2.0,3,0.0
+Sfax,,Appartement,À Vendre,69.0,1.0,1,120000.0
+Sousse,,Appartement,À Vendre,100.0,2.0,2,350000.0
+Sousse,,Appartement,À Vendre,100.0,1.0,2,200000.0
+Tunis,,Appartement,À Vendre,142.0,2.0,3,330000.0
+Tunis,,Appartement,À Vendre,117.0,2.0,2,330000.0
+La Manouba,,Appartement,À Vendre,93.0,1.0,3,150000.0
+Sousse,,Appartement,À Vendre,110.0,1.0,2,160.0
+Tunis,,Appartement,À Vendre,110.0,2.0,3,1.0
+Ben Arous,,Appartement,À Vendre,,,,272000.0
+Ariana,,,À Vendre,440.0,,,485000.0
+Bizerte,,,À Vendre,108.0,1.0,2,160.0
+Nabeul,,Appartement,À Vendre,,,,174998.0
+Tunis,,Appartement,À Vendre,140.0,2.0,3,300000.0
+Ben Arous,,Appartement,À Vendre,124.0,1.0,2,1.0
+Bizerte,,Appartement,À Vendre,90.0,1.0,3,210000.0
+Sousse,,,À Vendre,190.0,2.0,2,0.0
+Ariana,,,À Vendre,78.0,0.0,2,378000.0
+Ariana,,,À Vendre,67.0,0.0,1,294000.0
+Sousse,,,À Vendre,160.0,3.0,3,470000.0
+Sousse,,Appartement,À Vendre,128.0,1.0,3,1.0
+Tunis,,Appartement,À Vendre,100.0,2.0,2,0.0
+Tunis,,,À Vendre,70.0,1.0,2,85000.0
+Sousse,,Appartement,À Vendre,168.0,0.0,2,480000.0
+Nabeul,,,À Vendre,239.0,2.0,2,0.0
+Tunis,,,À Vendre,140.0,2.0,0,700000.0
+Tunis,,Appartement,À Vendre,,2.0,,110.0
+Tunis,,,À Vendre,92.0,1.0,1,330000.0
+Ariana,,Appartement,À Vendre,111.0,1.0,1,0.0
+Tunis,,Appartement,À Vendre,154.0,2.0,3,370000.0
+Tunis,,Appartement,À Vendre,90.0,1.0,2,225000.0
+Tunis,,Appartement,À Vendre,50.0,1.0,3,140.0
+Ben Arous,,,À Vendre,95.0,1.0,2,215000.0
+Ariana,,Appartement,À Vendre,181.31,2.0,3,715708.0
+Ariana,,Appartement,À Vendre,104.97,1.0,2,425128.0
+Ariana,,Appartement,À Vendre,,,1,265611.0
+Tunis,,Appartement,À Louer,165.0,2.0,3,780000.0
+Béja,,,À Vendre,140.0,3.0,3,0.0
+Ben Arous,,Appartement,À Vendre,120.0,2.0,3,270.0
+Tunis,,,À Vendre,72.0,1.0,1,320000.0
+Ben Arous,,Appartement,À Vendre,115.0,1.0,4,145000.0
+Sousse,,Appartement,À Vendre,65.0,0.0,2,229000.0
+Sfax,,Appartement,À Vendre,128.0,1.0,2,394998.0
+Ariana,,,À Vendre,,1.0,,180000.0
+Tunis,,Appartement,À Vendre,150.0,2.0,3,695000.0
+Tunis,,,À Vendre,153.0,2.0,3,550000.0
+Nabeul,,,À Vendre,62.0,1.0,-1,235599.0
+Ben Arous,,Appartement,À Vendre,108.0,0.0,2,255000.0
+Tunis,,Appartement,À Vendre,120.0,2.0,3,230000.0
+Nabeul,,,À Vendre,110.0,2.0,2,0.0
+Ariana,,,À Vendre,120.0,2.0,3,250000.0
+Ben Arous,,Appartement,À Vendre,75.0,1.0,2,175000.0
+Sousse,,Appartement,À Vendre,80.0,1.0,2,145000.0
+Tunis,,,À Vendre,138.0,1.0,1,727860.0
+Ariana,,,À Vendre,96.0,1.0,2,140000.0
+Ben Arous,,Appartement,À Vendre,124.0,1.0,2,1.0
+Sousse,,Appartement,À Vendre,80.0,1.0,2,270000.0
+Sousse,,,À Vendre,82.0,1.0,1,0.0
+Sousse,,Appartement,À Vendre,98.0,1.0,3,0.0
+Sousse,,Appartement,À Vendre,120.0,1.0,3,0.0
+Sousse,,Appartement,À Louer,250.0,2.0,3,0.0
+Tunis,,Appartement,À Vendre,220.0,3.0,4,587000.0
+Sfax,,,À Vendre,160.0,4.0,8,250000.0
+Tunis,,Appartement,À Vendre,60.0,1.0,3,170000.0
+Ben Arous,,,À Vendre,138.0,1.0,3,489000.0
+Tunis,,,À Vendre,122.0,1.0,3,250000.0
+Ben Arous,,,À Vendre,90.0,1.0,2,322000.0
+Tunis,,,À Vendre,240.0,4.0,3,1300000.0
+Sfax,,Appartement,À Vendre,122.0,0.0,2,280000.0
+Ben Arous,,,À Vendre,69.0,1.0,1,231000.0
+Tunis,,Appartement,À Vendre,100.0,1.0,3,250000.0
+La Manouba,,Appartement,À Vendre,93.0,1.0,3,0.0
+Monastir,,Appartement,À Vendre,77.0,1.0,1,220000.0
+Kasserine,,Appartement,À Vendre,80.0,1.0,2,140.0
+Tunis,,Appartement,À Vendre,87.0,1.0,2,1.0
+Ariana,,,À Vendre,137.0,2.0,3,370000.0
+Ariana,,,À Vendre,84.0,1.0,1,320000.0
+Tunis,,,À Vendre,154.0,2.0,2,680000.0
+Ariana,,Appartement,À Vendre,171.0,2.0,3,570000.0
+Tunis,,Appartement,À Vendre,117.0,1.0,3,270000.0
+Ariana,,Appartement,À Vendre,69.0,1.0,1,185000.0
+Ben Arous,,Appartement,À Vendre,117.0,1.0,3,150000.0
+Tunis,,,À Vendre,75.0,1.0,2,370000.0
+Sousse,,,À Vendre,102.0,2.0,3,760000.0
+Tunis,,Appartement,À Vendre,,,,265.0
+Tunis,,,À Vendre,139.0,2.0,2,350000.0
+Nabeul,,,À Vendre,70.0,1.0,1,270000.0
+Ariana,,,À Vendre,70.0,1.0,2,175000.0
+Tunis,,,À Vendre,63.0,1.0,1,80000.0
+Sousse,,Appartement,À Vendre,58.0,1.0,1,195000.0
+Ariana,,Appartement,À Vendre,90.0,1.0,2,110.0
+Ben Arous,,Appartement,À Vendre,600.0,1.0,3,109.0
+Monastir,,,À Vendre,100.0,1.0,2,1.0
+Ariana,,Appartement,À Vendre,86.0,0.0,2,250000.0
+Monastir,,Appartement,À Vendre,80.0,1.0,2,155000.0
+Tunis,,,À Vendre,100.0,1.0,3,160000.0
+Tunis,,,À Louer,,,2,195000.0
+Ariana,,,À Vendre,132.0,2.0,3,370000.0
+Sousse,,Maison,À Vendre,200.0,1.0,1,275000.0
+Sousse,,Appartement,À Vendre,80.0,1.0,2,300000.0
+Tunis,,,À Vendre,53.0,1.0,1,240000.0
+Tunis,,,À Vendre,,1.0,,178000.0
+Tunis,,,À Vendre,90.0,1.0,2,195000.0
+Tunis,,Appartement,À Vendre,45.0,1.0,1,0.0
+Sousse,,Appartement,À Vendre,120.0,1.0,2,335000.0
+Ariana,,Appartement,À Vendre,250.0,2.0,4,1070000.0
+Ariana,,,À Vendre,99.0,1.0,3,150000.0
+Ariana,,,À Vendre,130.0,2.0,3,230000.0
+Ben Arous,,Appartement,À Vendre,90.0,,,0.0
+Tunis,,,À Vendre,92.0,1.0,2,215000.0
+Nabeul,,,À Vendre,,,,470000.0
+Nabeul,,Appartement,À Vendre,86.0,1.0,2,0.0
+Tunis,,,À Vendre,40.0,1.0,3,1111.0
+Sousse,,Appartement,À Vendre,65.0,0.0,1,2.0
+Tunis,,,À Vendre,124.0,2.0,2,280000.0
+Ben Arous,,,À Vendre,130.0,130.0,3,260000.0
+Ariana,,,À Vendre,90.0,1.0,2,135000.0
+Tunis,,,À Vendre,44.0,1.0,,245000.0
+Nabeul,,,À Vendre,65.0,1.0,1,265000.0
+Ben Arous,,,À Vendre,30.0,1.0,1,100000.0
+Tunis,,,À Louer,43.0,1.0,1,135000.0
+Tunis,,,À Vendre,,,3,344998.0
+Tunis,,Appartement,À Vendre,72.0,1.0,1,320000.0
+Tunis,,,À Vendre,100.0,1.0,3,145000.0
+Ariana,,Appartement,,,,3,350.0
+Tunis,,,À Vendre,136.0,1.0,2,1.0
+Ariana,,,À Vendre,104.0,1.0,1,365000.0
+Sfax,,,À Vendre,120.0,1.0,2,0.0
+Ariana,,,À Vendre,170.0,2.0,2,525000.0
+Ariana,,Appartement,À Vendre,110.0,1.0,3,280.0
+Jendouba,,Appartement,À Vendre,100.0,1.0,2,135000.0
+Tunis,,,À Vendre,118.0,1.0,2,355000.0
+Tunis,,Appartement,À Vendre,75.0,1.0,3,230000.0
+Nabeul,,,À Vendre,102.0,0.0,3,480000.0
+Ariana,,Appartement,À Vendre,121.0,1.0,2,450000.0
+Tunis,,Appartement,À Vendre,,,2,158000.0
+Tunis,,,À Vendre,140.0,2.0,3,742000.0
+Sousse,,,À Vendre,120.0,1.0,2,331000.0
+Sousse,,,À Vendre,122.0,1.0,2,384000.0
+Sousse,,Appartement,À Vendre,108.0,1.0,2,360000.0
+Sousse,,,À Vendre,116.0,1.0,2,303600.0
+Sousse,,,À Vendre,140.0,2.0,3,359600.0
+Sousse,,,À Vendre,140.0,2.0,2,300000.0
+Sousse,,,À Vendre,64.0,1.0,1,205000.0
+Sousse,,,À Vendre,112.0,2.0,2,304000.0
+Tunis,,Appartement,À Vendre,126.0,2.0,3,210.0
+Ariana,,,À Vendre,59.0,1.0,1,1.0
+Tunis,,,À Vendre,,,,0.0
+Ariana,,,,,,2,99000.0
+Ben Arous,,,À Vendre,500.0,2.0,5,750000.0
+Tunis,,Appartement,À Vendre,90.0,1.0,1,120000.0
+Nabeul,,Appartement,À Vendre,126.0,1.0,1,0.0
+Ariana,,,À Vendre,128.0,1.0,3,350000.0
+Ben Arous,,,À Vendre,70.0,2.0,2,130000.0
+Nabeul,,Appartement,À Vendre,50.0,1.0,1,0.0
+Tunis,,,À Vendre,60.0,1.0,2,165000.0
+Bizerte,,,À Vendre,120.0,1.0,2,0.0
+Tunis,,Appartement,À Vendre,40.0,1.0,1,99.0
+Nabeul,,Appartement,À Vendre,125.0,3.0,3,360000.0
+Ariana,,,À Vendre,200.0,1.0,3,0.0
+Sousse,,Appartement,À Vendre,108.0,1.0,2,380.0
+Sousse,,,À Vendre,70.0,1.0,1,300.0
+Sousse,,Appartement,À Louer,116.0,1.0,2,310.0
+Tunis,,Appartement,À Vendre,97.0,1.0,1,330000.0
+Tunis,,,À Vendre,,,,15000.0
+Nabeul,,,À Vendre,63.0,0.0,1,160000.0
+Nabeul,,,À Vendre,156.0,0.0,3,550000.0
+Tunis,,Appartement,À Vendre,55.0,1.0,3,90000.0
+Tunis,,,À Vendre,105.0,1.0,2,459997.0
+Ben Arous,,,À Vendre,90.0,1.0,2,150000.0
+Tunis,,,À Vendre,,,2,594000.0
+Ben Arous,,Appartement,À Vendre,150.0,1.0,3,290000.0
+Nabeul,,,À Vendre,68.0,1.0,1,277000.0
+Nabeul,,,À Vendre,68.0,1.0,1,277000.0
+Nabeul,,,À Vendre,68.0,1.0,1,277000.0
+Ariana,,Appartement,À Vendre,120.0,1.0,2,330.0
+Tunis,,Appartement,À Vendre,,,2,220000.0
+Tunis,,,À Vendre,65.0,1.0,1,0.0
+Monastir,,Appartement,À Vendre,,,2,115000.0
+Tunis,,Appartement,À Vendre,100.0,1.0,2,240000.0
+Ben Arous,,Appartement,À Vendre,114.0,1.0,2,190000.0
+Nabeul,,,À Vendre,103.0,2.0,2,0.0
+Ariana,,,À Vendre,180.0,3.0,3,440000.0
+Tunis,,Appartement,À Vendre,152.0,2.0,4,350000.0
+Tunis,,Appartement,À Louer,145.0,2.0,3,360000.0
+Bizerte,,Appartement,À Vendre,93.0,1.0,2,170000.0
+Ben Arous,,Appartement,À Vendre,112.0,1.0,3,175000.0
+Sousse,,Appartement,À Vendre,120.0,0.0,3,400000.0
+Tunis,,Appartement,À Louer,154.0,2.0,3,400000.0
+Ben Arous,,Appartement,À Vendre,1.0,1.0,3,150000000.0
+Ariana,,,À Vendre,130.0,3.0,4,350000.0
+Ariana,,,À Vendre,80.0,1.0,2,320.0
+Sfax,,Appartement,À Vendre,450.0,4.0,16,324000.0
+Ben Arous,,,À Vendre,109.0,1.0,3,135000.0
+Ben Arous,,Appartement,À Vendre,115.0,1.0,2,190000.0
+Ben Arous,,Appartement,À Vendre,156.0,1.0,3,1.0
+Tunis,,Appartement,À Vendre,90.0,1.0,2,80000.0
+Sfax,,Appartement,À Vendre,99.0,1.0,2,120.0
+Ben Arous,,Appartement,À Vendre,,,2,150000.0
+Tunis,,,À Vendre,155.0,3.0,4,650000.0
+Sfax,,Appartement,À Vendre,86.0,1.0,3,96.0
+Sousse,,Appartement,À Vendre,0.0,0.0,0,1.0
+Tunis,,,À Vendre,150.0,1.0,2,2500000.0
+Tunis,,,À Vendre,,,2,110.0
+Tunis,,,À Louer,138.0,2.0,1,349999.0
+Tunis,,,À Vendre,56.0,1.0,1,350.0
+Ariana,,Appartement,À Vendre,150.0,0.0,2,220000.0
+Tunis,,Appartement,À Vendre,100.0,1.0,0,260000.0
+Ben Arous,,Appartement,À Vendre,117.0,1.0,3,149998.0
+Monastir,,,À Vendre,105.0,1.0,2,234000.0
+Sfax,,Appartement,À Vendre,107.0,2.0,2,0.0
+Sfax,,Appartement,À Vendre,107.0,2.0,2,0.0
+Tunis,,,À Vendre,137.0,1.0,2,345000.0
+Tunis,,,À Vendre,154.0,1.0,3,340000.0
+Ariana,,Appartement,À Vendre,129.0,1.0,3,370000.0
+Ariana,,Appartement,À Vendre,235.0,2.0,2,750000.0
+Ariana,,Appartement,À Vendre,178.0,1.0,2,440000.0
+Ariana,,,À Vendre,170.0,1.0,1,540000.0
+Sousse,,,À Vendre,126.0,2.0,2,320000.0
+Tunis,,,À Vendre,118.0,1.0,2,290000.0
+Ariana,,,À Vendre,130.0,2.0,3,360000.0
+Ben Arous,,Appartement,,,,1,0.0
+Tunis,,,À Vendre,49.81,1.0,1,174335.0
+Tunis,,,À Louer,,,1,320000.0
+Sfax,,Appartement,À Vendre,85.0,1.0,2,197000.0
+Mahdia,,Appartement,À Vendre,100.0,1.0,2,111111.0
+Mahdia,,Appartement,À Vendre,100.0,1.0,2,111111.0
+Tunis,,Appartement,À Vendre,,,4,330000.0
+Béja,,Appartement,À Vendre,100.0,1.0,3,180000.0
+Sfax,,,À Vendre,148.0,2.0,3,1.0
+Tunis,,Appartement,À Vendre,55.0,1.0,2,87000.0
+Kairouan,,villa,À Vendre,182.0,1.0,4,220000.0
+Kairouan,,,À Vendre,127.0,1.0,2,254000.0
+Kairouan,,,À Vendre,,1.0,,324000.0
+Ariana,,villa,À Vendre,160.0,1.0,3,350000.0
+Ariana,,Appartement,À Vendre,140.0,0.0,2,392000.0
+Ariana,,Appartement,À Vendre,173.0,0.0,2,418600.0
+Ariana,,Appartement,À Vendre,151.0,0.0,3,387800.0
+Ariana,,Appartement,À Vendre,194.0,0.0,3,498400.0
+Tunis,,,À Vendre,137.0,1.0,3,345000.0
+Tunis,,,À Vendre,150.0,2.0,3,360000.0
+Tunis,,,À Vendre,130.0,1.0,3,345000.0
+Kairouan,,,À Vendre,127.0,1.0,2,254000.0
+Bizerte,,Appartement,À Vendre,72.0,1.0,2,150.0
+Kairouan,,Appartement,À Vendre,77.0,1.0,2,68000.0
+Ariana,,,À Vendre,84.0,2.0,2,545000.0
+Tunis,,,À Vendre,160.0,2.0,2,865000.0
+Sfax,,villa,À Vendre,150.0,2.0,2,145000.0
+Tunis,,,À Vendre,180.0,2.0,4,470000.0
+Tunis,,,À Vendre,85.0,1.0,2,220000.0
+Tunis,,Appartement,À Vendre,150.0,2.0,0,350000.0
+Sousse,,Appartement,À Vendre,62.0,1.0,1,165000.0
+Tunis,,Appartement,À Louer,115.0,1.0,3,215000.0
+Tunis,,Appartement,À Vendre,117.0,1.0,2,269999.0
+Sousse,,Appartement,À Vendre,134.0,2.0,2,1500000.0
+Tunis,,,À Vendre,190.0,1.0,3,350000.0
+Sousse,,Appartement,À Vendre,69.0,1.0,2,135.0
+Bizerte,,Appartement,À Vendre,140.0,2.0,1,220000.0
+Ben Arous,,Appartement,,,,2,123.0
+Tunis,,,À Vendre,132.0,2.0,2,450000.0
+Ariana,,,À Vendre,147.0,3.0,3,411000.0
+Tunis,,Appartement,À Vendre,140.0,2.0,3,299000.0
+Tunis,,,À Vendre,156.0,2.0,3,478000.0
+Ariana,,,À Vendre,143.0,2.0,2,404000.0
+Ariana,,,À Vendre,150.0,3.0,3,500000.0
+Tunis,,,À Vendre,163.0,2.0,3,734000.0
+Tunis,,,À Vendre,33.0,1.0,1,99000.0
+Nabeul,,,À Vendre,80.0,1.0,1,325000.0
+Tunis,,Appartement,À Vendre,110.0,2.0,3,1.0
+Tunis,,Appartement,À Vendre,78.0,1.0,1,240000.0
+Tunis,,,À Vendre,50.0,1.0,1,169000.0
+Tunis,,Appartement,À Vendre,80.0,1.0,2,230000.0
+Sousse,,,À Vendre,80.0,1.0,3,104500.0
+Tunis,,,À Louer,120.0,2.0,2,480000.0
+Ben Arous,,Appartement,À Vendre,150.0,1.0,4,0.0
+Tunis,,Appartement,À Vendre,140.0,2.0,2,409.0
+Ben Arous,,Appartement,À Vendre,107.0,1.0,2,170000.0
+Sousse,,Appartement,À Vendre,74.0,1.0,2,280000.0
+Sousse,,Appartement,À Vendre,133.0,1.0,3,480000.0
+Ariana,,Appartement,À Louer,65.0,1.0,2,95000000.0
+Nabeul,,Appartement,À Vendre,98.0,1.0,2,1.0
+Nabeul,,Appartement,À Vendre,80.0,1.0,2,1.0
+Sfax,,Appartement,À Vendre,96.0,2.0,5,159999.0
+Ariana,,Appartement,À Vendre,,,,190000.0
+Ariana,,Appartement,À Vendre,360.0,10.0,19,0.0
+Ben Arous,,,À Vendre,60.0,1.0,1,111111.0
+Tunis,,,À Louer,154.0,2.0,3,399999.0
+Tunis,,Appartement,À Vendre,140.0,1.0,3,315000.0
+Tunis,,Appartement,À Vendre,100.0,1.0,2,270000.0
+Ariana,,Appartement,À Vendre,136.0,1.0,3,340000.0
+Nabeul,,Appartement,À Vendre,126.0,1.0,-1,0.0
+Ariana,,,À Vendre,84.0,1.0,1,320000.0
+Ariana,,,À Vendre,132.0,2.0,3,0.0
+Tunis,,,À Vendre,236.0,3.0,4,1100000.0
+Tunis,,,À Vendre,132.0,1.0,3,320000.0
+Tunis,,,À Vendre,177.0,2.0,3,748000.0
+Ben Arous,,,À Vendre,60.0,1.0,2,120.0
+Tunis,,,À Vendre,140.0,1.0,4,175.0
+Sfax,,Appartement,À Vendre,128.0,1.0,3,180.0
+Ariana,,Appartement,À Louer,120.0,1.0,4.0,850.0
+Ben Arous,,Appartement,À Vendre,53.0,1.0,1,0.0
+Tunis,,,À Vendre,65.0,1.0,1,0.0
+Nabeul,,Appartement,À Vendre,152.0,1.0,3,370.0
+Tunis,,,À Louer,116.5,1.0,2,420000.0
+Nabeul,,Appartement,À Vendre,90.0,1.0,0,169998.0
+Ariana,,Appartement,À Vendre,75.0,1.0,2,125000.0
+Ariana,,,À Vendre,135.0,2.0,3,638000.0
+Ben Arous,,,À Vendre,100.0,1.0,3,175000.0
+Nabeul,,,À Vendre,233.0,2.0,2,0.0
+Tunis,,Appartement,À Vendre,74.0,1.0,1,320000.0
+Monastir,,,À Vendre,1649.0,,,0.0
+Tunis,,,À Vendre,70.0,1.0,3,160.0
+Tunis,,Appartement,À Vendre,120.0,1.0,3,520000.0
+Ariana,,Appartement,À Vendre,135.0,2.0,3,0.0
+Ben Arous,,,À Vendre,410.0,6.0,6,800000.0
+Ben Arous,,Appartement,À Vendre,,,,250000.0
+Tunis,,Appartement,À Louer,285.0,3.0,3,620000.0
+Ben Arous,,Appartement,À Vendre,,,,169000.0
+Sfax,,Appartement,À Vendre,81.0,1.0,4,80000.0
+Tunis,,Appartement,À Vendre,-100.0,1.0,2,255000.0
+Ariana,,,À Vendre,157.0,2.0,3,580000.0
+Sousse,,Appartement,À Vendre,,,4,260000.0
+Bizerte,,Appartement,À Vendre,200.0,1.0,1,250000.0
+Ben Arous,,villa,À Vendre,85.0,1.0,2,0.0
+Sfax,,Appartement,À Vendre,170.0,2.0,3,210000.0
+La Manouba,,villa,À Vendre,166.0,2.0,3,400000.0
+Tunis,,,À Vendre,50.0,1.0,1,230.0
+Ben Arous,,Appartement,À Vendre,80.0,1.0,3,130000.0
+Nabeul,,Appartement,À Vendre,103.0,1.0,2,382000.0
+Sousse,,Appartement,À Vendre,180.0,2.0,3,340.0
+Sousse,,,À Vendre,110.0,1.0,2,21000000.0
+Sfax,,Appartement,À Vendre,67.0,1.0,0,60000.0
+Bizerte,,,À Vendre,50.0,1.0,1,80000.0
+Médenine,,,À Vendre,0.0,5.0,5,1.0
+Tunis,,,À Vendre,70.0,1.0,1,260000.0
+Tunis,,Appartement,À Vendre,167.0,2.0,3,634000.0
+Tunis,,Appartement,À Vendre,152.0,2.0,2,850000.0
+Tunis,,,À Vendre,188.0,2.0,3,750000.0
+Tunis,,Appartement,À Louer,132.0,1.0,3,415000.0
+Tunis,,,À Vendre,160.0,2.0,3,854000.0
+Tunis,,,À Vendre,95.0,1.0,2,380000.0
+Tunis,,Appartement,À Vendre,,,3,839800.0
+Tunis,,Appartement,À Vendre,135.0,1.0,2,540000.0
+Tunis,,,À Vendre,101.0,2.0,2,548000.0
+Tunis,,Appartement,À Vendre,101.0,1.0,2,459000.0
+Tunis,,Appartement,À Vendre,134.0,2.0,3,459000.0
+Tunis,,,À Vendre,137.0,-1.0,2,715000.0
+Tunis,,Appartement,À Vendre,116.0,1.0,0,345000.0
+Tunis,,Appartement,À Vendre,183.0,2.0,3,1050000.0
+Ariana,,Appartement,À Vendre,,,3,650000.0
+Tunis,,Appartement,,,,1,0.0
+Tunis,,Appartement,À Vendre,124.0,2.0,2,380000.0
+Tunis,,Appartement,À Vendre,55.0,1.0,-1,197000.0
+Sousse,,Appartement,À Vendre,165.0,2.0,3,400000.0
+Sousse,,Appartement,À Vendre,116.0,1.0,3,360000.0
+Monastir,,,À Vendre,126.0,1.0,2,450000.0
+Sousse,,,À Vendre,50.0,0.0,1,270000.0
+Sousse,,,À Vendre,70.0,0.0,2,300000.0
+Ben Arous,,,À Vendre,88.0,1.0,1,300000.0
+Nabeul,,Appartement,À Vendre,83.0,1.0,2,290000.0
+Nabeul,,Appartement,À Vendre,104.0,2.0,2,343000.0
+Nabeul,,Appartement,À Vendre,73.7,1.0,2,272997.0
+Nabeul,,Appartement,À Vendre,81.0,1.0,2,280998.0
+Nabeul,,Appartement,À Vendre,62.0,1.0,1,236000.0
+Tunis,,,À Vendre,140.0,1.0,3,300000.0
+Bizerte,,Appartement,À Vendre,110.0,1.0,3,140.0
+Tunis,,,À Vendre,73.0,1.0,1,179999.0
+Ben Arous,,,À Vendre,90.0,1.0,2,145000.0
+Tunis,,villa,À Vendre,128.0,1.0,3,0.0
+Ariana,,,À Vendre,55.0,1.0,-1,165000.0
+Bizerte,,villa,À Vendre,82.0,1.0,2,200000.0
+Nabeul,,Appartement,À Vendre,123.0,2.0,2,250000.0
+Sousse,,Appartement,À Vendre,100.0,2.0,4,220000.0
+Sousse,,Appartement,À Vendre,150.0,2.0,3,220000.0
+Tunis,,,À Vendre,,,2,480000.0
+Ariana,,,À Vendre,140.0,1.0,2,175000.0
+Tunis,,,À Vendre,207.0,1.0,3,1090950.0
+Tunis,,,À Vendre,134.0,1.0,3,340000.0
+Tunis,,,À Vendre,65.0,1.0,1,190000.0
+Tunis,,,À Vendre,187.0,2.0,2,504000.0
+Tunis,,,À Vendre,78.0,1.0,1,180000.0
+Tunis,,,À Vendre,75.0,1.0,1,260000.0
+Ariana,,,À Louer,91.0,1.0,2,230000.0
+Ariana,,,À Vendre,100.0,1.0,2,250000.0
+Tunis,,,À Vendre,109.0,1.0,2,220000.0
+Sfax,,Maison,À Vendre,80.0,0.0,3.0,20.0
+Sousse,,Appartement,À Vendre,110.0,1.0,1,460000.0
+Nabeul,,Appartement,À Vendre,102.0,1.0,2,1.0
+Ben Arous,,,À Vendre,,,2,175000.0
+Tunis,,,À Vendre,69.0,1.0,2,165000.0
+Tunis,,,À Vendre,326.0,2.0,4,780000.0
+Tunis,,Appartement,À Vendre,134.0,2.0,3,290000.0
+Ben Arous,,,À Vendre,75.0,1.0,1,130000.0
+Tunis,,Appartement,À Vendre,100.5,1.0,2,558000.0
+Sousse,,Appartement,À Vendre,90.0,1.0,2,200000.0
+Tunis,,Appartement,À Vendre,108.0,1.0,3,1.0
+Tunis,,,À Vendre,118.0,1.0,2,330000.0
+Tunis,,Appartement,À Vendre,266.0,3.0,3,760000.0
+Tunis,,,À Vendre,150.0,2.0,2,980000.0
+Tunis,,,À Vendre,111.0,1.0,1,720000.0
+Tunis,,,À Vendre,107.0,2.0,3,300000.0
+Ben Arous,,Appartement,À Vendre,110.0,2.0,3,1.0
+Ariana,,,À Vendre,105.0,1.0,1,200000.0
+Tunis,,,À Vendre,98.0,1.0,2,275000.0
+Tunis,,Appartement,À Vendre,118.0,1.0,2,291000.0
+Ariana,,Appartement,À Vendre,129.0,2.0,2,0.0
+Tunis,,,À Vendre,70.0,1.0,1,0.0
+Tunis,,,À Vendre,100.0,2.0,2,270000.0
+Ariana,,,À Vendre,90.0,1.0,2,140.0
+Ben Arous,,Appartement,À Vendre,1.0,1.0,2,200.0
+Monastir,,,À Vendre,100.0,2.0,3,300000.0
+Tunis,,Appartement,À Vendre,116.0,1.0,1,285000.0
+Ben Arous,,Appartement,À Vendre,143.0,3.0,3,300000.0
+Ben Arous,,,À Vendre,110.0,1.0,3,250000.0
+Ben Arous,,,À Vendre,129.0,1.0,4,240000.0
+Tunis,,Appartement,À Vendre,101.0,1.0,4,250.0
+Ariana,,Appartement,À Vendre,106.0,1.0,3,345000.0
+Tunis,,,À Vendre,207.0,2.0,6,325000.0
+Ariana,,,À Vendre,56.0,1.0,1,185000.0
+Mahdia,,,À Vendre,105.0,1.0,2,234000.0
+Nabeul,,Appartement,À Vendre,75.0,1.0,1,240000.0
+Nabeul,,Appartement,À Vendre,62.0,1.0,1,235000.0
+Tunis,,,À Vendre,70.0,1.0,2,230000.0
+Nabeul,,Appartement,À Vendre,1.0,1.0,1,1.0
+Ben Arous,,Appartement,À Vendre,68.0,1.0,1,1.0
+Tunis,,,À Vendre,274.0,4.0,10,0.0
+Tunis,,,À Vendre,58.0,1.0,1,58000.0
+Tunis,,,À Vendre,236.0,2.0,4,1099999.0
+Tunis,,,À Vendre,70.0,1.0,1,190000.0
+Tunis,,,À Vendre,93.0,1.0,2,380000.0
+Tunis,,,À Vendre,154.0,1.0,3,340000.0
+Tunis,,Appartement,À Vendre,50.0,1.0,1,165000.0
+Ariana,,Appartement,À Vendre,110.0,1.0,1,230000.0
+La Manouba,,,À Vendre,78.0,1.0,3,85.0
+Ariana,,Appartement,À Vendre,62.0,1.0,2,0.0
+Tunis,,Appartement,À Vendre,143.0,2.0,3,365000.0
+Tunis,,Appartement,À Vendre,1.0,1.0,2,70000.0
+Ben Arous,,,À Vendre,130.0,1.0,2,200000.0
+Tunis,,,À Vendre,33.0,1.0,1,150.0
+Ben Arous,,Appartement,À Vendre,1.0,1.0,3,280000.0
+Tunis,,,À Vendre,85.0,1.0,2,480000.0
+Tunis,,,À Vendre,70.0,1.0,1,230000.0
+Ariana,,,À Louer,150.0,2.0,3,295000.0
+Tunis,,,À Vendre,228.0,2.0,3,780000.0
+Tunis,,Appartement,À Vendre,123.0,1.0,2,1.0
+Ariana,,,À Vendre,210.0,1.0,3,1.0
+Nabeul,,Appartement,À Vendre,120.0,1.0,2,440000.0
+Tunis,,Appartement,À Vendre,120.0,2.0,2,717000.0
+Nabeul,,Appartement,À Vendre,90.0,1.0,0,170000.0
+Ariana,,Appartement,À Vendre,64.0,1.0,1,190000.0
+Tunis,,villa,À Vendre,90.0,1.0,2,200000.0
+Nabeul,,Appartement,À Vendre,134.0,1.0,2,175000.0
+Nabeul,,Appartement,À Vendre,95.0,1.0,2,280000.0
+Ben Arous,,,À Vendre,104.0,1.0,2,250000.0
+Ben Arous,,,À Vendre,109.0,2.0,3,240000.0
+Sfax,,Appartement,À Vendre,,,3,0.0
+Tunis,,,À Louer,100.0,1.0,2,305000.0
+Tunis,,,À Vendre,74.0,1.0,1,230000.0
+Sousse,,Appartement,À Vendre,72.0,1.0,3,180000.0
+Sousse,,,À Vendre,100.0,1.0,03,130000.0
+Ariana,,,À Vendre,99.0,1.0,2,190000.0
+Tunis,,,À Vendre,64.0,1.0,1,250000.0
+Ariana,,,À Vendre,135.0,2.0,4,450.0
+Ariana,,Appartement,À Vendre,163.0,2.0,3,640000.0
+Tunis,,Appartement,À Vendre,0.0,2.0,3,0.0
+Sfax,,Appartement,À Vendre,86.0,1.0,2,130000.0
+Nabeul,,,À Vendre,137.11,1.0,2,0.0
+Tunis,,Appartement,À Vendre,155.0,2.0,4,340000.0
+Ben Arous,,Appartement,À Vendre,90.0,2.0,3,200000.0
+Tunis,,Appartement,À Vendre,50.0,1.0,2,52.0
+Béja,,Appartement,À Vendre,100.0,1.0,4,0.0
+Sousse,,Appartement,À Vendre,117.0,1.0,2,240.0
+Tunis,,,À Vendre,236.0,3.0,5,0.0
+Sousse,,Appartement,À Vendre,119.0,,,385000.0
+Sfax,,Appartement,À Vendre,100.0,1.0,3,80000.0
+Tunis,,,À Vendre,200.0,2.0,3,950000.0
+Monastir,,Appartement,À Vendre,97.0,1.0,3,145000.0
+Ariana,,Appartement,À Vendre,95.0,1.0,3,210.0
+Tunis,,,À Vendre,53.0,1.0,2,145000.0
+Nabeul,,Appartement,À Vendre,100.0,1.0,2,150000.0
+Ben Arous,,,À Vendre,107.0,1.0,2,170000.0
+Tunis,,,À Vendre,178.0,1.0,3,500000.0
+Sfax,,Appartement,À Vendre,80.0,1.0,4,85000.0
+Ariana,,Appartement,À Vendre,112.0,1.0,2,255000.0
+Tunis,,,À Vendre,1200.0,5.0,11,0.0
+Ben Arous,,Appartement,À Vendre,135.0,2.0,3,240000.0
+Ben Arous,,Appartement,,,,,129.0
+Tunis,,Appartement,À Vendre,127.0,1.0,2,490000.0
+Nabeul,,,À Vendre,150.0,0.0,3,495000.0
+Sousse,,Appartement,À Vendre,80.0,1.0,2,140000.0
+Sfax,,,À Vendre,148.0,2.0,3,1.0
+Nabeul,,,À Vendre,1000.0,0.0,0,800.0
+La Manouba,,,À Vendre,,,3,0.0
+Ben Arous,,Appartement,À Vendre,113.0,1.0,2,2.0
+Tunis,,Appartement,À Vendre,187.0,3.0,3,720000.0
+Tunis,,,À Vendre,216.0,1.0,3,270000.0
+Ben Arous,,Appartement,À Vendre,145.0,2.0,3,312000.0
+Ben Arous,,Appartement,À Vendre,,,2,128000000.0
+Ben Arous,,,À Vendre,125.0,2.0,2,185000.0
+Ben Arous,,Appartement,À Vendre,92.0,1.0,3,150000.0
+Nabeul,,,À Vendre,171.0,2.0,3,0.0
+Bizerte,,,À Vendre,95.0,2.0,2,33000000.0
+Ben Arous,,Appartement,À Vendre,95.0,1.0,3,270000.0
+Ariana,,,À Vendre,120.0,2.0,2,320000.0
+Tunis,,,À Vendre,110.0,1.0,3,248.0
+Ben Arous,,,À Vendre,72.0,1.0,2,200000.0
+Nabeul,,villa,À Vendre,169.0,2.0,2,0.0
+Tunis,,,À Vendre,70.0,1.0,1,238000.0
+Tunis,,,À Vendre,200.0,2.0,3,360000.0
+Tunis,,,À Vendre,70.0,1.0,3,215000.0
+Sousse,,,À Vendre,180.0,0.0,3,0.0
+Sousse,,Appartement,À Vendre,80.0,1.0,2,270000.0
+Tunis,,Appartement,À Vendre,120.0,1.0,3,350000.0
+Nabeul,,,À Vendre,60.0,1.0,0,0.0
+Tunis,,Appartement,À Vendre,140.0,2.0,2,1.0
+Ben Arous,,Appartement,À Vendre,0.0,1.0,2,160000.0
+Ariana,,Appartement,À Vendre,120.0,1.0,2,225000.0
+Tunis,,Appartement,À Vendre,200.0,1.0,4,400000.0
+La Manouba,,Appartement,À Vendre,130.0,2.0,3,230.0
+Nabeul,,Appartement,À Vendre,85.0,1.0,2,179999.0
+Sousse,,,À Vendre,36.0,1.0,1,200000.0
+Sousse,,Appartement,À Vendre,90.0,1.0,2,237000.0
+Sousse,,Appartement,À Vendre,130.0,2.0,3,340000.0
+Ben Arous,,,À Vendre,110.0,1.0,3,155000.0
+Tunis,,Appartement,À Vendre,85.0,1.0,03,120.0
+Nabeul,,Appartement,À Vendre,,,2,280000.0
+Sfax,,Appartement,À Vendre,116.0,1.0,4,115000.0
+Nabeul,,,À Vendre,103.0,2.0,2,0.0
+La Manouba,,,À Vendre,148.0,1.0,3,245000.0
+Tunis,,Appartement,À Vendre,121.0,1.0,2,470000.0
+Sousse,,Appartement,À Vendre,370.0,2.0,4,1100000.0
+Ariana,,,À Vendre,58.0,1.0,1,225000.0
+Tunis,,Appartement,À Vendre,60.0,1.0,1,15000.0
+Ariana,,Appartement,À Vendre,154.0,0.0,3,430000.0
+Tunis,,Appartement,À Vendre,168.0,0.0,3,350000.0
+Ariana,,Appartement,À Vendre,296.0,0.0,2,1.0
+Ariana,,Appartement,À Vendre,185.0,0.0,3,1.0
+Ariana,,Appartement,À Vendre,115.0,0.0,2,1.0
+Tunis,,Appartement,À Vendre,,,,130000.0
+Sousse,,Appartement,À Vendre,75.0,1.0,2,200000.0
+Nabeul,,Appartement,À Vendre,134.0,1.0,2,175000.0
+Tunis,,Appartement,À Vendre,120.0,1.0,1,300000.0
+Ben Arous,,Appartement,À Vendre,117.0,1.0,3,150000.0
+Monastir,,Appartement,À Vendre,75.0,1.0,2,83000.0
+Ariana,,,À Vendre,,1.0,,140000.0
+Tunis,,,À Vendre,68.0,2.0,1,237999.0
+Tunis,,,À Vendre,100.0,2.0,4,245.0
+Tunis,,,À Vendre,118.0,2.0,2,285000.0
+Tunis,,Appartement,À Louer,120.0,2.0,3,325000.0
+Ariana,,Appartement,À Vendre,55.0,1.0,1,187000.0
+Sousse,,,À Vendre,150.0,2.0,2,454000.0
+Sousse,,,À Vendre,60.0,1.0,1,230000.0
+Sousse,,,À Vendre,280.0,1.0,2,750000.0
+Tunis,,Appartement,À Vendre,,,2,
+Ariana,,Appartement,À Vendre,110.0,1.0,3,255000.0
+Ariana,,,À Louer,144.0,2.0,3,1350.0
+Ariana,,,À Vendre,34.0,1.0,2,170.0
+Ariana,,,À Vendre,210.0,3.0,3,479000.0
+Tunis,,villa,À Vendre,90.0,1.0,2,195.0
+Nabeul,,Appartement,À Vendre,66.0,1.0,1,250996.0
+Tunis,,,À Vendre,87.0,1.0,3,240000.0
+Tunis,,Appartement,À Vendre,,1.0,,230000.0
+Tunis,,,À Vendre,130.0,1.0,4,420000.0
+Ariana,,,À Vendre,150.0,2.0,3,380000.0
+Ariana,,,À Vendre,124.0,1.0,2,230000.0
+Ariana,,,À Louer,56.0,1.0,1,285.0
+Nabeul,,,À Vendre,65.0,1.0,1,169000.0
+Ariana,,Appartement,À Vendre,148.0,0.0,2,380000.0
+Nabeul,,,À Vendre,141.17,3.0,0,0.0
+Tunis,,,À Vendre,194.0,0.0,3,849000.0
+Tunis,,Appartement,À Vendre,75.0,1.0,1,250000.0
+Tunis,,,À Vendre,64.0,1.0,1,267000.0
+Ariana,,,À Vendre,170.0,2.0,3,570000.0
+Nabeul,,,À Vendre,104.0,1.0,2,340000.0
+Tunis,,Appartement,À Vendre,95.0,1.0,3,170000.0
+Ben Arous,,,À Vendre,137.0,2.0,3,297000.0
+Nabeul,,Appartement,À Vendre,101.0,1.0,2,354000.0
+La Manouba,,Appartement,À Vendre,140.0,1.0,3,275000.0
+Tunis,,Appartement,À Vendre,95.0,1.0,2,250000.0
+Ariana,,Appartement,À Vendre,0.0,0.0,000,310000.0
+Nabeul,,Appartement,À Vendre,130.0,2.0,3,300000.0
+Ariana,,,À Vendre,159.0,0.0,3,430000.0
+Tunis,,,À Vendre,,,,210.0
+Tunis,,,À Vendre,128.0,1.0,3,310000.0
+Sousse,,,À Vendre,116.0,0.0,2,320000.0
+Ben Arous,,Appartement,À Vendre,100.0,1.0,3,75000.0
+La Manouba,,,À Vendre,120.0,2.0,3,240000.0
+Nabeul,,,À Vendre,1.0,1.0,1,85000.0
+Nabeul,,,À Vendre,1.0,1.0,1,85000.0
+Monastir,,,À Vendre,50.0,1.0,2,87.0
+Tunis,,Appartement,À Vendre,116.0,1.0,0,288000.0
+Ben Arous,,Appartement,À Vendre,75.0,1.0,1,180000.0
+Ben Arous,,Appartement,À Louer,128.0,2.0,5,0.0
+Bizerte,,,À Vendre,126.0,2.0,2,256000.0
+Bizerte,,,À Vendre,67.0,1.0,1,150.0
+Sousse,,Appartement,À Vendre,55.0,1.0,1,270000.0
+Ariana,,,À Vendre,114.0,1.0,3,295000.0
+Sfax,,Maison,À Vendre,300.0,1.0,5,300.0
+Tunis,,,À Vendre,110.0,1.0,3,0.0
+Tunis,,Appartement,À Vendre,95.0,1.0,2,150000.0
+Nabeul,,,À Vendre,40.0,1.0,1,95000.0
+Sousse,,Appartement,À Vendre,67.0,1.0,2,175000.0
+Ariana,,,À Vendre,0.0,0.0,0,1100.0
+Kasserine,,,À Vendre,1500.0,7.0,28,0.0
+Ariana,,Appartement,À Vendre,80.0,2.0,3,170.0
+Tunis,,Appartement,À Vendre,126.0,2.0,4,238000.0
+Bizerte,,,,,,,0.0
+Nabeul,,Appartement,À Vendre,72.0,1.0,1,0.0
+Tunis,,,À Vendre,25.0,1.0,1,80000.0
+Nabeul,,Appartement,À Vendre,90.0,1.0,2,600000.0
+Tunis,,Appartement,À Vendre,73.0,1.0,2,73000.0
+Ben Arous,,,À Vendre,115.0,2.0,3,270000.0
+Sousse,,Appartement,À Vendre,90.0,1.0,3,270000.0
+Tunis,,Appartement,À Vendre,87.0,1.0,0,1.0
+Sousse,,Appartement,À Vendre,60.0,1.0,1,280000.0
+Tunis,,,À Vendre,99.0,0.0,3,187000.0
+Tunis,,Appartement,À Vendre,95.0,1.0,2,180000.0
+Nabeul,,,À Vendre,104.0,1.0,2,295000.0
+Sousse,,Appartement,À Vendre,104.0,2.0,2,450000.0
+Ben Arous,,,À Vendre,,,,134800.0
+Sfax,,Appartement,À Vendre,145.0,2.0,3,245000.0
+Sousse,,,À Vendre,123.0,2.0,2,450000.0
+Monastir,,Appartement,À Vendre,,,2,0.0
+Ben Arous,,,À Vendre,200.0,2.0,3,470000.0
+Ariana,,,À Vendre,127.0,2.0,2,399998.0
+Jendouba,,,À Vendre,,1.0,,0.0
+Tunis,,Appartement,À Vendre,120.0,2.0,3,300000.0
+Nabeul,,Appartement,À Vendre,85.0,1.0,2,260000.0
+Sousse,,Appartement,À Vendre,50.0,1.0,1,200000.0
+Ben Arous,,,À Vendre,170.0,2.0,3,240000.0
+Sousse,,,À Louer,45.0,1.0,1,225.0
+Sousse,,,À Vendre,110.0,1.0,3,330000.0
+Bizerte,,Appartement,À Vendre,72.0,1.0,2,150000.0
+Sousse,,,À Vendre,,,12,700000.0
+Ariana,,,À Vendre,96.0,1.0,03,138000.0
+Sousse,,,À Vendre,135.0,3.0,3,430000.0
+Ariana,,Appartement,À Vendre,129.0,2.0,2,0.0
+La Manouba,,Appartement,À Vendre,85.0,1.0,2,175.0
+Bizerte,,Appartement,À Vendre,100.0,1.0,3,0.0
+Mahdia,,,À Vendre,60.0,1.0,1,0.0
+Tunis,,,À Vendre,77.0,1.0,4,200000.0
+Tunis,,Appartement,À Vendre,300.0,2.0,5,0.0
+Sousse,,,À Vendre,137.0,2.0,2,0.0
+Ben Arous,,,À Vendre,70.0,1.0,2,125000.0
+Tunis,,Appartement,À Vendre,80.0,2.0,3,90000.0
+Tunis,,Appartement,À Vendre,146.0,2.0,3,598000.0
+Tunis,,,À Vendre,49.0,1.0,1,174335.0
+Tunis,,,À Vendre,51.0,1.0,1,181230.0
+Sfax,,Appartement,À Vendre,130.0,2.0,3,189000.0
+Tunis,,Appartement,À Vendre,95.0,1.0,2,155000.0
+Ben Arous,,Appartement,À Vendre,110.0,2.0,2,290000.0
+Ben Arous,,Appartement,À Vendre,127.0,1.0,2,280000.0
+Nabeul,,Appartement,À Vendre,113.0,1.0,2,1.0
+Tunis,,Appartement,À Vendre,110.0,1.0,3,250000.0
+Nabeul,,Appartement,À Vendre,90.0,1.0,1,120000.0
+Tunis,,Appartement,À Vendre,175.0,2.0,3,590000.0
+Ariana,,Appartement,À Vendre,90.0,1.0,4,230000.0
+Tunis,,Appartement,À Vendre,70.0,1.0,2,235000.0
+Tunis,,Appartement,À Vendre,98.0,2.0,2,330000.0
+Ariana,,Appartement,À Vendre,155.0,2.0,3,0.0
+Ben Arous,,Appartement,À Vendre,80.0,1.0,3,140000.0
+Sousse,,,À Vendre,1.0,2.0,3,850000.0
+Sfax,,Appartement,À Vendre,,,,0.0
+Sfax,,Appartement,À Vendre,120.0,1.0,3,0.0
+Tunis,,,À Vendre,172.0,1.0,3,750000.0
+Tunis,,,À Vendre,55.0,1.0,1,165000.0
+Ariana,,Appartement,À Vendre,151.0,1.0,3,300000.0
+Tunis,,Appartement,À Vendre,100.0,2.0,3,250000.0
+Sousse,,Appartement,À Vendre,2441.0,2.0,2,360000.0
+Ariana,,,À Vendre,140.0,2.0,2,350000.0
+Nabeul,,Appartement,À Vendre,100.0,1.0,2,180000.0
+Nabeul,,Appartement,À Vendre,100.0,2.0,2,180000.0
+Tunis,,Appartement,À Vendre,90.0,1.0,2,210000.0
+Tunis,,,À Vendre,90.0,1.0,1,245000.0
+Tunis,,,À Vendre,,,1,95000.0
+Tunis,,,À Vendre,100.0,1.0,4,164999.0
+Sfax,,,À Vendre,150.0,2.0,3,7.0
+Tunis,,Appartement,À Vendre,100.0,1.0,2,225000.0
+Tunis,,,,,,1,1.0
+Sousse,,Appartement,À Vendre,83.0,1.0,2,100000.0
+Tunis,,Appartement,À Vendre,180.0,3.0,3,1.0
+Ariana,,,À Vendre,155.0,3.0,2,1064999.0
+Ariana,,,À Vendre,110.0,1.0,3,320000.0
+Ben Arous,,,À Vendre,120.0,1.0,3,150000.0
+Ariana,,Appartement,À Vendre,115.0,1.0,3,230000.0
+Ben Arous,,Appartement,À Vendre,,2.0,,340000.0
+Ben Arous,,,À Vendre,128.0,1.0,3,265000.0
+Ariana,,,À Vendre,98.0,1.0,2,190.0
+Tunis,,Appartement,À Vendre,135.0,2.0,5,260000.0
+Ben Arous,,,À Vendre,95.0,1.0,3,250000.0
+Ben Arous,,,À Vendre,90.0,1.0,2,180000.0
+Ben Arous,,Appartement,À Vendre,76.0,1.0,2,98000.0
+Nabeul,,,À Vendre,1.0,1.0,1,200000.0
+Nabeul,,Appartement,À Vendre,180.0,1.0,3,0.0
+Sfax,,Appartement,À Vendre,85.0,1.0,2,96.0
+Ariana,,,À Vendre,120.0,1.0,3,140000.0
+Ariana,,Appartement,À Vendre,,,2,140000.0
+Ariana,,Appartement,À Vendre,70.0,1.0,1,175000.0
+Ariana,,Appartement,À Vendre,130.0,0.0,2,375000.0
+Tunis,,,À Louer,90.0,1.0,1,320000.0
+Ariana,,Appartement,À Vendre,103.0,1.0,2,255000.0
+Ariana,,Appartement,À Vendre,150.0,3.0,4,590000.0
+Ariana,,Appartement,À Vendre,162.0,2.0,3,460000.0
+Nabeul,,Maison,À Vendre,100.0,1.0,1,54000.0
+Ariana,,Appartement,À Vendre,120.0,2.0,3,377000.0
+Nabeul,,Appartement,À Vendre,98.0,1.0,2,0.0
+Gabès,,Appartement,À Vendre,95.0,1.0,2.0,60000.0
+Tunis,,Appartement,À Vendre,100.0,1.0,3,180000.0
+Tunis,,,À Vendre,,1.0,,177999.0
+Tunis,,,À Vendre,354.0,3.0,3,2200.0
+Ben Arous,,Appartement,À Vendre,146.0,2.0,3,304000.0
+Ben Arous,,Appartement,À Vendre,75.0,1.0,2,235000.0
+Tunis,,,À Vendre,130.0,2.0,3,350000.0
+Zaghouan,,villa,À Vendre,360.0,1.0,2,110000.0
+Nabeul,,villa,À Vendre,,1.0,,400000.0
+Ben Arous,,Appartement,À Vendre,100.0,1.0,3,205000.0
+Tunis,,Appartement,À Vendre,90.0,1.0,3,1.0
+Nabeul,,Appartement,À Vendre,113.0,1.0,2,0.0
+Ariana,,Appartement,À Vendre,100.0,1.0,2,250000.0
+Ariana,,,À Vendre,,,1,160000.0
+Ariana,,Appartement,À Vendre,120.0,1.0,2,270000.0
+Sousse,,Appartement,À Vendre,100.0,1.0,2,475000.0
+Ariana,,,À Vendre,98.0,1.0,2,292000.0
+Ariana,,,À Vendre,212.0,3.0,4,0.0
+Tunis,,,À Vendre,115.0,1.0,2,290000.0
+Nabeul,,Appartement,À Vendre,70.0,1.0,1,1.0
+Ariana,,Appartement,À Vendre,175.0,1.0,3,558000.0
+Tunis,,,À Vendre,,,2,120000.0
+Ariana,,Appartement,À Vendre,100.0,1.0,2,270000.0
+Nabeul,,Appartement,À Vendre,98.0,1.0,2,1.0
+Tunis,,Appartement,À Vendre,60.0,1.0,2,120000.0
+Nabeul,,Appartement,À Vendre,103.0,1.0,2,1.0
+Nabeul,,Appartement,À Vendre,60.0,1.0,0,1.0
+Ben Arous,,Appartement,À Vendre,75.0,1.0,2,145000.0
+Nabeul,,,À Vendre,105.0,2.0,2,0.0
+Ben Arous,,Appartement,À Vendre,115.0,1.0,2,265000.0
+Tunis,,,,,,1,0.0
+Ben Arous,,Appartement,À Vendre,134.0,2.0,3,320000.0
+Ariana,,villa,À Vendre,386.0,2.0,4,350.0
+Bizerte,,,À Vendre,120.0,1.0,3,320.0
+Sidi Bouzid,,,À Vendre,1200.0,1.0,3,840000.0
+Sousse,,,À Vendre,105.0,1.0,2,320000.0
+Sousse,,,À Vendre,145.0,1.0,3,199000.0
+Tunis,,Appartement,À Vendre,117.0,2.0,2,320000.0
+Tunis,,,À Vendre,120.0,1.0,2,250000.0
+Tunis,,Appartement,À Vendre,160.0,1.0,3,1.0
+Ben Arous,,Appartement,À Vendre,100.0,1.0,3,0.0
+Ben Arous,,,À Vendre,110.0,1.0,2,275.0
+Nabeul,,Appartement,À Vendre,140.0,2.0,3,580000.0
+La Manouba,,Appartement,À Vendre,92.0,2.0,4,200000.0
+Ben Arous,,,À Vendre,115.0,1.0,2,195000.0
+Ben Arous,,,À Vendre,350.0,2.0,6,580000.0
+Kairouan,,,À Vendre,100.0,1.0,2,92000000.0
+Sousse,,Appartement,À Vendre,80.0,0.0,2,395000.0
+Ben Arous,,,À Vendre,98.0,2.0,3,1.0
+Ariana,,,À Louer,132.0,2.0,3,420000.0
+Nabeul,,,À Vendre,220.0,1.0,3,450000.0
+Nabeul,,,À Vendre,120.0,1.0,2,350000.0
+Nabeul,,Appartement,À Vendre,62.0,1.0,1,240000.0
+Nabeul,,Appartement,À Vendre,240.0,4.0,4,870000.0
+Nabeul,,Appartement,À Vendre,95.0,1.0,2,245000.0
+Nabeul,,Appartement,À Vendre,145.0,2.0,3,420000.0
+Nabeul,,Appartement,À Vendre,68.0,1.0,1,270000.0
+Sousse,,Appartement,À Vendre,109.0,0.0,2,350000.0
+Nabeul,,Appartement,À Vendre,90.0,1.0,2,1.0
+Ariana,,,À Vendre,115.0,2.0,4,370000.0
+Ben Arous,,Appartement,À Vendre,90.0,1.0,2,130000.0
+Tunis,,,À Vendre,165.0,3.0,4,385000.0
+Tunis,,Appartement,À Vendre,168.0,1.0,0,550000.0
+Kairouan,,Appartement,À Vendre,118.0,1.0,2,11111.0
+Tunis,,Appartement,À Vendre,95.0,1.0,3,130.0
+Sfax,,,À Vendre,,,,0.0
+Ariana,,Appartement,À Vendre,157.0,1.0,3,365000.0
+Tunis,,Appartement,À Vendre,,,,
+Tunis,,,À Vendre,160.0,1.0,2,300000.0
+Nabeul,,Appartement,À Vendre,90.0,1.0,2,120000.0
+Tunis,,,À Vendre,70.0,1.0,1,256000.0
+Ben Arous,,,À Vendre,105.0,1.0,2,160000.0
+La Manouba,,Appartement,À Vendre,71.0,1.0,2,80000.0
+Nabeul,,Appartement,À Vendre,165.0,2.0,3,0.0
+Nabeul,,,À Vendre,126.0,2.0,2,378000.0
+Ariana,,Appartement,À Vendre,94.0,1.0,02,160.0
+Sousse,,Appartement,À Vendre,50.0,1.0,1,280000.0
+Ariana,,,À Vendre,125.0,1.0,2,120000.0
+Tunis,,,À Vendre,,,1,255002.0
+Tunis,,Appartement,À Vendre,95.0,1.0,2,157000.0
+Tunis,,Appartement,À Vendre,150.0,2.0,3,250.0
+Ariana,,,À Vendre,68.0,1.0,1,317000.0
+Sousse,,Appartement,À Vendre,70.0,1.0,1,238000.0
+Tunis,,Appartement,À Vendre,84.0,1.0,1,210000.0
+Ariana,,,À Vendre,65.0,1.0,1,273000.0
+Ariana,,,À Vendre,114.0,2.0,1,385000.0
+Sousse,,Appartement,À Vendre,134.0,2.0,2,455000.0
+Tunis,,Appartement,À Vendre,,,3,300000.0
+Sfax,,villa,À Vendre,140.0,2.0,3,145000.0
+Tunis,,Appartement,À Vendre,120.0,2.0,4,390000.0
+Tunis,,Appartement,À Vendre,,,3,100000.0
+Tunis,,,À Vendre,39.0,1.0,1,195000.0
+Tunis,,Appartement,À Vendre,123.0,2.0,2,340000.0
+La Manouba,,,À Vendre,115.0,1.0,4,190.0
+Ariana,,,À Vendre,70.0,1.0,0,249000.0
+Tunis,,,À Vendre,80.0,1.0,2,245000.0
+Tunis,,,À Louer,,,4,360000.0
+Ariana,,,À Vendre,156.0,2.0,3,360000.0
+Sousse,,Appartement,À Vendre,132.0,0.0,2,298000.0
+Nabeul,,,À Vendre,55.0,1.0,1,228000.0
+Sousse,,Appartement,À Vendre,50.0,1.0,0,280000.0
+Tunis,,Appartement,À Vendre,100.0,1.0,2,290000.0
+Tunis,,Appartement,À Vendre,144.0,1.0,3,205000.0
+La Manouba,,Appartement,À Vendre,102.0,2.0,2,260000.0
+Sousse,,Appartement,À Vendre,99.0,1.0,2,290000.0
+Ariana,,Appartement,À Vendre,125.0,1.0,2,125000.0
+Sousse,,Appartement,À Vendre,116.0,0.0,2,330000.0
+Bizerte,,Appartement,À Vendre,200.0,1.0,1,250000.0
+Monastir,,,À Vendre,100.0,1.0,2,195000.0
+Ariana,,,À Vendre,270.0,2.0,3,0.0
+Ben Arous,,Appartement,À Vendre,122.0,1.0,4,160000.0
+Tunis,,Appartement,À Vendre,145.0,1.0,5,253000.0
+Ben Arous,,Appartement,À Vendre,80.0,1.0,2,185000.0
+Ariana,,Appartement,À Vendre,,,,750000.0
+Tunis,,Appartement,À Vendre,107.0,1.0,2,255000.0
+Tunis,,Appartement,À Vendre,163.0,2.0,3,0.0
+Tunis,,,À Vendre,100.0,1.0,3,150000.0
+Tunis,,,À Vendre,100.0,1.0,3,160000.0
+Tunis,,,À Vendre,100.0,1.0,3,160000.0
+Nabeul,,Appartement,À Vendre,80.0,1.0,2,1.0
+Tunis,,,À Vendre,56.0,1.0,1,178000.0
+Sousse,,Appartement,À Vendre,,,,345000.0
+Tunis,,,À Vendre,111.0,1.0,2,275000.0
+Tunis,,,À Vendre,152.0,1.0,4,550000.0
+Tunis,,,À Vendre,95.0,1.0,2,240000.0
+Ariana,,,À Vendre,,,,320000.0
+Tunis,,,À Vendre,400.0,0.0,0,500000.0
+Sousse,,,À Vendre,131.0,0.0,2,340000.0
+Sousse,,,À Vendre,131.0,0.0,2,340000.0
+Ariana,,,À Vendre,192.0,2.0,3,550000.0
+Ariana,,,À Vendre,100.0,1.0,2,230000.0
+Tunis,,Appartement,À Vendre,147.0,2.0,3,335000.0
+Ariana,,,À Vendre,121.0,1.0,2,300000.0
+Ariana,,Appartement,À Vendre,125.0,2.0,3,330000.0
+Ariana,,Appartement,À Vendre,,,1,260000.0
+Sousse,,Appartement,À Louer,99.0,1.0,2,190000.0
+Ben Arous,,,À Vendre,112.0,1.0,3,175000.0
+Tunis,,,À Vendre,3.0,9.0,9,123.0
+Ben Arous,,Appartement,À Vendre,1.0,1.0,3,118000.0
+Sfax,,Appartement,À Vendre,124.0,1.0,3,125000.0
+Sousse,,,À Vendre,,,,380000.0
+Nabeul,,Appartement,À Vendre,95.0,1.0,1,0.0
+Tunis,,Appartement,À Vendre,,,1,1.0
+Sousse,,,À Vendre,12.0,1.0,1,1.0
+Tunis,,,À Vendre,72.0,1.0,1,207000.0
+Tunis,,Appartement,À Vendre,107.0,1.0,3,350000.0
+Ariana,,,À Vendre,102.0,1.0,1,285.0
+Sousse,,Appartement,À Vendre,100.0,1.0,2,190000.0
+Tunis,,Appartement,À Vendre,150.0,2.0,3,350000.0
+Bizerte,,Appartement,À Vendre,85.0,1.0,2,149000.0
+Tunis,,,À Vendre,,1.0,,187000.0
+Nabeul,,,À Vendre,85.0,0.0,1,220000.0
+Nabeul,,,À Vendre,95.0,1.0,2,120000.0
+Tunis,,,À Vendre,158.0,2.0,4,330000.0
+Tunis,,Appartement,À Vendre,90.0,1.0,2,220000.0
+Ariana,,,À Vendre,97.0,1.0,3,365.0
+Nabeul,,Appartement,À Vendre,103.0,1.0,2,0.0
+Tunis,,Appartement,À Vendre,145.0,2.0,4,355000.0
+Tunis,,,À Vendre,298.0,2.0,3,464998.0
+Ariana,,,À Vendre,100.0,2.0,3,240000.0
+Tunis,,Appartement,À Vendre,153.0,2.0,1,585000.0
+Tunis,,Appartement,À Vendre,145.0,2.0,3,365000.0
+Nabeul,,Appartement,À Vendre,122.0,1.0,3,0.0
+Ariana,,,À Vendre,114.0,1.0,2,250000.0
+Tunis,,Appartement,À Vendre,120.0,2.0,3,230000.0
+Sousse,,Appartement,À Louer,0.0,1.0,0,440000.0
+Sfax,,Appartement,À Vendre,,,3,95000.0
+Béja,,,À Vendre,135.0,2.0,3,240000.0
+Sousse,,Appartement,À Vendre,141.0,2.0,2,352000.0
+Nabeul,,,À Vendre,200.0,2.0,2,900000.0
+Tunis,,Appartement,À Vendre,0.1,2.0,3,680000.0
+Ariana,,Appartement,À Vendre,80.0,1.0,3,120.0
+Ariana,,Appartement,À Louer,80.0,0.0,1,1100.0
+Ariana,,Appartement,À Louer,80.0,0.0,1,250000.0
+Nabeul,,Appartement,À Vendre,98.0,1.0,2,1.0
+Tunis,,,À Vendre,1000.0,1.0,1,650000.0
+Ben Arous,,Appartement,À Vendre,125.0,1.0,2,175000.0
+Ben Arous,,Appartement,À Vendre,105.0,2.0,2,210000.0
+Ben Arous,,Appartement,À Vendre,125.0,2.0,3,240000.0
+Sousse,,Appartement,À Vendre,161.0,0.0,3,500000.0
+Sousse,,Appartement,À Vendre,75.0,0.0,1,240000.0
+Sfax,,Appartement,À Vendre,90.0,1.0,3,110000.0
+Monastir,,Appartement,À Vendre,116.0,1.0,4,135000.0
+Sousse,,Appartement,À Vendre,200.0,0.0,4,490000.0
+Sousse,,Appartement,À Vendre,111.0,2.0,3,450000.0
+Tunis,,,À Vendre,,,1,270000.0
+Nabeul,,Appartement,À Vendre,135.0,3.0,3,360.0
+Tunis,,villa,À Vendre,98.0,1.0,2,185000.0
+Tunis,,,À Vendre,,1.0,,269998.0
+Tunis,,,À Vendre,,1.0,,243250.0
+Tunis,,Appartement,À Louer,85.0,1.0,2,220000.0
+Tunis,,Appartement,À Louer,130.0,1.0,3,260000.0
+Sousse,,,À Louer,100.0,2.0,3,210000.0
+Tunis,,,À Vendre,,,,320000.0
+Tunis,,,À Vendre,9.0,0.0,0,0.0
+Tunis,,,À Vendre,50.0,1.0,1,180000.0
+Tunis,,Appartement,À Vendre,130.0,1.0,2,400000.0
+Ben Arous,,villa,À Vendre,320.0,2.0,4,380000.0
+La Manouba,,Appartement,À Vendre,127.0,1.0,3,230000.0
+Nabeul,,,À Vendre,205.0,3.0,1,890000.0
+Nabeul,,Appartement,À Vendre,120.0,2.0,1,275000.0
+Nabeul,,,À Vendre,74.0,1.0,1,250000.0
+Tunis,,,À Vendre,80.0,1.0,1,270000.0
+Ariana,,Appartement,À Vendre,46.0,1.0,1,0.0
+Tunis,,,À Vendre,74.0,2.0,3,220.0
+Ariana,,,À Vendre,60.0,1.0,1,188000.0
+Ariana,,Appartement,À Vendre,130.0,1.0,3,320000.0
+Ariana,,Appartement,À Vendre,175.0,3.0,4,360000.0
+Tunis,,Appartement,À Vendre,117.0,2.0,2,0.0
+Tunis,,,À Vendre,85.0,1.0,2,220000.0
+Tunis,,villa,À Vendre,200.0,1.0,2,380000.0
+Nabeul,,,À Vendre,130.0,0.0,3,360000.0
+Tunis,,villa,À Vendre,192.0,1.0,3,350000.0
+Tunis,,,À Vendre,100.0,1.0,3,180000.0
+Sfax,,,À Vendre,90.0,1.0,4,0.0
+Sfax,,,À Vendre,90.0,1.0,4,0.0
+Tunis,,,,,,1,240.0
+Tunis,,,À Vendre,101.0,1.0,,272700.0
+Tunis,,villa,À Vendre,150.0,1.0,3,350000.0
+Tunis,,Appartement,À Vendre,200.0,0.0,3,1.0
+Tunis,,Appartement,À Louer,220.0,3.0,2,1320000.0
+Ariana,,villa,À Vendre,426.0,1.0,4,790000.0
+Tunis,,Appartement,À Vendre,,,3,175.0
+Tunis,,,À Vendre,441.0,,,0.0
+Tunis,,Appartement,À Vendre,85.0,1.0,2,100.0
+Sousse,,Appartement,À Vendre,121.0,1.0,2,500000.0
+Ariana,,,À Vendre,,,,350000.0
+Sousse,,Appartement,À Vendre,50.0,1.0,1,0.0
+Tunis,,Appartement,À Vendre,1.0,1.0,2,70000.0
+Sousse,,Appartement,À Vendre,100.0,1.0,2,140000.0
+Ben Arous,,Appartement,À Vendre,90.0,1.0,,230.0
+Tunis,,Appartement,À Vendre,83.0,1.0,2,450000.0
+Tunis,,Appartement,À Vendre,126.0,1.0,2,669000.0
+Ariana,,Appartement,À Vendre,200.0,0.0,4,1.0
+Tunis,,Appartement,À Vendre,167.0,0.0,3,520000.0
+Tunis,,Appartement,À Vendre,125.0,1.0,2,299000.0
+Tunis,,,À Vendre,,1.0,,181230.0
+La Manouba,,Appartement,À Louer,109.0,1.0,3,370000.0
+Sousse,,Appartement,À Vendre,50.0,1.0,1,155000.0
+Sousse,,Appartement,À Vendre,60.0,1.0,1,240000.0
+Tunis,,Appartement,À Vendre,140.0,1.0,4,350.0
+Tunis,,Appartement,À Vendre,110.0,1.0,2,300000.0
+Sousse,,Appartement,À Vendre,100.0,1.0,2,370.0
+Sousse,,Appartement,À Vendre,112.0,1.0,2,33333.0
+Sousse,,Appartement,À Vendre,75.0,1.0,3,64.0
+Tunis,,Appartement,À Vendre,,,3,310000.0
+Ben Arous,,Appartement,À Vendre,75.0,1.0,2,160000.0
+Sfax,,,À Vendre,90.0,1.0,4,0.0
+Tunis,,,À Vendre,176.0,2.0,3,470000.0
+Ben Arous,,Appartement,À Vendre,73.0,1.0,2,200000.0
+Tunis,,Appartement,À Vendre,93.0,1.0,2,278000.0
+Sousse,,Appartement,À Vendre,150.0,0.0,2,436000.0
+Tunis,,,À Vendre,,,2,1.0
+Tunis,,,À Vendre,120.0,1.0,3,160000.0
+Nabeul,,Appartement,À Vendre,70.0,1.0,2,90000.0
+Nabeul,,Appartement,À Vendre,74.0,1.0,1,165.0
+Tunis,,Appartement,À Vendre,107.0,2.0,3,360000.0
+Sousse,,Appartement,À Vendre,140.0,2.0,2,300000.0
+Sousse,,,À Vendre,238.0,1.0,1,650000.0
+Ariana,,,À Louer,105.0,2.0,4,349000.0
+Nabeul,,,À Vendre,70.0,1.0,1,111000.0
+Ben Arous,,Appartement,À Vendre,94.0,1.0,3,190.0
+Sousse,,Appartement,À Vendre,150.0,0.0,3,477000.0
+Ben Arous,,,À Vendre,74.0,1.0,2,190000.0
+Tunis,,Appartement,À Vendre,63.0,1.0,1,230000.0
+Ariana,,Appartement,À Vendre,155.0,0.0,3,520000.0
+Nabeul,,,À Vendre,127.0,2.0,2,450000.0
+Ariana,,,À Vendre,63.0,1.0,1,238000.0
+Ariana,,,À Vendre,132.0,2.0,2,385000.0
+Ben Arous,,,À Vendre,62.0,1.0,1,105000.0
+Nabeul,,Appartement,À Vendre,62.0,1.0,1,0.0
+Tunis,,Appartement,À Vendre,65.0,1.0,1,150000.0
+Tunis,,Appartement,À Vendre,127.0,2.0,2,260000.0
+Nabeul,,Appartement,À Vendre,117.0,1.0,2,490000.0
+Sousse,,Appartement,À Vendre,550.0,6.0,3,600000.0
+Tunis,,,À Vendre,51.0,1.0,1,185000.0
+Tunis,,Appartement,À Vendre,0.0,1.0,2.0,80000.0
+Ariana,,,À Vendre,54.0,1.0,1,180000.0
+Tunis,,Appartement,À Vendre,189.0,2.0,3,795000.0
+Nabeul,,Appartement,À Vendre,160.0,2.0,3,470000.0
+Nabeul,,Appartement,À Vendre,116.0,2.0,2,363000.0
+Tunis,,,À Vendre,68.0,2.0,2,238000.0
+Nabeul,,Appartement,À Vendre,88.0,1.0,2,309000.0
+Tunis,,Appartement,À Vendre,153.0,2.0,4,530000.0
+Tunis,,,À Vendre,224.0,3.0,3,770000.0
+Tunis,,Appartement,À Vendre,224.0,3.0,3,865000.0
+Tunis,,Appartement,À Vendre,193.0,3.0,3,850000.0
+Tunis,,Appartement,À Vendre,125.0,1.0,3,380000.0
+Tunis,,,À Vendre,118.0,2.0,3,285000.0
+Ariana,,,À Vendre,98.0,1.0,2,290000.0
+Nabeul,,Appartement,À Vendre,101.0,1.0,2,180000.0
+Ariana,,,À Vendre,95.0,,02,149.0
+Ariana,,,À Vendre,144.0,1.0,3,370.0
+Tunis,,,À Vendre,136.0,2.0,3,290000.0
+Ariana,,,À Vendre,40.0,1.0,1,120000.0
+Tunis,,,À Louer,68.87,1.0,1,203603.0
+Tunis,,,À Vendre,52.0,1.0,1,182.0
+Tunis,,,À Vendre,100.0,1.0,04,0.0
+Nabeul,,Appartement,À Vendre,70.0,1.0,2,90000.0
+Tunis,,Appartement,À Vendre,117.0,1.0,0,360000.0
+Tunis,,Appartement,À Vendre,100.0,1.0,2,250000.0
+Tunis,,Appartement,À Vendre,117.0,2.0,2,400000.0
+Tunis,,,À Vendre,91.0,1.0,2,248400.0
+Ariana,,,À Vendre,70.0,1.0,1,185000.0
+Ariana,,Appartement,À Vendre,,,2,190000.0
+Ben Arous,,,À Vendre,60.0,1.0,1,130000.0
+Nabeul,,Appartement,À Vendre,95.0,2.0,2,300000.0
+Sousse,,,À Vendre,100.0,1.0,2,250.0
+Ben Arous,,Appartement,À Vendre,100.0,2.0,3,190000.0
+Ben Arous,,,À Vendre,124.0,2.0,3,320000.0
+Ben Arous,,,À Louer,175.0,2.0,3,330000.0
+Ariana,,Appartement,À Vendre,126.0,0.0,2,370000.0
+Ariana,,,À Vendre,60.0,0.0,1,260000.0
+Tunis,,Appartement,À Vendre,118.0,1.0,2,370000.0
+Sousse,,Maison,À Vendre,82.0,0.0,1,275000.0
+La Manouba,,Appartement,À Vendre,130.0,1.0,4,245.0
+Nabeul,,Appartement,À Vendre,117.0,1.0,3,1.0
+Tunis,,Appartement,À Vendre,110.0,1.0,3,250000.0
+Tunis,,Appartement,À Louer,85.0,1.0,2,220000.0
+Ben Arous,,,À Vendre,90.0,1.0,2,165000.0
+Ben Arous,,Appartement,À Vendre,87.0,1.0,2,107.0
+Ariana,,,À Vendre,65.0,1.0,1,250000.0
+Ariana,,,À Vendre,124.0,2.0,2,2850.0
+Ariana,,,À Vendre,89.5,1.0,1,300000.0
+Sfax,,Appartement,,,,3,0.0
+Tunis,,Appartement,À Vendre,117.0,2.0,4,190000.0
+Ariana,,,À Vendre,138.0,2.0,1,310000.0
+Ariana,,,À Vendre,110.0,2.0,4,250000.0
+Tunis,,,À Vendre,205.0,1.0,2,1076250.0
+Ariana,,,À Louer,250.0,3.0,4,660000.0
+Ariana,,Appartement,À Vendre,107.0,2.0,3,280000.0
+Ariana,,,À Vendre,75.0,1.0,3,150000.0
+Tunis,,,sale,,1.0,,0.0
+Tunis,,Appartement,À Vendre,150.0,2.0,3,285000.0
+Nabeul,,Appartement,À Vendre,160.0,3.0,3,350.0
+Sousse,,,À Vendre,60.0,1.0,1,225.0
+La Manouba,,Appartement,À Vendre,45.0,1.0,1,150000.0
+Ben Arous,,Appartement,À Louer,115.0,1.0,2,195000.0
+Ben Arous,,Appartement,À Vendre,100.0,1.0,3,250000.0
+Tunis,,Appartement,À Vendre,56.0,1.0,1,190000.0
+Nabeul,,Appartement,À Vendre,85.0,1.0,2,299000.0
+Nabeul,,Appartement,À Vendre,68.0,1.0,1,270000.0
+Tunis,,Appartement,À Vendre,87.0,1.0,2,1.0
+Tunis,,Appartement,À Vendre,,1.0,,24.0
+Tunis,,,À Vendre,100.0,1.0,2,255000.0
+Tunis,,Appartement,À Louer,127.0,2.0,2,365000.0
+Ariana,,,À Vendre,55.0,1.0,01,170000.0
+Tunis,,,À Vendre,154.0,3.0,2,650000.0
+Nabeul,,Appartement,À Vendre,85.0,1.0,2,130000.0
+Sousse,,Appartement,À Vendre,100.0,1.0,1,165000.0
+Nabeul,,,À Vendre,136.0,1.0,2,1.0
+Tunis,,Appartement,À Vendre,93.0,1.0,3,140000.0
+Ben Arous,,Appartement,À Vendre,74.0,1.0,2,190.0
+Ariana,,Appartement,À Vendre,66.0,1.0,2,135000.0
+Tunis,,,À Vendre,125.0,1.0,3,200000.0
+Tunis,,Appartement,À Vendre,90.0,1.0,3,235.0
+Ariana,,Appartement,À Vendre,90.0,1.0,2,295.0
+Ben Arous,,Appartement,À Vendre,100.0,1.0,3,250000.0
+Sfax,,Appartement,À Vendre,108.0,1.0,2,0.0
+Nabeul,,Appartement,À Vendre,160.0,1.0,2,0.0
+Tunis,,Appartement,À Vendre,127.0,1.0,2,365000.0
+Tunis,,Appartement,À Vendre,100.0,1.0,2,240000.0
+Tunis,,,À Vendre,70.0,1.0,1,260000.0
+Tunis,,Appartement,À Vendre,90.0,1.0,2,150000.0
+Tunis,,,À Vendre,148.0,2.0,3,255000.0
+Sousse,,Appartement,À Vendre,400.0,2.0,2,680000.0
+Sousse,,Appartement,À Vendre,137.0,2.0,3,565000.0
+Ariana,,,À Vendre,75.0,1.0,2,135.0
+Ariana,,,À Vendre,160.0,2.0,4,0.0
+Sfax,,Appartement,À Vendre,110.0,2.0,3,140000.0
+Tunis,,Appartement,À Vendre,223.0,3.0,3,750000.0
+Ben Arous,,Appartement,À Vendre,110.0,2.0,4,3050.0
+Tunis,,,À Vendre,90.0,1.0,3,235000.0
+Sousse,,,À Vendre,350.0,2.0,8,200000.0
+Tunis,,Appartement,À Vendre,130.0,2.0,3,730000.0
+Ariana,,,À Vendre,100.0,1.0,2,230.0
+Ariana,,,À Vendre,80.0,1.0,2,125000.0
+Nabeul,,Appartement,À Vendre,135.0,1.0,2,-2.0
+Ariana,,,À Vendre,147.0,2.0,2,440000.0
+Tunis,,,À Vendre,,,2,438192.0
+Ariana,,Appartement,À Vendre,112.0,1.0,2,0.0
+Nabeul,,Appartement,À Vendre,105.0,1.0,2,210000.0
+Nabeul,,Appartement,À Vendre,127.0,1.0,2,165000.0
+Tunis,,Appartement,À Vendre,,,2,120.0
+Ariana,,,À Vendre,78.0,0.0,2,378000.0
+Nabeul,,,À Vendre,,,2,475000.0
+Tunis,,,À Vendre,,1.0,,245000.0
+Tunis,,villa,À Vendre,76.0,1.0,2,160000.0
+Ariana,,Appartement,À Vendre,110.0,1.0,2,275000.0
+Nabeul,,Appartement,À Vendre,165.0,2.0,1,0.0
+Sousse,,,À Vendre,40.0,1.0,1,145000.0
+Sfax,,,À Vendre,,,2,55000.0
+Tunis,,Appartement,À Vendre,125.0,1.0,3,370000.0
+Tunis,,Appartement,À Vendre,168.0,2.0,2,340000.0
+Ariana,,Appartement,À Vendre,180.0,1.0,2,599999.0
+La Manouba,,,À Vendre,105.0,2.0,2,210000.0
+Ben Arous,,Appartement,À Vendre,97.0,1.0,2,130000.0
+Tunis,,Appartement,À Vendre,158.0,3.0,3,0.0
+Nabeul,,Appartement,À Vendre,62.0,1.0,1,240000.0
+Sousse,,,À Vendre,130.0,2.0,2,360000.0
+Sousse,,,À Vendre,40.0,1.0,1,190000.0
+Ben Arous,,Appartement,À Vendre,136.0,2.0,2,360.0
+Tunis,,Appartement,À Vendre,50.0,,2,100.0

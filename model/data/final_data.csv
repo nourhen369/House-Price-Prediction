@@ -1,0 +1,3054 @@
+Region,Type,Area,#Bathrooms,#Bedrooms,Price
+Ariana,Villa,320.0,3.0,5.0,530000.0
+Nabeul,Villa,197.0,1.0,2.0,240000.0
+La Manouba,Villa,300.0,1.0,3.0,130000.0
+Ariana,Villa,517.0,3.0,5.0,1150000.0
+Nabeul,Villa,485.0,4.0,4.0,890000.0
+Ben Arous,Villa,350.0,2.0,4.0,680000.0
+Bizerte,Villa,200.0,3.0,3.0,130000.0
+Bizerte,Villa,160.0,2.0,4.0,130000.0
+Bizerte,Villa,180.0,2.0,3.0,130000.0
+Nabeul,Villa,265.0,2.0,3.0,480000.0
+Nabeul,Villa,470.0,4.0,4.0,950000.0
+Nabeul,Villa,700.0,2.0,3.0,130000.0
+Nabeul,Appartement,60.0,1.0,1.0,130000.0
+Nabeul,Villa,200.0,1.0,2.0,130000.0
+Ariana,Villa,530.0,4.0,5.0,1600000.0
+Nabeul,Villa,460.0,3.0,4.0,920000.0
+Nabeul,Villa,700.0,5.0,7.0,130000.0
+Tunis,Villa,384.0,2.0,4.0,700000.0
+Ariana,Villa,300.0,3.0,3.0,960000.0
+Ben Arous,Villa,580.0,2.0,7.0,1500000.0
+Ben Arous,Villa,1014.0,2.0,6.0,2300000.0
+Ben Arous,Villa,1053.0,2.0,5.0,1500000.0
+Ben Arous,Villa,445.0,2.0,5.0,1300000.0
+Ben Arous,Villa,735.0,4.0,7.0,1150000.0
+Ben Arous,Villa,444.0,1.0,3.0,550000.0
+Tunis,Villa,459.0,2.0,4.0,650000.0
+Ben Arous,Villa,148.0,2.0,4.0,370000.0
+Ben Arous,Villa,170.0,1.0,3.0,370000.0
+Ben Arous,Villa,450.0,3.0,3.0,580000.0
+Ben Arous,Villa,302.0,2.0,3.0,370000.0
+Ben Arous,Villa,309.0,2.0,3.0,650000.0
+Ben Arous,Villa,174.0,3.0,7.0,400000.0
+Ben Arous,Villa,183.0,2.0,5.0,680000.0
+Ben Arous,Villa,285.0,1.0,4.0,550000.0
+Ben Arous,Villa,289.0,2.0,5.0,620000.0
+Ben Arous,Villa,208.0,3.0,7.0,450000.0
+Ben Arous,Villa,341.0,3.0,6.0,650000.0
+Ben Arous,Villa,650.0,5.0,8.0,1000000.0
+Ben Arous,Villa,201.0,2.0,3.0,540000.0
+Ben Arous,Villa,206.0,4.0,8.0,650000.0
+Ben Arous,Villa,383.0,3.0,6.0,550000.0
+Nabeul,Villa,500.0,3.0,3.0,790000.0
+Nabeul,Villa,400.0,4.0,4.0,1030000.0
+Ben Arous,Villa,417.0,1.0,4.0,480000.0
+Nabeul,Villa,90.0,1.0,2.0,130000.0
+Ariana,Villa,300.0,3.0,5.0,1000000.0
+Tunis,Villa,657.0,3.0,8.0,2300000.0
+Sfax,Villa,303.0,2.0,5.0,350000.0
+Tunis,Villa,587.0,3.0,5.0,1800000.0
+Ariana,Villa,500.0,2.0,7.0,130000.0
+Ariana,Villa,350.0,6.0,7.0,950000.0
+Tunis,Villa,662.0,4.0,8.0,130000.0
+Ariana,Villa,420.0,3.0,4.0,1200000.0
+Monastir,Villa,208.0,3.0,5.0,315000.0
+Nabeul,Villa,320.0,4.0,3.0,130000.0
+Nabeul,Villa,500.0,4.0,2.0,830000.0
+Nabeul,Villa,490.0,4.0,4.0,1250000.0
+Sousse,Villa,180.0,1.0,4.0,130000.0
+Bizerte,Villa,154.0,2.0,5.0,350000.0
+Ben Arous,Villa,200.0,1.0,3.0,350000.0
+Tunis,Villa,185.0,1.0,4.0,130000.0
+Ariana,Villa,850.0,6.0,8.0,2200000.0
+Bizerte,Villa,600.0,2.0,4.0,130000.0
+Nabeul,Villa,350.0,2.0,5.0,1250000.0
+Nabeul,Villa,800.0,4.0,4.0,1050000.0
+Nabeul,Villa,397.0,4.0,4.0,1050000.0
+Bizerte,Villa,300.0,2.0,3.0,349999.0
+Ariana,Villa,400.0,2.0,4.0,900000.0
+Nabeul,Villa,600.0,4.0,4.0,830000.0
+Nabeul,Villa,420.0,3.0,4.0,760000.0
+Nabeul,Villa,347.0,4.0,4.0,1100000.0
+Tunis,Villa,572.0,1.0,3.0,580000.0
+Monastir,Villa,916.0,2.0,3.0,680000.0
+Nabeul,Villa,234.0,3.0,4.0,575000.0
+Nabeul,Villa,269.0,1.0,3.0,400000.0
+Nabeul,Villa,426.0,3.0,3.0,1000000.0
+Nabeul,Villa,347.0,3.0,4.0,1100000.0
+Tunis,Villa,282.0,2.0,4.0,130000.0
+Ariana,Villa,500.0,2.0,5.0,360000.0
+Nabeul,Villa,660.0,3.0,3.0,1470000.0
+Sousse,Villa,360.0,4.0,7.0,549999.0
+Ben Arous,Villa,566.0,3.0,3.0,130000.0
+Ariana,Villa,224.0,2.0,4.0,130000.0
+Ben Arous,Villa,216.0,2.0,3.0,375000.0
+Ben Arous,Villa,418.0,4.0,7.0,790000.0
+Ben Arous,Villa,420.0,3.0,4.0,590000.0
+Ben Arous,Villa,94.0,1.0,4.0,140000.0
+Ben Arous,Villa,200.0,1.0,3.0,325000.0
+Ben Arous,Villa,206.0,1.0,3.0,360000.0
+Sousse,Villa,792.0,1.0,3.0,1800000.0
+Ben Arous,Villa,622.0,1.0,3.0,430000.0
+Ben Arous,Villa,395.0,3.0,3.0,495000.0
+Sousse,Villa,387.0,2.0,5.0,650000.0
+Tunis,Villa,367.0,4.0,4.0,700000.0
+Ben Arous,Appartement,622.0,1.0,3.0,800000.0
+Tunis,Villa,101.0,1.0,2.0,212000.0
+Zaghouan,Villa,160.0,3.0,7.0,600000.0
+Sousse,Villa,760.0,3.0,6.0,130000.0
+Sousse,Villa,365.0,4.0,6.0,130000.0
+Tunis,Villa,378.0,3.0,3.0,130000.0
+Tunis,Villa,410.0,3.0,4.0,1200000.0
+Nabeul,Villa,180.0,1.0,2.0,140000.0
+Ben Arous,Villa,250.0,3.0,5.0,130000.0
+Ariana,Villa,350.0,2.0,4.0,950000.0
+Nabeul,Villa,550.0,4.0,3.0,870000.0
+Nabeul,Villa,430.0,3.0,4.0,790000.0
+Monastir,Villa,970.0,6.0,6.0,130000.0
+Nabeul,Appartement,585.0,4.0,8.0,1799999.0
+Tunis,Villa,95.0,2.0,5.0,130000.0
+Ariana,Villa,150.0,6.0,8.0,130000.0
+Ben Arous,Villa,320.0,2.0,5.0,380000.0
+Nabeul,Villa,600.0,4.0,6.0,240000.0
+Ben Arous,Villa,381.0,2.0,5.0,580000.0
+Ariana,Villa,391.0,2.0,4.0,849000.0
+Ariana,Villa,402.0,5.0,8.0,890000.0
+Ariana,Appartement,140.0,2.0,3.0,130000.0
+Ariana,Villa,220.0,1.0,4.0,660000.0
+Nabeul,Villa,320.0,4.0,4.0,990000.0
+Nabeul,Villa,620.0,4.0,4.0,720000.0
+Nabeul,Villa,150.0,1.0,2.0,130000.0
+Ben Arous,Villa,1014.0,4.0,6.0,2300000.0
+Tunis,Villa,260.0,4.0,6.0,880000.0
+Ariana,Villa,300.0,2.0,4.0,980000.0
+Ben Arous,Villa,524.0,2.0,3.0,650000.0
+Ben Arous,Villa,350.0,2.0,2.0,130000.0
+La Manouba,Appartement,115.0,1.0,3.0,229000.0
+Ben Arous,Villa,120.0,2.0,5.0,130000.0
+Tunis,Villa,250.0,4.0,4.0,720000.0
+Tunis,Villa,60.0,4.0,5.0,270000.0
+Tunis,Villa,260.0,3.0,5.0,320000.0
+Sfax,Villa,700.0,3.0,4.0,600000.0
+Nabeul,Villa,440.0,2.0,4.0,845000.0
+Tunis,Villa,464.0,3.0,3.0,1400000.0
+Ariana,Villa,300.0,2.0,5.0,970000.0
+La Manouba,Appartement,118.0,2.0,2.0,130000.0
+Ben Arous,Villa,477.0,2.0,4.0,680000.0
+Ben Arous,Villa,169.0,3.0,6.0,480000.0
+Ben Arous,Villa,444.0,3.0,4.0,480000.0
+Ariana,Villa,539.0,2.0,6.0,900000.0
+Ariana,Villa,380.0,5.0,4.0,130000.0
+Ben Arous,Appartement,100.0,1.0,2.0,130000.0
+Ben Arous,Villa,460.0,3.0,6.0,450000.0
+Médenine,Villa,450.0,4.0,5.0,130000.0
+Monastir,Villa,490.0,2.0,2.0,218000.0
+Ariana,Villa,90.0,2.0,6.0,360000.0
+Nabeul,Villa,300.0,5.0,4.0,130000.0
+Sfax,Villa,829.0,2.0,3.0,850000.0
+Ariana,Villa,318.0,1.0,2.0,2300000.0
+Ariana,Villa,420.0,1.0,5.0,130000.0
+Tunis,Villa,70.0,1.0,4.0,130000.0
+Ben Arous,Villa,120.0,3.0,5.0,130000.0
+Nabeul,Villa,506.0,2.0,4.0,740000.0
+Nabeul,Appartement,75.0,1.0,1.0,300000.0
+Ariana,Villa,400.0,1.0,5.0,450000.0
+Nabeul,Villa,350.0,3.0,6.0,200000.0
+Ariana,Villa,306.0,2.0,7.0,130000.0
+Ben Arous,Villa,600.0,4.0,5.0,130000.0
+Tunis,Villa,611.0,2.0,4.0,130000.0
+Ariana,Villa,227.0,2.0,4.0,970000.0
+Nabeul,Villa,380.0,2.0,4.0,980000.0
+Nabeul,Villa,275.0,2.0,4.0,130000.0
+Nabeul,Villa,316.0,2.0,3.0,950000.0
+Gafsa,Villa,350.0,2.0,5.0,130000.0
+Tunis,Appartement,96.0,1.0,3.0,350000.0
+Sfax,Villa,350.0,1.0,4.0,130000.0
+Nabeul,Villa,245.0,3.0,3.0,670000.0
+Nabeul,Villa,300.0,3.0,4.0,890000.0
+Ariana,Villa,480.0,2.0,4.0,130000.0
+Tunis,Villa,300.0,4.0,4.0,500000.0
+Ben Arous,Appartement,160.0,1.0,2.0,198000.0
+Nabeul,Villa,280.0,1.0,5.0,130000.0
+Nabeul,Appartement,100.0,1.0,2.0,195000.0
+Béja,Villa,270.0,2.0,6.0,130000.0
+Ben Arous,Villa,100.0,1.0,4.0,130000.0
+Nabeul,Villa,535.0,2.0,4.0,130000.0
+Ben Arous,Villa,436.0,3.0,7.0,130000.0
+Nabeul,Villa,280.0,3.0,6.0,1350000.0
+Tunis,Villa,241.0,3.0,6.0,550000.0
+Nabeul,Villa,280.0,2.0,4.0,724999.0
+Nabeul,Villa,269.0,2.0,3.0,620000.0
+Nabeul,Villa,364.0,2.0,4.0,1380000.0
+Ariana,Villa,280.0,2.0,4.0,590000.0
+Sousse,Villa,600.0,1.0,6.0,850000.0
+Nabeul,Villa,220.0,2.0,4.0,650000.0
+Ben Arous,Villa,500.0,2.0,6.0,990000.0
+Ariana,Villa,350.0,2.0,6.0,130000.0
+Ben Arous,Villa,135.0,1.0,4.0,130000.0
+Tunis,Villa,350.0,2.0,4.0,189999.0
+Ariana,Villa,350.0,2.0,6.0,269997.0
+Nabeul,Villa,500.0,1.0,2.0,300000.0
+Tunis,Villa,253.0,2.0,4.0,1230000.0
+Ben Arous,Appartement,140.0,2.0,4.0,175000.0
+Nabeul,Villa,90.0,3.0,4.0,130000.0
+Nabeul,Appartement,230.0,1.0,4.0,185000.0
+Monastir,Appartement,145.0,1.0,3.0,198000.0
+Ariana,Villa,545.0,2.0,4.0,780000.0
+Tunis,Villa,140.0,1.0,4.0,130000.0
+Ben Arous,Villa,256.0,2.0,4.0,130000.0
+Ben Arous,Villa,363.0,2.0,4.0,130000.0
+Ben Arous,Villa,373.0,1.0,4.0,540000.0
+Tunis,Villa,200.0,3.0,5.0,680000.0
+Jendouba,Villa,802.0,1.0,3.0,550000.0
+Ariana,Villa,420.0,2.0,4.0,980000.0
+Nabeul,Villa,500.0,2.0,3.0,180000.0
+Nabeul,Appartement,105.0,2.0,3.0,370000.0
+Nabeul,Villa,400.0,3.0,4.0,130000.0
+Nabeul,Villa,329.0,4.0,3.0,1100000.0
+Ben Arous,Villa,562.0,4.0,8.0,830000.0
+Ariana,Villa,457.0,2.0,3.0,130000.0
+Ariana,Villa,400.0,3.0,4.0,130000.0
+Tunis,Appartement,400.0,1.0,1.0,2300000.0
+Ben Arous,Villa,500.0,1.0,1.0,990000.0
+Ben Arous,Villa,420.0,1.0,3.0,1100000.0
+Tunis,Appartement,236.0,1.0,4.0,130000.0
+Ariana,Appartement,170.0,1.0,3.0,320000.0
+Tunis,Villa,120.0,1.0,2.0,130000.0
+Bizerte,Villa,110.0,1.0,4.0,165000.0
+Tunis,Appartement,330.0,1.0,1.0,280000.0
+Tunis,Appartement,312.0,1.0,1.0,130000.0
+Ariana,Villa,426.0,1.0,4.0,790000.0
+Tunis,Villa,244.0,2.0,5.0,1200000.0
+Ariana,Villa,466.0,1.0,3.0,480000.0
+Tunis,Villa,374.0,3.0,3.0,1200000.0
+Tunis,Appartement,140.0,1.0,1.0,640000.0
+Tunis,Appartement,140.0,1.0,2.0,640000.0
+Ariana,Appartement,300.0,1.0,3.0,850000.0
+Bizerte,Villa,350.0,1.0,2.0,1200000.0
+Ariana,Villa,200.0,1.0,3.0,420000.0
+Tunis,Appartement,400.0,1.0,3.0,2300000.0
+Ariana,Villa,466.0,1.0,4.0,480000.0
+Ariana,Villa,400.0,1.0,5.0,780000.0
+Tunis,Villa,350.0,2.0,4.0,130000.0
+Tunis,Villa,143.0,1.0,3.0,290000.0
+Ben Arous,Appartement,297.0,2.0,3.0,320000.0
+Ben Arous,Appartement,320.0,2.0,3.0,680000.0
+Ben Arous,Villa,125.0,2.0,6.0,250000.0
+Tunis,Villa,100.0,3.0,6.0,450000.0
+Tunis,Appartement,80.0,2.0,3.0,420000.0
+Sfax,Villa,512.0,1.0,3.0,450000.0
+Tunis,Villa,500.0,4.0,3.0,1920000.0
+Tunis,Villa,590.0,4.0,5.0,130000.0
+La Manouba,Villa,518.0,3.0,4.0,130000.0
+Tunis,Villa,350.0,3.0,4.0,850000.0
+Ariana,Villa,575.0,4.0,4.0,130000.0
+La Manouba,Villa,350.0,2.0,6.0,265000.0
+Tunis,Appartement,400.0,2.0,4.0,860000.0
+Nabeul,Villa,420.0,1.0,3.0,680000.0
+Nabeul,Villa,385.0,3.0,6.0,1250000.0
+Tunis,Villa,470.0,4.0,7.0,1500000.0
+Médenine,Villa,220.0,2.0,4.0,130000.0
+Sousse,Villa,405.0,2.0,5.0,750000.0
+Sousse,Villa,180.0,2.0,2.0,150000.0
+Ariana,Villa,764.0,2.0,2.0,950000.0
+Ben Arous,Villa,440.0,4.0,8.0,130000.0
+Ben Arous,Villa,85.0,3.0,8.0,160000.0
+Nabeul,Villa,1085.0,2.0,4.0,600000.0
+Ben Arous,Villa,350.0,5.0,6.0,550000.0
+Ariana,Appartement,150.0,1.0,3.0,400000.0
+Tunis,Villa,400.0,2.0,4.0,750000.0
+Nabeul,Villa,530.0,2.0,4.0,650000.0
+Tunis,Villa,120.0,1.0,3.0,130000.0
+Ben Arous,Villa,504.0,2.0,3.0,380000.0
+Tunis,Villa,400.0,4.0,8.0,750000.0
+Tunis,Villa,411.0,5.0,8.0,1050000.0
+Ben Arous,Villa,440.0,2.0,4.0,550000.0
+Tunis,Villa,550.0,2.0,8.0,970000.0
+Ariana,Villa,350.0,2.0,4.0,820000.0
+Bizerte,Villa,103.0,2.0,4.0,130000.0
+Bizerte,Villa,206.0,2.0,3.0,470000.0
+Tunis,Villa,654.0,4.0,4.0,1800000.0
+Tunis,Villa,400.0,3.0,5.0,1350000.0
+Tunis,Appartement,136.0,1.0,3.0,500000.0
+Nabeul,Villa,245.0,1.0,3.0,270000.0
+Nabeul,Villa,743.0,2.0,4.0,660000.0
+Ariana,Villa,324.0,2.0,3.0,350000.0
+Ariana,Appartement,156.0,1.0,3.0,295000.0
+Tunis,Villa,463.0,4.0,5.0,1550000.0
+Ben Arous,Appartement,200.0,1.0,3.0,490000.0
+Ben Arous,Appartement,147.0,1.0,4.0,379000.0
+Nabeul,Villa,318.0,4.0,4.0,1000000.0
+Tunis,Villa,520.0,4.0,6.0,980000.0
+Tunis,Villa,172.0,1.0,3.0,130000.0
+Ben Arous,Villa,90.0,1.0,3.0,130000.0
+Ariana,Villa,620.0,1.0,4.0,360000.0
+Nabeul,Villa,520.0,4.0,5.0,130000.0
+Bizerte,Villa,270.0,2.0,3.0,350000.0
+Ariana,Villa,380.0,6.0,5.0,1200000.0
+Bizerte,Villa,252.0,2.0,1.0,449996.0
+Ariana,Villa,85.0,2.0,4.0,175000.0
+Ben Arous,Villa,245.0,2.0,8.0,400000.0
+Ben Arous,Villa,300.0,3.0,7.0,540000.0
+Ben Arous,Villa,90.0,2.0,7.0,155000.0
+Ben Arous,Villa,187.0,1.0,3.0,230000.0
+Ben Arous,Villa,300.0,1.0,5.0,280000.0
+Ben Arous,Appartement,150.0,2.0,4.0,350000.0
+Ben Arous,Villa,400.0,3.0,7.0,650000.0
+Ariana,Villa,530.0,3.0,6.0,450000.0
+Tunis,Villa,100.0,2.0,8.0,210000.0
+Ben Arous,Villa,135.0,2.0,8.0,240000.0
+Ben Arous,Villa,187.0,1.0,5.0,235000.0
+Tunis,Villa,120.0,2.0,5.0,270000.0
+Ariana,Villa,260.0,5.0,4.0,130000.0
+Ariana,Villa,1000.0,3.0,6.0,130000.0
+Tunis,Villa,350.0,4.0,4.0,1350000.0
+Tunis,Villa,350.0,2.0,4.0,1600000.0
+Tunis,Villa,280.0,2.0,8.0,130000.0
+Ariana,Villa,350.0,1.0,4.0,420000.0
+Nabeul,Villa,200.0,2.0,4.0,130000.0
+Sfax,Villa,371.0,1.0,3.0,350000.0
+Ben Arous,Villa,255.0,2.0,8.0,170000.0
+Nabeul,Villa,260.0,2.0,3.0,1150000.0
+Tunis,Villa,100.0,2.0,4.0,130000.0
+Ariana,Villa,330.0,1.0,4.0,130000.0
+Ben Arous,Villa,900.0,3.0,6.0,130000.0
+Nabeul,Appartement,100.0,2.0,2.0,220000.0
+Ariana,Villa,200.0,2.0,4.0,135000.0
+La Manouba,Appartement,200.0,1.0,2.0,175000.0
+Sousse,Villa,792.0,1.0,3.0,2300000.0
+Le Kef,Villa,314.0,1.0,5.0,130000.0
+Ben Arous,Villa,400.0,2.0,6.0,300000.0
+Tunis,Villa,325.0,2.0,4.0,670000.0
+Ariana,Appartement,150.0,2.0,3.0,550000.0
+Nabeul,Villa,315.0,3.0,6.0,370000.0
+Tunis,Villa,520.0,2.0,6.0,950000.0
+Sousse,Villa,218.0,1.0,4.0,950000.0
+Tunis,Villa,520.0,2.0,7.0,975000.0
+Sousse,Villa,218.0,2.0,4.0,2300000.0
+Tunis,Villa,493.0,3.0,6.0,2300000.0
+Ariana,Villa,480.0,1.0,3.0,220000.0
+Nabeul,Villa,400.0,2.0,4.0,850000.0
+Ben Arous,Villa,518.0,3.0,6.0,800000.0
+Sousse,Villa,349.0,2.0,3.0,590000.0
+La Manouba,Villa,84.0,1.0,1.0,130000.0
+Tunis,Villa,220.0,2.0,5.0,500000.0
+Ariana,Villa,600.0,3.0,5.0,1200000.0
+Ben Arous,Villa,582.0,3.0,6.0,950000.0
+Tunis,Villa,500.0,3.0,8.0,680000.0
+Tunis,Villa,327.0,3.0,4.0,1150000.0
+Sousse,Villa,570.0,3.0,6.0,1400000.0
+Tunis,Villa,110.0,1.0,3.0,180000.0
+Sousse,Villa,228.0,1.0,4.0,288000.0
+Tunis,Appartement,112.0,1.0,2.0,220000.0
+Ariana,Villa,326.0,1.0,2.0,370000.0
+Tunis,Villa,236.0,2.0,5.0,1100000.0
+Ben Arous,Appartement,117.0,1.0,3.0,270000.0
+Tunis,Villa,500.0,2.0,1.0,1600000.0
+Bizerte,Villa,115.0,2.0,3.0,300000.0
+Monastir,Villa,203.0,1.0,2.0,130000.0
+Ben Arous,Appartement,120.0,1.0,2.0,240000.0
+Tunis,Villa,268.0,3.0,5.0,570000.0
+Tunis,Villa,300.0,3.0,3.0,260000.0
+Tunis,Villa,450.0,4.0,5.0,1200000.0
+Nabeul,Villa,300.0,1.0,3.0,250000.0
+Ariana,Villa,425.0,2.0,7.0,130000.0
+Nabeul,Villa,280.0,3.0,4.0,725000.0
+Tunis,Villa,420.0,3.0,4.0,130000.0
+Sfax,Villa,630.0,2.0,3.0,305000.0
+Sfax,Villa,870.0,1.0,3.0,130000.0
+Sfax,Villa,621.6,2.0,3.0,780000.0
+Sfax,Villa,800.0,2.0,4.0,725000.0
+Sfax,Villa,60.6,1.0,2.0,130000.0
+Ariana,Villa,150.0,2.0,8.0,178000.0
+Tunis,Villa,200.0,2.0,4.0,370000.0
+Monastir,Villa,320.0,3.0,6.0,217000.0
+Sousse,Villa,450.0,2.0,4.0,130000.0
+Nabeul,Villa,400.0,3.0,7.0,750000.0
+Ariana,Villa,435.0,1.0,3.0,240000.0
+Ariana,Villa,700.0,3.0,4.0,130000.0
+Ariana,Villa,300.0,3.0,5.0,1400000.0
+Tunis,Villa,60.0,1.0,1.0,130000.0
+Ben Arous,Villa,180.0,2.0,4.0,280000.0
+Sfax,Villa,400.0,3.0,6.0,130000.0
+Bizerte,Villa,60.0,1.0,4.0,200000.0
+Sfax,Villa,650.0,2.0,5.0,470000.0
+Ben Arous,Villa,350.0,3.0,6.0,130000.0
+Tunis,Appartement,100.0,2.0,3.0,320000.0
+Tunis,Villa,456.0,4.0,7.0,2300000.0
+Ariana,Villa,672.0,3.0,5.0,940000.0
+Tunis,Villa,228.0,4.0,5.0,450000.0
+Le Kef,Villa,576.0,2.0,8.0,680000.0
+Sousse,Appartement,400.0,1.0,3.0,280000.0
+Ariana,Villa,700.0,4.0,4.0,130000.0
+Tunis,Villa,350.0,2.0,2.0,585000.0
+Tunis,Villa,414.0,3.0,7.0,720000.0
+Ben Arous,Villa,500.0,1.0,3.0,130000.0
+La Manouba,Villa,100.0,2.0,5.0,130000.0
+Tunis,Villa,365.0,3.0,8.0,1650000.0
+Sousse,Villa,600.0,2.0,8.0,850000.0
+Ariana,Villa,178.0,1.0,3.0,350000.0
+Sfax,Appartement,500.0,1.0,3.0,450000.0
+Tunis,Villa,360.0,1.0,3.0,750000.0
+Tunis,Villa,450.0,3.0,7.0,130000.0
+La Manouba,Villa,250.0,2.0,8.0,130000.0
+Nabeul,Villa,133.0,1.0,2.0,155000.0
+Ariana,Villa,350.0,2.0,3.0,950000.0
+Kairouan,Villa,380.0,2.0,5.0,680000.0
+Sfax,Villa,420.0,3.0,5.0,130000.0
+Ben Arous,Villa,463.0,1.0,3.0,530000.0
+Sousse,Appartement,200.0,2.0,4.0,130000.0
+Le Kef,Villa,230.0,3.0,7.0,130000.0
+Ben Arous,Villa,220.0,2.0,6.0,130000.0
+Nabeul,Villa,87.0,2.0,2.0,130000.0
+Ben Arous,Villa,400.0,3.0,5.0,780000.0
+Ariana,Appartement,190.0,2.0,3.0,780000.0
+Ben Arous,Villa,172.0,2.0,4.0,130000.0
+Ben Arous,Villa,235.0,2.0,3.0,130000.0
+Ariana,Villa,420.0,2.0,4.0,130000.0
+Sousse,Villa,420.0,2.0,4.0,650000.0
+Tunis,Villa,253.0,2.0,4.0,600000.0
+Nabeul,Appartement,100.0,1.0,2.0,130000.0
+Tunis,Villa,400.0,3.0,6.0,850000.0
+Tunis,Villa,201.0,1.0,2.0,680000.0
+Tunis,Villa,700.0,3.0,5.0,1800000.0
+Tunis,Villa,757.0,1.0,3.0,520000.0
+Nabeul,Villa,420.0,2.0,4.0,1700000.0
+Nabeul,Villa,150.0,2.0,4.0,300000.0
+Ben Arous,Villa,800.0,3.0,4.0,1900000.0
+Tunis,Villa,1050.0,2.0,6.0,2300000.0
+Nabeul,Villa,320.0,3.0,4.0,780000.0
+Sousse,Villa,300.0,2.0,5.0,1250000.0
+Ariana,Villa,235.0,1.0,3.0,130000.0
+Ben Arous,Villa,232.0,2.0,5.0,435000.0
+Ariana,Villa,469.0,1.0,7.0,1400000.0
+Ariana,Appartement,188.0,2.0,3.0,830000.0
+Tunis,Villa,200.0,2.0,5.0,130000.0
+Nabeul,Villa,189.0,1.0,3.0,250000.0
+Tunis,Villa,661.0,2.0,4.0,650000.0
+Bizerte,Villa,148.0,1.0,1.0,280000.0
+Tunis,Appartement,414.0,1.0,3.0,900000.0
+Ariana,Villa,430.0,2.0,3.0,850000.0
+Nabeul,Villa,350.0,2.0,4.0,800000.0
+Nabeul,Villa,840.0,5.0,5.0,2300000.0
+Nabeul,Villa,360.0,3.0,5.0,850000.0
+Bizerte,Villa,400.0,4.0,7.0,530000.0
+Ben Arous,Appartement,120.0,2.0,2.0,130000.0
+Tunis,Villa,225.0,2.0,3.0,450000.0
+Nabeul,Villa,150.0,2.0,6.0,480000.0
+Sousse,Villa,314.0,2.0,3.0,830000.0
+Tunis,Villa,344.0,2.0,3.0,670000.0
+Ben Arous,Appartement,200.0,2.0,4.0,480000.0
+Bizerte,Villa,609.0,1.0,3.0,520000.0
+Tunis,Villa,520.0,2.0,7.0,130000.0
+Nabeul,Villa,200.0,3.0,1.0,250002.0
+Tunis,Villa,105.0,1.0,3.0,170000.0
+Ben Arous,Villa,210.0,2.0,6.0,380000.0
+Ben Arous,Villa,400.0,2.0,8.0,320000.0
+Ben Arous,Villa,168.0,1.0,4.0,230000.0
+Sousse,Appartement,70.0,1.0,2.0,130000.0
+Sfax,Appartement,220.0,1.0,4.0,230000.0
+Ben Arous,Appartement,117.0,1.0,3.0,150000.0
+Ariana,Villa,640.0,4.0,4.0,1700000.0
+Ariana,Villa,300.0,5.0,5.0,130000.0
+Tunis,Villa,334.0,5.0,7.0,1800000.0
+Nabeul,Villa,120.0,1.0,2.0,130000.0
+Ariana,Villa,636.0,2.0,4.0,320000.0
+Ben Arous,Villa,150.0,1.0,3.0,130000.0
+Ben Arous,Villa,350.0,3.0,4.0,2300000.0
+Nabeul,Villa,240.0,2.0,4.0,450000.0
+Sousse,Villa,520.0,1.0,4.0,420000.0
+Bizerte,Villa,538.0,3.0,8.0,750000.0
+Nabeul,Villa,345.0,2.0,4.0,130000.0
+Tunis,Villa,270.0,3.0,7.0,550000.0
+Nabeul,Villa,217.0,2.0,5.0,650000.0
+Sfax,Villa,140.0,1.0,4.0,130000.0
+Tunis,Villa,370.0,3.0,3.0,1250000.0
+Nabeul,Villa,536.0,3.0,3.0,850000.0
+Sfax,Villa,870.0,1.0,2.0,420000.0
+Monastir,Villa,200.0,2.0,5.0,600000.0
+Ariana,Villa,238.0,3.0,4.0,370000.0
+Nabeul,Villa,211.0,6.0,8.0,470000.0
+Sousse,Villa,125.0,2.0,2.0,160000.0
+Sousse,Villa,500.0,1.0,3.0,460000.0
+Le Kef,Villa,230.0,1.0,2.0,200000.0
+Tunis,Appartement,95.0,2.0,4.0,680000.0
+Ben Arous,Villa,582.0,1.0,6.0,950000.0
+Nabeul,Villa,900.0,4.0,5.0,2099999.0
+Tunis,Villa,350.0,2.0,4.0,2300000.0
+Ben Arous,Villa,520.0,4.0,8.0,600000.0
+Tunis,Villa,100.0,1.0,3.0,130000.0
+Gabès,Villa,350.0,1.0,5.0,130000.0
+Sfax,Villa,684.0,2.0,5.0,130000.0
+Sousse,Villa,350.0,2.0,4.0,130000.0
+Ariana,Villa,230.0,2.0,5.0,130000.0
+Nabeul,Villa,230.0,1.0,5.0,130000.0
+Bizerte,Villa,121.0,2.0,4.0,280000.0
+Tunis,Appartement,205.0,2.0,3.0,580000.0
+Nabeul,Appartement,433.0,1.0,2.0,850000.0
+Nabeul,Villa,834.0,2.0,4.0,1460000.0
+Zaghouan,Villa,400.0,1.0,4.0,230000.0
+Tunis,Appartement,155.0,2.0,3.0,570000.0
+Sousse,Villa,260.0,2.0,3.0,130000.0
+Médenine,Villa,500.0,2.0,3.0,130000.0
+Ariana,Villa,380.0,1.0,3.0,410000.0
+Nabeul,Villa,90.0,2.0,2.0,300000.0
+Ariana,Appartement,207.0,2.0,3.0,265000.0
+Bizerte,Villa,430.0,1.0,3.0,600000.0
+Tunis,Villa,479.0,3.0,6.0,900000.0
+Sousse,Villa,500.0,3.0,6.0,1200000.0
+Ben Arous,Villa,260.0,1.0,5.0,130000.0
+Tunis,Villa,90.0,1.0,2.0,130000.0
+Ben Arous,Appartement,125.0,2.0,3.0,130000.0
+Ben Arous,Appartement,200.0,1.0,4.0,350000.0
+La Manouba,Villa,400.0,2.0,7.0,630000.0
+La Manouba,Villa,500.0,3.0,6.0,130000.0
+Tunis,Villa,450.0,2.0,4.0,1400000.0
+Bizerte,Villa,504.0,1.0,3.0,130000.0
+Sfax,Villa,350.0,1.0,3.0,130000.0
+Kairouan,Villa,340.0,1.0,3.0,410000.0
+Sousse,Villa,465.0,2.0,4.0,1300000.0
+Nabeul,Villa,450.0,3.0,4.0,400000.0
+Zaghouan,Villa,610.0,4.0,5.0,790000.0
+Tunis,Villa,749.0,3.0,6.0,1700000.0
+Nabeul,Villa,500.0,2.0,3.0,700000.0
+Ariana,Villa,110.0,1.0,2.0,145000.0
+Tunis,Villa,230.0,6.0,8.0,2300000.0
+Ben Arous,Appartement,220.0,2.0,4.0,130000.0
+Tunis,Villa,140.0,1.0,4.0,2300000.0
+Nabeul,Villa,350.0,2.0,6.0,130000.0
+Nabeul,Villa,700.0,4.0,4.0,1050000.0
+Monastir,Villa,209.0,1.0,4.0,235000.0
+Ariana,Villa,230.0,2.0,4.0,130000.0
+Bizerte,Villa,150.0,1.0,4.0,380000.0
+Bizerte,Villa,160.0,1.0,2.0,130000.0
+Ariana,Villa,116.0,2.0,5.0,130000.0
+Ben Arous,Villa,190.0,2.0,4.0,269000.0
+Sousse,Villa,60.0,1.0,1.0,130000.0
+Gabès,Villa,400.0,2.0,7.0,270000.0
+Ben Arous,Villa,100.0,1.0,3.0,130000.0
+Gabès,Villa,500.0,2.0,6.0,130000.0
+Médenine,Villa,490.0,2.0,5.0,130000.0
+Nabeul,Villa,200.0,1.0,2.0,330000.0
+Nabeul,Villa,834.0,3.0,4.0,1600000.0
+Tunis,Villa,700.0,2.0,4.0,1900000.0
+Mahdia,Appartement,300.0,1.0,4.0,350000.0
+Tunis,Villa,740.0,5.0,6.0,1900000.0
+Ariana,Villa,150.0,1.0,3.0,130000.0
+Tunis,Villa,118.0,2.0,2.0,350000.0
+Nabeul,Villa,485.0,2.0,4.0,130000.0
+Ariana,Villa,300.0,3.0,8.0,630000.0
+La Manouba,Villa,409.0,3.0,8.0,550000.0
+Tunis,Villa,300.0,2.0,5.0,650000.0
+Nabeul,Villa,480.0,2.0,2.0,680000.0
+Ariana,Villa,459.0,2.0,4.0,1500000.0
+Ariana,Villa,528.0,2.0,6.0,2000000.0
+Tunis,Villa,486.0,2.0,2.0,1800000.0
+Bizerte,Villa,315.0,3.0,5.0,360000.0
+Ariana,Villa,121.0,2.0,2.0,130000.0
+Ben Arous,Villa,562.0,3.0,5.0,130000.0
+Ariana,Appartement,300.0,2.0,4.0,130000.0
+Sousse,Villa,280.0,2.0,6.0,570000.0
+Siliana,Villa,110.0,1.0,3.0,130000.0
+Ariana,Villa,110.0,1.0,1.0,135000.0
+Médenine,Villa,300.0,1.0,2.0,130000.0
+Ben Arous,Villa,400.0,1.0,3.0,500000.0
+Ariana,Appartement,111.0,1.0,2.0,260000.0
+Médenine,Villa,359.0,3.0,3.0,500000.0
+Nabeul,Villa,600.0,5.0,4.0,130000.0
+Ariana,Villa,140.0,1.0,4.0,130000.0
+Tunis,Villa,120.0,2.0,5.0,2300000.0
+Ariana,Villa,330.0,3.0,8.0,350000.0
+Sousse,Villa,120.0,3.0,3.0,470000.0
+Tunis,Villa,150.0,5.0,6.0,450000.0
+Nabeul,Appartement,200.0,1.0,1.0,170000.0
+Nabeul,Villa,890.0,2.0,3.0,870000.0
+Ariana,Villa,400.0,1.0,3.0,200000.0
+Nabeul,Villa,150.0,2.0,3.0,130000.0
+Nabeul,Appartement,106.0,1.0,2.0,190000.0
+Tunis,Villa,102.0,2.0,3.0,310000.0
+Tunis,Villa,500.0,2.0,6.0,750000.0
+Ariana,Villa,240.0,4.0,4.0,950000.0
+Nabeul,Villa,600.0,2.0,3.0,690000.0
+Sfax,Villa,240.0,2.0,6.0,280000.0
+Tunis,Appartement,110.0,1.0,2.0,380000.0
+Jendouba,Villa,600.0,1.0,5.0,130000.0
+Ariana,Villa,1100.0,3.0,6.0,2100000.0
+Ben Arous,Appartement,160.0,1.0,3.0,130000.0
+Sousse,Appartement,150.0,1.0,4.0,130000.0
+Tunis,Villa,350.0,3.0,4.0,1280000.0
+Nabeul,Villa,320.0,2.0,4.0,990000.0
+Nabeul,Villa,200.0,3.0,4.0,750000.0
+Nabeul,Villa,450.0,1.0,3.0,230000.0
+Monastir,Villa,350.0,2.0,4.0,130000.0
+Nabeul,Villa,210.0,4.0,3.0,130000.0
+Ben Arous,Villa,529.0,4.0,7.0,1200000.0
+Zaghouan,Villa,350.0,1.0,4.0,580000.0
+Nabeul,Villa,1053.0,4.0,5.0,1100000.0
+Nabeul,Villa,450.0,4.0,4.0,1250000.0
+Sousse,Villa,277.0,1.0,3.0,249000.0
+Sousse,Appartement,314.0,1.0,3.0,130000.0
+Ben Arous,Villa,630.0,2.0,6.0,950000.0
+Bizerte,Villa,162.0,2.0,6.0,130000.0
+Ariana,Villa,500.0,4.0,6.0,700000.0
+Médenine,Villa,350.0,2.0,4.0,1700000.0
+Nabeul,Villa,481.0,1.0,3.0,1450000.0
+Nabeul,Villa,571.0,4.0,6.0,1500000.0
+Nabeul,Villa,224.0,2.0,4.0,130000.0
+La Manouba,Villa,240.0,2.0,6.0,130000.0
+Médenine,Villa,519.0,2.0,3.0,450000.0
+Médenine,Villa,158.0,2.0,3.0,130000.0
+Ariana,Villa,220.0,2.0,3.0,200000.0
+Médenine,Villa,550.0,4.0,6.0,520000.0
+Sousse,Villa,215.0,1.0,3.0,225000.0
+Ariana,Villa,120.0,2.0,2.0,210000.0
+Tunis,Villa,888.0,2.0,8.0,1200000.0
+Médenine,Villa,350.0,2.0,4.0,130000.0
+Nabeul,Villa,385.0,2.0,4.0,130000.0
+Sousse,Villa,1000.0,2.0,5.0,980000.0
+Ben Arous,Villa,350.0,2.0,3.0,365000.0
+Ben Arous,Villa,500.0,2.0,6.0,130000.0
+Ariana,Villa,300.0,2.0,3.0,240000.0
+Nabeul,Villa,400.0,3.0,5.0,580000.0
+Monastir,Villa,350.0,2.0,2.0,130000.0
+Ariana,Villa,630.0,2.0,4.0,400000.0
+Ariana,Villa,350.0,2.0,3.0,650000.0
+Sfax,Villa,110.0,1.0,3.0,130000.0
+Sousse,Villa,150.0,1.0,3.0,220000.0
+Nabeul,Villa,700.0,4.0,5.0,1050000.0
+Tunis,Villa,230.0,4.0,5.0,1810000.0
+Sousse,Appartement,120.0,1.0,3.0,130000.0
+Bizerte,Villa,200.0,2.0,4.0,130000.0
+Monastir,Appartement,471.0,2.0,4.0,130000.0
+Ben Arous,Appartement,175.0,2.0,3.0,130000.0
+Ben Arous,Villa,430.0,2.0,6.0,750000.0
+Sousse,Villa,100.0,2.0,4.0,130000.0
+Tunis,Appartement,192.0,2.0,3.0,270000.0
+Tunis,Villa,266.0,4.0,4.0,730000.0
+Ariana,Villa,470.0,2.0,5.0,980000.0
+Nabeul,Villa,107.0,2.0,5.0,130000.0
+Nabeul,Villa,350.0,2.0,4.0,799999.0
+Ariana,Villa,350.0,1.0,5.0,480000.0
+Nabeul,Villa,700.0,5.0,4.0,1050000.0
+Ben Arous,Villa,437.0,3.0,5.0,780000.0
+Ariana,Villa,480.0,4.0,4.0,1150000.0
+Ben Arous,Villa,340.0,1.0,2.0,750000.0
+La Manouba,Appartement,210.0,2.0,4.0,130000.0
+Ariana,Villa,378.0,1.0,6.0,130000.0
+Nabeul,Villa,779.0,2.0,3.0,1600000.0
+Nabeul,Villa,400.0,2.0,3.0,130000.0
+Nabeul,Villa,205.0,2.0,4.0,645000.0
+Béja,Villa,278.0,1.0,5.0,130000.0
+Sfax,Villa,878.0,1.0,3.0,1275000.0
+Ben Arous,Villa,350.0,2.0,4.0,220000.0
+Tunis,Villa,250.0,1.0,3.0,190000.0
+Tunis,Villa,350.0,3.0,4.0,130000.0
+Bizerte,Villa,350.0,2.0,4.0,130000.0
+Sousse,Villa,506.0,2.0,4.0,1500000.0
+Tunis,Villa,100.0,2.0,3.0,315000.0
+La Manouba,Villa,500.0,2.0,4.0,130000.0
+Médenine,Appartement,65.0,1.0,2.0,150000.0
+Ariana,Villa,200.0,1.0,2.0,330000.0
+Nabeul,Villa,460.0,1.0,3.0,130000.0
+Monastir,Villa,185.0,2.0,4.0,295000.0
+Tunis,Villa,750.0,6.0,6.0,850000.0
+Ariana,Villa,170.0,2.0,5.0,130000.0
+Sousse,Villa,638.0,2.0,7.0,130000.0
+Jendouba,Villa,350.0,1.0,6.0,250000.0
+Ben Arous,Villa,126.5,1.0,2.0,175000.0
+Ben Arous,Appartement,220.0,1.0,3.0,230000.0
+Ariana,Villa,275.0,1.0,3.0,300000.0
+Ariana,Villa,380.0,3.0,3.0,990000.0
+Ben Arous,Villa,190.0,1.0,4.0,170000.0
+Sousse,Villa,160.0,1.0,3.0,260000.0
+Ben Arous,Villa,324.0,3.0,7.0,130000.0
+Nabeul,Villa,140.0,1.0,3.0,130000.0
+Sousse,Villa,740.0,5.0,7.0,2300000.0
+Ariana,Villa,350.0,2.0,4.0,130000.0
+Ariana,Villa,220.0,1.0,2.0,190000.0
+Ben Arous,Villa,436.0,3.0,4.0,1700000.0
+Tunis,Villa,350.0,2.0,3.0,230000.0
+Sfax,Villa,400.0,1.0,3.0,130000.0
+Ben Arous,Villa,70.0,2.0,4.0,130000.0
+Ariana,Villa,250.0,2.0,4.0,130000.0
+Sfax,Villa,870.0,1.0,2.0,430000.0
+Ariana,Villa,151.0,1.0,2.0,130000.0
+Ariana,Villa,538.0,2.0,4.0,360000.0
+Ariana,Villa,460.0,3.0,4.0,825000.0
+Tunis,Villa,800.0,4.0,5.0,2250000.0
+Tunis,Villa,800.0,6.0,6.0,1900000.0
+Ariana,Appartement,230.0,1.0,2.0,130000.0
+Sousse,Villa,200.0,2.0,3.0,130000.0
+Ben Arous,Villa,400.0,3.0,6.0,350000.0
+Ariana,Villa,538.0,2.0,4.0,370000.0
+Ariana,Appartement,200.0,2.0,3.0,600000.0
+Nabeul,Villa,487.0,4.0,4.0,1250000.0
+Tunis,Villa,500.0,3.0,1.0,130000.0
+Ariana,Villa,460.0,3.0,5.0,2300000.0
+Nabeul,Villa,200.0,1.0,2.0,410000.0
+Ariana,Villa,880.0,3.0,4.0,130000.0
+Ariana,Villa,350.0,2.0,4.0,280000.0
+Ariana,Villa,187.0,1.0,3.0,130000.0
+Tunis,Villa,526.0,2.0,4.0,1700000.0
+Tunis,Villa,200.0,2.0,3.0,130000.0
+Ben Arous,Villa,600.0,3.0,8.0,800000.0
+Ben Arous,Villa,386.0,4.0,6.0,620000.0
+Tunis,Villa,574.0,3.0,4.0,1800000.0
+Tunis,Villa,150.0,1.0,4.0,130000.0
+Sousse,Appartement,417.0,2.0,4.0,450000.0
+Tunis,Villa,580.0,4.0,3.0,1200000.0
+Sousse,Villa,800.0,4.0,2.0,2300000.0
+Bizerte,Villa,220.0,3.0,5.0,130000.0
+La Manouba,Villa,328.0,2.0,4.0,650000.0
+Ariana,Villa,550.0,1.0,3.0,130000.0
+Sfax,Appartement,73.0,1.0,2.0,130000.0
+Sousse,Villa,280.0,2.0,4.0,950000.0
+Nabeul,Villa,245.0,2.0,3.0,589999.0
+Ben Arous,Villa,80.0,1.0,2.0,300000.0
+Tunis,Villa,400.0,2.0,5.0,820000.0
+Nabeul,Villa,600.0,4.0,5.0,800000.0
+Tunis,Villa,330.0,2.0,6.0,1800000.0
+Ben Arous,Villa,270.0,2.0,4.0,590000.0
+Ben Arous,Appartement,140.0,2.0,3.0,395000.0
+Tunis,Villa,150.0,3.0,8.0,130000.0
+Sousse,Villa,414.0,2.0,7.0,1650000.0
+Nabeul,Villa,443.0,3.0,4.0,1180000.0
+Sfax,Villa,350.0,2.0,4.0,470000.0
+Tunis,Villa,285.0,4.0,4.0,1800000.0
+Ben Arous,Villa,400.0,1.0,4.0,620000.0
+Tunis,Villa,280.0,3.0,4.0,950000.0
+Nabeul,Villa,300.0,3.0,5.0,130000.0
+Tunis,Villa,530.0,4.0,4.0,2300000.0
+Nabeul,Villa,300.0,3.0,1.0,130000.0
+Nabeul,Villa,285.0,3.0,4.0,130000.0
+Tunis,Villa,587.0,2.0,4.0,1800000.0
+Ariana,Appartement,220.0,2.0,4.0,750000.0
+Sousse,Villa,435.0,2.0,3.0,130000.0
+Ben Arous,Villa,269.0,2.0,6.0,130000.0
+Tunis,Villa,430.0,3.0,5.0,870000.0
+Ben Arous,Villa,316.0,4.0,4.0,800000.0
+Nabeul,Villa,300.0,3.0,5.0,1350000.0
+Sfax,Villa,160.0,2.0,4.0,220000.0
+Tunis,Villa,220.0,2.0,5.0,130000.0
+Tunis,Appartement,128.0,2.0,4.0,420000.0
+Ben Arous,Villa,470.0,2.0,5.0,680000.0
+Ben Arous,Villa,520.0,2.0,6.0,500000.0
+Ben Arous,Villa,340.0,3.0,7.0,500000.0
+Tunis,Villa,500.0,3.0,4.0,1600000.0
+Tunis,Villa,368.0,4.0,6.0,1350000.0
+Ben Arous,Villa,450.0,2.0,7.0,600000.0
+Nabeul,Villa,225.0,2.0,3.0,670000.0
+Nabeul,Villa,1012.0,2.0,3.0,1050000.0
+Tunis,Appartement,200.0,2.0,3.0,499999.0
+Sfax,Villa,120.0,1.0,3.0,130000.0
+Ariana,Villa,468.0,2.0,5.0,830000.0
+Tunis,Villa,75.0,1.0,3.0,130000.0
+Sfax,Villa,600.0,2.0,4.0,400000.0
+Kairouan,Villa,520.0,3.0,5.0,550000.0
+Kairouan,Villa,138.0,2.0,5.0,230000.0
+Ariana,Villa,429.0,4.0,3.0,881000.0
+Nabeul,Villa,968.0,3.0,4.0,1500000.0
+Tunis,Appartement,450.0,2.0,3.0,560000.0
+Tunis,Villa,498.0,4.0,8.0,2000000.0
+Tunis,Villa,350.0,1.0,2.0,130000.0
+Jendouba,Villa,350.0,1.0,4.0,130000.0
+Tunis,Villa,100.0,2.0,3.0,130000.0
+Kairouan,Villa,106.0,1.0,4.0,130000.0
+Sousse,Villa,450.0,1.0,3.0,950000.0
+Bizerte,Villa,450.0,3.0,5.0,680000.0
+Tunis,Villa,200.0,1.0,5.0,320000.0
+Ben Arous,Villa,288.0,3.0,6.0,130000.0
+Tunis,Villa,480.0,2.0,4.0,255000.0
+Ben Arous,Villa,180.0,1.0,3.0,380000.0
+Ben Arous,Villa,350.0,1.0,2.0,550000.0
+Tunis,Villa,325.0,2.0,6.0,750000.0
+Bizerte,Villa,140.0,2.0,5.0,300000.0
+Ariana,Villa,596.0,2.0,3.0,430000.0
+Ben Arous,Villa,256.0,2.0,4.0,260000.0
+Ben Arous,Villa,447.0,2.0,3.0,650000.0
+Sousse,Villa,200.0,2.0,4.0,130000.0
+Nabeul,Villa,240.0,3.0,7.0,130000.0
+Sfax,Villa,1000.0,1.0,4.0,130000.0
+Ben Arous,Villa,233.0,1.0,3.0,130000.0
+Tunis,Appartement,450.0,2.0,4.0,650000.0
+Sousse,Villa,460.0,1.0,4.0,130000.0
+La Manouba,Villa,65.0,1.0,2.0,130000.0
+Zaghouan,Villa,212.0,1.0,4.0,130000.0
+Tunis,Villa,600.0,3.0,6.0,2300000.0
+Nabeul,Appartement,42.0,1.0,1.0,130000.0
+Nabeul,Villa,800.0,2.0,4.0,130000.0
+Ben Arous,Villa,485.0,3.0,6.0,650000.0
+Sousse,Villa,402.0,3.0,5.0,450000.0
+Tunis,Appartement,98.0,2.0,4.0,300000.0
+Sousse,Villa,418.0,2.0,6.0,130000.0
+Sfax,Villa,147.0,1.0,3.0,130000.0
+Ariana,Villa,115.0,1.0,2.0,130000.0
+Ariana,Villa,150.0,1.0,5.0,130000.0
+Tunis,Villa,300.0,1.0,3.0,130000.0
+Ben Arous,Villa,180.0,2.0,3.0,200000.0
+Ben Arous,Villa,300.0,2.0,4.0,470000.0
+Sfax,Villa,259.0,2.0,3.0,130000.0
+Sfax,Villa,288.0,1.0,6.0,150000.0
+Sousse,Villa,218.0,2.0,4.0,950000.0
+Nabeul,Villa,800.0,3.0,6.0,1300000.0
+Ben Arous,Villa,156.0,2.0,3.0,260000.0
+Bizerte,Villa,249.0,2.0,4.0,130000.0
+Sousse,Villa,200.0,2.0,3.0,680000.0
+Le Kef,Villa,120.0,2.0,4.0,130000.0
+Ariana,Villa,218.0,1.0,3.0,250000.0
+Gabès,Villa,350.0,1.0,4.0,130000.0
+Ben Arous,Appartement,250.0,2.0,3.0,570000.0
+Tunis,Villa,530.0,5.0,6.0,980000.0
+Ben Arous,Villa,200.0,2.0,3.0,130000.0
+La Manouba,Appartement,120.0,1.0,2.0,200003.0
+Ariana,Villa,280.0,3.0,5.0,850000.0
+Ben Arous,Villa,390.0,2.0,5.0,700000.0
+Ben Arous,Villa,350.0,2.0,4.0,305000.0
+Tunis,Villa,200.0,2.0,4.0,160000.0
+Ariana,Villa,220.0,2.0,6.0,340000.0
+Kairouan,Villa,360.0,2.0,3.0,450000.0
+Le Kef,Villa,200.0,1.0,5.0,275000.0
+Bizerte,Villa,600.0,2.0,6.0,577000.0
+Ariana,Villa,150.0,3.0,3.0,400000.0
+Sfax,Villa,350.0,2.0,4.0,130000.0
+Tunis,Villa,600.0,1.0,5.0,1490000.0
+Tunis,Villa,368.0,2.0,3.0,1500000.0
+Nabeul,Villa,953.0,4.0,6.0,130000.0
+Ben Arous,Villa,110.0,2.0,4.0,130000.0
+Tunis,Appartement,326.0,2.0,3.0,680000.0
+Ben Arous,Villa,191.0,1.0,4.0,150000.0
+Nabeul,Villa,1000.0,2.0,5.0,1500000.0
+Tunis,Villa,500.0,5.0,8.0,590000.0
+Nabeul,Villa,170.0,2.0,4.0,230000.0
+Nabeul,Villa,430.0,6.0,6.0,1300000.0
+Tunis,Villa,280.0,3.0,1.0,240000.0
+Tunis,Villa,463.0,4.0,5.0,2300000.0
+Bizerte,Appartement,49.0,1.0,2.0,156999.0
+Tunis,Appartement,125.0,1.0,3.0,250000.0
+Ariana,Villa,217.0,2.0,3.0,270000.0
+Médenine,Villa,295.0,2.0,5.0,1450000.0
+Médenine,Villa,350.0,2.0,3.0,900000.0
+Ariana,Appartement,170.0,2.0,4.0,130000.0
+Ariana,Villa,634.0,3.0,3.0,800000.0
+Ariana,Villa,108.0,1.0,2.0,130000.0
+Mahdia,Villa,528.0,1.0,1.0,480000.0
+Tunis,Villa,80.0,2.0,4.0,130000.0
+Ariana,Villa,437.0,2.0,6.0,130000.0
+Ben Arous,Appartement,270.0,2.0,4.0,320000.0
+Tunis,Villa,285.0,1.0,4.0,440000.0
+Tunis,Villa,350.0,1.0,4.0,130000.0
+Ben Arous,Villa,460.0,2.0,4.0,130000.0
+Tunis,Villa,268.0,1.0,4.0,350000.0
+Nabeul,Villa,229.0,2.0,4.0,330000.0
+Ben Arous,Villa,61.0,2.0,3.0,165000.0
+Tunis,Appartement,190.0,2.0,3.0,320000.0
+Tunis,Appartement,90.0,1.0,2.0,130000.0
+Bizerte,Villa,150.0,2.0,2.0,340000.0
+Médenine,Villa,360.0,2.0,2.0,430000.0
+Tunis,Villa,355.0,3.0,7.0,680000.0
+Tunis,Villa,124.0,3.0,5.0,780000.0
+Tunis,Appartement,153.0,1.0,3.0,130000.0
+Tunis,Villa,350.0,2.0,3.0,130000.0
+Ariana,Appartement,373.0,1.0,2.0,280000.0
+Mahdia,Villa,350.0,1.0,6.0,130000.0
+Ben Arous,Villa,186.0,2.0,3.0,130000.0
+Nabeul,Villa,129.0,2.0,7.0,130000.0
+Sousse,Villa,110.0,1.0,2.0,130000.0
+Nabeul,Villa,300.0,1.0,4.0,130000.0
+Tunis,Villa,260.0,1.0,4.0,130000.0
+Tunis,Villa,350.0,4.0,5.0,2100000.0
+Nabeul,Villa,100.0,1.0,2.0,150000.0
+Ben Arous,Villa,516.0,2.0,6.0,580000.0
+Ariana,Villa,200.0,1.0,4.0,280000.0
+Nabeul,Villa,537.0,2.0,4.0,130000.0
+Ben Arous,Villa,260.0,2.0,3.0,450000.0
+Sousse,Villa,1000.0,3.0,6.0,1500000.0
+Ben Arous,Appartement,130.0,1.0,3.0,850000.0
+Sfax,Villa,209.0,2.0,3.0,180000.0
+Sousse,Appartement,500.0,2.0,3.0,130000.0
+Tunis,Villa,150.0,3.0,5.0,130000.0
+Sousse,Villa,400.0,2.0,3.0,900000.0
+Bizerte,Villa,225.0,1.0,2.0,130000.0
+Ben Arous,Villa,350.0,2.0,4.0,130000.0
+Ben Arous,Villa,510.0,2.0,8.0,1500000.0
+Nabeul,Villa,370.0,2.0,4.0,900000.0
+Ariana,Villa,256.0,2.0,4.0,130000.0
+Ariana,Villa,475.0,2.0,4.0,130000.0
+Tunis,Villa,117.0,3.0,7.0,460000.0
+Ben Arous,Villa,315.0,2.0,6.0,700000.0
+Ben Arous,Appartement,250.0,1.0,4.0,350000.0
+Ben Arous,Villa,407.0,2.0,4.0,650000.0
+Tunis,Appartement,336.0,1.0,3.0,450000.0
+Ariana,Appartement,450.0,2.0,4.0,750000.0
+Ben Arous,Villa,220.0,2.0,5.0,370000.0
+Tunis,Villa,112.0,2.0,6.0,2300000.0
+Ariana,Villa,300.0,2.0,4.0,850000.0
+Bizerte,Villa,270.0,2.0,4.0,340000.0
+Bizerte,Villa,313.0,3.0,5.0,360000.0
+Ben Arous,Villa,566.0,2.0,3.0,890000.0
+Ben Arous,Villa,260.0,2.0,3.0,485000.0
+La Manouba,Villa,319.0,2.0,3.0,130000.0
+Nabeul,Appartement,130.0,2.0,2.0,130000.0
+Ariana,Villa,100.0,1.0,3.0,2300000.0
+Ariana,Villa,430.0,1.0,4.0,300000.0
+Ariana,Villa,257.0,1.0,3.0,290000.0
+Ariana,Villa,120.0,3.0,6.0,130000.0
+Tunis,Villa,162.0,2.0,5.0,130000.0
+Ariana,Villa,756.0,1.0,3.0,155000.0
+Ben Arous,Villa,206.0,1.0,3.0,130000.0
+Nabeul,Villa,200.0,2.0,3.0,280000.0
+Tunis,Villa,260.0,1.0,4.0,420000.0
+Tunis,Villa,470.0,3.0,4.0,130000.0
+Tunis,Villa,232.0,2.0,4.0,400000.0
+Ben Arous,Villa,508.0,4.0,7.0,1200000.0
+Sfax,Villa,468.0,1.0,4.0,130000.0
+Ben Arous,Villa,546.0,1.0,1.0,399997.0
+Sousse,Villa,218.0,2.0,4.0,750000.0
+Nabeul,Villa,300.0,4.0,7.0,990000.0
+Ben Arous,Villa,720.0,4.0,8.0,750000.0
+Gabès,Villa,360.0,3.0,5.0,459999.0
+Ben Arous,Villa,105.0,3.0,6.0,350000.0
+Bizerte,Villa,270.0,3.0,7.0,490000.0
+Sfax,Villa,816.0,2.0,6.0,1250000.0
+Ariana,Villa,370.0,2.0,8.0,999999.0
+Nabeul,Villa,1050.0,5.0,7.0,1550000.0
+Ben Arous,Villa,400.0,1.0,3.0,280000.0
+Tunis,Villa,300.0,2.0,5.0,750000.0
+Ben Arous,Villa,270.0,4.0,6.0,550000.0
+Tunis,Villa,520.0,4.0,7.0,130000.0
+Monastir,Villa,589.0,1.0,2.0,299000.0
+Tunis,Villa,350.0,2.0,4.0,750100.0
+Nabeul,Villa,300.0,2.0,4.0,2300000.0
+Tunis,Villa,876.0,4.0,7.0,130000.0
+Ben Arous,Villa,480.0,2.0,5.0,750000.0
+Ben Arous,Villa,119.0,1.0,4.0,270000.0
+Bizerte,Villa,300.0,2.0,4.0,130000.0
+Tunis,Villa,350.0,2.0,8.0,1600000.0
+Ben Arous,Appartement,237.0,2.0,4.0,325000.0
+Tunis,Villa,74.0,1.0,3.0,150000.0
+Ben Arous,Villa,450.0,1.0,3.0,290000.0
+Tunis,Villa,115.0,2.0,6.0,270000.0
+Nabeul,Villa,1000.0,6.0,5.0,1200000.0
+Nabeul,Villa,350.0,2.0,5.0,1100000.0
+Ben Arous,Villa,630.0,2.0,6.0,800000.0
+Le Kef,Villa,100.0,1.0,4.0,130000.0
+La Manouba,Villa,450.0,2.0,4.0,250000.0
+Sousse,Villa,307.0,1.0,3.0,600000.0
+Sousse,Villa,400.0,3.0,7.0,2300000.0
+Tunis,Villa,440.0,3.0,6.0,1350000.0
+Ben Arous,Appartement,198.0,2.0,3.0,520000.0
+Ben Arous,Villa,420.0,2.0,3.0,650000.0
+Tunis,Villa,300.0,2.0,3.0,130000.0
+Sfax,Villa,132.0,1.0,3.0,130000.0
+Tunis,Villa,80.0,1.0,6.0,130000.0
+Ben Arous,Villa,200.0,2.0,2.0,130000.0
+Sousse,Appartement,83.0,1.0,1.0,130000.0
+Sousse,Villa,390.0,3.0,5.0,540000.0
+Sousse,Villa,140.0,2.0,4.0,390000.0
+Ariana,Villa,375.0,2.0,3.0,130000.0
+Sousse,Villa,180.0,2.0,4.0,450000.0
+Sousse,Villa,400.0,2.0,3.0,130000.0
+Bizerte,Villa,556.0,2.0,7.0,580000.0
+Ben Arous,Villa,175.0,2.0,6.0,550000.0
+Tunis,Villa,1033.0,3.0,5.0,2300000.0
+Bizerte,Villa,381.0,3.0,4.0,830000.0
+Ariana,Villa,400.0,2.0,4.0,850000.0
+Nabeul,Villa,154.0,2.0,3.0,130000.0
+Ariana,Villa,300.0,3.0,5.0,130000.0
+Tunis,Villa,204.0,2.0,5.0,130000.0
+Ben Arous,Villa,450.0,2.0,5.0,320000.0
+Ariana,Villa,450.0,2.0,4.0,2300000.0
+Sfax,Appartement,130.0,1.0,2.0,150000.0
+Nabeul,Villa,350.0,2.0,3.0,790000.0
+Nabeul,Appartement,100.0,1.0,2.0,165000.0
+Nabeul,Villa,560.0,3.0,5.0,130000.0
+Nabeul,Villa,300.0,3.0,3.0,620000.0
+Tunis,Appartement,120.0,1.0,2.0,220000.0
+Ben Arous,Villa,530.0,2.0,5.0,130000.0
+Ben Arous,Villa,396.0,2.0,5.0,130000.0
+Ariana,Villa,277.0,2.0,5.0,800000.0
+Tunis,Villa,101.0,2.0,7.0,470000.0
+Médenine,Villa,610.0,3.0,4.0,130000.0
+Bizerte,Villa,350.0,4.0,4.0,920000.0
+Tunis,Villa,225.0,1.0,3.0,430000.0
+Ariana,Villa,550.0,2.0,6.0,2300000.0
+Nabeul,Villa,1020.0,6.0,5.0,130000.0
+Tunis,Villa,226.0,2.0,5.0,450000.0
+Nabeul,Villa,300.0,2.0,4.0,1180000.0
+Nabeul,Villa,289.0,2.0,2.0,415000.0
+Sousse,Villa,165.0,1.0,4.0,165000.0
+Tunis,Villa,452.0,2.0,4.0,540000.0
+Tunis,Appartement,772.0,6.0,2.0,130000.0
+Ben Arous,Appartement,624.0,2.0,4.0,550000.0
+Nabeul,Appartement,130.0,1.0,3.0,385000.0
+Ben Arous,Villa,140.0,1.0,3.0,130000.0
+Ben Arous,Villa,420.0,2.0,3.0,700000.0
+Ariana,Villa,150.0,1.0,1.0,130000.0
+Tunis,Villa,100.0,1.0,2.0,130000.0
+Sousse,Villa,1000.0,2.0,4.0,1100000.0
+Sousse,Villa,267.0,1.0,2.0,400000.0
+Sousse,Villa,350.0,3.0,4.0,1000000.0
+Sousse,Villa,615.0,2.0,4.0,900000.0
+Sousse,Villa,1000.0,2.0,5.0,2300000.0
+Sousse,Villa,350.0,5.0,4.0,2300000.0
+Sousse,Villa,600.0,1.0,3.0,600000.0
+Sousse,Villa,207.0,1.0,3.0,360000.0
+Ariana,Appartement,101.0,1.0,3.0,130000.0
+Ben Arous,Villa,350.0,2.0,6.0,600000.0
+Nabeul,Villa,600.0,1.0,3.0,130000.0
+Tunis,Villa,443.0,4.0,8.0,930000.0
+Sousse,Villa,320.0,1.0,5.0,130000.0
+Ariana,Villa,270.0,3.0,7.0,510000.0
+Ariana,Villa,620.0,2.0,3.0,130000.0
+Monastir,Villa,220.0,1.0,7.0,130000.0
+Sousse,Villa,350.0,2.0,4.0,1350000.0
+Ariana,Villa,350.0,2.0,4.0,620000.0
+La Manouba,Villa,400.0,2.0,4.0,600000.0
+Ben Arous,Villa,620.0,3.0,4.0,850000.0
+Sousse,Villa,140.0,1.0,3.0,155000.0
+Médenine,Villa,108.0,1.0,3.0,130000.0
+La Manouba,Villa,80.0,1.0,3.0,170000.0
+Sfax,Villa,220.0,4.0,3.0,130000.0
+Sousse,Villa,140.0,1.0,2.0,130000.0
+Nabeul,Villa,420.0,3.0,3.0,750000.0
+Médenine,Villa,250.0,2.0,6.0,285000.0
+Ben Arous,Villa,97.0,1.0,2.0,130000.0
+Ben Arous,Appartement,85.0,2.0,4.0,215000.0
+La Manouba,Villa,230.0,2.0,6.0,440000.0
+Bizerte,Villa,111.0,1.0,4.0,390000.0
+La Manouba,Villa,104.0,1.0,2.0,130000.0
+Sousse,Villa,69.0,2.0,3.0,150000.0
+Kairouan,Villa,200.0,1.0,2.0,130000.0
+Sousse,Villa,720.0,4.0,5.0,1200000.0
+Nabeul,Villa,1000.0,5.0,6.0,1500000.0
+Tunis,Villa,627.0,3.0,7.0,950000.0
+La Manouba,Appartement,300.0,1.0,4.0,670000.0
+Tunis,Appartement,100.0,1.0,1.0,140000.0
+Ariana,Villa,507.0,3.0,5.0,599997.0
+Ben Arous,Villa,269.0,2.0,5.0,130000.0
+Nabeul,Villa,100.0,1.0,2.0,2300000.0
+Nabeul,Villa,400.0,2.0,4.0,1500000.0
+La Manouba,Villa,110.0,1.0,3.0,180000.0
+Nabeul,Villa,350.0,2.0,5.0,550000.0
+Mahdia,Villa,350.0,1.0,3.0,130000.0
+La Manouba,Villa,350.0,2.0,4.0,130000.0
+Nabeul,Villa,319.0,3.0,3.0,130000.0
+Ariana,Villa,238.0,3.0,4.0,130000.0
+Ben Arous,Villa,110.0,2.0,5.0,240000.0
+Tunis,Villa,600.0,2.0,3.0,850000.0
+Nabeul,Villa,300.0,3.0,4.0,950000.0
+Ariana,Villa,235.0,1.0,4.0,270000.0
+Sousse,Appartement,114.0,1.0,3.0,160000.0
+Sousse,Villa,359.0,2.0,4.0,330000.0
+Ariana,Villa,350.0,2.0,3.0,140000.0
+Tunis,Villa,615.0,5.0,6.0,130000.0
+Tunis,Appartement,110.0,2.0,4.0,130000.0
+Sfax,Villa,170.0,1.0,3.0,130000.0
+Nabeul,Villa,164.0,3.0,4.0,700000.0
+Ben Arous,Villa,325.0,2.0,4.0,450000.0
+Mahdia,Villa,400.0,2.0,3.0,130000.0
+Sousse,Villa,350.0,2.0,5.0,130000.0
+Ben Arous,Villa,409.0,3.0,3.0,900000.0
+Tunis,Villa,412.0,2.0,4.0,700000.0
+La Manouba,Villa,300.0,2.0,4.0,499000.0
+Ben Arous,Villa,240.0,1.0,3.0,330000.0
+Ben Arous,Villa,590.0,4.0,5.0,790000.0
+Ben Arous,Villa,429.0,3.0,6.0,650000.0
+Tunis,Appartement,117.0,1.0,2.0,210000.0
+Ben Arous,Villa,354.0,2.0,3.0,700000.0
+Ben Arous,Villa,200.0,1.0,3.0,130000.0
+Tunis,Villa,90.0,1.0,3.0,400000.0
+Bizerte,Villa,519.0,1.0,4.0,130000.0
+Sfax,Villa,1000.0,2.0,3.0,650000.0
+Tunis,Villa,85.0,2.0,4.0,130000.0
+Ben Arous,Villa,354.0,1.0,4.0,700000.0
+Ariana,Villa,450.0,2.0,5.0,850000.0
+Tunis,Villa,117.0,1.0,3.0,460000.0
+Médenine,Villa,450.0,4.0,3.0,130000.0
+Ariana,Appartement,257.0,1.0,3.0,130000.0
+Nabeul,Villa,1000.0,3.0,6.0,2100000.0
+Nabeul,Villa,350.0,5.0,4.0,600000.0
+Ben Arous,Villa,300.0,2.0,3.0,350000.0
+Bizerte,Villa,95.0,1.0,3.0,130000.0
+Ariana,Villa,100.0,3.0,7.0,130000.0
+Ben Arous,Villa,372.0,1.0,4.0,130000.0
+Ben Arous,Villa,102.0,2.0,6.0,199000.0
+Tunis,Villa,140.0,2.0,6.0,420000.0
+Tunis,Villa,204.0,2.0,3.0,300000.0
+Ben Arous,Villa,200.0,3.0,8.0,255000.0
+Sousse,Villa,300.0,3.0,8.0,130000.0
+Sfax,Villa,770.0,1.0,5.0,130000.0
+Nabeul,Villa,186.0,1.0,3.0,130000.0
+Sousse,Villa,400.0,2.0,4.0,900000.0
+Ben Arous,Villa,128.0,2.0,4.0,130000.0
+Ariana,Villa,200.0,1.0,3.0,350000.0
+Tunis,Appartement,700.0,2.0,4.0,900000.0
+Ben Arous,Villa,300.0,3.0,6.0,650000.0
+La Manouba,Villa,400.0,3.0,4.0,680000.0
+Tunis,Villa,500.0,2.0,5.0,2300000.0
+Ben Arous,Villa,278.0,1.0,3.0,500000.0
+Gafsa,Villa,150.0,2.0,5.0,130000.0
+Ariana,Villa,150.0,2.0,4.0,340000.0
+Médenine,Villa,456.0,2.0,4.0,130000.0
+Nabeul,Appartement,500.0,1.0,2.0,130000.0
+Ben Arous,Villa,412.0,1.0,4.0,460000.0
+Ariana,Villa,500.0,4.0,6.0,450000.0
+Bizerte,Villa,215.0,1.0,4.0,219999.0
+Ariana,Appartement,90.0,1.0,2.0,130000.0
+Tunis,Villa,255.0,2.0,4.0,210000.0
+Tunis,Villa,603.0,2.0,5.0,130000.0
+Sousse,Villa,330.0,1.0,3.0,215000.0
+Ben Arous,Appartement,378.0,1.0,3.0,270000.0
+La Manouba,Villa,350.0,2.0,2.0,130000.0
+Tunis,Villa,304.0,1.0,4.0,130000.0
+Tunis,Villa,133.0,1.0,4.0,200000.0
+Sousse,Villa,140.0,2.0,3.0,130000.0
+Nabeul,Villa,130.0,1.0,3.0,130000.0
+La Manouba,Villa,300.0,2.0,3.0,130000.0
+Nabeul,Villa,385.0,4.0,5.0,130000.0
+Sfax,Villa,758.0,3.0,5.0,570000.0
+Ben Arous,Villa,530.0,2.0,6.0,130000.0
+Ariana,Villa,320.0,5.0,6.0,1100000.0
+Ben Arous,Villa,260.0,1.0,3.0,485000.0
+Tunis,Villa,90.0,1.0,3.0,130000.0
+Nabeul,Villa,290.0,4.0,5.0,130000.0
+Kairouan,Villa,250.0,2.0,4.0,360000.0
+Siliana,Villa,350.0,1.0,3.0,130000.0
+Médenine,Appartement,170.0,1.0,3.0,130000.0
+Sfax,Villa,425.0,2.0,6.0,310000.0
+Ariana,Villa,220.0,2.0,5.0,280000.0
+Ben Arous,Appartement,166.0,1.0,3.0,168998.0
+Sfax,Villa,600.0,1.0,5.0,130000.0
+Ben Arous,Villa,203.0,3.0,4.0,130000.0
+Ben Arous,Villa,640.0,2.0,6.0,130000.0
+Sousse,Villa,200.0,1.0,3.0,200000.0
+Bizerte,Appartement,147.0,1.0,3.0,130000.0
+Nabeul,Villa,202.0,2.0,5.0,400000.0
+Gabès,Villa,390.0,2.0,3.0,300000.0
+Gabès,Villa,520.0,3.0,6.0,130000.0
+Ariana,Villa,300.0,4.0,6.0,130000.0
+Nabeul,Villa,288.0,3.0,6.0,650000.0
+Ariana,Villa,470.0,2.0,5.0,870000.0
+Nabeul,Villa,816.0,2.0,4.0,480000.0
+Ariana,Appartement,90.0,2.0,4.0,190000.0
+Ben Arous,Villa,600.0,3.0,4.0,850000.0
+Ben Arous,Appartement,200.0,2.0,2.0,300000.0
+Nabeul,Villa,140.0,1.0,3.0,200000.0
+La Manouba,Villa,260.0,2.0,4.0,950000.0
+Tunis,Villa,470.0,3.0,5.0,1300000.0
+Sousse,Villa,450.0,2.0,4.0,750000.0
+Tunis,Villa,1059.0,1.0,4.0,2300000.0
+Tunis,Villa,115.0,2.0,4.0,275000.0
+Gafsa,Villa,350.0,2.0,6.0,130000.0
+Ariana,Villa,480.0,2.0,7.0,460000.0
+Gafsa,Villa,220.0,2.0,4.0,280000.0
+Bizerte,Villa,202.0,4.0,6.0,520000.0
+Nabeul,Villa,650.0,2.0,4.0,130000.0
+La Manouba,Villa,690.0,3.0,7.0,520000.0
+Nabeul,Villa,345.0,3.0,4.0,780000.0
+Nabeul,Villa,505.0,2.0,5.0,1049998.0
+Nabeul,Appartement,400.0,1.0,2.0,300000.0
+Nabeul,Appartement,750.0,2.0,4.0,130000.0
+Ben Arous,Villa,385.0,5.0,6.0,400000.0
+La Manouba,Appartement,119.0,2.0,3.0,370000.0
+Ben Arous,Villa,195.0,1.0,5.0,380000.0
+Sidi Bouzid,Villa,400.0,2.0,3.0,130000.0
+Tunis,Villa,170.0,2.0,4.0,130000.0
+Ariana,Villa,481.0,2.0,4.0,1190000.0
+Tunis,Villa,207.0,1.0,3.0,130000.0
+Béja,Villa,200.0,1.0,4.0,130000.0
+Nabeul,Villa,300.0,3.0,4.0,600000.0
+Tunis,Villa,108.0,1.0,2.0,130000.0
+Ben Arous,Villa,100.0,2.0,5.0,130000.0
+Ariana,Villa,550.0,3.0,7.0,450000.0
+La Manouba,Villa,280.0,3.0,7.0,130000.0
+Médenine,Villa,220.0,4.0,5.0,820000.0
+Tunis,Villa,1000.0,3.0,7.0,2200000.0
+Tunis,Villa,145.0,3.0,7.0,550000.0
+Bizerte,Appartement,95.0,1.0,2.0,350000.0
+Sfax,Villa,350.0,1.0,4.0,700000.0
+Tunis,Villa,294.0,3.0,5.0,640000.0
+Nabeul,Villa,350.0,2.0,8.0,130000.0
+Sfax,Villa,650.0,1.0,3.0,250000.0
+Tunis,Villa,90.0,1.0,2.0,235000.0
+Ben Arous,Villa,270.0,2.0,6.0,550000.0
+Tunis,Villa,128.0,3.0,7.0,399999.0
+Ben Arous,Villa,103.0,1.0,2.0,239000.0
+Ben Arous,Villa,500.0,2.0,6.0,630000.0
+Ben Arous,Appartement,300.0,2.0,3.0,328000.0
+Ben Arous,Appartement,200.0,1.0,1.0,248000.0
+Ben Arous,Appartement,750.0,2.0,4.0,950000.0
+Ben Arous,Villa,400.0,2.0,4.0,890000.0
+Sousse,Villa,200.0,2.0,3.0,380000.0
+Sousse,Villa,350.0,1.0,4.0,424000.0
+Tunis,Villa,505.0,2.0,5.0,720000.0
+Sousse,Villa,70.0,2.0,3.0,180000.0
+Tunis,Villa,450.0,2.0,4.0,700000.0
+Gabès,Appartement,150.0,1.0,4.0,130000.0
+La Manouba,Villa,432.0,2.0,3.0,130000.0
+Ariana,Villa,206.0,3.0,4.0,130000.0
+Ben Arous,Villa,122.0,2.0,3.0,170000.0
+Tunis,Villa,143.0,1.0,3.0,130000.0
+Ben Arous,Villa,705.0,3.0,5.0,975000.0
+La Manouba,Villa,110.0,2.0,4.0,130000.0
+Ariana,Appartement,169.0,1.0,7.0,380000.0
+Nabeul,Villa,514.0,6.0,5.0,130000.0
+Sfax,Villa,700.0,1.0,6.0,130000.0
+Ariana,Villa,500.0,1.0,4.0,500000.0
+Ariana,Villa,400.0,5.0,5.0,130000.0
+Tunis,Villa,150.0,1.0,2.0,2300000.0
+Tunis,Villa,145.0,1.0,3.0,250000.0
+La Manouba,Villa,350.0,2.0,6.0,130000.0
+Ben Arous,Villa,410.0,1.0,3.0,2300000.0
+Ben Arous,Villa,415.0,1.0,3.0,460000.0
+Tunis,Villa,387.0,2.0,6.0,250000.0
+Ben Arous,Villa,387.0,2.0,5.0,480000.0
+Ben Arous,Villa,618.0,2.0,5.0,580000.0
+Ariana,Villa,250.0,3.0,4.0,295000.0
+Ben Arous,Villa,315.0,1.0,4.0,550000.0
+Tunis,Villa,402.0,2.0,6.0,950000.0
+Sousse,Villa,131.0,2.0,6.0,400000.0
+Ariana,Villa,100.0,3.0,5.0,380000.0
+Sousse,Villa,110.0,1.0,3.0,245000.0
+Sousse,Villa,350.0,2.0,3.0,179998.0
+Ben Arous,Appartement,76.0,1.0,2.0,130000.0
+Tunis,Villa,300.0,3.0,6.0,950000.0
+Tunis,Villa,350.0,2.0,4.0,650000.0
+Ariana,Villa,958.0,3.0,4.0,2000000.0
+Ariana,Villa,530.0,4.0,6.0,1500000.0
+Ariana,Villa,1000.0,1.0,4.0,130000.0
+Ben Arous,Appartement,200.0,2.0,6.0,130000.0
+Tunis,Villa,316.0,4.0,6.0,1500000.0
+Bizerte,Villa,350.0,2.0,2.0,130000.0
+Ben Arous,Appartement,260.0,2.0,2.0,359999.0
+Le Kef,Villa,580.0,2.0,3.0,370000.0
+Mahdia,Villa,80.0,1.0,2.0,130000.0
+Ariana,Villa,415.0,5.0,5.0,1480000.0
+Nabeul,Villa,380.0,5.0,5.0,1150000.0
+Tunis,Appartement,120.0,1.0,4.0,130000.0
+Tunis,Villa,510.0,2.0,7.0,950000.0
+Ben Arous,Villa,510.0,4.0,6.0,850000.0
+Tunis,Villa,90.0,1.0,4.0,130000.0
+Tunis,Appartement,140.0,1.0,2.0,130000.0
+Nabeul,Villa,500.0,3.0,4.0,550000.0
+Le Kef,Villa,550.0,2.0,4.0,365000.0
+Tunis,Villa,115.0,2.0,6.0,130000.0
+Le Kef,Villa,200.0,1.0,3.0,150000.0
+Béja,Villa,477.0,5.0,8.0,550000.0
+Sfax,Villa,350.0,1.0,2.0,130000.0
+Sousse,Villa,380.0,2.0,3.0,130000.0
+Ben Arous,Appartement,200.0,2.0,3.0,370000.0
+Le Kef,Appartement,500.0,1.0,3.0,350000.0
+Kairouan,Appartement,200.0,1.0,3.0,230000.0
+Le Kef,Villa,750.0,2.0,4.0,700000.0
+Tunis,Villa,388.0,1.0,3.0,1400000.0
+Sfax,Villa,400.0,3.0,3.0,360000.0
+Sfax,Villa,406.0,1.0,3.0,180000.0
+Tunis,Villa,105.0,2.0,4.0,160000.0
+Ariana,Villa,440.0,2.0,4.0,1300000.0
+Tunis,Villa,160.0,2.0,3.0,480000.0
+Nabeul,Villa,640.0,2.0,7.0,130000.0
+Ariana,Villa,220.0,5.0,8.0,900000.0
+Ben Arous,Villa,350.0,2.0,4.0,210000.0
+Ariana,Villa,480.0,2.0,4.0,680000.0
+Nabeul,Appartement,174.0,1.0,4.0,250000.0
+Ben Arous,Villa,350.0,1.0,3.0,480000.0
+Tunis,Villa,300.0,2.0,4.0,500000.0
+Mahdia,Villa,350.0,1.0,4.0,130000.0
+Nabeul,Villa,269.0,1.0,2.0,130000.0
+Jendouba,Villa,120.0,1.0,3.0,130000.0
+Sousse,Appartement,360.0,2.0,3.0,130000.0
+Ariana,Villa,230.0,4.0,4.0,355000.0
+Tunis,Villa,422.0,2.0,7.0,1450000.0
+Tunis,Villa,200.0,3.0,6.0,220000.0
+Nabeul,Villa,250.0,2.0,4.0,130000.0
+Sousse,Villa,150.0,2.0,5.0,130000.0
+Ariana,Villa,542.0,4.0,4.0,130000.0
+Médenine,Villa,375.0,2.0,5.0,130000.0
+Ben Arous,Villa,146.0,2.0,5.0,330000.0
+Ben Arous,Villa,100.0,2.0,6.0,300000.0
+Tunis,Villa,480.0,3.0,5.0,1100000.0
+Sfax,Villa,670.0,4.0,4.0,130000.0
+Sousse,Villa,300.0,1.0,3.0,130000.0
+Nabeul,Appartement,133.0,2.0,3.0,130000.0
+Nabeul,Villa,170.0,1.0,3.0,130000.0
+Bizerte,Villa,550.0,3.0,5.0,130000.0
+Tunis,Villa,580.0,4.0,8.0,880000.0
+Ben Arous,Villa,341.0,2.0,2.0,130000.0
+Tozeur,Villa,800.0,2.0,4.0,800000.0
+Ariana,Villa,190.0,2.0,3.0,590000.0
+Nabeul,Villa,72.0,2.0,1.0,130000.0
+Tunis,Villa,278.0,1.0,3.0,1100000.0
+Ariana,Villa,500.0,3.0,4.0,1350000.0
+Ariana,Villa,350.0,2.0,4.0,2300000.0
+La Manouba,Appartement,105.0,1.0,2.0,130000.0
+Ben Arous,Villa,381.0,1.0,1.0,130000.0
+Ben Arous,Villa,213.0,1.0,3.0,130000.0
+Ariana,Villa,646.0,2.0,5.0,1500000.0
+Nabeul,Villa,500.0,2.0,4.0,130000.0
+Bizerte,Villa,333.0,1.0,4.0,130000.0
+Ariana,Villa,214.0,1.0,1.0,165000.0
+Ben Arous,Villa,270.0,4.0,6.0,130000.0
+Ben Arous,Villa,204.0,3.0,6.0,350000.0
+Sfax,Appartement,100.0,1.0,2.0,149000.0
+Ben Arous,Villa,326.0,2.0,5.0,130000.0
+Kairouan,Villa,392.0,3.0,3.0,620000.0
+Nabeul,Villa,300.0,3.0,4.0,130000.0
+Tunis,Villa,246.0,2.0,6.0,130000.0
+Nabeul,Appartement,193.0,1.0,4.0,250000.0
+Kairouan,Villa,222.0,1.0,4.0,130000.0
+Nabeul,Villa,500.0,4.0,4.0,130000.0
+Sousse,Villa,265.0,5.0,6.0,920000.0
+Nabeul,Villa,300.0,4.0,3.0,130000.0
+Ben Arous,Villa,400.0,2.0,3.0,600000.0
+Tunis,Appartement,210.0,2.0,3.0,600000.0
+Sfax,Appartement,339.0,1.0,3.0,320000.0
+Tunis,Villa,110.0,1.0,2.0,130000.0
+Tunis,Villa,126.0,1.0,1.0,250000.0
+Nabeul,Villa,275.0,4.0,2.0,820000.0
+Ben Arous,Villa,350.0,2.0,3.0,130000.0
+Nabeul,Villa,300.0,2.0,3.0,130000.0
+Ben Arous,Villa,248.0,2.0,5.0,130000.0
+Nabeul,Villa,250.0,2.0,3.0,750000.0
+Ariana,Villa,436.0,1.0,3.0,350000.0
+Tunis,Villa,412.0,3.0,4.0,2300000.0
+La Manouba,Villa,200.0,1.0,3.0,175000.0
+Tunis,Villa,1074.0,5.0,6.0,1600000.0
+Tunis,Appartement,380.0,2.0,4.0,450000.0
+Nabeul,Villa,177.0,2.0,5.0,130000.0
+Tunis,Villa,340.0,1.0,1.0,130000.0
+Sousse,Villa,380.0,2.0,6.0,850000.0
+Tunis,Villa,475.0,2.0,4.0,700000.0
+Nabeul,Appartement,555.0,1.0,3.0,2300000.0
+Nabeul,Villa,306.0,4.0,3.0,130000.0
+Nabeul,Villa,100.0,2.0,2.0,130000.0
+Nabeul,Villa,900.0,4.0,6.0,2100000.0
+Nabeul,Appartement,200.0,2.0,2.0,350000.0
+Tunis,Villa,1100.0,6.0,5.0,2300000.0
+Jendouba,Villa,350.0,1.0,4.0,960000.0
+Ariana,Villa,400.0,2.0,4.0,860000.0
+Nabeul,Villa,350.0,2.0,4.0,130000.0
+Monastir,Appartement,160.0,2.0,3.0,280000.0
+Tunis,Villa,228.0,3.0,4.0,600000.0
+Tunis,Appartement,430.0,3.0,5.0,880000.0
+Tunis,Appartement,105.0,2.0,2.0,650000.0
+Tunis,Villa,650.0,2.0,5.0,850000.0
+Sfax,Villa,350.0,1.0,4.0,360000.0
+La Manouba,Villa,499.0,1.0,4.0,130000.0
+Ariana,Villa,150.0,1.0,4.0,130000.0
+Ben Arous,Villa,600.0,2.0,4.0,950000.0
+Gabès,Villa,116.0,1.0,2.0,130000.0
+Ariana,Villa,103.0,1.0,3.0,195000.0
+Sousse,Villa,237.0,1.0,2.0,130000.0
+Sfax,Villa,400.0,2.0,4.0,530000.0
+Tunis,Villa,235.0,3.0,4.0,900000.0
+Sousse,Villa,492.0,3.0,3.0,900000.0
+Ariana,Villa,750.0,4.0,5.0,1100000.0
+Ben Arous,Villa,550.0,3.0,6.0,1200000.0
+Médenine,Villa,395.0,2.0,3.0,130000.0
+Médenine,Villa,422.0,1.0,3.0,130000.0
+La Manouba,Villa,400.0,3.0,5.0,130000.0
+Sousse,Villa,387.0,2.0,4.0,650000.0
+Le Kef,Villa,235.0,2.0,3.0,130000.0
+Ben Arous,Appartement,90.0,1.0,2.0,130000.0
+Nabeul,Villa,148.0,2.0,4.0,130000.0
+Le Kef,Villa,264.0,1.0,4.0,155000.0
+Ariana,Villa,240.0,1.0,3.0,130000.0
+Monastir,Villa,1020.0,5.0,8.0,130000.0
+Tunis,Villa,165.0,2.0,4.0,130000.0
+Ben Arous,Appartement,230.0,2.0,4.0,130000.0
+Tunis,Villa,760.0,4.0,4.0,130000.0
+Sfax,Villa,820.0,1.0,4.0,549999.0
+Bizerte,Villa,243.0,2.0,2.0,350000.0
+Tunis,Villa,888.0,3.0,7.0,130000.0
+Sousse,Villa,252.0,2.0,3.0,130000.0
+Sousse,Villa,580.0,1.0,2.0,850000.0
+Monastir,Villa,750.0,2.0,5.0,2300000.0
+Sousse,Villa,525.0,2.0,4.0,1350000.0
+Sousse,Villa,483.0,4.0,3.0,1700000.0
+Sousse,Villa,777.0,2.0,4.0,2300000.0
+La Manouba,Villa,542.0,2.0,4.0,130000.0
+Ben Arous,Villa,110.0,1.0,2.0,130000.0
+Ariana,Villa,542.0,1.0,3.0,130000.0
+Nabeul,Villa,170.0,1.0,3.0,180000.0
+Gabès,Villa,506.0,1.0,3.0,250000.0
+La Manouba,Villa,500.0,3.0,4.0,130000.0
+Tunis,Villa,454.0,2.0,4.0,1080000.0
+Ariana,Villa,740.0,1.0,3.0,130000.0
+Ariana,Villa,500.0,3.0,5.0,1300000.0
+Tunis,Villa,114.0,1.0,2.0,325000.0
+Ariana,Villa,350.0,2.0,3.0,299999.0
+Ben Arous,Villa,340.0,2.0,3.0,130000.0
+Nabeul,Villa,134.0,2.0,4.0,150000.0
+Sousse,Villa,385.0,3.0,6.0,900000.0
+Kairouan,Villa,214.0,1.0,3.0,350000.0
+Sousse,Appartement,297.0,1.0,4.0,424000.0
+Nabeul,Villa,900.0,4.0,6.0,2000000.0
+Sousse,Villa,350.0,2.0,4.0,650000.0
+Ben Arous,Villa,100.0,1.0,2.0,165000.0
+Tunis,Villa,299.0,2.0,5.0,520000.0
+Zaghouan,Villa,170.0,2.0,5.0,390000.0
+Zaghouan,Villa,150.0,1.0,3.0,220000.0
+Ariana,Villa,500.0,5.0,4.0,1150000.0
+Tunis,Villa,142.0,2.0,3.0,130000.0
+Sousse,Villa,378.0,2.0,5.0,130000.0
+La Manouba,Villa,134.0,1.0,5.0,160000.0
+Ben Arous,Villa,700.0,3.0,5.0,1600000.0
+Tunis,Appartement,100.0,2.0,1.0,250000.0
+La Manouba,Villa,500.0,2.0,3.0,520000.0
+Sousse,Villa,500.0,3.0,4.0,1600000.0
+Ben Arous,Appartement,100.0,2.0,4.0,155000.0
+Nabeul,Villa,189.0,2.0,3.0,260000.0
+Médenine,Villa,253.0,2.0,4.0,240000.0
+Ariana,Villa,100.0,2.0,3.0,130000.0
+La Manouba,Villa,1000.0,2.0,4.0,580000.0
+Sousse,Villa,155.0,1.0,3.0,350000.0
+Sousse,Villa,184.0,2.0,4.0,130000.0
+Tunis,Villa,563.0,2.0,4.0,1300000.0
+Tunis,Villa,622.0,4.0,8.0,1450000.0
+Sousse,Villa,106.0,2.0,4.0,298000.0
+Ariana,Villa,133.0,2.0,3.0,130000.0
+Ariana,Villa,750.0,1.0,4.0,1300000.0
+Ben Arous,Villa,210.0,2.0,3.0,400000.0
+Ariana,Villa,250.0,1.0,2.0,285000.0
+Tunis,Villa,425.0,3.0,6.0,1400000.0
+Tunis,Villa,205.0,2.0,3.0,600000.0
+La Manouba,Villa,150.0,1.0,4.0,300000.0
+Mahdia,Villa,246.0,2.0,6.0,550000.0
+Tunis,Villa,205.0,2.0,5.0,130000.0
+Tunis,Appartement,125.0,1.0,2.0,375000.0
+Nabeul,Villa,350.0,2.0,3.0,750000.0
+Sousse,Villa,500.0,1.0,3.0,130000.0
+Ariana,Villa,370.0,2.0,3.0,130000.0
+Nabeul,Villa,280.0,2.0,5.0,130000.0
+Nabeul,Villa,850.0,1.0,3.0,900000.0
+Ben Arous,Villa,566.0,2.0,3.0,130000.0
+Nabeul,Appartement,420.0,1.0,2.0,330000.0
+Ariana,Villa,520.0,1.0,4.0,1111111.0
+Sfax,Appartement,1000.0,1.0,4.0,130000.0
+Jendouba,Villa,92.0,1.0,3.0,130000.0
+Sousse,Villa,200.0,2.0,7.0,430000.0
+La Manouba,Villa,103.0,2.0,6.0,200000.0
+Tunis,Villa,350.0,3.0,4.0,200000.0
+Nabeul,Villa,200.0,5.0,4.0,590000.0
+Sousse,Villa,150.0,1.0,2.0,130000.0
+Sidi Bouzid,Villa,300.0,1.0,3.0,130000.0
+La Manouba,Villa,252.0,2.0,3.0,285000.0
+Nabeul,Villa,405.0,2.0,5.0,850000.0
+Nabeul,Villa,500.0,3.0,4.0,1200000.0
+Ariana,Villa,270.0,4.0,7.0,450000.0
+Sousse,Villa,246.0,1.0,3.0,172000.0
+Ben Arous,Villa,140.0,1.0,2.0,280000.0
+Ben Arous,Villa,580.0,1.0,3.0,130000.0
+Tunis,Appartement,444.0,2.0,3.0,380000.0
+Sousse,Villa,492.0,2.0,4.0,850000.0
+Sousse,Villa,250.0,2.0,4.0,980000.0
+Ariana,Villa,834.0,4.0,6.0,2300000.0
+Tunis,Villa,350.0,2.0,4.0,1800000.0
+Nabeul,Villa,500.0,1.0,4.0,130000.0
+Ben Arous,Villa,350.0,2.0,4.0,580000.0
+La Manouba,Villa,400.0,4.0,6.0,130000.0
+Ben Arous,Villa,200.0,2.0,4.0,750000.0
+Nabeul,Villa,240.0,3.0,4.0,630000.0
+Nabeul,Villa,218.0,2.0,4.0,460000.0
+Nabeul,Villa,143.0,2.0,3.0,160000.0
+Tunis,Villa,470.0,2.0,8.0,520000.0
+Gafsa,Villa,444.0,1.0,4.0,500000.0
+Ariana,Villa,400.0,1.0,5.0,130000.0
+Ariana,Villa,850.0,6.0,6.0,2000000.0
+Tunis,Appartement,200.0,2.0,3.0,900000.0
+Tunis,Villa,270.0,2.0,6.0,1160000.0
+Tunis,Villa,400.0,1.0,2.0,800000.0
+La Manouba,Villa,140.0,2.0,3.0,210000.0
+Sousse,Villa,180.0,1.0,3.0,230000.0
+Sousse,Villa,150.0,2.0,4.0,150000.0
+Sousse,Appartement,120.0,2.0,3.0,500000.0
+Tunis,Villa,450.0,2.0,6.0,750000.0
+Sousse,Villa,155.0,2.0,2.0,225000.0
+Sousse,Villa,446.0,2.0,2.0,560000.0
+Sousse,Villa,210.0,1.0,1.0,130000.0
+Sousse,Appartement,320.0,2.0,3.0,130000.0
+Ben Arous,Villa,305.0,2.0,6.0,450000.0
+Tunis,Villa,540.0,4.0,8.0,130000.0
+Sousse,Appartement,400.0,1.0,3.0,300000.0
+Ben Arous,Villa,500.0,3.0,5.0,750000.0
+Ariana,Villa,350.0,2.0,4.0,600000.0
+Nabeul,Villa,300.0,2.0,4.0,130000.0
+Sfax,Villa,220.0,2.0,5.0,130000.0
+Nabeul,Villa,350.0,2.0,4.0,330000.0
+Bizerte,Villa,120.0,2.0,4.0,250000.0
+Nabeul,Villa,350.0,2.0,3.0,850000.0
+Nabeul,Villa,460.0,3.0,4.0,130000.0
+Ben Arous,Villa,90.0,1.0,2.0,130000.0
+Sousse,Appartement,360.0,3.0,5.0,520000.0
+Sousse,Villa,120.0,1.0,3.0,130000.0
+Tunis,Villa,255.0,4.0,6.0,250000.0
+Bizerte,Villa,162.0,2.0,4.0,330000.0
+Nabeul,Villa,324.0,2.0,3.0,1050000.0
+Tunis,Villa,415.0,2.0,3.0,590000.0
+Ben Arous,Villa,494.0,2.0,4.0,130000.0
+Nabeul,Villa,143.0,2.0,3.0,130000.0
+Ben Arous,Villa,500.0,2.0,6.0,800000.0
+Tunis,Villa,900.0,2.0,4.0,2300000.0
+Bizerte,Appartement,234.0,2.0,4.0,150000.0
+Ben Arous,Villa,100.0,1.0,1.0,130000.0
+La Manouba,Villa,350.0,1.0,4.0,330000.0
+La Manouba,Villa,340.0,5.0,8.0,130000.0
+Sfax,Villa,800.0,2.0,7.0,130000.0
+Médenine,Villa,200.0,4.0,3.0,130000.0
+Médenine,Villa,270.0,2.0,4.0,130000.0
+Ariana,Villa,350.0,2.0,3.0,130000.0
+Sousse,Villa,425.0,2.0,3.0,800000.0
+Tunis,Appartement,152.0,1.0,3.0,220000.0
+Ben Arous,Villa,273.0,2.0,4.0,580000.0
+Sousse,Villa,360.0,1.0,2.0,330000.0
+Zaghouan,Villa,350.0,1.0,4.0,130000.0
+Nabeul,Villa,269.0,2.0,3.0,2300000.0
+Nabeul,Appartement,95.0,1.0,2.0,245000.0
+Nabeul,Villa,220.0,1.0,1.0,280000.0
+Nabeul,Villa,189.0,1.0,3.0,260000.0
+Sidi Bouzid,Villa,427.0,1.0,3.0,600000.0
+Nabeul,Villa,204.0,2.0,3.0,670000.0
+Kairouan,Villa,280.0,1.0,3.0,130000.0
+La Manouba,Villa,264.0,1.0,4.0,350000.0
+Médenine,Villa,350.0,2.0,3.0,130000.0
+Tunis,Villa,580.0,3.0,6.0,1800000.0
+Sousse,Villa,250.0,2.0,3.0,320000.0
+Sousse,Villa,350.0,5.0,8.0,950000.0
+Nabeul,Villa,350.0,3.0,6.0,600000.0
+Ben Arous,Villa,420.0,2.0,4.0,130000.0
+Nabeul,Villa,496.0,4.0,6.0,130000.0
+Nabeul,Villa,345.0,3.0,2.0,130000.0
+Nabeul,Villa,150.0,2.0,2.0,130000.0
+Nabeul,Appartement,100.0,1.0,2.0,240000.0
+Nabeul,Villa,345.0,3.0,4.0,845000.0
+Tunis,Villa,440.0,3.0,8.0,900000.0
+Ariana,Villa,370.0,4.0,5.0,1400000.0
+Tunis,Villa,750.0,5.0,5.0,130000.0
+Ariana,Villa,370.0,3.0,7.0,900000.0
+Bizerte,Villa,300.0,3.0,4.0,130000.0
+Ariana,Appartement,120.0,1.0,4.0,130000.0
+Tunis,Villa,350.0,2.0,4.0,280000.0
+Sousse,Villa,175.0,1.0,3.0,130000.0
+Ben Arous,Villa,100.0,2.0,6.0,370000.0
+Nabeul,Villa,200.0,1.0,2.0,320000.0
+Nabeul,Villa,278.0,3.0,5.0,130000.0
+La Manouba,Appartement,153.0,1.0,3.0,435000.0
+Ariana,Appartement,185.0,1.0,4.0,460000.0
+Ben Arous,Villa,126.0,2.0,3.0,130000.0
+Ariana,Appartement,100.0,1.0,2.0,150000.0
+Nabeul,Villa,605.0,5.0,5.0,690000.0
+Ben Arous,Villa,460.0,2.0,4.0,720000.0
+Sfax,Villa,543.0,1.0,4.0,130000.0
+Tunis,Appartement,200.0,2.0,3.0,480000.0
+Ben Arous,Villa,485.0,2.0,3.0,280000.0
+Ariana,Villa,270.0,4.0,6.0,570000.0
+Ben Arous,Villa,370.0,2.0,4.0,379999.0
+Ariana,Villa,640.0,5.0,4.0,130000.0
+Sfax,Villa,850.0,2.0,4.0,350000.0
+Ariana,Appartement,150.0,2.0,3.0,360000.0
+Ariana,Appartement,177.0,2.0,4.0,400000.0
+Ariana,Appartement,150.0,3.0,3.0,400000.0
+Nabeul,Villa,190.0,5.0,5.0,220000.0
+Ariana,Appartement,100.0,1.0,3.0,220000.0
+Ariana,Appartement,200.0,1.0,2.0,130000.0
+Tunis,Appartement,110.0,1.0,4.0,176000.0
+Ariana,Appartement,110.0,1.0,4.0,315000.0
+Tunis,Appartement,110.0,1.0,4.0,130000.0
+Tunis,Appartement,80.0,1.0,2.0,325000.0
+Tunis,Appartement,100.0,2.0,2.0,255000.0
+Tunis,Appartement,113.0,2.0,2.0,330000.0
+Ariana,Appartement,100.0,1.0,4.0,160000.0
+Tunis,Appartement,57.0,1.0,1.0,165000.0
+Tunis,Appartement,50.0,1.0,1.0,130000.0
+Ben Arous,Appartement,100.0,1.0,2.0,180000.0
+Tunis,Appartement,110.0,1.0,3.0,250000.0
+Tunis,Appartement,110.0,1.0,2.0,130000.0
+Tunis,Appartement,114.0,2.0,2.0,330000.0
+Tunis,Appartement,140.0,2.0,3.0,315000.0
+Tunis,Appartement,140.0,2.0,3.0,360000.0
+Tunis,Appartement,61.0,1.0,1.0,130000.0
+Ariana,Appartement,110.0,2.0,3.0,130000.0
+Ben Arous,Appartement,100.0,1.0,2.0,230000.0
+Tunis,Appartement,40.0,1.0,1.0,169000.0
+Ariana,Appartement,65.0,1.0,1.0,199000.0
+Tunis,Appartement,118.0,1.0,2.0,327000.0
+Tunis,Appartement,59.0,1.0,1.0,176000.0
+Tunis,Appartement,80.0,1.0,2.0,305000.0
+Nabeul,Appartement,230.0,4.0,4.0,930000.0
+Ben Arous,Appartement,77.0,1.0,2.0,190000.0
+Ben Arous,Appartement,75.0,1.0,2.0,130000.0
+Ben Arous,Appartement,108.0,2.0,3.0,290000.0
+Ben Arous,Appartement,80.0,1.0,2.0,200000.0
+Ben Arous,Appartement,70.0,1.0,2.0,190000.0
+Tunis,Appartement,110.0,1.0,2.0,200000.0
+Tunis,Appartement,56.0,1.0,1.0,190000.0
+Tunis,Appartement,48.0,1.0,1.0,167000.0
+Tunis,Appartement,120.0,1.0,3.0,255000.0
+Tunis,Appartement,54.0,1.0,1.0,185000.0
+Tunis,Appartement,172.0,2.0,4.0,340000.0
+Tunis,Appartement,108.0,1.0,2.0,250000.0
+Tunis,Appartement,162.0,2.0,4.0,358000.0
+Nabeul,Appartement,300.0,2.0,2.0,750000.0
+Sousse,Appartement,110.0,1.0,1.0,130000.0
+Ariana,Appartement,87.0,1.0,1.0,290000.0
+Sousse,Appartement,107.0,1.0,3.0,210000.0
+Nabeul,Appartement,53.0,1.0,1.0,130000.0
+Ariana,Appartement,162.0,2.0,3.0,495000.0
+Ariana,Appartement,150.0,3.0,4.0,450000.0
+Ariana,Appartement,175.0,2.0,3.0,575000.0
+Tunis,Appartement,95.0,1.0,2.0,240000.0
+Sousse,Appartement,100.0,1.0,2.0,360000.0
+Tunis,Appartement,145.0,1.0,3.0,265000.0
+Ariana,Villa,240.0,1.0,4.0,130000.0
+Ariana,Appartement,139.0,2.0,3.0,130000.0
+Nabeul,Appartement,150.0,2.0,1.0,650000.0
+Ben Arous,Appartement,110.0,1.0,3.0,220000.0
+Ben Arous,Appartement,80.0,1.0,1.0,130000.0
+Ben Arous,Appartement,130.0,2.0,1.0,360000.0
+Ben Arous,Appartement,77.0,1.0,2.0,130000.0
+Monastir,Appartement,75.0,1.0,2.0,150000.0
+Mahdia,Appartement,110.0,1.0,4.0,130000.0
+Monastir,Appartement,110.0,1.0,2.0,170000.0
+Monastir,Appartement,64.0,1.0,1.0,130000.0
+Sousse,Appartement,61.5,1.0,1.0,255000.0
+Sousse,Appartement,110.0,1.0,2.0,280000.0
+Ben Arous,Appartement,115.0,1.0,2.0,170000.0
+Tunis,Appartement,76.0,1.0,1.0,185000.0
+Ben Arous,Appartement,121.0,2.0,3.0,270000.0
+Ariana,Appartement,120.0,2.0,3.0,180000.0
+Ariana,Appartement,120.0,2.0,2.0,334998.0
+Tunis,Appartement,90.0,1.0,3.0,234000.0
+Tunis,Appartement,110.0,2.0,2.0,130000.0
+Bizerte,Appartement,89.0,1.0,2.0,200000.0
+Ariana,Appartement,117.0,1.0,2.0,285000.0
+Tunis,Appartement,100.0,1.0,2.0,240000.0
+Bizerte,Appartement,150.0,2.0,3.0,130000.0
+Nabeul,Appartement,77.0,1.0,1.0,320000.0
+Ben Arous,Appartement,58.0,1.0,2.0,130000.0
+Ariana,Appartement,138.0,2.0,3.0,330000.0
+Ariana,Appartement,115.0,2.0,3.0,290000.0
+Ariana,Appartement,50.0,1.0,1.0,130000.0
+Ariana,Appartement,40.0,1.0,1.0,165000.0
+Ariana,Appartement,157.0,2.0,4.0,400000.0
+Nabeul,Appartement,155.0,2.0,3.0,530000.0
+Nabeul,Appartement,59.0,1.0,1.0,130000.0
+Ben Arous,Appartement,140.0,2.0,3.0,130000.0
+Sfax,Appartement,88.0,1.0,3.0,130000.0
+Tunis,Appartement,112.0,2.0,2.0,130000.0
+Tunis,Appartement,60.0,1.0,1.0,205000.0
+Tunis,Appartement,85.0,1.0,1.0,130000.0
+Tunis,Appartement,165.0,2.0,3.0,368000.0
+Tunis,Appartement,200.0,2.0,4.0,460000.0
+Tunis,Appartement,68.0,1.0,1.0,157000.0
+Tunis,Appartement,142.0,2.0,2.0,130000.0
+Ben Arous,Appartement,110.0,1.0,4.0,159000.0
+Tunis,Appartement,118.0,1.0,2.0,290000.0
+Tunis,Appartement,195.0,2.0,3.0,570000.0
+Tunis,Appartement,185.0,2.0,4.0,365000.0
+Tunis,Appartement,72.0,1.0,1.0,320000.0
+Tunis,Appartement,154.0,2.0,2.0,680000.0
+Tunis,Appartement,64.9,1.0,1.0,227000.0
+Monastir,Villa,179.0,3.0,3.0,218000.0
+Nabeul,Appartement,135.0,2.0,3.0,370000.0
+Nabeul,Appartement,65.0,1.0,1.0,250000.0
+Nabeul,Appartement,150.0,1.0,3.0,530000.0
+Tunis,Appartement,130.0,1.0,3.0,285000.0
+Sousse,Appartement,78.0,1.0,2.0,130000.0
+Tunis,Appartement,129.0,2.0,2.0,130000.0
+Tunis,Appartement,114.0,2.0,2.0,380000.0
+Ariana,Appartement,175.0,2.0,3.0,130000.0
+Ariana,Appartement,130.0,1.0,3.0,365000.0
+Ariana,Appartement,71.0,1.0,1.0,130000.0
+Ariana,Appartement,146.0,1.0,3.0,130000.0
+Sousse,Appartement,85.0,1.0,2.0,145000.0
+Sousse,Appartement,75.0,1.0,1.0,270000.0
+Sousse,Appartement,82.0,1.0,2.0,385000.0
+Nabeul,Appartement,100.0,1.0,2.0,170000.0
+Tunis,Appartement,120.0,2.0,3.0,320000.0
+Ariana,Appartement,50.0,1.0,1.0,180000.0
+Nabeul,Appartement,65.0,1.0,1.0,265000.0
+Tunis,Appartement,110.0,1.0,3.0,550000.0
+Tunis,Villa,288.0,3.0,5.0,980000.0
+Tunis,Appartement,70.0,1.0,1.0,410000.0
+Ariana,Appartement,157.0,2.0,3.0,365000.0
+Ben Arous,Appartement,110.0,1.0,2.0,180000.0
+Ariana,Appartement,91.0,1.0,2.0,130000.0
+Ben Arous,Appartement,100.0,1.0,3.0,130000.0
+Ariana,Appartement,55.0,1.0,1.0,180000.0
+Tunis,Appartement,101.0,1.0,2.0,270000.0
+Nabeul,Appartement,100.0,1.0,1.0,140000.0
+Ariana,Appartement,114.0,1.0,2.0,295000.0
+Ariana,Appartement,75.0,1.0,2.0,130000.0
+Sousse,Appartement,100.0,2.0,2.0,130000.0
+Ben Arous,Appartement,176.0,3.0,3.0,350000.0
+Ariana,Appartement,84.0,1.0,1.0,320000.0
+Tunis,Appartement,125.0,1.0,3.0,270000.0
+Ben Arous,Appartement,85.0,1.0,3.0,165000.0
+Ariana,Appartement,110.0,1.0,4.0,290000.0
+Ariana,Appartement,53.0,1.0,1.0,140000.0
+Bizerte,Appartement,126.0,1.0,2.0,370000.0
+Tunis,Appartement,55.0,1.0,1.0,180000.0
+Ariana,Appartement,222.0,3.0,5.0,770000.0
+Nabeul,Appartement,122.0,1.0,2.0,384200.0
+Tunis,Appartement,60.0,1.0,1.0,165000.0
+Ben Arous,Appartement,65.0,1.0,1.0,130000.0
+Sousse,Appartement,60.0,1.0,1.0,130000.0
+Tunis,Appartement,53.0,1.0,1.0,165000.0
+Ben Arous,Appartement,79.0,1.0,2.0,135000.0
+Tunis,Appartement,90.4,1.0,2.0,130000.0
+Tunis,Appartement,140.0,2.0,3.0,320000.0
+Tunis,Appartement,53.0,1.0,2.0,145000.0
+Tunis,Appartement,185.0,2.0,3.0,440000.0
+Tunis,Appartement,145.0,2.0,3.0,280000.0
+La Manouba,Appartement,162.0,2.0,3.0,375000.0
+La Manouba,Appartement,103.0,1.0,2.0,225000.0
+Tunis,Appartement,90.0,1.0,2.0,245000.0
+Ariana,Appartement,120.0,2.0,2.0,130000.0
+Tunis,Appartement,109.0,1.0,2.0,215000.0
+Tunis,Appartement,109.0,1.0,2.0,210000.0
+Ariana,Appartement,120.0,2.0,2.0,175000.0
+Tunis,Appartement,97.0,1.0,2.0,215000.0
+Tunis,Appartement,150.0,2.0,4.0,408000.0
+Tunis,Appartement,147.6,2.0,3.0,370000.0
+Tunis,Appartement,64.0,1.0,1.0,205000.0
+Tunis,Appartement,150.0,1.0,3.0,350000.0
+Tunis,Appartement,182.0,1.0,3.0,445000.0
+Tunis,Appartement,98.0,1.0,3.0,270000.0
+Tunis,Appartement,132.0,2.0,3.0,320000.0
+Tunis,Appartement,140.0,1.0,3.0,130000.0
+Nabeul,Appartement,230.0,2.0,4.0,660000.0
+Tunis,Appartement,60.0,1.0,1.0,164999.0
+Sousse,Appartement,73.0,1.0,1.0,250000.0
+Sousse,Appartement,118.0,2.0,2.0,326000.0
+Sousse,Appartement,97.0,1.0,1.0,250000.0
+Tunis,Appartement,120.0,1.0,2.0,290000.0
+Tunis,Appartement,127.0,1.0,2.0,465000.0
+Tunis,Appartement,107.0,1.0,1.0,319000.0
+Sfax,Appartement,85.0,1.0,2.0,130000.0
+Tunis,Appartement,71.0,1.0,1.0,260000.0
+Tunis,Appartement,125.0,1.0,1.0,363000.0
+Ariana,Appartement,129.0,1.0,1.0,410000.0
+Tunis,Appartement,50.0,1.0,1.0,195000.0
+Tunis,Appartement,70.0,1.0,1.0,220000.0
+Tunis,Appartement,178.0,2.0,3.0,470000.0
+Tunis,Appartement,94.0,1.0,2.0,240000.0
+Ariana,Appartement,300.0,1.0,3.0,870000.0
+Tunis,Appartement,67.0,1.0,1.0,227000.0
+Tunis,Appartement,154.0,1.0,2.0,420000.0
+Tunis,Appartement,155.0,1.0,3.0,294998.0
+Ben Arous,Appartement,60.0,1.0,1.0,130000.0
+Tunis,Appartement,119.0,2.0,2.0,130000.0
+Ben Arous,Appartement,104.0,1.0,2.0,130000.0
+Ariana,Appartement,140.0,1.0,3.0,640000.0
+Ben Arous,Appartement,92.0,1.0,2.0,220000.0
+Ben Arous,Appartement,153.0,2.0,2.0,255000.0
+Ben Arous,Appartement,117.0,2.0,2.0,130000.0
+Tunis,Appartement,111.0,2.0,3.0,130000.0
+Ben Arous,Appartement,156.0,2.0,3.0,130000.0
+Monastir,Appartement,66.0,1.0,2.0,185000.0
+Monastir,Appartement,48.0,1.0,1.0,152000.0
+Monastir,Appartement,132.0,2.0,3.0,338000.0
+Tunis,Appartement,165.0,2.0,4.0,330000.0
+Tunis,Appartement,100.0,1.0,2.0,130000.0
+Tunis,Appartement,105.0,1.0,3.0,130000.0
+La Manouba,Appartement,125.0,2.0,3.0,230000.0
+Tunis,Appartement,130.0,2.0,3.0,130000.0
+Nabeul,Appartement,120.0,1.0,2.0,235000.0
+Tunis,Appartement,101.0,1.0,4.0,200000.0
+Ariana,Appartement,162.0,3.0,3.0,640000.0
+Ariana,Appartement,210.0,2.0,4.0,650000.0
+Ariana,Appartement,190.0,2.0,3.0,810000.0
+Ariana,Appartement,214.0,2.0,3.0,635000.0
+Ariana,Appartement,228.0,2.0,3.0,650000.0
+Ben Arous,Appartement,120.0,2.0,3.0,270000.0
+Ben Arous,Appartement,135.0,1.0,3.0,235000.0
+Ben Arous,Appartement,100.0,1.0,1.0,198000.0
+Tunis,Appartement,95.0,1.0,2.0,150000.0
+Ariana,Appartement,125.0,1.0,1.0,389000.0
+Ariana,Appartement,100.0,1.0,2.0,130000.0
+Tunis,Appartement,120.0,1.0,5.0,220000.0
+Tunis,Appartement,150.0,1.0,3.0,340000.0
+Tunis,Appartement,70.0,1.0,2.0,130000.0
+Tunis,Appartement,98.0,2.0,2.0,250000.0
+Tunis,Appartement,154.0,2.0,3.0,370000.0
+Tunis,Appartement,100.0,1.0,4.0,280000.0
+Ben Arous,Appartement,85.0,1.0,1.0,210000.0
+Nabeul,Appartement,75.0,1.0,1.0,130000.0
+Tunis,Appartement,138.0,2.0,3.0,280000.0
+Sousse,Appartement,163.0,1.0,2.0,310000.0
+Nabeul,Appartement,93.0,1.0,2.0,130000.0
+Tunis,Appartement,160.0,2.0,3.0,480000.0
+Tunis,Appartement,120.0,2.0,2.0,335000.0
+Ariana,Appartement,146.0,2.0,3.0,340000.0
+Ariana,Appartement,97.0,1.0,2.0,285000.0
+Tunis,Appartement,107.0,1.0,2.0,255000.0
+Tunis,Villa,800.0,5.0,6.0,130000.0
+Tunis,Appartement,127.0,1.0,2.0,400000.0
+Ariana,Villa,380.0,3.0,4.0,989999.0
+Ariana,Appartement,113.0,2.0,2.0,335000.0
+Tunis,Appartement,55.0,1.0,1.0,184997.0
+Nabeul,Appartement,100.0,1.0,2.0,220000.0
+Nabeul,Appartement,300.0,1.0,2.0,130000.0
+Nabeul,Appartement,68.0,1.0,1.0,277000.0
+Tunis,Appartement,80.0,1.0,2.0,250000.0
+Mahdia,Appartement,96.0,1.0,2.0,276000.0
+Nabeul,Appartement,74.0,1.0,1.0,270000.0
+Nabeul,Appartement,70.0,1.0,1.0,270000.0
+Ben Arous,Appartement,81.0,2.0,2.0,255000.0
+Ben Arous,Appartement,80.0,1.0,2.0,130000.0
+Nabeul,Appartement,97.0,1.0,2.0,400000.0
+Sfax,Appartement,116.0,2.0,3.0,250000.0
+Sousse,Appartement,63.0,1.0,1.0,130000.0
+Tunis,Appartement,80.0,1.0,2.0,130000.0
+Tunis,Appartement,110.0,1.0,4.0,215000.0
+Sousse,Appartement,97.0,1.0,3.0,420000.0
+Nabeul,Appartement,101.0,1.0,3.0,330000.0
+Tunis,Appartement,93.0,1.0,4.0,130000.0
+Ben Arous,Appartement,82.0,1.0,3.0,130000.0
+Tunis,Appartement,128.0,1.0,2.0,240000.0
+Ariana,Appartement,134.0,1.0,2.0,320000.0
+Nabeul,Appartement,98.0,2.0,1.0,400000.0
+Tunis,Appartement,109.0,2.0,2.0,724000.0
+Ariana,Appartement,60.0,1.0,1.0,190000.0
+Mahdia,Villa,83.0,1.0,2.0,130000.0
+Ariana,Appartement,40.0,1.0,1.0,185000.0
+Mahdia,Appartement,120.0,1.0,3.0,240000.0
+Tunis,Appartement,100.0,1.0,3.0,130000.0
+Sousse,Appartement,71.0,1.0,1.0,350000.0
+Ben Arous,Appartement,116.0,2.0,2.0,260000.0
+Ben Arous,Appartement,156.0,1.0,3.0,130000.0
+Tunis,Appartement,85.0,1.0,1.0,400000.0
+Ben Arous,Appartement,168.0,2.0,4.0,440000.0
+Ben Arous,Appartement,85.0,1.0,2.0,150000.0
+Ben Arous,Appartement,75.0,1.0,2.0,160000.0
+Ben Arous,Appartement,72.0,1.0,2.0,130000.0
+Sousse,Appartement,110.0,1.0,2.0,265000.0
+Sousse,Appartement,80.0,1.0,2.0,282000.0
+Ben Arous,Appartement,70.0,1.0,2.0,130000.0
+Nabeul,Appartement,114.0,1.0,2.0,400000.0
+Tunis,Appartement,55.0,1.0,1.0,179998.0
+Ariana,Appartement,73.0,1.0,1.0,200000.0
+Sousse,Villa,260.0,2.0,3.0,470000.0
+Tunis,Appartement,112.0,1.0,2.0,530000.0
+Ben Arous,Appartement,102.0,2.0,2.0,250000.0
+Sfax,Appartement,171.0,3.0,4.0,130000.0
+La Manouba,Appartement,112.0,1.0,3.0,225000.0
+Ben Arous,Appartement,59.0,1.0,1.0,130000.0
+Ben Arous,Appartement,115.0,2.0,3.0,170000.0
+Tunis,Appartement,103.0,2.0,2.0,400000.0
+Tunis,Appartement,116.0,1.0,2.0,280000.0
+Tunis,Appartement,132.5,1.0,2.0,550000.0
+Tunis,Appartement,209.0,1.0,1.0,430000.0
+Tunis,Appartement,120.0,1.0,2.0,370000.0
+Ariana,Appartement,169.0,1.0,1.0,480000.0
+Ariana,Appartement,183.0,1.0,3.0,130000.0
+Tunis,Appartement,103.0,1.0,2.0,572000.0
+Ariana,Appartement,129.0,1.0,4.0,495000.0
+Tunis,Appartement,172.0,1.0,3.0,750000.0
+Tunis,Appartement,100.5,1.0,2.0,558000.0
+Tunis,Appartement,289.0,1.0,3.0,130000.0
+Tunis,Appartement,87.0,1.0,1.0,330000.0
+Tunis,Appartement,90.0,2.0,3.0,280000.0
+Tunis,Appartement,73.0,1.0,2.0,210000.0
+Tunis,Appartement,172.0,1.0,2.0,750000.0
+Nabeul,Appartement,85.0,1.0,2.0,130000.0
+Tunis,Appartement,110.0,1.0,2.0,390000.0
+Tunis,Appartement,180.0,1.0,3.0,550000.0
+Tunis,Appartement,72.0,1.0,4.0,320000.0
+Ariana,Appartement,143.0,1.0,3.0,130000.0
+Ariana,Appartement,105.0,1.0,2.0,210000.0
+Tunis,Appartement,128.0,2.0,2.0,395000.0
+Ariana,Appartement,55.0,1.0,1.0,165000.0
+Nabeul,Villa,169.0,1.0,3.0,210000.0
+Ben Arous,Appartement,117.0,1.0,3.0,200000.0
+Ben Arous,Appartement,104.0,2.0,3.0,250000.0
+Ben Arous,Appartement,110.0,1.0,2.0,230000.0
+Sfax,Appartement,80.0,1.0,3.0,130000.0
+Tunis,Appartement,81.0,1.0,3.0,200000.0
+Tunis,Appartement,110.0,1.0,4.0,180000.0
+Ariana,Appartement,50.0,1.0,2.0,155000.0
+Ariana,Appartement,88.0,1.0,2.0,240000.0
+Ariana,Appartement,165.0,2.0,3.0,390000.0
+Ariana,Appartement,200.0,2.0,4.0,510000.0
+Sousse,Appartement,151.0,2.0,3.0,480000.0
+Nabeul,Appartement,90.0,1.0,2.0,165000.0
+Nabeul,Appartement,100.0,1.0,1.0,179998.0
+Nabeul,Appartement,95.0,1.0,1.0,140000.0
+Ariana,Appartement,130.0,1.0,3.0,240000.0
+Tunis,Appartement,207.0,2.0,3.0,330000.0
+Tunis,Appartement,110.0,1.0,4.0,240000.0
+Nabeul,Appartement,100.0,1.0,2.0,230000.0
+Sousse,Appartement,300.0,2.0,4.0,130000.0
+Ben Arous,Appartement,107.0,1.0,2.0,160000.0
+Tunis,Appartement,140.0,1.0,2.0,385000.0
+Sousse,Appartement,60.0,1.0,1.0,150000.0
+Sousse,Appartement,120.0,1.0,3.0,310000.0
+Ariana,Appartement,65.0,1.0,1.0,165000.0
+La Manouba,Appartement,101.0,1.0,3.0,220000.0
+Nabeul,Appartement,140.0,2.0,2.0,470000.0
+Tunis,Appartement,65.0,1.0,3.0,130000.0
+Ariana,Appartement,71.0,1.0,1.0,220000.0
+Tunis,Appartement,88.0,1.0,3.0,240000.0
+Sousse,Appartement,88.0,1.0,1.0,285000.0
+Sousse,Appartement,300.0,1.0,3.0,130000.0
+Ben Arous,Appartement,110.0,1.0,2.0,220000.0
+Ariana,Appartement,125.0,1.0,3.0,420000.0
+Nabeul,Appartement,70.0,1.0,1.0,260000.0
+Ben Arous,Appartement,135.0,1.0,3.0,240000.0
+Nabeul,Appartement,366.0,2.0,3.0,130000.0
+Sfax,Appartement,181.0,2.0,3.0,130000.0
+Nabeul,Appartement,137.0,1.0,1.0,350000.0
+Ben Arous,Appartement,125.0,2.0,3.0,260000.0
+Ben Arous,Appartement,98.0,2.0,2.0,205000.0
+Ben Arous,Appartement,78.0,1.0,2.0,135000.0
+Ariana,Appartement,136.0,2.0,3.0,130000.0
+Ben Arous,Appartement,122.0,2.0,2.0,230000.0
+Ben Arous,Appartement,100.0,2.0,2.0,150001.0
+Ariana,Appartement,147.0,2.0,3.0,540000.0
+Tunis,Appartement,110.0,1.0,1.0,255000.0
+Tunis,Appartement,131.0,2.0,3.0,486000.0
+Tunis,Appartement,63.0,1.0,1.0,340000.0
+Tunis,Appartement,198.0,2.0,2.0,710000.0
+Tunis,Appartement,260.0,2.0,4.0,1500000.0
+Sfax,Appartement,100.0,1.0,3.0,130000.0
+Mahdia,Appartement,116.84,2.0,2.0,450000.0
+Ariana,Villa,240.0,2.0,3.0,950000.0
+Nabeul,Appartement,104.0,1.0,2.0,362999.0
+Nabeul,Appartement,115.0,1.0,2.0,411000.0
+Nabeul,Appartement,163.0,2.0,3.0,490000.0
+Sousse,Appartement,410.0,2.0,5.0,650000.0
+Ariana,Appartement,190.0,1.0,2.0,450000.0
+Nabeul,Appartement,60.0,1.0,1.0,260000.0
+Ariana,Appartement,68.0,1.0,1.0,130000.0
+Tunis,Appartement,65.0,1.0,1.0,130000.0
+Ariana,Appartement,110.0,1.0,5.0,360000.0
+Tunis,Appartement,82.0,1.0,1.0,220000.0
+Tunis,Appartement,75.0,1.0,2.0,160000.0
+Nabeul,Appartement,70.0,1.0,4.0,259000.0
+Tunis,Appartement,43.0,1.0,1.0,250000.0
+Tunis,Appartement,127.0,2.0,3.0,525000.0
+Nabeul,Appartement,138.0,2.0,2.0,360000.0
+Ariana,Appartement,110.0,1.0,4.0,550000.0
+Tunis,Appartement,160.0,2.0,3.0,440000.0
+Ariana,Appartement,67.0,1.0,1.0,195000.0
+Ariana,Appartement,160.0,2.0,4.0,730000.0
+Tunis,Appartement,118.0,1.0,2.0,297000.0
+Bizerte,Appartement,104.0,2.0,4.0,174999.0
+Ben Arous,Appartement,85.0,1.0,2.0,135000.0
+Ariana,Appartement,110.0,2.0,3.0,450000.0
+Tunis,Appartement,130.0,2.0,2.0,390000.0
+Tunis,Appartement,90.0,1.0,2.0,480000.0
+Tunis,Appartement,150.0,2.0,3.0,390000.0
+Ariana,Appartement,114.0,1.0,2.0,440000.0
+Bizerte,Appartement,123.0,1.0,2.0,190000.0
+Bizerte,Appartement,100.0,1.0,2.0,170000.0
+Ariana,Appartement,104.0,1.0,3.0,155000.0
+Tunis,Appartement,174.43,1.0,3.0,130000.0
+Ben Arous,Appartement,80.0,1.0,3.0,130000.0
+Ben Arous,Appartement,115.0,1.0,4.0,135000.0
+Ariana,Appartement,143.0,2.0,2.0,395000.0
+Ariana,Appartement,210.0,2.0,4.0,130000.0
+Tunis,Appartement,127.0,2.0,3.0,130000.0
+Sousse,Appartement,120.0,2.0,3.0,390000.0
+Tunis,Appartement,132.0,1.0,3.0,320000.0
+Nabeul,Appartement,110.0,1.0,4.0,130000.0
+Nabeul,Appartement,110.0,1.0,1.0,130000.0
+Tunis,Appartement,138.0,1.0,1.0,290000.0
+Ben Arous,Appartement,70.0,1.0,2.0,200000.0
+Tunis,Appartement,99.0,1.0,2.0,338000.0
+Ben Arous,Appartement,180.0,2.0,3.0,130000.0
+Ben Arous,Appartement,110.0,1.0,1.0,130000.0
+Ben Arous,Appartement,113.0,1.0,2.0,130000.0
+Nabeul,Appartement,160.0,1.0,2.0,400000.0
+Tunis,Appartement,200.0,2.0,3.0,130000.0
+Ariana,Appartement,130.0,1.0,3.0,260000.0
+Ariana,Appartement,140.0,2.0,3.0,300000.0
+Ariana,Appartement,145.0,2.0,3.0,300000.0
+La Manouba,Appartement,78.0,1.0,2.0,130000.0
+Sousse,Appartement,138.0,2.0,3.0,130000.0
+Tunis,Appartement,175.0,2.0,3.0,650000.0
+Nabeul,Appartement,73.0,1.0,1.0,270100.0
+Tunis,Appartement,165.0,2.0,3.0,650000.0
+Tunis,Appartement,122.0,1.0,2.0,550000.0
+Nabeul,Appartement,148.0,1.0,2.0,199998.0
+La Manouba,Appartement,79.0,1.0,2.0,167000.0
+Tunis,Appartement,130.0,1.0,2.0,280000.0
+Tunis,Appartement,163.0,2.0,3.0,825000.0
+Ariana,Appartement,40.0,1.0,1.0,175000.0
+Tunis,Appartement,127.0,2.0,2.0,400000.0
+Sousse,Appartement,66.0,1.0,1.0,240000.0
+Nabeul,Appartement,112.0,1.0,2.0,380000.0
+Ariana,Appartement,50.0,1.0,1.0,225000.0
+Tunis,Appartement,126.0,1.0,3.0,340000.0
+Tunis,Appartement,103.0,1.0,2.0,360000.0
+Tunis,Appartement,110.0,1.0,2.0,340000.0
+Nabeul,Appartement,120.0,1.0,2.0,130000.0
+Tunis,Appartement,55.0,1.0,1.0,167000.0
+Tunis,Appartement,150.0,2.0,3.0,350000.0
+Ariana,Appartement,154.0,2.0,2.0,490000.0
+Nabeul,Appartement,69.0,1.0,1.0,260000.0
+Sfax,Appartement,122.0,2.0,3.0,170000.0
+Ariana,Appartement,110.0,1.0,3.0,360000.0
+Tunis,Appartement,64.0,1.0,1.0,240000.0
+Sousse,Appartement,67.0,1.0,1.0,250000.0
+Sousse,Appartement,100.0,1.0,2.0,280000.0
+Sousse,Appartement,100.0,1.0,2.0,300000.0
+Ariana,Appartement,80.0,1.0,3.0,130000.0
+Nabeul,Appartement,120.0,2.0,2.0,175000.0
+Bizerte,Appartement,45.0,1.0,2.0,138000.0
+Sousse,Appartement,130.0,1.0,2.0,270000.0
+Tunis,Appartement,170.0,2.0,4.0,295000.0
+La Manouba,Appartement,121.0,1.0,2.0,315000.0
+Tunis,Appartement,135.0,2.0,1.0,130000.0
+La Manouba,Appartement,87.0,1.0,2.0,180000.0
+Ariana,Appartement,120.0,1.0,3.0,325000.0
+Tunis,Appartement,55.0,1.0,2.0,165000.0
+Tunis,Appartement,109.56,2.0,2.0,425000.0
+Tunis,Appartement,62.0,1.0,1.0,216999.0
+Tunis,Appartement,118.0,2.0,3.0,290000.0
+Ariana,Appartement,153.0,2.0,1.0,130000.0
+Nabeul,Appartement,150.0,1.0,2.0,130000.0
+Tunis,Appartement,202.0,2.0,4.0,620000.0
+Tunis,Appartement,85.0,1.0,2.0,150000.0
+Tunis,Appartement,100.0,1.0,2.0,160000.0
+Nabeul,Appartement,110.0,2.0,2.0,315000.0
+Nabeul,Appartement,75.0,1.0,2.0,290000.0
+Nabeul,Appartement,120.0,2.0,2.0,465000.0
+Nabeul,Appartement,53.0,1.0,1.0,255000.0
+Nabeul,Appartement,116.0,1.0,1.0,375000.0
+Nabeul,Appartement,110.0,1.0,1.0,255000.0
+Nabeul,Appartement,64.0,1.0,3.0,272000.0
+Sousse,Appartement,142.0,1.0,2.0,460000.0
+Nabeul,Appartement,200.0,2.0,3.0,512000.0
+Ben Arous,Appartement,95.0,1.0,2.0,130000.0
+Tunis,Appartement,158.0,1.0,3.0,240000.0
+Ben Arous,Appartement,100.0,2.0,3.0,200000.0
+Tunis,Appartement,50.0,1.0,1.0,185000.0
+Ben Arous,Appartement,109.0,1.0,3.0,135000.0
+La Manouba,Appartement,57.2,1.0,1.0,175000.0
+Tunis,Appartement,100.0,2.0,2.0,150000.0
+Tunis,Appartement,90.0,1.0,3.0,235000.0
+Tunis,Villa,100.0,1.0,4.0,230000.0
+Nabeul,Appartement,135.0,2.0,2.0,360000.0
+La Manouba,Appartement,110.0,1.0,4.0,200000.0
+Monastir,Appartement,47.0,1.0,1.0,130000.0
+Monastir,Appartement,50.0,1.0,1.0,200000.0
+Nabeul,Appartement,85.0,1.0,1.0,130000.0
+Tunis,Appartement,145.5,2.0,4.0,235000.0
+Sousse,Appartement,100.0,1.0,2.0,335000.0
+Ariana,Appartement,232.0,2.0,4.0,660000.0
+Tunis,Appartement,110.0,1.0,2.0,150000.0
+Sousse,Appartement,110.0,1.0,2.0,200000.0
+Monastir,Appartement,110.0,1.0,2.0,130000.0
+Monastir,Appartement,94.0,1.0,2.0,218000.0
+Monastir,Appartement,90.0,1.0,2.0,130000.0
+Ariana,Appartement,143.0,1.0,3.0,260000.0
+Tunis,Appartement,80.0,2.0,1.0,245000.0
+Sousse,Appartement,95.0,2.0,2.0,500000.0
+Ariana,Appartement,120.0,2.0,2.0,165000.0
+Nabeul,Appartement,69.0,1.0,1.0,210000.0
+Nabeul,Appartement,110.0,1.0,4.0,260000.0
+Ariana,Appartement,90.0,1.0,2.0,380000.0
+Tunis,Villa,150.0,1.0,3.0,220000.0
+Ariana,Appartement,45.0,1.0,1.0,155000.0
+La Manouba,Appartement,100.0,1.0,2.0,200000.0
+Tunis,Appartement,85.0,1.0,2.0,170000.0
+Tunis,Appartement,157.0,2.0,3.0,680000.0
+Ben Arous,Appartement,114.0,2.0,2.0,130000.0
+Tunis,Appartement,182.0,2.0,3.0,130000.0
+Ben Arous,Appartement,115.0,1.0,3.0,175000.0
+Tunis,Appartement,45.0,1.0,2.0,130000.0
+Tunis,Appartement,100.0,2.0,3.0,130000.0
+Nabeul,Appartement,103.0,1.0,2.0,130000.0
+Sousse,Appartement,90.0,1.0,2.0,300000.0
+Sfax,Appartement,230.0,1.0,2.0,450000.0
+Sousse,Appartement,150.0,1.0,2.0,375000.0
+Sousse,Appartement,78.0,1.0,1.0,264003.0
+Tunis,Appartement,183.0,3.0,3.0,970000.0
+Sousse,Appartement,138.0,2.0,3.0,460000.0
+La Manouba,Appartement,84.0,1.0,2.0,157000.0
+Ariana,Appartement,106.0,1.0,3.0,132000.0
+Nabeul,Appartement,100.0,2.0,2.0,320000.0
+Tunis,Appartement,150.0,2.0,3.0,490000.0
+Ariana,Appartement,100.0,1.0,2.0,250000.0
+Ariana,Appartement,156.0,2.0,3.0,650000.0
+Tunis,Appartement,125.0,2.0,2.0,590000.0
+Tunis,Appartement,194.0,1.0,3.0,550000.0
+Sousse,Appartement,128.0,1.0,2.0,505600.0
+Sousse,Appartement,115.0,1.0,2.0,488750.0
+Ariana,Appartement,140.0,2.0,2.0,370000.0
+Ben Arous,Appartement,144.0,1.0,3.0,130000.0
+Tunis,Appartement,50.0,1.0,2.0,130000.0
+Ben Arous,Appartement,121.0,2.0,3.0,242000.0
+Nabeul,Appartement,74.0,1.0,1.0,212000.0
+Tunis,Appartement,110.0,1.0,3.0,200000.0
+Tunis,Appartement,65.0,1.0,1.0,227000.0
+Ariana,Appartement,111.0,2.0,3.0,345000.0
+Nabeul,Appartement,100.0,1.0,2.0,160000.0
+Tunis,Appartement,213.0,2.0,3.0,1000000.0
+Tunis,Appartement,121.0,1.0,1.0,275000.0
+Ariana,Appartement,72.0,1.0,1.0,200000.0
+Ariana,Appartement,100.0,2.0,3.0,130000.0
+Tunis,Appartement,400.0,2.0,4.0,800000.0
+Nabeul,Appartement,86.0,1.0,2.0,305000.0
+Nabeul,Appartement,65.0,1.0,1.0,130000.0
+Mahdia,Appartement,55.0,1.0,1.0,200000.0
+Mahdia,Appartement,101.0,1.0,2.0,202000.0
+Sousse,Appartement,90.0,1.0,2.0,130000.0
+Tunis,Appartement,60.0,1.0,2.0,163000.0
+La Manouba,Appartement,100.0,1.0,3.0,219000.0
+Tunis,Appartement,123.0,2.0,3.0,395000.0
+Sfax,Appartement,56.0,1.0,2.0,130000.0
+Tunis,Appartement,124.0,1.0,3.0,320000.0
+Ariana,Appartement,86.0,1.0,1.0,245000.0
+Ariana,Appartement,112.0,2.0,2.0,385000.0
+Monastir,Appartement,120.0,2.0,3.0,169000.0
+Tunis,Appartement,144.0,2.0,3.0,380000.0
+Nabeul,Appartement,70.0,1.0,1.0,235000.0
+Tunis,Appartement,154.0,1.0,2.0,680000.0
+Nabeul,Appartement,95.0,1.0,2.0,240000.0
+Ariana,Appartement,117.0,2.0,2.0,410000.0
+La Manouba,Appartement,110.0,1.0,2.0,165000.0
+Nabeul,Appartement,160.0,1.0,2.0,280000.0
+Tunis,Appartement,134.0,1.0,4.0,340000.0
+Ben Arous,Appartement,115.0,1.0,4.0,140000.0
+Tunis,Appartement,60.0,1.0,2.0,165000.0
+Tunis,Appartement,71.0,1.0,4.0,130000.0
+Nabeul,Appartement,115.0,1.0,2.0,130000.0
+Sousse,Appartement,124.0,2.0,2.0,340000.0
+Sousse,Appartement,150.0,1.0,3.0,290000.0
+Tunis,Appartement,120.0,1.0,3.0,130000.0
+Tunis,Appartement,41.0,1.0,1.0,169000.0
+Bizerte,Appartement,70.0,1.0,2.0,130000.0
+Sousse,Appartement,169.0,1.0,3.0,130000.0
+Ben Arous,Appartement,80.0,2.0,3.0,380000.0
+Ariana,Appartement,175.0,2.0,3.0,420000.0
+Nabeul,Appartement,74.0,1.0,1.0,165000.0
+Nabeul,Appartement,112.0,1.0,2.0,130000.0
+Tunis,Appartement,116.0,1.0,2.0,420000.0
+Tunis,Appartement,98.0,1.0,2.0,195000.0
+Tunis,Appartement,990.0,1.0,3.0,130000.0
+Tunis,Appartement,111.0,2.0,3.0,350000.0
+Tunis,Appartement,100.0,1.0,2.0,400000.0
+Sousse,Appartement,107.0,1.0,3.0,280000.0
+Sousse,Appartement,144.0,2.0,2.0,950000.0
+Sousse,Appartement,180.0,2.0,3.0,480000.0
+Ariana,Appartement,80.0,1.0,1.0,244000.0
+Ben Arous,Appartement,115.0,1.0,3.0,200000.0
+Tunis,Appartement,117.0,1.0,2.0,270000.0
+Tunis,Appartement,53.0,1.0,2.0,138000.0
+Tunis,Villa,142.0,2.0,3.0,330000.0
+Tunis,Appartement,95.0,1.0,2.0,210000.0
+Tunis,Appartement,115.0,2.0,2.0,620000.0
+Sousse,Appartement,124.0,1.0,2.0,534000.0
+Sfax,Appartement,155.0,2.0,3.0,130000.0
+Ben Arous,Appartement,88.0,1.0,1.0,130000.0
+Bizerte,Appartement,55.0,1.0,1.0,130000.0
+Ariana,Appartement,45.0,1.0,1.0,205000.0
+Tunis,Appartement,117.0,1.0,2.0,380000.0
+Nabeul,Appartement,148.0,1.0,3.0,200000.0
+Ariana,Appartement,120.0,1.0,3.0,130000.0
+Ariana,Appartement,114.0,2.0,2.0,270000.0
+Sousse,Appartement,85.0,1.0,2.0,350000.0
+Tunis,Appartement,120.0,1.0,2.0,400000.0
+Ariana,Appartement,59.0,1.0,1.0,273000.0
+Tunis,Appartement,137.0,1.0,3.0,345000.0
+Ariana,Appartement,65.0,1.0,1.0,241000.0
+Ben Arous,Appartement,104.0,1.0,3.0,250000.0
+Ben Arous,Appartement,104.0,1.0,3.0,235000.0
+Ariana,Appartement,120.0,1.0,2.0,450000.0
+Ariana,Appartement,107.0,1.0,3.0,160000.0
+Nabeul,Appartement,180.0,1.0,1.0,199999.0
+Tunis,Appartement,165.0,2.0,4.0,385000.0
+Tunis,Appartement,50.0,1.0,1.0,240000.0
+Nabeul,Appartement,116.0,1.0,2.0,388000.0
+Tunis,Appartement,66.0,1.0,4.0,235000.0
+Tunis,Appartement,154.0,2.0,3.0,360000.0
+Sousse,Appartement,85.0,1.0,2.0,330000.0
+Nabeul,Appartement,60.0,1.0,1.0,2300000.0
+Tunis,Appartement,48.0,1.0,1.0,171000.0
+Tunis,Appartement,138.0,2.0,3.0,240000.0
+Ben Arous,Appartement,58.0,1.0,1.0,130000.0
+Ben Arous,Appartement,110.0,1.0,3.0,265000.0
+Ben Arous,Appartement,59.0,1.0,1.0,160000.0
+Ben Arous,Appartement,68.0,1.0,2.0,130000.0
+Nabeul,Appartement,180.0,3.0,4.0,690000.0
+Ariana,Appartement,183.0,2.0,3.0,850000.0
+Nabeul,Appartement,77.0,1.0,2.0,190000.0
+Nabeul,Appartement,79.0,2.0,2.0,190000.0
+Sousse,Appartement,67.0,1.0,1.0,130000.0
+Nabeul,Appartement,147.0,2.0,3.0,300000.0
+Ariana,Appartement,140.0,1.0,2.0,420000.0
+Tunis,Appartement,77.0,1.0,3.0,130000.0
+Tunis,Appartement,118.0,1.0,2.0,130000.0
+Sousse,Appartement,168.0,1.0,2.0,420000.0
+Ben Arous,Appartement,63.0,1.0,1.0,130000.0
+Nabeul,Appartement,110.0,1.0,1.0,240000.0
+Ariana,Appartement,96.0,2.0,2.0,330000.0
+Ariana,Villa,210.0,3.0,5.0,630000.0
+Ben Arous,Appartement,110.0,2.0,3.0,200000.0
+Nabeul,Appartement,240.0,2.0,3.0,130000.0
+Tunis,Appartement,90.0,1.0,2.0,165000.0
+Sousse,Appartement,80.0,1.0,2.0,300000.0
+Tunis,Appartement,50.0,1.0,1.0,167000.0
+Sousse,Appartement,140.0,1.0,3.0,419999.0
+Sousse,Appartement,65.0,1.0,2.0,130000.0
+Ben Arous,Appartement,80.0,1.0,2.0,135000.0
+Ben Arous,Appartement,58.0,1.0,1.0,150000.0
+Ben Arous,Appartement,90.0,1.0,1.0,130000.0
+Nabeul,Appartement,86.0,1.0,2.0,130000.0
+Sousse,Appartement,164.0,1.0,5.0,260000.0
+Sousse,Appartement,102.0,2.0,2.0,750000.0
+Tunis,Appartement,127.0,1.0,2.0,130000.0
+Ariana,Appartement,80.0,1.0,2.0,230000.0
+Monastir,Appartement,200.0,2.0,5.0,200000.0
+Tunis,Appartement,120.0,1.0,2.0,130000.0
+Mahdia,Appartement,89.5,1.0,2.0,179000.0
+Bizerte,Appartement,120.0,1.0,2.0,130000.0
+Tunis,Appartement,138.0,2.0,3.0,290000.0
+Nabeul,Appartement,70.0,1.0,1.0,240000.0
+Nabeul,Appartement,68.0,1.0,1.0,247000.0
+Nabeul,Appartement,110.0,2.0,3.0,320000.0
+Nabeul,Appartement,64.0,1.0,1.0,231000.0
+Ariana,Appartement,59.0,1.0,1.0,190000.0
+Sousse,Appartement,58.0,1.0,1.0,170000.0
+Tunis,Appartement,60.0,1.0,1.0,210000.0
+Tunis,Appartement,195.0,2.0,2.0,570000.0
+Nabeul,Appartement,69.0,1.0,1.0,130000.0
+Monastir,Appartement,75.0,1.0,2.0,130000.0
+Tunis,Appartement,140.0,2.0,3.0,300000.0
+Ariana,Appartement,117.0,2.0,2.0,130000.0
+Tunis,Appartement,50.0,1.0,1.0,169000.0
+Tunis,Appartement,90.0,1.0,3.0,130000.0
+Tunis,Appartement,220.0,2.0,3.0,780000.0
+Ariana,Appartement,100.0,1.0,2.0,249999.0
+Ben Arous,Appartement,157.0,2.0,3.0,130000.0
+Nabeul,Appartement,122.0,1.0,1.0,355000.0
+Nabeul,Appartement,120.0,1.0,2.0,350000.0
+Monastir,Appartement,113.0,2.0,2.0,130000.0
+Tunis,Appartement,129.0,2.0,2.0,330000.0
+Ariana,Appartement,143.0,1.0,2.0,130000.0
+Tunis,Appartement,55.0,1.0,2.0,130000.0
+Tunis,Appartement,138.0,2.0,2.0,130000.0
+Ben Arous,Villa,350.0,3.0,8.0,525000.0
+Nabeul,Appartement,119.0,2.0,3.0,440300.0
+Tunis,Appartement,110.0,1.0,3.0,130000.0
+Sousse,Appartement,80.0,1.0,2.0,230000.0
+Tunis,Appartement,165.0,2.0,3.0,550000.0
+Nabeul,Villa,358.0,2.0,3.0,750000.0
+Ariana,Appartement,56.0,1.0,1.0,240000.0
+Ariana,Appartement,69.0,1.0,1.0,239000.0
+Ariana,Appartement,120.0,2.0,2.0,396000.0
+Tunis,Appartement,160.0,1.0,2.0,158000.0
+Tunis,Appartement,130.0,1.0,2.0,309999.0
+Tunis,Appartement,140.0,2.0,2.0,130000.0
+Ben Arous,Appartement,110.0,1.0,3.0,304000.0
+Ariana,Appartement,58.0,1.0,2.0,130000.0
+Tunis,Appartement,117.0,1.0,1.0,284998.0
+Ariana,Appartement,45.0,1.0,1.0,130000.0
+Sousse,Appartement,110.0,2.0,2.0,350000.0
+Sousse,Appartement,130.0,2.0,2.0,390000.0
+Sousse,Appartement,110.0,1.0,2.0,430000.0
+Sousse,Appartement,121.0,1.0,2.0,390000.0
+Ariana,Appartement,147.0,2.0,3.0,480000.0
+Ariana,Appartement,118.0,2.0,2.0,410000.0
+Sousse,Appartement,300.0,2.0,4.0,900000.0
+Sousse,Appartement,180.0,1.0,3.0,400000.0
+Bizerte,Appartement,100.0,1.0,2.0,135000.0
+Nabeul,Appartement,95.0,1.0,2.0,280000.0
+Tunis,Appartement,126.0,2.0,3.0,325000.0
+Sousse,Appartement,110.0,1.0,1.0,255000.0
+Nabeul,Appartement,116.0,1.0,2.0,130000.0
+Monastir,Appartement,95.0,1.0,2.0,130000.0
+Ariana,Appartement,70.0,1.0,2.0,130000.0
+Ariana,Appartement,89.0,1.0,2.0,200000.0
+Sousse,Appartement,159.75,2.0,3.0,130000.0
+Sfax,Appartement,69.0,1.0,1.0,130000.0
+Sousse,Appartement,100.0,2.0,2.0,350000.0
+Sousse,Appartement,100.0,1.0,2.0,200000.0
+Tunis,Appartement,142.0,2.0,3.0,330000.0
+Tunis,Appartement,117.0,2.0,2.0,330000.0
+La Manouba,Appartement,93.0,1.0,3.0,150000.0
+Sousse,Appartement,110.0,1.0,2.0,130000.0
+Tunis,Appartement,110.0,2.0,3.0,130000.0
+Ben Arous,Appartement,110.0,1.0,4.0,272000.0
+Bizerte,Appartement,108.0,1.0,2.0,130000.0
+Nabeul,Appartement,110.0,1.0,4.0,174998.0
+Ben Arous,Appartement,124.0,1.0,2.0,130000.0
+Bizerte,Appartement,90.0,1.0,3.0,210000.0
+Sousse,Appartement,190.0,2.0,2.0,130000.0
+Sousse,Appartement,128.0,1.0,3.0,130000.0
+Tunis,Appartement,100.0,2.0,2.0,130000.0
+Sousse,Appartement,168.0,1.0,2.0,480000.0
+Nabeul,Appartement,239.0,2.0,2.0,130000.0
+Tunis,Appartement,92.0,1.0,1.0,330000.0
+Ariana,Appartement,111.0,1.0,1.0,130000.0
+Tunis,Appartement,90.0,1.0,2.0,225000.0
+Tunis,Appartement,50.0,1.0,3.0,130000.0
+Ben Arous,Appartement,95.0,1.0,2.0,215000.0
+Ariana,Appartement,181.31,2.0,3.0,715708.0
+Ariana,Appartement,104.97,1.0,2.0,425128.0
+Ariana,Appartement,110.0,1.0,1.0,265611.0
+Ben Arous,Appartement,120.0,2.0,3.0,130000.0
+Ben Arous,Appartement,115.0,1.0,4.0,145000.0
+Sousse,Appartement,65.0,1.0,2.0,229000.0
+Sfax,Appartement,128.0,1.0,2.0,394998.0
+Tunis,Appartement,150.0,2.0,3.0,695000.0
+Tunis,Appartement,153.0,2.0,3.0,550000.0
+Ben Arous,Appartement,108.0,1.0,2.0,255000.0
+Tunis,Appartement,120.0,2.0,3.0,230000.0
+Nabeul,Appartement,110.0,2.0,2.0,130000.0
+Ariana,Appartement,120.0,2.0,3.0,250000.0
+Ben Arous,Appartement,75.0,1.0,2.0,175000.0
+Sousse,Appartement,80.0,1.0,2.0,145000.0
+Tunis,Appartement,138.0,1.0,1.0,727860.0
+Ariana,Appartement,96.0,1.0,2.0,140000.0
+Sousse,Appartement,80.0,1.0,2.0,270000.0
+Sousse,Appartement,82.0,1.0,1.0,130000.0
+Sousse,Appartement,98.0,1.0,3.0,130000.0
+Tunis,Appartement,220.0,3.0,4.0,587000.0
+Sfax,Villa,160.0,4.0,8.0,250000.0
+Tunis,Appartement,60.0,1.0,3.0,170000.0
+Ben Arous,Appartement,138.0,1.0,3.0,489000.0
+Tunis,Appartement,122.0,1.0,3.0,250000.0
+Ben Arous,Appartement,90.0,1.0,2.0,322000.0
+Sfax,Appartement,122.0,1.0,2.0,280000.0
+Ben Arous,Appartement,69.0,1.0,1.0,231000.0
+Tunis,Appartement,100.0,1.0,3.0,250000.0
+La Manouba,Appartement,93.0,1.0,3.0,130000.0
+Monastir,Appartement,77.0,1.0,1.0,220000.0
+Kasserine,Appartement,80.0,1.0,2.0,130000.0
+Tunis,Appartement,87.0,1.0,2.0,130000.0
+Ariana,Appartement,137.0,2.0,3.0,370000.0
+Ariana,Appartement,171.0,2.0,3.0,570000.0
+Tunis,Appartement,117.0,1.0,3.0,270000.0
+Ariana,Appartement,69.0,1.0,1.0,185000.0
+Tunis,Appartement,75.0,1.0,2.0,370000.0
+Sousse,Appartement,102.0,2.0,3.0,760000.0
+Tunis,Appartement,139.0,2.0,2.0,350000.0
+Ariana,Appartement,70.0,1.0,2.0,175000.0
+Tunis,Appartement,63.0,1.0,1.0,130000.0
+Sousse,Appartement,58.0,1.0,1.0,195000.0
+Ben Arous,Appartement,600.0,1.0,3.0,130000.0
+Monastir,Appartement,100.0,1.0,2.0,130000.0
+Ariana,Appartement,86.0,1.0,2.0,250000.0
+Monastir,Appartement,80.0,1.0,2.0,155000.0
+Tunis,Appartement,100.0,1.0,3.0,160000.0
+Ariana,Appartement,132.0,2.0,3.0,370000.0
+Sousse,Villa,200.0,1.0,1.0,275000.0
+Tunis,Appartement,53.0,1.0,1.0,240000.0
+Tunis,Appartement,90.0,1.0,2.0,195000.0
+Tunis,Appartement,45.0,1.0,1.0,130000.0
+Sousse,Appartement,120.0,1.0,2.0,335000.0
+Ariana,Appartement,250.0,2.0,4.0,1070000.0
+Ariana,Appartement,99.0,1.0,3.0,150000.0
+Ariana,Appartement,130.0,2.0,3.0,230000.0
+Ben Arous,Appartement,90.0,1.0,4.0,130000.0
+Tunis,Appartement,92.0,1.0,2.0,215000.0
+Tunis,Appartement,40.0,1.0,3.0,130000.0
+Sousse,Appartement,65.0,1.0,1.0,130000.0
+Tunis,Appartement,124.0,2.0,2.0,280000.0
+Ariana,Appartement,90.0,1.0,2.0,135000.0
+Tunis,Appartement,100.0,1.0,3.0,145000.0
+Ariana,Appartement,110.0,1.0,3.0,130000.0
+Tunis,Appartement,136.0,1.0,2.0,130000.0
+Ariana,Appartement,104.0,1.0,1.0,365000.0
+Sfax,Appartement,120.0,1.0,2.0,130000.0
+Ariana,Appartement,170.0,2.0,2.0,525000.0
+Jendouba,Appartement,100.0,1.0,2.0,135000.0
+Tunis,Appartement,118.0,1.0,2.0,355000.0
+Tunis,Appartement,75.0,1.0,3.0,230000.0
+Ariana,Appartement,121.0,1.0,2.0,450000.0
+Tunis,Appartement,110.0,1.0,2.0,158000.0
+Tunis,Appartement,140.0,2.0,3.0,742000.0
+Sousse,Appartement,120.0,1.0,2.0,331000.0
+Sousse,Appartement,122.0,1.0,2.0,384000.0
+Sousse,Appartement,108.0,1.0,2.0,360000.0
+Sousse,Appartement,116.0,1.0,2.0,303600.0
+Sousse,Appartement,140.0,2.0,3.0,359600.0
+Sousse,Appartement,140.0,2.0,2.0,300000.0
+Sousse,Appartement,64.0,1.0,1.0,205000.0
+Sousse,Appartement,112.0,2.0,2.0,304000.0
+Tunis,Appartement,126.0,2.0,3.0,130000.0
+Ariana,Appartement,59.0,1.0,1.0,130000.0
+Ben Arous,Villa,500.0,2.0,5.0,750000.0
+Tunis,Appartement,90.0,1.0,1.0,130000.0
+Nabeul,Appartement,126.0,1.0,1.0,130000.0
+Ariana,Appartement,128.0,1.0,3.0,350000.0
+Ben Arous,Appartement,70.0,2.0,2.0,130000.0
+Nabeul,Appartement,50.0,1.0,1.0,130000.0
+Tunis,Appartement,40.0,1.0,1.0,130000.0
+Nabeul,Appartement,125.0,3.0,3.0,360000.0
+Ariana,Appartement,200.0,1.0,3.0,130000.0
+Sousse,Appartement,108.0,1.0,2.0,130000.0
+Sousse,Appartement,70.0,1.0,1.0,130000.0
+Tunis,Appartement,97.0,1.0,1.0,330000.0
+Tunis,Appartement,55.0,1.0,3.0,130000.0
+Tunis,Appartement,105.0,1.0,2.0,459997.0
+Ben Arous,Appartement,90.0,1.0,2.0,150000.0
+Ben Arous,Appartement,150.0,1.0,3.0,290000.0
+Ariana,Appartement,120.0,1.0,2.0,130000.0
+Tunis,Appartement,110.0,1.0,2.0,220000.0
+Ben Arous,Appartement,114.0,1.0,2.0,190000.0
+Nabeul,Appartement,103.0,2.0,2.0,130000.0
+Tunis,Appartement,152.0,2.0,4.0,350000.0
+Bizerte,Appartement,93.0,1.0,2.0,170000.0
+Ben Arous,Appartement,112.0,1.0,3.0,175000.0
+Sousse,Appartement,120.0,1.0,3.0,400000.0
+Ariana,Appartement,80.0,1.0,2.0,130000.0
+Ben Arous,Appartement,115.0,1.0,2.0,190000.0
+Sfax,Appartement,99.0,1.0,2.0,130000.0
+Ben Arous,Appartement,110.0,1.0,2.0,150000.0
+Sfax,Appartement,86.0,1.0,3.0,130000.0
+Tunis,Appartement,150.0,1.0,2.0,2300000.0
+Tunis,Appartement,56.0,1.0,1.0,130000.0
+Ariana,Appartement,150.0,1.0,2.0,220000.0
+Tunis,Appartement,100.0,1.0,2.0,260000.0
+Ben Arous,Appartement,117.0,1.0,3.0,149998.0
+Monastir,Appartement,105.0,1.0,2.0,234000.0
+Sfax,Appartement,107.0,2.0,2.0,130000.0
+Tunis,Appartement,137.0,1.0,2.0,345000.0
+Tunis,Appartement,154.0,1.0,3.0,340000.0
+Ariana,Appartement,129.0,1.0,3.0,370000.0
+Ariana,Appartement,235.0,2.0,2.0,750000.0
+Ariana,Appartement,178.0,1.0,2.0,440000.0
+Ariana,Appartement,170.0,1.0,1.0,540000.0
+Sousse,Appartement,126.0,2.0,2.0,320000.0
+Ariana,Appartement,130.0,2.0,3.0,360000.0
+Tunis,Appartement,49.81,1.0,1.0,174335.0
+Sfax,Appartement,85.0,1.0,2.0,197000.0
+Mahdia,Appartement,100.0,1.0,2.0,130000.0
+Tunis,Appartement,110.0,1.0,4.0,330000.0
+Béja,Appartement,100.0,1.0,3.0,180000.0
+Sfax,Appartement,148.0,2.0,3.0,130000.0
+Kairouan,Villa,182.0,1.0,4.0,220000.0
+Kairouan,Appartement,127.0,1.0,2.0,254000.0
+Ariana,Villa,160.0,1.0,3.0,350000.0
+Ariana,Appartement,140.0,1.0,2.0,392000.0
+Ariana,Appartement,173.0,1.0,2.0,418600.0
+Ariana,Appartement,151.0,1.0,3.0,387800.0
+Ariana,Appartement,194.0,1.0,3.0,498400.0
+Tunis,Appartement,150.0,2.0,3.0,360000.0
+Tunis,Appartement,130.0,1.0,3.0,345000.0
+Bizerte,Appartement,72.0,1.0,2.0,130000.0
+Kairouan,Appartement,77.0,1.0,2.0,130000.0
+Ariana,Appartement,84.0,2.0,2.0,545000.0
+Tunis,Appartement,160.0,2.0,2.0,865000.0
+Sfax,Villa,150.0,2.0,2.0,145000.0
+Tunis,Appartement,180.0,2.0,4.0,470000.0
+Tunis,Appartement,85.0,1.0,2.0,220000.0
+Tunis,Appartement,150.0,2.0,2.0,350000.0
+Sousse,Appartement,62.0,1.0,1.0,165000.0
+Tunis,Appartement,117.0,1.0,2.0,269999.0
+Sousse,Appartement,134.0,2.0,2.0,1500000.0
+Tunis,Appartement,190.0,1.0,3.0,350000.0
+Sousse,Appartement,69.0,1.0,2.0,130000.0
+Bizerte,Appartement,140.0,2.0,1.0,220000.0
+Ben Arous,Appartement,110.0,1.0,2.0,130000.0
+Tunis,Appartement,132.0,2.0,2.0,450000.0
+Tunis,Appartement,140.0,2.0,3.0,299000.0
+Tunis,Appartement,156.0,2.0,3.0,478000.0
+Ariana,Appartement,143.0,2.0,2.0,404000.0
+Tunis,Appartement,163.0,2.0,3.0,734000.0
+Nabeul,Appartement,80.0,1.0,1.0,325000.0
+Tunis,Appartement,78.0,1.0,1.0,240000.0
+Tunis,Appartement,80.0,1.0,2.0,230000.0
+Sousse,Appartement,80.0,1.0,3.0,130000.0
+Ben Arous,Appartement,150.0,1.0,4.0,130000.0
+Ben Arous,Appartement,107.0,1.0,2.0,170000.0
+Sousse,Appartement,74.0,1.0,2.0,280000.0
+Sousse,Appartement,133.0,1.0,3.0,480000.0
+Nabeul,Appartement,98.0,1.0,2.0,130000.0
+Nabeul,Appartement,80.0,1.0,2.0,130000.0
+Sfax,Appartement,96.0,2.0,5.0,159999.0
+Ariana,Appartement,110.0,1.0,4.0,190000.0
+Tunis,Appartement,140.0,1.0,3.0,315000.0
+Tunis,Appartement,100.0,1.0,2.0,270000.0
+Ariana,Appartement,136.0,1.0,3.0,340000.0
+Ariana,Appartement,132.0,2.0,3.0,130000.0
+Tunis,Appartement,177.0,2.0,3.0,748000.0
+Ben Arous,Appartement,60.0,1.0,2.0,130000.0
+Tunis,Appartement,140.0,1.0,4.0,130000.0
+Sfax,Appartement,128.0,1.0,3.0,130000.0
+Ben Arous,Appartement,53.0,1.0,1.0,130000.0
+Nabeul,Appartement,152.0,1.0,3.0,130000.0
+Nabeul,Appartement,90.0,1.0,2.0,169998.0
+Ariana,Appartement,135.0,2.0,3.0,638000.0
+Ben Arous,Appartement,100.0,1.0,3.0,175000.0
+Nabeul,Appartement,233.0,2.0,2.0,130000.0
+Tunis,Appartement,74.0,1.0,1.0,320000.0
+Tunis,Appartement,70.0,1.0,3.0,130000.0
+Tunis,Appartement,120.0,1.0,3.0,520000.0
+Ariana,Appartement,135.0,2.0,3.0,130000.0
+Ben Arous,Villa,410.0,6.0,6.0,800000.0
+Ben Arous,Appartement,110.0,1.0,4.0,250000.0
+Ben Arous,Appartement,110.0,1.0,4.0,169000.0
+Sfax,Appartement,81.0,1.0,4.0,130000.0
+Ariana,Appartement,157.0,2.0,3.0,580000.0
+Sousse,Appartement,110.0,1.0,4.0,260000.0
+Bizerte,Appartement,200.0,1.0,1.0,250000.0
+Ben Arous,Villa,85.0,1.0,2.0,130000.0
+Sfax,Appartement,170.0,2.0,3.0,210000.0
+La Manouba,Villa,166.0,2.0,3.0,400000.0
+Nabeul,Appartement,103.0,1.0,2.0,382000.0
+Sousse,Appartement,180.0,2.0,3.0,130000.0
+Sousse,Appartement,110.0,1.0,2.0,2300000.0
+Sfax,Appartement,67.0,1.0,2.0,130000.0
+Bizerte,Appartement,50.0,1.0,1.0,130000.0
+Tunis,Appartement,70.0,1.0,1.0,260000.0
+Tunis,Appartement,167.0,2.0,3.0,634000.0
+Tunis,Appartement,152.0,2.0,2.0,850000.0
+Tunis,Appartement,188.0,2.0,3.0,750000.0
+Tunis,Appartement,160.0,2.0,3.0,854000.0
+Tunis,Appartement,95.0,1.0,2.0,380000.0
+Tunis,Appartement,110.0,1.0,3.0,839800.0
+Tunis,Appartement,135.0,1.0,2.0,540000.0
+Tunis,Appartement,101.0,2.0,2.0,548000.0
+Tunis,Appartement,101.0,1.0,2.0,459000.0
+Tunis,Appartement,134.0,2.0,3.0,459000.0
+Tunis,Appartement,116.0,1.0,2.0,345000.0
+Tunis,Appartement,183.0,2.0,3.0,1050000.0
+Ariana,Appartement,110.0,1.0,3.0,650000.0
+Tunis,Appartement,110.0,1.0,1.0,130000.0
+Tunis,Appartement,124.0,2.0,2.0,380000.0
+Sousse,Appartement,165.0,2.0,3.0,400000.0
+Sousse,Appartement,116.0,1.0,3.0,360000.0
+Monastir,Appartement,126.0,1.0,2.0,450000.0
+Ben Arous,Appartement,88.0,1.0,1.0,300000.0
+Nabeul,Appartement,83.0,1.0,2.0,290000.0
+Nabeul,Appartement,104.0,2.0,2.0,343000.0
+Nabeul,Appartement,73.7,1.0,2.0,272997.0
+Nabeul,Appartement,81.0,1.0,2.0,280998.0
+Nabeul,Appartement,62.0,1.0,1.0,236000.0
+Tunis,Appartement,140.0,1.0,3.0,300000.0
+Bizerte,Appartement,110.0,1.0,3.0,130000.0
+Tunis,Appartement,73.0,1.0,1.0,179999.0
+Ben Arous,Appartement,90.0,1.0,2.0,145000.0
+Tunis,Villa,128.0,1.0,3.0,130000.0
+Bizerte,Villa,82.0,1.0,2.0,200000.0
+Nabeul,Appartement,123.0,2.0,2.0,250000.0
+Sousse,Appartement,100.0,2.0,4.0,220000.0
+Sousse,Appartement,150.0,2.0,3.0,220000.0
+Ariana,Appartement,140.0,1.0,2.0,175000.0
+Tunis,Appartement,207.0,1.0,3.0,1090950.0
+Tunis,Appartement,134.0,1.0,3.0,340000.0
+Tunis,Appartement,65.0,1.0,1.0,190000.0
+Tunis,Appartement,187.0,2.0,2.0,504000.0
+Tunis,Appartement,78.0,1.0,1.0,180000.0
+Tunis,Appartement,75.0,1.0,1.0,260000.0
+Tunis,Appartement,109.0,1.0,2.0,220000.0
+Sfax,Villa,80.0,2.0,3.0,130000.0
+Sousse,Appartement,110.0,1.0,1.0,460000.0
+Nabeul,Appartement,102.0,1.0,2.0,130000.0
+Tunis,Appartement,69.0,1.0,2.0,165000.0
+Tunis,Appartement,326.0,2.0,4.0,780000.0
+Tunis,Appartement,134.0,2.0,3.0,290000.0
+Ben Arous,Appartement,75.0,1.0,1.0,130000.0
+Sousse,Appartement,90.0,1.0,2.0,200000.0
+Tunis,Appartement,108.0,1.0,3.0,130000.0
+Tunis,Appartement,118.0,1.0,2.0,330000.0
+Tunis,Appartement,266.0,3.0,3.0,760000.0
+Tunis,Appartement,150.0,2.0,2.0,980000.0
+Tunis,Appartement,111.0,1.0,1.0,720000.0
+Tunis,Appartement,107.0,2.0,3.0,300000.0
+Ben Arous,Appartement,110.0,2.0,3.0,130000.0
+Ariana,Appartement,105.0,1.0,1.0,200000.0
+Tunis,Appartement,98.0,1.0,2.0,275000.0
+Tunis,Appartement,118.0,1.0,2.0,291000.0
+Ariana,Appartement,129.0,2.0,2.0,130000.0
+Tunis,Appartement,70.0,1.0,1.0,130000.0
+Tunis,Appartement,100.0,2.0,2.0,270000.0
+Monastir,Appartement,100.0,2.0,3.0,300000.0
+Tunis,Appartement,116.0,1.0,1.0,285000.0
+Ben Arous,Appartement,143.0,3.0,3.0,300000.0
+Ben Arous,Appartement,110.0,1.0,3.0,250000.0
+Ben Arous,Appartement,129.0,1.0,4.0,240000.0
+Tunis,Appartement,101.0,1.0,4.0,130000.0
+Ariana,Appartement,106.0,1.0,3.0,345000.0
+Tunis,Villa,207.0,2.0,6.0,325000.0
+Ariana,Appartement,56.0,1.0,1.0,185000.0
+Mahdia,Appartement,105.0,1.0,2.0,234000.0
+Nabeul,Appartement,75.0,1.0,1.0,240000.0
+Nabeul,Appartement,62.0,1.0,1.0,235000.0
+Tunis,Appartement,70.0,1.0,2.0,230000.0
+Ben Arous,Appartement,68.0,1.0,1.0,130000.0
+Tunis,Appartement,58.0,1.0,1.0,130000.0
+Tunis,Appartement,236.0,2.0,4.0,1099999.0
+Tunis,Appartement,70.0,1.0,1.0,190000.0
+Tunis,Appartement,93.0,1.0,2.0,380000.0
+Tunis,Appartement,50.0,1.0,1.0,165000.0
+Ariana,Appartement,110.0,1.0,1.0,230000.0
+La Manouba,Appartement,78.0,1.0,3.0,130000.0
+Ariana,Appartement,62.0,1.0,2.0,130000.0
+Tunis,Appartement,143.0,2.0,3.0,365000.0
+Ben Arous,Appartement,130.0,1.0,2.0,200000.0
+Tunis,Appartement,85.0,1.0,2.0,480000.0
+Tunis,Appartement,70.0,1.0,1.0,230000.0
+Tunis,Appartement,228.0,2.0,3.0,780000.0
+Tunis,Appartement,123.0,1.0,2.0,130000.0
+Ariana,Appartement,210.0,1.0,3.0,130000.0
+Nabeul,Appartement,120.0,1.0,2.0,440000.0
+Tunis,Appartement,120.0,2.0,2.0,717000.0
+Nabeul,Appartement,90.0,1.0,2.0,170000.0
+Ariana,Appartement,64.0,1.0,1.0,190000.0
+Tunis,Villa,90.0,1.0,2.0,200000.0
+Nabeul,Appartement,134.0,1.0,2.0,175000.0
+Ben Arous,Appartement,104.0,1.0,2.0,250000.0
+Ben Arous,Appartement,109.0,2.0,3.0,240000.0
+Sfax,Appartement,110.0,1.0,3.0,130000.0
+Tunis,Appartement,74.0,1.0,1.0,230000.0
+Sousse,Appartement,72.0,1.0,3.0,180000.0
+Sousse,Appartement,100.0,1.0,3.0,130000.0
+Ariana,Appartement,99.0,1.0,2.0,190000.0
+Tunis,Appartement,64.0,1.0,1.0,250000.0
+Ariana,Appartement,135.0,2.0,4.0,130000.0
+Ariana,Appartement,163.0,2.0,3.0,640000.0
+Sfax,Appartement,86.0,1.0,2.0,130000.0
+Nabeul,Appartement,137.11,1.0,2.0,130000.0
+Tunis,Appartement,155.0,2.0,4.0,340000.0
+Ben Arous,Appartement,90.0,2.0,3.0,200000.0
+Béja,Appartement,100.0,1.0,4.0,130000.0
+Sousse,Appartement,117.0,1.0,2.0,130000.0
+Tunis,Villa,236.0,3.0,5.0,130000.0
+Sousse,Appartement,119.0,1.0,4.0,385000.0
+Tunis,Appartement,200.0,2.0,3.0,950000.0
+Monastir,Appartement,97.0,1.0,3.0,145000.0
+Ariana,Appartement,95.0,1.0,3.0,130000.0
+Nabeul,Appartement,100.0,1.0,2.0,150000.0
+Tunis,Appartement,178.0,1.0,3.0,500000.0
+Sfax,Appartement,80.0,1.0,4.0,130000.0
+Ariana,Appartement,112.0,1.0,2.0,255000.0
+Ben Arous,Appartement,135.0,2.0,3.0,240000.0
+Ben Arous,Appartement,110.0,1.0,4.0,130000.0
+Tunis,Appartement,127.0,1.0,2.0,490000.0
+Sousse,Appartement,80.0,1.0,2.0,140000.0
+Tunis,Appartement,187.0,3.0,3.0,720000.0
+Tunis,Appartement,216.0,1.0,3.0,270000.0
+Ben Arous,Appartement,145.0,2.0,3.0,312000.0
+Ben Arous,Appartement,110.0,1.0,2.0,2300000.0
+Ben Arous,Appartement,125.0,2.0,2.0,185000.0
+Ben Arous,Appartement,92.0,1.0,3.0,150000.0
+Nabeul,Appartement,171.0,2.0,3.0,130000.0
+Bizerte,Appartement,95.0,2.0,2.0,2300000.0
+Ben Arous,Appartement,95.0,1.0,3.0,270000.0
+Ariana,Appartement,120.0,2.0,2.0,320000.0
+Ben Arous,Appartement,72.0,1.0,2.0,200000.0
+Nabeul,Villa,169.0,2.0,2.0,130000.0
+Tunis,Appartement,70.0,1.0,1.0,238000.0
+Tunis,Appartement,200.0,2.0,3.0,360000.0
+Tunis,Appartement,70.0,1.0,3.0,215000.0
+Tunis,Appartement,120.0,1.0,3.0,350000.0
+Ariana,Appartement,120.0,1.0,2.0,225000.0
+Tunis,Appartement,200.0,1.0,4.0,400000.0
+La Manouba,Appartement,130.0,2.0,3.0,130000.0
+Nabeul,Appartement,85.0,1.0,2.0,179999.0
+Sousse,Appartement,90.0,1.0,2.0,237000.0
+Sousse,Appartement,130.0,2.0,3.0,340000.0
+Ben Arous,Appartement,110.0,1.0,3.0,155000.0
+Tunis,Appartement,85.0,1.0,3.0,130000.0
+Nabeul,Appartement,110.0,1.0,2.0,280000.0
+Sfax,Appartement,116.0,1.0,4.0,130000.0
+La Manouba,Appartement,148.0,1.0,3.0,245000.0
+Tunis,Appartement,121.0,1.0,2.0,470000.0
+Sousse,Appartement,370.0,2.0,4.0,1100000.0
+Ariana,Appartement,58.0,1.0,1.0,225000.0
+Tunis,Appartement,60.0,1.0,1.0,130000.0
+Ariana,Appartement,154.0,1.0,3.0,430000.0
+Tunis,Appartement,168.0,1.0,3.0,350000.0
+Ariana,Appartement,296.0,1.0,2.0,130000.0
+Ariana,Appartement,185.0,1.0,3.0,130000.0
+Ariana,Appartement,115.0,1.0,2.0,130000.0
+Sousse,Appartement,75.0,1.0,2.0,200000.0
+Tunis,Appartement,120.0,1.0,1.0,300000.0
+Tunis,Appartement,68.0,2.0,1.0,237999.0
+Tunis,Appartement,100.0,2.0,4.0,130000.0
+Tunis,Appartement,118.0,2.0,2.0,285000.0
+Ariana,Appartement,55.0,1.0,1.0,187000.0
+Sousse,Appartement,150.0,2.0,2.0,454000.0
+Sousse,Appartement,60.0,1.0,1.0,230000.0
+Sousse,Appartement,280.0,1.0,2.0,750000.0
+Ariana,Appartement,110.0,1.0,3.0,255000.0
+Nabeul,Appartement,66.0,1.0,1.0,250996.0
+Tunis,Appartement,87.0,1.0,3.0,240000.0
+Tunis,Appartement,110.0,1.0,4.0,230000.0
+Tunis,Appartement,130.0,1.0,4.0,420000.0
+Ariana,Appartement,150.0,2.0,3.0,380000.0
+Ariana,Appartement,124.0,1.0,2.0,230000.0
+Nabeul,Appartement,65.0,1.0,1.0,169000.0
+Ariana,Appartement,148.0,1.0,2.0,380000.0
+Tunis,Appartement,75.0,1.0,1.0,250000.0
+Tunis,Appartement,64.0,1.0,1.0,267000.0
+Ariana,Appartement,170.0,2.0,3.0,570000.0
+Nabeul,Appartement,104.0,1.0,2.0,340000.0
+Tunis,Appartement,95.0,1.0,3.0,170000.0
+Ben Arous,Appartement,137.0,2.0,3.0,297000.0
+Nabeul,Appartement,101.0,1.0,2.0,354000.0
+La Manouba,Appartement,140.0,1.0,3.0,275000.0
+Tunis,Appartement,95.0,1.0,2.0,250000.0
+Nabeul,Appartement,130.0,2.0,3.0,300000.0
+Tunis,Appartement,128.0,1.0,3.0,310000.0
+La Manouba,Appartement,120.0,2.0,3.0,240000.0
+Monastir,Appartement,50.0,1.0,2.0,130000.0
+Tunis,Appartement,116.0,1.0,2.0,288000.0
+Ben Arous,Appartement,75.0,1.0,1.0,180000.0
+Bizerte,Appartement,126.0,2.0,2.0,256000.0
+Bizerte,Appartement,67.0,1.0,1.0,130000.0
+Sousse,Appartement,55.0,1.0,1.0,270000.0
+Ariana,Appartement,114.0,1.0,3.0,295000.0
+Sfax,Villa,300.0,1.0,5.0,130000.0
+Nabeul,Appartement,40.0,1.0,1.0,130000.0
+Sousse,Appartement,67.0,1.0,2.0,175000.0
+Ariana,Appartement,80.0,2.0,3.0,130000.0
+Tunis,Appartement,126.0,2.0,4.0,238000.0
+Nabeul,Appartement,72.0,1.0,1.0,130000.0
+Nabeul,Appartement,90.0,1.0,2.0,600000.0
+Tunis,Appartement,73.0,1.0,2.0,130000.0
+Ben Arous,Appartement,115.0,2.0,3.0,270000.0
+Sousse,Appartement,90.0,1.0,3.0,270000.0
+Sousse,Appartement,60.0,1.0,1.0,280000.0
+Tunis,Appartement,95.0,1.0,2.0,180000.0
+Nabeul,Appartement,104.0,1.0,2.0,295000.0
+Sousse,Appartement,104.0,2.0,2.0,450000.0
+Sfax,Appartement,145.0,2.0,3.0,245000.0
+Sousse,Appartement,123.0,2.0,2.0,450000.0
+Ben Arous,Appartement,200.0,2.0,3.0,470000.0
+Ariana,Appartement,127.0,2.0,2.0,399998.0
+Tunis,Appartement,120.0,2.0,3.0,300000.0
+Nabeul,Appartement,85.0,1.0,2.0,260000.0
+Sousse,Appartement,50.0,1.0,1.0,200000.0
+Ben Arous,Appartement,170.0,2.0,3.0,240000.0
+Sousse,Appartement,110.0,1.0,3.0,330000.0
+Bizerte,Appartement,72.0,1.0,2.0,150000.0
+Ariana,Appartement,96.0,1.0,3.0,138000.0
+La Manouba,Appartement,85.0,1.0,2.0,130000.0
+Bizerte,Appartement,100.0,1.0,3.0,130000.0
+Mahdia,Appartement,60.0,1.0,1.0,130000.0
+Tunis,Appartement,77.0,1.0,4.0,200000.0
+Tunis,Appartement,300.0,2.0,5.0,130000.0
+Sousse,Appartement,137.0,2.0,2.0,130000.0
+Tunis,Appartement,80.0,2.0,3.0,130000.0
+Tunis,Appartement,146.0,2.0,3.0,598000.0
+Tunis,Appartement,49.0,1.0,1.0,174335.0
+Tunis,Appartement,51.0,1.0,1.0,181230.0
+Sfax,Appartement,130.0,2.0,3.0,189000.0
+Tunis,Appartement,95.0,1.0,2.0,155000.0
+Ben Arous,Appartement,110.0,2.0,2.0,290000.0
+Ben Arous,Appartement,127.0,1.0,2.0,280000.0
+Nabeul,Appartement,113.0,1.0,2.0,130000.0
+Nabeul,Appartement,90.0,1.0,1.0,130000.0
+Tunis,Appartement,175.0,2.0,3.0,590000.0
+Ariana,Appartement,90.0,1.0,4.0,230000.0
+Tunis,Appartement,70.0,1.0,2.0,235000.0
+Tunis,Appartement,98.0,2.0,2.0,330000.0
+Ariana,Appartement,155.0,2.0,3.0,130000.0
+Ben Arous,Appartement,80.0,1.0,3.0,140000.0
+Sfax,Appartement,110.0,1.0,4.0,130000.0
+Sfax,Appartement,120.0,1.0,3.0,130000.0
+Tunis,Appartement,55.0,1.0,1.0,165000.0
+Ariana,Appartement,151.0,1.0,3.0,300000.0
+Tunis,Appartement,100.0,2.0,3.0,250000.0
+Ariana,Appartement,140.0,2.0,2.0,350000.0
+Nabeul,Appartement,100.0,1.0,2.0,180000.0
+Nabeul,Appartement,100.0,2.0,2.0,180000.0
+Tunis,Appartement,90.0,1.0,2.0,210000.0
+Tunis,Appartement,90.0,1.0,1.0,245000.0
+Tunis,Appartement,100.0,1.0,4.0,164999.0
+Sfax,Appartement,150.0,2.0,3.0,130000.0
+Tunis,Appartement,100.0,1.0,2.0,225000.0
+Sousse,Appartement,83.0,1.0,2.0,130000.0
+Tunis,Appartement,180.0,3.0,3.0,130000.0
+Ariana,Appartement,110.0,1.0,3.0,320000.0
+Ben Arous,Appartement,120.0,1.0,3.0,150000.0
+Ariana,Appartement,115.0,1.0,3.0,230000.0
+Ben Arous,Appartement,110.0,2.0,4.0,340000.0
+Ben Arous,Appartement,128.0,1.0,3.0,265000.0
+Ariana,Appartement,98.0,1.0,2.0,130000.0
+Tunis,Appartement,135.0,2.0,5.0,260000.0
+Ben Arous,Appartement,95.0,1.0,3.0,250000.0
+Ben Arous,Appartement,90.0,1.0,2.0,180000.0
+Nabeul,Appartement,180.0,1.0,3.0,130000.0
+Ariana,Appartement,120.0,1.0,3.0,140000.0
+Ariana,Appartement,110.0,1.0,2.0,140000.0
+Ariana,Appartement,70.0,1.0,1.0,175000.0
+Ariana,Appartement,130.0,1.0,2.0,375000.0
+Ariana,Appartement,103.0,1.0,2.0,255000.0
+Ariana,Appartement,150.0,3.0,4.0,590000.0
+Ariana,Appartement,162.0,2.0,3.0,460000.0
+Nabeul,Villa,100.0,1.0,1.0,130000.0
+Ariana,Appartement,120.0,2.0,3.0,377000.0
+Gabès,Appartement,95.0,1.0,2.0,130000.0
+Tunis,Appartement,100.0,1.0,3.0,180000.0
+Ben Arous,Appartement,146.0,2.0,3.0,304000.0
+Ben Arous,Appartement,75.0,1.0,2.0,235000.0
+Tunis,Appartement,130.0,2.0,3.0,350000.0
+Zaghouan,Villa,360.0,1.0,2.0,130000.0
+Nabeul,Villa,350.0,1.0,4.0,400000.0
+Ben Arous,Appartement,100.0,1.0,3.0,205000.0
+Ariana,Appartement,120.0,1.0,2.0,270000.0
+Sousse,Appartement,100.0,1.0,2.0,475000.0
+Ariana,Appartement,98.0,1.0,2.0,292000.0
+Tunis,Appartement,115.0,1.0,2.0,290000.0
+Nabeul,Appartement,70.0,1.0,1.0,130000.0
+Ariana,Appartement,175.0,1.0,3.0,558000.0
+Ariana,Appartement,100.0,1.0,2.0,270000.0
+Tunis,Appartement,60.0,1.0,2.0,130000.0
+Nabeul,Appartement,60.0,1.0,2.0,130000.0
+Ben Arous,Appartement,75.0,1.0,2.0,145000.0
+Nabeul,Appartement,105.0,2.0,2.0,130000.0
+Ben Arous,Appartement,115.0,1.0,2.0,265000.0
+Ben Arous,Appartement,134.0,2.0,3.0,320000.0
+Ariana,Villa,386.0,2.0,4.0,130000.0
+Bizerte,Appartement,120.0,1.0,3.0,130000.0
+Sousse,Appartement,105.0,1.0,2.0,320000.0
+Sousse,Appartement,145.0,1.0,3.0,199000.0
+Tunis,Appartement,117.0,2.0,2.0,320000.0
+Tunis,Appartement,120.0,1.0,2.0,250000.0
+Tunis,Appartement,160.0,1.0,3.0,130000.0
+Nabeul,Appartement,140.0,2.0,3.0,580000.0
+La Manouba,Appartement,92.0,2.0,4.0,200000.0
+Ben Arous,Appartement,115.0,1.0,2.0,195000.0
+Ben Arous,Villa,350.0,2.0,6.0,580000.0
+Kairouan,Appartement,100.0,1.0,2.0,2300000.0
+Sousse,Appartement,80.0,1.0,2.0,395000.0
+Ben Arous,Appartement,98.0,2.0,3.0,130000.0
+Nabeul,Appartement,220.0,1.0,3.0,450000.0
+Nabeul,Appartement,62.0,1.0,1.0,240000.0
+Nabeul,Appartement,240.0,4.0,4.0,870000.0
+Nabeul,Appartement,145.0,2.0,3.0,420000.0
+Nabeul,Appartement,68.0,1.0,1.0,270000.0
+Sousse,Appartement,109.0,1.0,2.0,350000.0
+Nabeul,Appartement,90.0,1.0,2.0,130000.0
+Ariana,Appartement,115.0,2.0,4.0,370000.0
+Tunis,Appartement,168.0,1.0,2.0,550000.0
+Kairouan,Appartement,118.0,1.0,2.0,130000.0
+Tunis,Appartement,95.0,1.0,3.0,130000.0
+Ariana,Appartement,157.0,1.0,3.0,365000.0
+Tunis,Appartement,160.0,1.0,2.0,300000.0
+Tunis,Appartement,70.0,1.0,1.0,256000.0
+Ben Arous,Appartement,105.0,1.0,2.0,160000.0
+La Manouba,Appartement,71.0,1.0,2.0,130000.0
+Nabeul,Appartement,165.0,2.0,3.0,130000.0
+Nabeul,Appartement,126.0,2.0,2.0,378000.0
+Ariana,Appartement,94.0,1.0,2.0,130000.0
+Sousse,Appartement,50.0,1.0,1.0,280000.0
+Ariana,Appartement,125.0,1.0,2.0,130000.0
+Tunis,Appartement,95.0,1.0,2.0,157000.0
+Tunis,Appartement,150.0,2.0,3.0,130000.0
+Ariana,Appartement,68.0,1.0,1.0,317000.0
+Sousse,Appartement,70.0,1.0,1.0,238000.0
+Tunis,Appartement,84.0,1.0,1.0,210000.0
+Ariana,Appartement,65.0,1.0,1.0,273000.0
+Ariana,Appartement,114.0,2.0,1.0,385000.0
+Sousse,Appartement,134.0,2.0,2.0,455000.0
+Tunis,Appartement,110.0,1.0,3.0,300000.0
+Sfax,Villa,140.0,2.0,3.0,145000.0
+Tunis,Appartement,120.0,2.0,4.0,390000.0
+Tunis,Appartement,123.0,2.0,2.0,340000.0
+La Manouba,Appartement,115.0,1.0,4.0,130000.0
+Tunis,Appartement,80.0,1.0,2.0,245000.0
+Ariana,Appartement,156.0,2.0,3.0,360000.0
+Sousse,Appartement,132.0,1.0,2.0,298000.0
+Nabeul,Appartement,55.0,1.0,1.0,228000.0
+Sousse,Appartement,50.0,1.0,2.0,280000.0
+Tunis,Appartement,100.0,1.0,2.0,290000.0
+Tunis,Appartement,144.0,1.0,3.0,205000.0
+La Manouba,Appartement,102.0,2.0,2.0,260000.0
+Sousse,Appartement,99.0,1.0,2.0,290000.0
+Sousse,Appartement,116.0,1.0,2.0,330000.0
+Monastir,Appartement,100.0,1.0,2.0,195000.0
+Ariana,Appartement,270.0,2.0,3.0,130000.0
+Ben Arous,Appartement,122.0,1.0,4.0,160000.0
+Tunis,Appartement,145.0,1.0,5.0,253000.0
+Ben Arous,Appartement,80.0,1.0,2.0,185000.0
+Ariana,Appartement,110.0,1.0,4.0,750000.0
+Tunis,Appartement,163.0,2.0,3.0,130000.0
+Tunis,Appartement,100.0,1.0,3.0,150000.0
+Tunis,Appartement,56.0,1.0,1.0,178000.0
+Sousse,Appartement,110.0,1.0,4.0,345000.0
+Tunis,Appartement,111.0,1.0,2.0,275000.0
+Tunis,Appartement,152.0,1.0,4.0,550000.0
+Ariana,Appartement,192.0,2.0,3.0,550000.0
+Ariana,Appartement,100.0,1.0,2.0,230000.0
+Tunis,Appartement,147.0,2.0,3.0,335000.0
+Ariana,Appartement,121.0,1.0,2.0,300000.0
+Ariana,Appartement,125.0,2.0,3.0,330000.0
+Ariana,Appartement,110.0,1.0,1.0,260000.0
+Sfax,Appartement,124.0,1.0,3.0,130000.0
+Nabeul,Appartement,95.0,1.0,1.0,130000.0
+Tunis,Appartement,72.0,1.0,1.0,207000.0
+Tunis,Appartement,107.0,1.0,3.0,350000.0
+Ariana,Appartement,102.0,1.0,1.0,130000.0
+Sousse,Appartement,100.0,1.0,2.0,190000.0
+Bizerte,Appartement,85.0,1.0,2.0,149000.0
+Nabeul,Appartement,95.0,1.0,2.0,130000.0
+Tunis,Appartement,158.0,2.0,4.0,330000.0
+Tunis,Appartement,90.0,1.0,2.0,220000.0
+Ariana,Appartement,97.0,1.0,3.0,130000.0
+Tunis,Appartement,145.0,2.0,4.0,355000.0
+Tunis,Appartement,298.0,2.0,3.0,464998.0
+Ariana,Appartement,100.0,2.0,3.0,240000.0
+Tunis,Appartement,153.0,2.0,1.0,585000.0
+Tunis,Appartement,145.0,2.0,3.0,365000.0
+Nabeul,Appartement,122.0,1.0,3.0,130000.0
+Ariana,Appartement,114.0,1.0,2.0,250000.0
+Béja,Appartement,135.0,2.0,3.0,240000.0
+Sousse,Appartement,141.0,2.0,2.0,352000.0
+Nabeul,Appartement,200.0,2.0,2.0,900000.0
+Tunis,Appartement,1000.0,1.0,1.0,650000.0
+Ben Arous,Appartement,125.0,1.0,2.0,175000.0
+Ben Arous,Appartement,105.0,2.0,2.0,210000.0
+Ben Arous,Appartement,125.0,2.0,3.0,240000.0
+Sousse,Appartement,161.0,1.0,3.0,500000.0
+Sousse,Appartement,75.0,1.0,1.0,240000.0
+Sfax,Appartement,90.0,1.0,3.0,130000.0
+Monastir,Appartement,116.0,1.0,4.0,135000.0
+Sousse,Appartement,200.0,1.0,4.0,490000.0
+Sousse,Appartement,111.0,2.0,3.0,450000.0
+Nabeul,Appartement,135.0,3.0,3.0,130000.0
+Tunis,Villa,98.0,1.0,2.0,185000.0
+Tunis,Appartement,50.0,1.0,1.0,180000.0
+Tunis,Appartement,130.0,1.0,2.0,400000.0
+Ben Arous,Villa,320.0,2.0,4.0,380000.0
+La Manouba,Appartement,127.0,1.0,3.0,230000.0
+Nabeul,Appartement,120.0,2.0,1.0,275000.0
+Nabeul,Appartement,74.0,1.0,1.0,250000.0
+Tunis,Appartement,80.0,1.0,1.0,270000.0
+Ariana,Appartement,46.0,1.0,1.0,130000.0
+Tunis,Appartement,74.0,2.0,3.0,130000.0
+Ariana,Appartement,60.0,1.0,1.0,188000.0
+Ariana,Appartement,130.0,1.0,3.0,320000.0
+Ariana,Appartement,175.0,3.0,4.0,360000.0
+Tunis,Appartement,117.0,2.0,2.0,130000.0
+Tunis,Villa,200.0,1.0,2.0,380000.0
+Tunis,Villa,192.0,1.0,3.0,350000.0
+Sfax,Appartement,90.0,1.0,4.0,130000.0
+Tunis,Villa,150.0,1.0,3.0,350000.0
+Tunis,Appartement,200.0,1.0,3.0,130000.0
+Tunis,Appartement,85.0,1.0,2.0,130000.0
+Sousse,Appartement,121.0,1.0,2.0,500000.0
+Sousse,Appartement,50.0,1.0,1.0,130000.0
+Sousse,Appartement,100.0,1.0,2.0,140000.0
+Tunis,Appartement,83.0,1.0,2.0,450000.0
+Tunis,Appartement,126.0,1.0,2.0,669000.0
+Ariana,Appartement,200.0,1.0,4.0,130000.0
+Tunis,Appartement,167.0,1.0,3.0,520000.0
+Tunis,Appartement,125.0,1.0,2.0,299000.0
+Sousse,Appartement,50.0,1.0,1.0,155000.0
+Sousse,Appartement,60.0,1.0,1.0,240000.0
+Tunis,Appartement,110.0,1.0,2.0,300000.0
+Sousse,Appartement,100.0,1.0,2.0,130000.0
+Sousse,Appartement,112.0,1.0,2.0,130000.0
+Sousse,Appartement,75.0,1.0,3.0,130000.0
+Tunis,Appartement,110.0,1.0,3.0,310000.0
+Tunis,Appartement,176.0,2.0,3.0,470000.0
+Ben Arous,Appartement,73.0,1.0,2.0,200000.0
+Tunis,Appartement,93.0,1.0,2.0,278000.0
+Sousse,Appartement,150.0,1.0,2.0,436000.0
+Tunis,Appartement,120.0,1.0,3.0,160000.0
+Nabeul,Appartement,70.0,1.0,2.0,130000.0
+Nabeul,Appartement,74.0,1.0,1.0,130000.0
+Tunis,Appartement,107.0,2.0,3.0,360000.0
+Sousse,Appartement,238.0,1.0,1.0,650000.0
+Ben Arous,Appartement,94.0,1.0,3.0,130000.0
+Sousse,Appartement,150.0,1.0,3.0,477000.0
+Ben Arous,Appartement,74.0,1.0,2.0,190000.0
+Tunis,Appartement,63.0,1.0,1.0,230000.0
+Ariana,Appartement,155.0,1.0,3.0,520000.0
+Nabeul,Appartement,127.0,2.0,2.0,450000.0
+Ariana,Appartement,63.0,1.0,1.0,238000.0
+Ariana,Appartement,132.0,2.0,2.0,385000.0
+Ben Arous,Appartement,62.0,1.0,1.0,130000.0
+Nabeul,Appartement,62.0,1.0,1.0,130000.0
+Tunis,Appartement,65.0,1.0,1.0,150000.0
+Tunis,Appartement,127.0,2.0,2.0,260000.0
+Nabeul,Appartement,117.0,1.0,2.0,490000.0
+Sousse,Appartement,550.0,6.0,3.0,600000.0
+Tunis,Appartement,51.0,1.0,1.0,185000.0
+Ariana,Appartement,54.0,1.0,1.0,180000.0
+Tunis,Appartement,189.0,2.0,3.0,795000.0
+Nabeul,Appartement,160.0,2.0,3.0,470000.0
+Nabeul,Appartement,116.0,2.0,2.0,363000.0
+Tunis,Appartement,68.0,2.0,2.0,238000.0
+Nabeul,Appartement,88.0,1.0,2.0,309000.0
+Tunis,Appartement,153.0,2.0,4.0,530000.0
+Tunis,Appartement,224.0,3.0,3.0,865000.0
+Tunis,Appartement,193.0,3.0,3.0,850000.0
+Tunis,Appartement,125.0,1.0,3.0,380000.0
+Tunis,Appartement,118.0,2.0,3.0,285000.0
+Ariana,Appartement,98.0,1.0,2.0,290000.0
+Nabeul,Appartement,101.0,1.0,2.0,180000.0
+Ariana,Appartement,144.0,1.0,3.0,130000.0
+Tunis,Appartement,136.0,2.0,3.0,290000.0
+Ariana,Appartement,40.0,1.0,1.0,130000.0
+Tunis,Appartement,52.0,1.0,1.0,130000.0
+Tunis,Appartement,100.0,1.0,4.0,130000.0
+Tunis,Appartement,117.0,1.0,2.0,360000.0
+Tunis,Appartement,100.0,1.0,2.0,250000.0
+Tunis,Appartement,117.0,2.0,2.0,400000.0
+Tunis,Appartement,91.0,1.0,2.0,248400.0
+Ariana,Appartement,70.0,1.0,1.0,185000.0
+Ariana,Appartement,110.0,1.0,2.0,190000.0
+Nabeul,Appartement,95.0,2.0,2.0,300000.0
+Ben Arous,Appartement,100.0,2.0,3.0,190000.0
+Ben Arous,Appartement,124.0,2.0,3.0,320000.0
+Ariana,Appartement,126.0,1.0,2.0,370000.0
+Tunis,Appartement,118.0,1.0,2.0,370000.0
+Sousse,Villa,82.0,2.0,1.0,275000.0
+La Manouba,Appartement,130.0,1.0,4.0,130000.0
+Nabeul,Appartement,117.0,1.0,3.0,130000.0
+Ben Arous,Appartement,90.0,1.0,2.0,165000.0
+Ben Arous,Appartement,87.0,1.0,2.0,130000.0
+Ariana,Appartement,65.0,1.0,1.0,250000.0
+Ariana,Appartement,124.0,2.0,2.0,130000.0
+Ariana,Appartement,89.5,1.0,1.0,300000.0
+Tunis,Appartement,117.0,2.0,4.0,190000.0
+Ariana,Appartement,138.0,2.0,1.0,310000.0
+Ariana,Appartement,110.0,2.0,4.0,250000.0
+Tunis,Appartement,205.0,1.0,2.0,1076250.0
+Ariana,Appartement,107.0,2.0,3.0,280000.0
+Ariana,Appartement,75.0,1.0,3.0,150000.0
+Tunis,Appartement,150.0,2.0,3.0,285000.0
+Nabeul,Appartement,160.0,3.0,3.0,130000.0
+La Manouba,Appartement,45.0,1.0,1.0,150000.0
+Ben Arous,Appartement,100.0,1.0,3.0,250000.0
+Nabeul,Appartement,85.0,1.0,2.0,299000.0
+Tunis,Appartement,100.0,1.0,2.0,255000.0
+Ariana,Appartement,55.0,1.0,1.0,170000.0
+Sousse,Appartement,100.0,1.0,1.0,165000.0
+Nabeul,Appartement,136.0,1.0,2.0,130000.0
+Tunis,Appartement,93.0,1.0,3.0,140000.0
+Ben Arous,Appartement,74.0,1.0,2.0,130000.0
+Ariana,Appartement,66.0,1.0,2.0,135000.0
+Tunis,Appartement,125.0,1.0,3.0,200000.0
+Sfax,Appartement,108.0,1.0,2.0,130000.0
+Nabeul,Appartement,160.0,1.0,2.0,130000.0
+Tunis,Appartement,127.0,1.0,2.0,365000.0
+Tunis,Appartement,90.0,1.0,2.0,150000.0
+Tunis,Appartement,148.0,2.0,3.0,255000.0
+Sousse,Appartement,400.0,2.0,2.0,680000.0
+Sousse,Appartement,137.0,2.0,3.0,565000.0
+Ariana,Appartement,160.0,2.0,4.0,130000.0
+Sfax,Appartement,110.0,2.0,3.0,140000.0
+Tunis,Appartement,223.0,3.0,3.0,750000.0
+Ben Arous,Appartement,110.0,2.0,4.0,130000.0
+Sousse,Villa,350.0,2.0,8.0,200000.0
+Tunis,Appartement,130.0,2.0,3.0,730000.0
+Nabeul,Appartement,135.0,1.0,2.0,130000.0
+Ariana,Appartement,147.0,2.0,2.0,440000.0
+Ariana,Appartement,112.0,1.0,2.0,130000.0
+Nabeul,Appartement,105.0,1.0,2.0,210000.0
+Nabeul,Appartement,127.0,1.0,2.0,165000.0
+Tunis,Villa,76.0,1.0,2.0,160000.0
+Ariana,Appartement,110.0,1.0,2.0,275000.0
+Nabeul,Appartement,165.0,2.0,1.0,130000.0
+Sousse,Appartement,40.0,1.0,1.0,145000.0
+Tunis,Appartement,125.0,1.0,3.0,370000.0
+Tunis,Appartement,168.0,2.0,2.0,340000.0
+Ariana,Appartement,180.0,1.0,2.0,599999.0
+La Manouba,Appartement,105.0,2.0,2.0,210000.0
+Ben Arous,Appartement,97.0,1.0,2.0,130000.0
+Tunis,Appartement,158.0,3.0,3.0,130000.0
+Sousse,Appartement,130.0,2.0,2.0,360000.0
+Sousse,Appartement,40.0,1.0,1.0,190000.0
+Ben Arous,Appartement,136.0,2.0,2.0,130000.0
