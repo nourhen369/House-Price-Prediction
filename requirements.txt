@@ -5,3 +5,5 @@ numpy
 pydantic
 streamlit
 requests
+xgboost
+scikit-learn
