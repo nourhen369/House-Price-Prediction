@@ -5,7 +5,7 @@ import pandas as pd
 from House import House
 
 # load model
-with open("model/xgboost_model.pkl", "rb") as f:
+with open("./model/xgboost_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 app = FastAPI()

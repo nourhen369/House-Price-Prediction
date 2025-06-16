@@ -3,3 +3,4 @@ model/*.log
 model/*.pkl
 model/data/*.csv
 scripts.txt
+__pycache__

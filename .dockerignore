@@ -1,8 +1,0 @@
-infra/*
-__pycache__
-model/data/*
-model/*.ipynb
-model/logs.log
-scripts.txt
-README.md
-.git*

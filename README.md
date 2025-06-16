@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction in Tunisia
 
-This project focuses on building a machine learning pipeline to predict real estate prices in Tunisia using data scraped from [Tayara.tn](https://www.tayara.tn). The goal is to estimate property prices (in TND) based on features such as property type, surface area, number of bedrooms and bathrooms, and location.
+This project focuses on building a machine learning pipeline and deployment stack to predict real estate prices in Tunisia using data scraped from [Tayara.tn](https://www.tayara.tn). The goal is to estimate property prices (in TND) based on features such as property type, surface area, number of bedrooms and bathrooms, and location.
 
 ---
 
@@ -41,7 +41,7 @@ Several new features were engineered to improve model performance:
 - `Log_Area` and `Log_Price` (log-transformed features to handle skewed distributions)
 - `Bathrooms_per_Bedroom` (ratio feature)
 
-⚠️ Features derived directly from the target, such as `Price_per_m2`, were excluded to prevent data leakage.
+Features derived directly from the target, such as `Price_per_m2`, were excluded to prevent data leakage.
 
 ---
 
@@ -59,15 +59,40 @@ The machine learning pipeline was built using **PyCaret**, which automates:
 📎 _Pipeline overview:_  
 ![Pipeline](data/pipeline_plot.png)
 
+Final model was built using **XGBoost** and **scikit-learn**, independently of PyCaret and persisted with `joblib`.
+
 ---
 
-## 💻 Tech Stack
+## 🚀 Deployment
 
-- Python 3.9+
-- ydata_profiling (ProfileReport)
-- BeautifulSoup 4
-- Pandas & NumPy
-- Scikit-learn
-- PyCaret (regression module)
+- **API:** FastAPI serves the trained model for prediction.
+- **Web Interface:** Streamlit provides a simple user interface to input features and get predictions.
+- **Containerization:** Docker is used to containerize the application for easy deployment.
+- **Cloud:** Infrastructure as Code (IaC) with Terraform and Ansible to provision and configure an Azure VM, install Docker, and deploy the container.
 
+---
+
+## 🗂️ Project Structure
+
+```
+.
+├── app/
+│   ├── main.py         # FastAPI backend
+│   ├── front.py        # Streamlit frontend
+│   ├── House.py        # House data model
+├── model/
+│   ├── data/           # Contains visualisations before and after cleaning
+│   ├── 1-scrapping.ipynb         
+│   ├── 2-viz-and-cleaning.ipynb         
+│   ├── 3-modeling.ipynb         
+│   └── xgboost_model.pkl
+├── infra/
+│   ├── main.tf         # Terraform configuration
+│   ├── deploy.yml      # Ansible playbook
+│   └── inventory.ini   # Ansible inventory
+├── requirements.txt
+├── Dockerfile
+├── start.sh
+└── README.md
+```
 ---
