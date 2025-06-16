@@ -1,0 +1,64 @@
+- name: Déployer l'application Docker sur VM Azure
+  hosts: web
+  become: true
+
+  tasks:
+    - name: Mettre à jour les paquets apt
+      apt:
+        update_cache: yes
+
+    - name: Installer les prérequis
+      apt:
+        name: 
+          - apt-transport-https
+          - ca-certificates
+          - curl
+          - software-properties-common
+        state: present
+
+    - name: Ajouter la clé GPG officielle Docker
+      apt_key:
+        url: https://download.docker.com/linux/ubuntu/gpg
+        state: present
+
+    - name: Ajouter le dépôt Docker
+      apt_repository:
+        repo: deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable
+        state: present
+
+    - name: Installer Docker CE
+      apt:
+        name: docker-ce
+        state: present
+        update_cache: yes
+
+    - name: S'assurer que le service Docker est démarré
+      service:
+        name: docker
+        state: started
+        enabled: true
+
+    - name: Ajouter l'utilisateur azureuser au groupe docker
+      user:
+        name: azureuser
+        groups: docker
+        append: yes
+
+    - name: Télécharger l'image Docker de l'application depuis Docker Hub
+      docker_image:
+        name: noukh/house-app
+        source: pull
+
+    - name: Lancer le conteneur Docker
+      docker_container:
+        name: house-app
+        image: noukh/house-app:latest
+        state: started
+        restart_policy: always
+        ports:
+          - "8000:8000"
+          - "8501:8501"
+
+    - name: Vérifier que le conteneur est en cours d'exécution
+      command: docker ps
+      register: docker_ps_output

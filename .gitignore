@@ -1,5 +1,5 @@
-infra/terraform*
-infra/.terraform*
-model/logs.log
-model/xgboost_model.pkl
+infra/*terraform*
+model/*.log
+model/*.pkl
 model/data/*.csv
+scripts.txt
