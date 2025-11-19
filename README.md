@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction in Tunisia
 
-This project focuses on building a machine learning pipeline and deployment stack to predict real estate prices in Tunisia using data scraped from [Tayara.tn](https://www.tayara.tn). The goal is to estimate property prices (in TND) based on features such as property type, surface area, number of bedrooms and bathrooms, and location.
+This project focuses on building a machine learning pipeline to predict real estate prices in Tunisia using data scraped from [Tayara.tn](https://www.tayara.tn). The goal is to estimate property prices (in TND) based on features such as property type, surface area, number of bedrooms and bathrooms, and location.
 
 ---
 
@@ -56,9 +56,6 @@ The machine learning pipeline was built using **PyCaret**, which automates:
 - Feature selection
 - Model training and evaluation
 
-📎 _Pipeline overview:_  
-![Pipeline](data/pipeline_plot.png)
-
 Final model was built using **XGBoost** and **scikit-learn**, independently of PyCaret and persisted with `joblib`.
 
 ---
@@ -68,8 +65,6 @@ Final model was built using **XGBoost** and **scikit-learn**, independently of P
 - **API:** FastAPI serves the trained model for prediction.
 - **Web Interface:** Streamlit provides a simple user interface to input features and get predictions.
 - **Containerization:** Docker is used to containerize the application for easy deployment.
-- **Cloud:** Infrastructure as Code (IaC) with Terraform and Ansible to provision and configure an Azure VM, install Docker, and deploy the container.
-
 ---
 
 ## 🗂️ Project Structure
@@ -86,10 +81,6 @@ Final model was built using **XGBoost** and **scikit-learn**, independently of P
 │   ├── 2-viz-and-cleaning.ipynb         
 │   ├── 3-modeling.ipynb         
 │   └── xgboost_model.pkl
-├── infra/
-│   ├── main.tf         # Terraform configuration
-│   ├── deploy.yml      # Ansible playbook
-│   └── inventory.ini   # Ansible inventory
 ├── requirements.txt
 ├── Dockerfile
 ├── start.sh
